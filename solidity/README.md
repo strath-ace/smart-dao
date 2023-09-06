@@ -2,8 +2,9 @@
 
 ## Setup
 
-- [Install prerequisites](instructions/install_req.md)
-- Clone Repository
+1. [Install prerequisites](install_req.md)
+2. Clone Repository
+3. Duplicate `credentials.template.json` as `credentials.json` and fill in details.
 
 
 ## Connect Local Network to metamask (or other key wallet)
@@ -13,11 +14,11 @@ The network details of the local network for metamask are:
 ```
 Network Name: Whatever
 RPC URL: http://127.0.0.1:8545
-Chain ID 31337
+Chain ID: 31337
 Currency Symbol: Whatever
 ```
 
-The default asymettric keys for hardhat local testnet are [here](instructions/default_keys.md)
+The default asymettric keys for hardhat local testnet are [here](default_keys.md)
 
 ## Running a Hardhat Node
 
