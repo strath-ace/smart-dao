@@ -1,0 +1,12 @@
+node_modules
+*.lock
+*-lock.json
+
+# Cached dapp files
+cache
+artifacts
+dapp
+
+credentials.json
+wallets-example.json
+credentials.other.json

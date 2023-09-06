@@ -1,0 +1,16 @@
+{
+  "name": "Solidity-Library",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.2",
+    "hardhat": "^2.17.2",
+    "hardhat-gas-reporter": "^1.0.9"
+  }
+}
