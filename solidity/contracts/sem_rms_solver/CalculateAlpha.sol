@@ -15,6 +15,7 @@ import "hardhat/console.sol";
 contract CalculateAlpha {
 
     int INPUT_MULTIPLIER = 1e18;
+    uint PRECISION = 18;
 
     // Convert 2d string array to 2d int256 array
     function array2dStringToInt (string[][] memory s) 
@@ -190,6 +191,237 @@ contract CalculateAlpha {
             join_array_[i] = temp;
         }
         return join_array_;
+    }
+
+    // Removes maximum number of trailing zeros without effecting ratios across a
+    function scale_array_small (int256[][] memory a) 
+        public
+        view
+        returns (int256[][] memory)
+    {
+        // Remove any random numbers at end of number
+        for (uint y = 0; y < a.length; y++) {
+            for (uint x = 0; x < a[0].length; x++) {
+                a[y][x] = a[y][x] / 1000;
+            }
+        }
+        // Remove as many trailing zeros as possible
+        for (uint y = 0; y < a.length; y++) {
+            int256 min_mult = 1e18;
+            for (uint x = 0; x < a[0].length; x++) {
+                int256 mult = 1;
+                while (a[y][x] % mult == 0) {
+                    mult = mult * 10;
+                }
+                if (mult < min_mult) {
+                    min_mult = mult;
+                }
+            }
+            for (uint x = 0; x < a[0].length; x++) {
+                a[y][x] = a[y][x]/min_mult;
+            }
+        }
+        a[0][0] = a[0][0] + 1;
+        return a;
+    }
+
+    /// @notice Inverts a given matrix `a` using Gaussian elimination.
+    /// @param a The coefficient matrix to be inverted.
+    /// @return An array containing the solution vector.
+    function solve_matrix(int256[][] memory a) 
+        public 
+        view 
+        returns (int256[] memory) 
+    {  
+        // a should be input as follows with any required dimensions
+        //  | a, a, a, b |
+        //  | a, a, a, b |
+        //  | a, a, a, b |
+        //  | a, a, a, b |
+        int256[][] memory a_triangle = _upper_triangular(a);
+        int256[] memory x = _back_substitution(a_triangle);
+        return x;        
+    }
+
+
+    /// @notice Converts a given matrix `a` into upper triangular form using Gaussian elimination.
+    /// @param a The matrix to be transformed.
+    /// @return The matrix in upper triangular form.
+    function _upper_triangular(int256[][] memory a)
+        public 
+        view 
+        returns (int256[][] memory) 
+    {
+        // Gets dimensions of array
+        uint k = a.length;
+        uint k2 = a[0].length;
+        // Gets matrix in Echelon Form
+        // z - determines the diagnol
+        // y - determines the row that the operation is being done on
+        // x - determines the column in the row of the operation
+        for (uint z = 0; z < k-1; z++) {
+            int256[][] memory a2 = new int256[][](k);
+            int mul_1 = a[z][z];
+            require(mul_1 != 0, "Input matrix is singular");
+            // Loop through rows
+            for (uint y = 0; y < k; y++) {
+                int256[] memory a2_temp = new int256[](k2);
+                if (y <= z) {a2_temp = a[y];}
+                else {
+                    // Loop through columns
+                    int mul_2 = a[y][z];
+                    require(mul_2 != 0, "Input matrix is singular");
+                    for (uint x = 0; x < k2; x++) {
+                        // Guassian Elimination
+                        a2_temp[x] = a[y][x]*mul_1 - a[z][x]*mul_2;
+                    }
+                }
+                a2[y] = a2_temp;  
+            }
+            a = a2;
+        }
+        return a;
+    }
+
+
+    /// @notice Solves a system of equations using backward substitution after Gaussian elimination.
+    /// @param a The upper triangular matrix representing the system of equations.
+    /// @return An array containing the solution vector.
+    function _back_substitution(int256[][] memory a)
+        public
+        view
+        returns (int256[] memory)
+    {
+        uint k = a.length;
+        uint k2 = a[0].length;
+        // Scales all values to PRECISION
+        a = scale_array(a);
+        int256[] memory out = new int256[](k);
+        int256 d;
+        for (uint y = k-1; y >= 0; y--) {
+            d = scale(a[y][k2-1], PRECISION);
+
+            // Sum up subtraction of already found values
+            for (uint x = k-1; x > y; x-- ) {
+                d = d - (a[y][x]*out[x]);
+            }
+            // Divide by coefficient of the value to find for that specific row
+            out[y] = divide(d, a[y][y]);
+            // End as need to include zero but uint loop cant hit -1
+            if (y == 0) {
+                break;
+            }
+        }
+        return out;
+    }
+
+    /// @notice Divides a number by another number allowing for decimal division
+    /// @param a Numerator
+    /// @param b Divisor
+    /// @return The a divided by b
+    function divide (int256 a, int256 b) 
+        public
+        view
+        returns(int256)
+    {  
+        int256 a_scaled = scale(a, PRECISION);        
+        int256 out = (a_scaled-(a_scaled % b))/b;
+        return descale(out, PRECISION);
+    }
+
+    /// @notice Finds the log10 of a number, ignores negatives
+    /// @param x the number to find the log10 of
+    /// @return The log10 of x
+    function log10 (int256 x) 
+        public
+        pure
+        returns(uint)
+    {
+        // Makes number positive no matter the input
+        if (x < 0) {
+            x = x * -1;
+        }
+        uint counter = 0;
+        // Counts the number of times it can divide by 10 
+        // before the number disappears due to integers only
+        while (x/10 > 0) {
+            counter++;
+            x = x/10;
+        }
+        return counter;
+    }
+
+    /// @notice Scales a 2d array so that each row has a maximum precision of PRECISION
+    /// @param a the array to scale
+    /// @return The input array scaled
+    function scale_array (int256[][] memory a) 
+        public
+        view
+        returns (int256[][] memory)
+    {
+        uint max_log;
+        for (uint y = 0; y < a.length; y++) {
+            // Finds the maximum log value for each row
+            max_log = 0;
+            for (uint x = 0; x < a[0].length; x++) {
+                if (log10(a[y][x]) > max_log) {
+                    max_log = log10(a[y][x]);
+                }
+            }
+            // Scales to make the maximum == PRECISION
+            for (uint x = 0; x < a[0].length; x++) {
+                if (max_log < PRECISION) {
+                    a[y][x] = scale(a[y][x], PRECISION-max_log);
+                }
+                else if (max_log > PRECISION) {
+                    a[y][x] = descale(a[y][x], max_log-PRECISION);
+                }
+                
+            }                      
+        } 
+        return a;
+    }
+
+    /// @notice Scales a number by an exponent
+    /// @param x the number to scale
+    /// @param scaler the exponent
+    /// @return The value of x*(10^scaler)
+    function scale (int256 x, uint256 scaler) 
+        public
+        pure
+        returns (int256)
+    {
+        int256 base = 10;
+        x = x*(base**scaler);
+        return x;
+    }
+
+    /// @notice Reduces/Descales a number by an exponent
+    /// @param x the number to reduce
+    /// @param scaler the exponent
+    /// @return The value of x/(10^scaler)
+    function descale (int256 x, uint256 scaler) 
+        public
+        pure
+        returns (int256)
+    {
+        int256 base = 10;
+        x = x/(base**scaler);
+        return x;
+    }
+
+    // Scale values so _a sums to 1 { a[i]/sum(a) }
+    function _array_sum_to_one (int256[] memory _a) 
+        public
+        view
+        returns (int256[] memory)
+    {
+        int256 sum = _calc_sum_1d_to_0d(_a);
+        int256[] memory a_ = new int256[](_a.length);
+        for (uint x = 0; x < _a.length; x++) {
+            a_[x] = divide(scale(_a[x], PRECISION), sum);
+        }
+        return a_;
     }
 
     function _compute_alpha (string[][] memory _s_mat, string[] memory _s_b) 

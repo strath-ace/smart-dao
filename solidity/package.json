@@ -1,5 +1,5 @@
 {
-  "name": "Solidity-Library",
+  "name": "solidity-library",
   "version": "1.0.0",
   "description": "",
   "main": "",
@@ -9,8 +9,10 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@nomicfoundation/hardhat-toolbox": "^2.0.2",
-    "hardhat": "^2.17.2",
-    "hardhat-gas-reporter": "^1.0.9"
+    "@nomicfoundation/hardhat-toolbox": "^1.0.2",
+    "hardhat": "^2.14.0"
+  },
+  "dependencies": {
+    "ethers": "5.4"
   }
 }

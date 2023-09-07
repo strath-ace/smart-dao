@@ -11,12 +11,14 @@ module.exports = {
 
   solidity: "0.8.20",
 
-  defaultNetwork: "auto",
+  // defaultNetwork: "auto",
   
   networks: {
     auto: {
       url: creds.url,
       accounts: [creds.private_key]
+    },
+    hardhat: {
     },
     localhost: {
       url: "http://127.0.0.1:8545",
