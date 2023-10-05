@@ -32,9 +32,7 @@ The default asymettric keys for hardhat local testnet are [here](default_keys.md
 npm install
 ```
 
-3. Navigate into solidity/src/
-
-4. Deploy hardhat node
+3. Deploy hardhat node
 
 ```bash
 npx hardhat node
@@ -44,6 +42,7 @@ npx hardhat node
 
 ```bash
 npx hardhat run scripts/.....
+npx hardhat test
 REPORT_GAS=true npx hardhat test
 ```
 

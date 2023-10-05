@@ -2,6 +2,11 @@ const { time, loadFixture, } = require("@nomicfoundation/hardhat-network-helpers
 const { anyValue } = require("@nomicfoundation/hardhat-chai-matchers/withArgs");
 const { expect } = require("chai");
 
+// WIP
+// Test near misses
+// Test just in
+// Test far misses
+
 const S_MATRIX_TEST1 = [
     [1, 0.25613333, 0.05081417],
     [0.33729138, 1, 0.03541658],
@@ -42,7 +47,7 @@ describe("EO Data Consensus Contracts", function () {
     async function deployValidateAlpha() {
         // Contracts are deployed using the first signer/account by default
         const [owner, acc_b, acc_c, acc_d] = await ethers.getSigners();
-        const Contract = await ethers.getContractFactory("ValidateAlpha");
+        const Contract = await ethers.getContractFactory("ValidateAlphaBetaTest");
         const app = await Contract.deploy();
         return { app, owner, acc_b, acc_c, acc_d };
     }
@@ -229,34 +234,15 @@ describe("EO Data Consensus Contracts", function () {
                 matrix.push(temp);
                 alpha.push(String(ANSWER_TEST1[y]));
             }
+            console.log(matrix);
+            console.log(alpha);
             // Run method, compute alpha from S matrix
             result = await app._validate_alpha(matrix, alpha);
             // Check result is valid
             expect(await result).to.equal(true);
         });
 
-        // Test near misses
-        // Test just in
-        // Test far misses
-    });
-
-     /////////////////////////////////////////////////////////////
-     describe("MeasureBlankGas", function () {
-        it("Should deploy blank contract", async function () {
-            const { app, owner } = await loadFixture(deployBlank);
-        });
-        it("Should call function in blank contract", async function () {
-            // Deploy App
-            const { app, owner } = await loadFixture(deployBlank);
-            // Run method
-            result = await app._say_true();
-            // Check result is valid
-            expect(await result).to.equal(true);
-        });
-
-        // Test near misses
-        // Test just in
-        // Test far misses
+        
     });
 
     

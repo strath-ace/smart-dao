@@ -1,9 +1,9 @@
 // SPDX-License-Identifier: UNLICENSED
 pragma solidity ^0.8.9;
 
-import "../maths/FloatingPointMaths.sol";
-import "../matrix/MatrixMaths.sol";
-import "../generic/IO.sol";
+import "../../maths/FloatingPointMaths.sol";
+import "../../matrix/MatrixMaths.sol";
+import "../../generic/IO.sol";
 
 // Dev
 import "hardhat/console.sol";
@@ -13,15 +13,15 @@ import "hardhat/console.sol";
 /// @author 0x365
 /// @notice Calculates Alpha from S matrix
 /// @dev WIP - currently only square matrices i,j combinations
-contract CalculateBeta is MatrixMaths, IO {
+contract DevCalculateBeta is MatrixMaths, IO {
 
     int INPUT_MULTIPLIER = 1e18;
 
     function _compute_beta_seperate (string[][] memory _s_mat)
         public
-        view
         returns (int[][] memory)
     {
+        console.log("Start");
         // Convert string input to int256
         int256[][] memory _mat = array2dStringToInt(_s_mat);
         return _compute_beta(_mat);
@@ -70,10 +70,10 @@ contract CalculateBeta is MatrixMaths, IO {
     // Builds list combinations of i and j values for building coefficients
     function _build_i_j_list (uint256 k) 
         public
-        pure
+        view
         returns (uint256[] memory, uint256[] memory)
     {
-        // uint quant = (k * (k-1))/2;
+        uint quant = (k * (k-1))/2;
         uint256[] memory out_i = new uint256[](k);
         uint256[] memory out_j = new uint256[](k);
         uint256 x = 0;

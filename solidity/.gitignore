@@ -5,8 +5,14 @@ node_modules
 # Cached dapp files
 cache
 artifacts
-dapp
+dapps
 
 credentials.json
 wallets-example.json
 credentials.other.json
+
+test_output.txt
+flamegraph.html
+test.txt
+
+results.gas_results.json

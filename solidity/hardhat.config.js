@@ -11,7 +11,7 @@ module.exports = {
 
   solidity: "0.8.20",
 
-  // defaultNetwork: "auto",
+  defaultNetwork: "localhost",
   
   networks: {
     auto: {
@@ -19,9 +19,11 @@ module.exports = {
       accounts: [creds.private_key]
     },
     hardhat: {
+      // blockGasLimit: 100000000000000
     },
     localhost: {
       url: "http://127.0.0.1:8545",
+      // blockGasLimit: 100000000000000
       // accounts: [creds.private_key]
     }
   },
@@ -31,9 +33,11 @@ module.exports = {
     currency: 'USD',
     gasPrice: 30,
     blockLimit: 30000000,
-    coinmarketcap: creds.coinmarketcap_api
+    coinmarketcap: creds.coinmarketcap_api,
+    noColors: true,
+    outputFile: "./test_output.txt",
+    showTimeSpent: true
   },
-
 
   paths: {
     sources: "./contracts",
