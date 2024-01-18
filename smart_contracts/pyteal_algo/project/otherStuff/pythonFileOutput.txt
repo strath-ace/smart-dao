@@ -1,0 +1,84 @@
+[{'id': 18, 'key-value': [{'key': 'YXBwcm92ZWQ=', 'value': {'bytes': '', 'type': 2, 'uint': 0}}, {'key': 'aWQ=', 'value': {'bytes': '', 'type': 2, 'uint': 2}}, {'key': 'YXBwcm92ZXI=', 'value': {'bytes': 'YXBwbA==', 'type': 1, 'uint': 0}}, {'key': 'cm9sZQ==', 'value': {'bytes': 'UkVR', 'type': 1, 'uint': 0}}, {'key': 'b3Jn', 'value': {'bytes': 'YXBwbA==', 'type': 1, 'uint': 0}}], 'schema': {'num-byte-slice': 5, 'num-uint': 5}},
+{'id': 22, 'key-value': [{'key': 'YXBwcm92ZWQ=', 'value': {'bytes': '', 'type': 2, 'uint': 0}}, {'key': 'aWQ=', 'value': {'bytes': '', 'type': 2, 'uint': 2}}, {'key': 'YXBwcm92ZXI=', 'value': {'bytes': 'YXBwbA==', 'type': 1, 'uint': 0}}, {'key': 'cm9sZQ==', 'value': {'bytes': 'UkVR', 'type': 1, 'uint': 0}}, {'key': 'b3Jn', 'value': {'bytes': 'YXBwbA==', 'type': 1, 'uint': 0}}], 'schema': {'num-byte-slice': 5, 'num-uint': 5}},
+{'id': 26, 'key-value': [{'key': 'YXBwcm92ZXI=', 'value': {'bytes': 'YXBwbA==', 'type': 1, 'uint': 0}}, {'key': 'cm9sZQ==', 'value': {'bytes': 'UkVR', 'type': 1, 'uint': 0}}, {'key': 'YXBwcm92ZWQ=', 'value': {'bytes': '', 'type': 2, 'uint': 0}}, {'key': 'aWQ=', 'value': {'bytes': '', 'type': 2, 'uint': 2}}, {'key': 'b3Jn', 'value': {'bytes': 'YXBwbA==', 'type': 1, 'uint': 0}}], 'schema': {'num-byte-slice': 5, 'num-uint': 5}},
+{'id': 31, 'key-value': [{'key': 'YXBwcm92ZWQ=', 'value': {'bytes': '', 'type': 2, 'uint': 0}}, {'key': 'aWQ=', 'value': {'bytes': '', 'type': 2, 'uint': 2}}, {'key': 'YXBwcm92ZXI=', 'value': {'bytes': 'YXBwbA==', 'type': 1, 'uint': 0}}, {'key': 'cm9sZQ==', 'value': {'bytes': 'UkVR', 'type': 1, 'uint': 0}}, {'key': 'b3Jn', 'value': {'bytes': 'YXBwbA==', 'type': 1, 'uint': 0}}], 'schema': {'num-byte-slice': 5, 'num-uint': 5}},
+{'id': 35, 'key-value': [{'key': 'YXBwcm92ZXI=', 'value': {'bytes': 'YXBwbA==', 'type': 1, 'uint': 0}}, {'key': 'YXBwcm92ZWQ=', 'value': {'bytes': '', 'type': 2, 'uint': 0}}, {'key': 'aWQ=', 'value': {'bytes': '', 'type': 2, 'uint': 2}}, {'key': 'b3Jn', 'value': {'bytes': 'YXBwbA==', 'type': 1, 'uint': 0}}, {'key': 'cm9sZQ==', 'value': {'bytes': 'UkVR', 'type': 1, 'uint': 0}}], 'schema': {'num-byte-slice': 5, 'num-uint': 5}},
+{'id': 39, 'key-value': [{'key': 'YXBwcm92ZXI=', 'value': {'bytes': 'YXBwbA==', 'type': 1, 'uint': 0}}, {'key': 'cm9sZQ==', 'value': {'bytes': 'UkVR', 'type': 1, 'uint': 0}}, {'key': 'YXBwcm92ZWQ=', 'value': {'bytes': '', 'type': 2, 'uint': 0}}, {'key': 'aWQ=', 'value': {'bytes': '', 'type': 2, 'uint': 2}}, {'key': 'b3Jn', 'value': {'bytes': 'YXBwbA==', 'type': 1, 'uint': 0}}], 'schema': {'num-byte-slice': 5, 'num-uint': 5}},
+{'id': 43, 'key-value': [{'key': 'YXBwcm92ZXI=', 'value': {'bytes': 'YXBwbA==', 'type': 1, 'uint': 0}}, {'key': 'cm9sZQ==', 'value': {'bytes': 'UkVR', 'type': 1, 'uint': 0}}, {'key': 'YXBwcm92ZWQ=', 'value': {'bytes': '', 'type': 2, 'uint': 0}}, {'key': 'aWQ=', 'value': {'bytes': '', 'type': 2, 'uint': 2}}, {'key': 'b3Jn', 'value': {'bytes': 'YXBwbA==', 'type': 1, 'uint': 0}}], 'schema': {'num-byte-slice': 5, 'num-uint': 5}},
+{'id': 47, 'key-value': [{'key': 'YXBwcm92ZWQ=', 'value': {'bytes': '', 'type': 2, 'uint': 0}}, {'key': 'aWQ=', 'value': {'bytes': '', 'type': 2, 'uint': 2}}, {'key': 'YXBwcm92ZXI=', 'value': {'bytes': 'YXBwbA==', 'type': 1, 'uint': 0}}, {'key': 'cm9sZQ==', 'value': {'bytes': 'UkVR', 'type': 1, 'uint': 0}}, {'key': 'b3Jn', 'value': {'bytes': 'YXBwbA==', 'type': 1, 'uint': 0}}], 'schema': {'num-byte-slice': 5, 'num-uint': 5}},
+{'id': 51, 'key-value': [{'key': 'YXBwcm92ZWQ=', 'value': {'bytes': '', 'type': 2, 'uint': 0}}, {'key': 'aWQ=', 'value': {'bytes': '', 'type': 2, 'uint': 2}}, {'key': 'b3Jn', 'value': {'bytes': 'YXBwbA==', 'type': 1, 'uint': 0}}, {'key': 'YXBwcm92ZXI=', 'value': {'bytes': 'YXBwbA==', 'type': 1, 'uint': 0}}, {'key': 'cm9sZQ==', 'value': {'bytes': 'UkVR', 'type': 1, 'uint': 0}}], 'schema': {'num-byte-slice': 5, 'num-uint': 5}},
+{'id': 55, 'key-value': [{'key': 'YXBwcm92ZXI=', 'value': {'bytes': 'YXBwbA==', 'type': 1, 'uint': 0}}, {'key': 'cm9sZQ==', 'value': {'bytes': 'UkVR', 'type': 1, 'uint': 0}}, {'key': 'YXBwcm92ZWQ=', 'value': {'bytes': '', 'type': 2, 'uint': 0}}, {'key': 'aWQ=', 'value': {'bytes': '', 'type': 2, 'uint': 2}}, {'key': 'b3Jn', 'value': {'bytes': 'YXBwbA==', 'type': 1, 'uint': 0}}], 'schema': {'num-byte-slice': 5, 'num-uint': 5}},
+{'id': 59, 'key-value': [{'key': 'YXBwcm92ZXI=', 'value': {'bytes': 'YXBwbA==', 'type': 1, 'uint': 0}}, {'key': 'cm9sZQ==', 'value': {'bytes': 'UkVR', 'type': 1, 'uint': 0}}, {'key': 'YXBwcm92ZWQ=', 'value': {'bytes': '', 'type': 2, 'uint': 0}}, {'key': 'aWQ=', 'value': {'bytes': '', 'type': 2, 'uint': 2}}, {'key': 'b3Jn', 'value': {'bytes': 'YXBwbA==', 'type': 1, 'uint': 0}}], 'schema': {'num-byte-slice': 5, 'num-uint': 5}},
+{'id': 64, 'key-value': [{'key': 'YXBwcm92ZXI=', 'value': {'bytes': 'YXBwbA==', 'type': 1, 'uint': 0}}, {'key': 'cm9sZQ==', 'value': {'bytes': 'UkVR', 'type': 1, 'uint': 0}}, {'key': 'YXBwcm92ZWQ=', 'value': {'bytes': '', 'type': 2, 'uint': 0}}, {'key': 'aWQ=', 'value': {'bytes': '', 'type': 2, 'uint': 2}}, {'key': 'b3Jn', 'value': {'bytes': 'YXBwbA==', 'type': 1, 'uint': 0}}], 'schema': {'num-byte-slice': 5, 'num-uint': 5}},
+{'id': 68, 'key-value': [{'key': 'YXBwcm92ZWQ=', 'value': {'bytes': '', 'type': 2, 'uint': 0}}, {'key': 'YXBwcm92ZXI=', 'value': {'bytes': 'YXBwbA==', 'type': 1, 'uint': 0}}, {'key': 'cm9sZQ==', 'value': {'bytes': 'UkVR', 'type': 1, 'uint': 0}}, {'key': 'aWQ=', 'value': {'bytes': '', 'type': 2, 'uint': 2}}, {'key': 'b3Jn', 'value': {'bytes': 'YXBwbA==', 'type': 1, 'uint': 0}}], 'schema': {'num-byte-slice': 5, 'num-uint': 5}},
+{'id': 72, 'key-value': [{'key': 'YXBwcm92ZXI=', 'value': {'bytes': 'YXBwbA==', 'type': 1, 'uint': 0}}, {'key': 'YXBwcm92ZWQ=', 'value': {'bytes': '', 'type': 2, 'uint': 0}}, {'key': 'aWQ=', 'value': {'bytes': '', 'type': 2, 'uint': 2}}, {'key': 'b3Jn', 'value': {'bytes': 'YXBwbA==', 'type': 1, 'uint': 0}}, {'key': 'cm9sZQ==', 'value': {'bytes': 'UkVR', 'type': 1, 'uint': 0}}], 'schema': {'num-byte-slice': 5, 'num-uint': 5}},
+{'id': 76, 'key-value': [{'key': 'YXBwcm92ZWQ=', 'value': {'bytes': '', 'type': 2, 'uint': 0}}, {'key': 'aWQ=', 'value': {'bytes': '', 'type': 2, 'uint': 2}}, {'key': 'b3Jn', 'value': {'bytes': 'YXBwbA==', 'type': 1, 'uint': 0}}, {'key': 'YXBwcm92ZXI=', 'value': {'bytes': 'YXBwbA==', 'type': 1, 'uint': 0}}, {'key': 'cm9sZQ==', 'value': {'bytes': 'UkVR', 'type': 1, 'uint': 0}}], 'schema': {'num-byte-slice': 5, 'num-uint': 5}},
+{'id': 80, 'key-value': [{'key': 'YXBwcm92ZWQ=', 'value': {'bytes': '', 'type': 2, 'uint': 0}}, {'key': 'aWQ=', 'value': {'bytes': '', 'type': 2, 'uint': 2}}, {'key': 'YXBwcm92ZXI=', 'value': {'bytes': 'YXBwbA==', 'type': 1, 'uint': 0}}, {'key': 'cm9sZQ==', 'value': {'bytes': 'UkVR', 'type': 1, 'uint': 0}}, {'key': 'b3Jn', 'value': {'bytes': 'YXBwbA==', 'type': 1, 'uint': 0}}], 'schema': {'num-byte-slice': 5, 'num-uint': 5}},
+{'id': 85, 'key-value': [{'key': 'YXBwcm92ZWQ=', 'value': {'bytes': '', 'type': 2, 'uint': 0}}, {'key': 'YXBwcm92ZXI=', 'value': {'bytes': 'aWJtcw==', 'type': 1, 'uint': 0}}, {'key': 'cm9sZQ==', 'value': {'bytes': 'UkVR', 'type': 1, 'uint': 0}}, {'key': 'aWQ=', 'value': {'bytes': '', 'type': 2, 'uint': 2}}, {'key': 'b3Jn', 'value': {'bytes': 'aWJtcw==', 'type': 1, 'uint': 0}}], 'schema': {'num-byte-slice': 5, 'num-uint': 5}},
+{'id': 89, 'key-value': [{'key': 'YXBwcm92ZXI=', 'value': {'bytes': 'aWJtcw==', 'type': 1, 'uint': 0}}, {'key': 'YXBwcm92ZWQ=', 'value': {'bytes': '', 'type': 2, 'uint': 0}}, {'key': 'aWQ=', 'value': {'bytes': '', 'type': 2, 'uint': 2}}, {'key': 'b3Jn', 'value': {'bytes': 'aWJtcw==', 'type': 1, 'uint': 0}}, {'key': 'cm9sZQ==', 'value': {'bytes': 'UkVR', 'type': 1, 'uint': 0}}], 'schema': {'num-byte-slice': 5, 'num-uint': 5}},
+{'id': 93, 'key-value': [{'key': 'YXBwcm92ZXI=', 'value': {'bytes': 'aWJtcw==', 'type': 1, 'uint': 0}}, {'key': 'YXBwcm92ZWQ=', 'value': {'bytes': '', 'type': 2, 'uint': 0}}, {'key': 'aWQ=', 'value': {'bytes': '', 'type': 2, 'uint': 2}}, {'key': 'b3Jn', 'value': {'bytes': 'aWJtcw==', 'type': 1, 'uint': 0}}, {'key': 'cm9sZQ==', 'value': {'bytes': 'UkVR', 'type': 1, 'uint': 0}}], 'schema': {'num-byte-slice': 5, 'num-uint': 5}},
+{'id': 97, 'key-value': [{'key': 'YXBwcm92ZXI=', 'value': {'bytes': 'aWJtcw==', 'type': 1, 'uint': 0}}, {'key': 'cm9sZQ==', 'value': {'bytes': 'UkVR', 'type': 1, 'uint': 0}}, {'key': 'YXBwcm92ZWQ=', 'value': {'bytes': '', 'type': 2, 'uint': 0}}, {'key': 'aWQ=', 'value': {'bytes': '', 'type': 2, 'uint': 2}}, {'key': 'b3Jn', 'value': {'bytes': 'aWJtcw==', 'type': 1, 'uint': 0}}], 'schema': {'num-byte-slice': 5, 'num-uint': 5}}]
+
+
+
+
+
+
+
+
+
+
+
+
+{'confirmed-round': 9578,
+'inner-txns':	[{'application-index': 512, 
+				'global-state-delta': 	[{'key': 'RGlEQ29udHJhY3RJRA==', 
+										'value': {'action': 1, 'bytes': 'FQ7X75b2rOcdWap/0BMeZTM8UUUSnK6RXKsJroGvKrE='}}],
+				'pool-error': '', 
+				'txn': 	{'txn': {'apap': 'BiACAQAmAQ1EaURDb250cmFjdElEMRgjEkAANTEZIxJAACYxGSISQAAdMRmBAhJAABMxGYEEEkAACjEZgQUSQAABAAAAIkMiQyhkMQASRCJDKDEAZyJD', 
+						'apgs': {'nbs': 3, 'nui': 3}, 
+						'apls': {'nbs': 5, 'nui': 5}, 
+						'apsu': 'BoEBQw==', 
+						'fee': 1000, 
+						'fv': 9576, 
+						'lv': 10576, 
+						'snd': 'CUHNP34W62WOOHKZVJ75AEY6MUZTYUKFCKOK5EK4VME25ANPFKYTVMOR5Q', 
+						'type': 'appl'}}}], 
+				'pool-error': '', 
+				'txn': {'sig': '5Iz9d+yTdzMD3qB7DhagTVCv/FKKFMTMhezQDtgzCpWWWOg/GAliDOw66dBQ9auagkiv0OdB2z9vXX3C5kggCA==',
+				'txn': {'apaa': 	['ZGVwbG95', 
+									'BiACAQAmAQ1EaURDb250cmFjdElEMRgjEkAANTEZIxJAACYxGSISQAAdMRmBAhJAABMxGYEEEkAACjEZgQUSQAABAAAAIkMiQyhkMQASRCJDKDEAZyJD', 
+									'BoEBQw==', 
+									'AAAAAAAAAAM=', 
+									'AAAAAAAAAAM=',
+									'AAAAAAAAAAU=', 
+									'AAAAAAAAAAU='], 
+									'apid': 508, 
+									'fee': 1000, 
+									'fv': 9576, 
+									'gen': 'sandnet-v1', 
+									'gh': 'wjs6re2EyjwWEOTWckMmv+5xJ69+bR1DtqnEshCwktU=',
+									'lv': 10576, 
+									'snd': 'HA4GJ5PSCCVH4MAY6IRS2Z6X4TJ47SFLOS6DUW6OJQQTSE5ZSB6WJ3C35U', 
+									'type': 'appl'}}} 
+									
+									
+{'confirmed-round': 1695, 
+'pool-error': '', 
+'txn': 	{'sig': 'QqpJHIfCQzEMm0xS+Y8hJvGnHzy9jkNNzAYnNqvhmWgGRcfZP0ump1uqMA4zEgoRBlFHNzvdVrA7YnCVANGNCg==', 
+		'txn': 	{'amt': 435500, 
+				'fee': 1000, 
+				'fv': 1693, 
+				'gen': 'sandnet-v1', 
+				'gh': 'wjs6re2EyjwWEOTWckMmv+5xJ69+bR1DtqnEshCwktU=', 
+				'grp': 'y7sLPYo0g9mR3VjAb86YBvtsWmRWJnCagaMYdOYktxQ=', 
+				'lv': 2693, 
+				'note': 'SGVsbG8gV29ybGQ=', 
+				'rcv': 'L4VNZVGNF25O2Q4W7K7FD27W7NDEPIW7CHXF3MUCX4S3CISNSIWRPD764A', 
+				'snd': 'HA4GJ5PSCCVH4MAY6IRS2Z6X4TJ47SFLOS6DUW6OJQQTSE5ZSB6WJ3C35U', 
+				'type': 'pay'}}}
+				
+				
+logic eval error: logic eval error: invalid App reference 133. 
+Details: pc=20, opcodes=global CallerApplicationID pushbytes 0x617070726f766564 // "approved" app_local_get_ex.
+Details: pc=487, opcodes=txn Sender itxn_field Accounts itxn_submitC:\Algorand\project\venv\Lib\site-packages\pyteal\ast\app_test.py

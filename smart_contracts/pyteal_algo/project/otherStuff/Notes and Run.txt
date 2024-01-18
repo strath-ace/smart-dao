@@ -1,0 +1,65 @@
+Notes
+The following changes to requirements are required
+py-algorand-sdk==1.9.0
+pyteal==0.15.0
+
+# In python terminal:
+source ./venv/Scripts/activate
+
+./build.sh contracts.erc725.algoERC725
+
+
+# In bash terminal
+./sandbox up
+
+./sandbox enter algod
+./sandbox reset
+./sandbox down
+
+# Bring yourself out of algod
+exit
+
+goal account list
+
+variable assigning
+variable_name=ADDRESS
+use variable
+$variable_name
+
+deploy smart contract
+goal app create --creator $ADDRESS --approval-prog /data/build/approval.teal --clear-prog /data/build/clear.teal --global-byteslices 1 --global-ints 1 --local-byteslices 0 --local-ints 0
+
+view smart contract after deployed
+goal app read --global --app-id 1 --guess-format
+add  to make output nicer
+
+view variable name
+echo $variable_name
+
+goal app call --app-id 1 --from $variable_name --app-arg "str:inc"
+
+debugging
+previous +
+--dryrun-dump -o tx.dr
+
+
+
+
+
+# Optin to contract (And make DiD in process)
+goal app optin --app-id 2 --from $ONE
+
+# Read Local Variables from app for wallet address $ONE
+goal app read --app-id 2 --guess-format --local --from $ONE
+
+
+# Speedy setup
+goal account list
+$ONE=address
+$TWO=address
+$THREE=address
+goal app create --approval-prog /data/build/approval.teal --clear-prog /data/build/clear.teal --global-ints 3 --global-byteslices 3 --local-ints 5 --local-byteslices 5 --creator $ONE
+goal app optin --app-id 1 --from $ONE
+goal app optin --app-id 1 --from $TWO --app-arg "str:new" --app-arg "str:REQ" --app-arg "str:appl" --app-arg "str:appl"
+goal app optin --app-id 1 --from $THREE --app-arg "str:join" --app-account $TWO
+
