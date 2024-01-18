@@ -4,7 +4,7 @@
 
 ### Project 1 - Automating and Decentralising Satellite-based Emergency Mapping
 
-This repository `sem_analysis` contains the code of the (paper)[https://ieeexplore.ieee.org/abstract/document/10338847] published in the (2023 Fifth International Conference on Blockchain Computing and Applications (BCCA))[https://ieeexplore.ieee.org/servlet/opac?punumber=10338825].
+This repository `sem_analysis` contains the code of the [paper](https://ieeexplore.ieee.org/abstract/document/10338847) published in the [2023 Fifth International Conference on Blockchain Computing and Applications (BCCA)](https://ieeexplore.ieee.org/servlet/opac?punumber=10338825).
 
 If you are using this code in full or in part, please cite our work as:
 ```bibtex
@@ -28,7 +28,7 @@ The work was produced by Robert Cowlishaw of the Intelligent Computational Engin
 
 ### Project 2 - Proof of Optimality for a Decentralised EO Data Processing Architecture
 
-This repository `smart_contracts` contains the code of the (paper)[https://pureportal.strath.ac.uk/en/publications/proof-of-optimality-for-a-decentralised-eo-data-processing-archit] published in the (Proceedings of the 2023 conference on Big Data from Space (BiDS’23))[https://op.europa.eu/en/publication-detail/-/publication/10ba86b1-7c63-11ee-99ba-01aa75ed71a1/language-en].
+This repository `smart_contracts` contains the code of the [paper](https://pureportal.strath.ac.uk/en/publications/proof-of-optimality-for-a-decentralised-eo-data-processing-archit) published in the [Proceedings of the 2023 conference on Big Data from Space (BiDS’23)](https://op.europa.eu/en/publication-detail/-/publication/10ba86b1-7c63-11ee-99ba-01aa75ed71a1/language-en).
 
 If you are using this code in full or in part, please cite our work as:
 ```bibtex
