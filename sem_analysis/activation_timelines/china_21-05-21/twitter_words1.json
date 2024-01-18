@@ -1,0 +1,3746 @@
+[
+  {
+    "name": "china",
+    "color": "rgba(0, 204, 20, .5)",
+    "data": [
+      {
+        "x": -15,
+        "y": 3,
+        "label": "china: 3 tweet before -15 minutes"
+      },
+      {
+        "x": 52,
+        "y": 6,
+        "label": "china: 6 tweet after 52 minutes"
+      },
+      {
+        "x": 125,
+        "y": 2,
+        "label": "china: 2 tweet after 125 minutes"
+      },
+      {
+        "x": -13,
+        "y": 2,
+        "label": "china: 2 tweet before -13 minutes"
+      },
+      {
+        "x": 53,
+        "y": 20,
+        "label": "china: 20 tweet after 53 minutes"
+      },
+      {
+        "x": 126,
+        "y": 3,
+        "label": "china: 3 tweet after 126 minutes"
+      },
+      {
+        "x": 127,
+        "y": 6,
+        "label": "china: 6 tweet after 127 minutes"
+      },
+      {
+        "x": -12,
+        "y": 11,
+        "label": "china: 11 tweet before -12 minutes"
+      },
+      {
+        "x": -11,
+        "y": 3,
+        "label": "china: 3 tweet before -11 minutes"
+      },
+      {
+        "x": 128,
+        "y": 3,
+        "label": "china: 3 tweet after 128 minutes"
+      },
+      {
+        "x": -9,
+        "y": 4,
+        "label": "china: 4 tweet before -9 minutes"
+      },
+      {
+        "x": 54,
+        "y": 5,
+        "label": "china: 5 tweet after 54 minutes"
+      },
+      {
+        "x": 129,
+        "y": 3,
+        "label": "china: 3 tweet after 129 minutes"
+      },
+      {
+        "x": -8,
+        "y": 1,
+        "label": "china: 1 tweet before -8 minutes"
+      },
+      {
+        "x": 55,
+        "y": 4,
+        "label": "china: 4 tweet after 55 minutes"
+      },
+      {
+        "x": 131,
+        "y": 3,
+        "label": "china: 3 tweet after 131 minutes"
+      },
+      {
+        "x": -6,
+        "y": 4,
+        "label": "china: 4 tweet before -6 minutes"
+      },
+      {
+        "x": 56,
+        "y": 7,
+        "label": "china: 7 tweet after 56 minutes"
+      },
+      {
+        "x": 132,
+        "y": 2,
+        "label": "china: 2 tweet after 132 minutes"
+      },
+      {
+        "x": 133,
+        "y": 3,
+        "label": "china: 3 tweet after 133 minutes"
+      },
+      {
+        "x": 134,
+        "y": 4,
+        "label": "china: 4 tweet after 134 minutes"
+      },
+      {
+        "x": -4,
+        "y": 2,
+        "label": "china: 2 tweet before -4 minutes"
+      },
+      {
+        "x": -2,
+        "y": 9,
+        "label": "china: 9 tweet before -2 minutes"
+      },
+      {
+        "x": -3,
+        "y": 1,
+        "label": "china: 1 tweet before -3 minutes"
+      },
+      {
+        "x": 57,
+        "y": 6,
+        "label": "china: 6 tweet after 57 minutes"
+      },
+      {
+        "x": 135,
+        "y": 2,
+        "label": "china: 2 tweet after 135 minutes"
+      },
+      {
+        "x": -1,
+        "y": 2,
+        "label": "china: 2 tweet before -1 minutes"
+      },
+      {
+        "x": 136,
+        "y": 2,
+        "label": "china: 2 tweet after 136 minutes"
+      },
+      {
+        "x": 1,
+        "y": 2,
+        "label": "china: 2 tweet after 1 minutes"
+      },
+      {
+        "x": 58,
+        "y": 3,
+        "label": "china: 3 tweet after 58 minutes"
+      },
+      {
+        "x": 137,
+        "y": 1,
+        "label": "china: 1 tweet after 137 minutes"
+      },
+      {
+        "x": 59,
+        "y": 7,
+        "label": "china: 7 tweet after 59 minutes"
+      },
+      {
+        "x": 60,
+        "y": 12,
+        "label": "china: 12 tweet after 60 minutes"
+      },
+      {
+        "x": 139,
+        "y": 6,
+        "label": "china: 6 tweet after 139 minutes"
+      },
+      {
+        "x": 138,
+        "y": 1,
+        "label": "china: 1 tweet after 138 minutes"
+      },
+      {
+        "x": 61,
+        "y": 6,
+        "label": "china: 6 tweet after 61 minutes"
+      },
+      {
+        "x": 140,
+        "y": 2,
+        "label": "china: 2 tweet after 140 minutes"
+      },
+      {
+        "x": 5,
+        "y": 3,
+        "label": "china: 3 tweet after 5 minutes"
+      },
+      {
+        "x": 141,
+        "y": 4,
+        "label": "china: 4 tweet after 141 minutes"
+      },
+      {
+        "x": 142,
+        "y": 6,
+        "label": "china: 6 tweet after 142 minutes"
+      },
+      {
+        "x": 6,
+        "y": 5,
+        "label": "china: 5 tweet after 6 minutes"
+      },
+      {
+        "x": 62,
+        "y": 5,
+        "label": "china: 5 tweet after 62 minutes"
+      },
+      {
+        "x": 7,
+        "y": 9,
+        "label": "china: 9 tweet after 7 minutes"
+      },
+      {
+        "x": 63,
+        "y": 4,
+        "label": "china: 4 tweet after 63 minutes"
+      },
+      {
+        "x": 8,
+        "y": 7,
+        "label": "china: 7 tweet after 8 minutes"
+      },
+      {
+        "x": 64,
+        "y": 17,
+        "label": "china: 17 tweet after 64 minutes"
+      },
+      {
+        "x": 9,
+        "y": 4,
+        "label": "china: 4 tweet after 9 minutes"
+      },
+      {
+        "x": 10,
+        "y": 6,
+        "label": "china: 6 tweet after 10 minutes"
+      },
+      {
+        "x": 65,
+        "y": 8,
+        "label": "china: 8 tweet after 65 minutes"
+      },
+      {
+        "x": 143,
+        "y": 1,
+        "label": "china: 1 tweet after 143 minutes"
+      },
+      {
+        "x": 66,
+        "y": 13,
+        "label": "china: 13 tweet after 66 minutes"
+      },
+      {
+        "x": 11,
+        "y": 1,
+        "label": "china: 1 tweet after 11 minutes"
+      },
+      {
+        "x": 12,
+        "y": 2,
+        "label": "china: 2 tweet after 12 minutes"
+      },
+      {
+        "x": 144,
+        "y": 2,
+        "label": "china: 2 tweet after 144 minutes"
+      },
+      {
+        "x": 145,
+        "y": 3,
+        "label": "china: 3 tweet after 145 minutes"
+      },
+      {
+        "x": 67,
+        "y": 10,
+        "label": "china: 10 tweet after 67 minutes"
+      },
+      {
+        "x": 13,
+        "y": 2,
+        "label": "china: 2 tweet after 13 minutes"
+      },
+      {
+        "x": 146,
+        "y": 1,
+        "label": "china: 1 tweet after 146 minutes"
+      },
+      {
+        "x": 14,
+        "y": 1,
+        "label": "china: 1 tweet after 14 minutes"
+      },
+      {
+        "x": 68,
+        "y": 4,
+        "label": "china: 4 tweet after 68 minutes"
+      },
+      {
+        "x": 147,
+        "y": 6,
+        "label": "china: 6 tweet after 147 minutes"
+      },
+      {
+        "x": 148,
+        "y": 3,
+        "label": "china: 3 tweet after 148 minutes"
+      },
+      {
+        "x": 15,
+        "y": 6,
+        "label": "china: 6 tweet after 15 minutes"
+      },
+      {
+        "x": 69,
+        "y": 8,
+        "label": "china: 8 tweet after 69 minutes"
+      },
+      {
+        "x": 149,
+        "y": 4,
+        "label": "china: 4 tweet after 149 minutes"
+      },
+      {
+        "x": 16,
+        "y": 13,
+        "label": "china: 13 tweet after 16 minutes"
+      },
+      {
+        "x": 150,
+        "y": 1,
+        "label": "china: 1 tweet after 150 minutes"
+      },
+      {
+        "x": 209,
+        "y": 1,
+        "label": "china: 1 tweet after 209 minutes"
+      },
+      {
+        "x": 210,
+        "y": 4,
+        "label": "china: 4 tweet after 210 minutes"
+      },
+      {
+        "x": 211,
+        "y": 1,
+        "label": "china: 1 tweet after 211 minutes"
+      },
+      {
+        "x": 212,
+        "y": 1,
+        "label": "china: 1 tweet after 212 minutes"
+      },
+      {
+        "x": 70,
+        "y": 13,
+        "label": "china: 13 tweet after 70 minutes"
+      },
+      {
+        "x": 213,
+        "y": 6,
+        "label": "china: 6 tweet after 213 minutes"
+      },
+      {
+        "x": 214,
+        "y": 3,
+        "label": "china: 3 tweet after 214 minutes"
+      },
+      {
+        "x": 151,
+        "y": 2,
+        "label": "china: 2 tweet after 151 minutes"
+      },
+      {
+        "x": 71,
+        "y": 6,
+        "label": "china: 6 tweet after 71 minutes"
+      },
+      {
+        "x": 17,
+        "y": 6,
+        "label": "china: 6 tweet after 17 minutes"
+      },
+      {
+        "x": 18,
+        "y": 7,
+        "label": "china: 7 tweet after 18 minutes"
+      },
+      {
+        "x": 153,
+        "y": 2,
+        "label": "china: 2 tweet after 153 minutes"
+      },
+      {
+        "x": 72,
+        "y": 4,
+        "label": "china: 4 tweet after 72 minutes"
+      },
+      {
+        "x": 154,
+        "y": 4,
+        "label": "china: 4 tweet after 154 minutes"
+      },
+      {
+        "x": 19,
+        "y": 11,
+        "label": "china: 11 tweet after 19 minutes"
+      },
+      {
+        "x": 73,
+        "y": 7,
+        "label": "china: 7 tweet after 73 minutes"
+      },
+      {
+        "x": 20,
+        "y": 10,
+        "label": "china: 10 tweet after 20 minutes"
+      },
+      {
+        "x": 74,
+        "y": 8,
+        "label": "china: 8 tweet after 74 minutes"
+      },
+      {
+        "x": 21,
+        "y": 9,
+        "label": "china: 9 tweet after 21 minutes"
+      },
+      {
+        "x": 156,
+        "y": 3,
+        "label": "china: 3 tweet after 156 minutes"
+      },
+      {
+        "x": 157,
+        "y": 2,
+        "label": "china: 2 tweet after 157 minutes"
+      },
+      {
+        "x": 75,
+        "y": 6,
+        "label": "china: 6 tweet after 75 minutes"
+      },
+      {
+        "x": 76,
+        "y": 5,
+        "label": "china: 5 tweet after 76 minutes"
+      },
+      {
+        "x": 22,
+        "y": 2,
+        "label": "china: 2 tweet after 22 minutes"
+      },
+      {
+        "x": 23,
+        "y": 11,
+        "label": "china: 11 tweet after 23 minutes"
+      },
+      {
+        "x": 158,
+        "y": 2,
+        "label": "china: 2 tweet after 158 minutes"
+      },
+      {
+        "x": 159,
+        "y": 1,
+        "label": "china: 1 tweet after 159 minutes"
+      },
+      {
+        "x": 160,
+        "y": 1,
+        "label": "china: 1 tweet after 160 minutes"
+      },
+      {
+        "x": 24,
+        "y": 8,
+        "label": "china: 8 tweet after 24 minutes"
+      },
+      {
+        "x": 77,
+        "y": 6,
+        "label": "china: 6 tweet after 77 minutes"
+      },
+      {
+        "x": 161,
+        "y": 4,
+        "label": "china: 4 tweet after 161 minutes"
+      },
+      {
+        "x": 78,
+        "y": 4,
+        "label": "china: 4 tweet after 78 minutes"
+      },
+      {
+        "x": 162,
+        "y": 2,
+        "label": "china: 2 tweet after 162 minutes"
+      },
+      {
+        "x": 216,
+        "y": 3,
+        "label": "china: 3 tweet after 216 minutes"
+      },
+      {
+        "x": 25,
+        "y": 4,
+        "label": "china: 4 tweet after 25 minutes"
+      },
+      {
+        "x": 79,
+        "y": 5,
+        "label": "china: 5 tweet after 79 minutes"
+      },
+      {
+        "x": 163,
+        "y": 2,
+        "label": "china: 2 tweet after 163 minutes"
+      },
+      {
+        "x": 26,
+        "y": 7,
+        "label": "china: 7 tweet after 26 minutes"
+      },
+      {
+        "x": 80,
+        "y": 9,
+        "label": "china: 9 tweet after 80 minutes"
+      },
+      {
+        "x": 164,
+        "y": 2,
+        "label": "china: 2 tweet after 164 minutes"
+      },
+      {
+        "x": 81,
+        "y": 5,
+        "label": "china: 5 tweet after 81 minutes"
+      },
+      {
+        "x": 82,
+        "y": 5,
+        "label": "china: 5 tweet after 82 minutes"
+      },
+      {
+        "x": 27,
+        "y": 6,
+        "label": "china: 6 tweet after 27 minutes"
+      },
+      {
+        "x": 165,
+        "y": 1,
+        "label": "china: 1 tweet after 165 minutes"
+      },
+      {
+        "x": 83,
+        "y": 3,
+        "label": "china: 3 tweet after 83 minutes"
+      },
+      {
+        "x": 166,
+        "y": 2,
+        "label": "china: 2 tweet after 166 minutes"
+      },
+      {
+        "x": 84,
+        "y": 8,
+        "label": "china: 8 tweet after 84 minutes"
+      },
+      {
+        "x": 28,
+        "y": 7,
+        "label": "china: 7 tweet after 28 minutes"
+      },
+      {
+        "x": 167,
+        "y": 1,
+        "label": "china: 1 tweet after 167 minutes"
+      },
+      {
+        "x": 85,
+        "y": 3,
+        "label": "china: 3 tweet after 85 minutes"
+      },
+      {
+        "x": 168,
+        "y": 4,
+        "label": "china: 4 tweet after 168 minutes"
+      },
+      {
+        "x": 169,
+        "y": 7,
+        "label": "china: 7 tweet after 169 minutes"
+      },
+      {
+        "x": 86,
+        "y": 4,
+        "label": "china: 4 tweet after 86 minutes"
+      },
+      {
+        "x": 29,
+        "y": 13,
+        "label": "china: 13 tweet after 29 minutes"
+      },
+      {
+        "x": 30,
+        "y": 11,
+        "label": "china: 11 tweet after 30 minutes"
+      },
+      {
+        "x": 31,
+        "y": 21,
+        "label": "china: 21 tweet after 31 minutes"
+      },
+      {
+        "x": 170,
+        "y": 1,
+        "label": "china: 1 tweet after 170 minutes"
+      },
+      {
+        "x": 87,
+        "y": 4,
+        "label": "china: 4 tweet after 87 minutes"
+      },
+      {
+        "x": 88,
+        "y": 6,
+        "label": "china: 6 tweet after 88 minutes"
+      },
+      {
+        "x": 89,
+        "y": 4,
+        "label": "china: 4 tweet after 89 minutes"
+      },
+      {
+        "x": 171,
+        "y": 2,
+        "label": "china: 2 tweet after 171 minutes"
+      },
+      {
+        "x": 172,
+        "y": 3,
+        "label": "china: 3 tweet after 172 minutes"
+      },
+      {
+        "x": 32,
+        "y": 15,
+        "label": "china: 15 tweet after 32 minutes"
+      },
+      {
+        "x": 90,
+        "y": 2,
+        "label": "china: 2 tweet after 90 minutes"
+      },
+      {
+        "x": 91,
+        "y": 5,
+        "label": "china: 5 tweet after 91 minutes"
+      },
+      {
+        "x": 173,
+        "y": 1,
+        "label": "china: 1 tweet after 173 minutes"
+      },
+      {
+        "x": 174,
+        "y": 1,
+        "label": "china: 1 tweet after 174 minutes"
+      },
+      {
+        "x": 33,
+        "y": 13,
+        "label": "china: 13 tweet after 33 minutes"
+      },
+      {
+        "x": 175,
+        "y": 3,
+        "label": "china: 3 tweet after 175 minutes"
+      },
+      {
+        "x": 92,
+        "y": 4,
+        "label": "china: 4 tweet after 92 minutes"
+      },
+      {
+        "x": 93,
+        "y": 8,
+        "label": "china: 8 tweet after 93 minutes"
+      },
+      {
+        "x": 176,
+        "y": 2,
+        "label": "china: 2 tweet after 176 minutes"
+      },
+      {
+        "x": 177,
+        "y": 1,
+        "label": "china: 1 tweet after 177 minutes"
+      },
+      {
+        "x": 178,
+        "y": 3,
+        "label": "china: 3 tweet after 178 minutes"
+      },
+      {
+        "x": 34,
+        "y": 8,
+        "label": "china: 8 tweet after 34 minutes"
+      },
+      {
+        "x": 95,
+        "y": 4,
+        "label": "china: 4 tweet after 95 minutes"
+      },
+      {
+        "x": 96,
+        "y": 4,
+        "label": "china: 4 tweet after 96 minutes"
+      },
+      {
+        "x": 179,
+        "y": 1,
+        "label": "china: 1 tweet after 179 minutes"
+      },
+      {
+        "x": 35,
+        "y": 11,
+        "label": "china: 11 tweet after 35 minutes"
+      },
+      {
+        "x": 97,
+        "y": 2,
+        "label": "china: 2 tweet after 97 minutes"
+      },
+      {
+        "x": 98,
+        "y": 1,
+        "label": "china: 1 tweet after 98 minutes"
+      },
+      {
+        "x": 180,
+        "y": 2,
+        "label": "china: 2 tweet after 180 minutes"
+      },
+      {
+        "x": 181,
+        "y": 1,
+        "label": "china: 1 tweet after 181 minutes"
+      },
+      {
+        "x": 182,
+        "y": 1,
+        "label": "china: 1 tweet after 182 minutes"
+      },
+      {
+        "x": 100,
+        "y": 6,
+        "label": "china: 6 tweet after 100 minutes"
+      },
+      {
+        "x": 99,
+        "y": 1,
+        "label": "china: 1 tweet after 99 minutes"
+      },
+      {
+        "x": 183,
+        "y": 3,
+        "label": "china: 3 tweet after 183 minutes"
+      },
+      {
+        "x": 36,
+        "y": 12,
+        "label": "china: 12 tweet after 36 minutes"
+      },
+      {
+        "x": 101,
+        "y": 6,
+        "label": "china: 6 tweet after 101 minutes"
+      },
+      {
+        "x": 102,
+        "y": 5,
+        "label": "china: 5 tweet after 102 minutes"
+      },
+      {
+        "x": 184,
+        "y": 3,
+        "label": "china: 3 tweet after 184 minutes"
+      },
+      {
+        "x": 185,
+        "y": 6,
+        "label": "china: 6 tweet after 185 minutes"
+      },
+      {
+        "x": 37,
+        "y": 9,
+        "label": "china: 9 tweet after 37 minutes"
+      },
+      {
+        "x": 104,
+        "y": 1,
+        "label": "china: 1 tweet after 104 minutes"
+      },
+      {
+        "x": 186,
+        "y": 2,
+        "label": "china: 2 tweet after 186 minutes"
+      },
+      {
+        "x": 187,
+        "y": 1,
+        "label": "china: 1 tweet after 187 minutes"
+      },
+      {
+        "x": 38,
+        "y": 5,
+        "label": "china: 5 tweet after 38 minutes"
+      },
+      {
+        "x": 189,
+        "y": 3,
+        "label": "china: 3 tweet after 189 minutes"
+      },
+      {
+        "x": 105,
+        "y": 1,
+        "label": "china: 1 tweet after 105 minutes"
+      },
+      {
+        "x": 39,
+        "y": 14,
+        "label": "china: 14 tweet after 39 minutes"
+      },
+      {
+        "x": 190,
+        "y": 1,
+        "label": "china: 1 tweet after 190 minutes"
+      },
+      {
+        "x": 107,
+        "y": 3,
+        "label": "china: 3 tweet after 107 minutes"
+      },
+      {
+        "x": 106,
+        "y": 2,
+        "label": "china: 2 tweet after 106 minutes"
+      },
+      {
+        "x": 191,
+        "y": 7,
+        "label": "china: 7 tweet after 191 minutes"
+      },
+      {
+        "x": 40,
+        "y": 3,
+        "label": "china: 3 tweet after 40 minutes"
+      },
+      {
+        "x": 192,
+        "y": 1,
+        "label": "china: 1 tweet after 192 minutes"
+      },
+      {
+        "x": 193,
+        "y": 2,
+        "label": "china: 2 tweet after 193 minutes"
+      },
+      {
+        "x": 108,
+        "y": 1,
+        "label": "china: 1 tweet after 108 minutes"
+      },
+      {
+        "x": 41,
+        "y": 2,
+        "label": "china: 2 tweet after 41 minutes"
+      },
+      {
+        "x": 194,
+        "y": 3,
+        "label": "china: 3 tweet after 194 minutes"
+      },
+      {
+        "x": 195,
+        "y": 3,
+        "label": "china: 3 tweet after 195 minutes"
+      },
+      {
+        "x": 110,
+        "y": 1,
+        "label": "china: 1 tweet after 110 minutes"
+      },
+      {
+        "x": 42,
+        "y": 5,
+        "label": "china: 5 tweet after 42 minutes"
+      },
+      {
+        "x": 196,
+        "y": 4,
+        "label": "china: 4 tweet after 196 minutes"
+      },
+      {
+        "x": 111,
+        "y": 2,
+        "label": "china: 2 tweet after 111 minutes"
+      },
+      {
+        "x": 43,
+        "y": 7,
+        "label": "china: 7 tweet after 43 minutes"
+      },
+      {
+        "x": 112,
+        "y": 5,
+        "label": "china: 5 tweet after 112 minutes"
+      },
+      {
+        "x": 113,
+        "y": 3,
+        "label": "china: 3 tweet after 113 minutes"
+      },
+      {
+        "x": 44,
+        "y": 7,
+        "label": "china: 7 tweet after 44 minutes"
+      },
+      {
+        "x": 197,
+        "y": 2,
+        "label": "china: 2 tweet after 197 minutes"
+      },
+      {
+        "x": 115,
+        "y": 3,
+        "label": "china: 3 tweet after 115 minutes"
+      },
+      {
+        "x": 45,
+        "y": 8,
+        "label": "china: 8 tweet after 45 minutes"
+      },
+      {
+        "x": 198,
+        "y": 2,
+        "label": "china: 2 tweet after 198 minutes"
+      },
+      {
+        "x": 116,
+        "y": 2,
+        "label": "china: 2 tweet after 116 minutes"
+      },
+      {
+        "x": 199,
+        "y": 1,
+        "label": "china: 1 tweet after 199 minutes"
+      },
+      {
+        "x": 46,
+        "y": 7,
+        "label": "china: 7 tweet after 46 minutes"
+      },
+      {
+        "x": 200,
+        "y": 2,
+        "label": "china: 2 tweet after 200 minutes"
+      },
+      {
+        "x": 47,
+        "y": 8,
+        "label": "china: 8 tweet after 47 minutes"
+      },
+      {
+        "x": 201,
+        "y": 3,
+        "label": "china: 3 tweet after 201 minutes"
+      },
+      {
+        "x": 118,
+        "y": 8,
+        "label": "china: 8 tweet after 118 minutes"
+      },
+      {
+        "x": 202,
+        "y": 3,
+        "label": "china: 3 tweet after 202 minutes"
+      },
+      {
+        "x": 48,
+        "y": 9,
+        "label": "china: 9 tweet after 48 minutes"
+      },
+      {
+        "x": 119,
+        "y": 3,
+        "label": "china: 3 tweet after 119 minutes"
+      },
+      {
+        "x": 204,
+        "y": 2,
+        "label": "china: 2 tweet after 204 minutes"
+      },
+      {
+        "x": 49,
+        "y": 5,
+        "label": "china: 5 tweet after 49 minutes"
+      },
+      {
+        "x": 120,
+        "y": 2,
+        "label": "china: 2 tweet after 120 minutes"
+      },
+      {
+        "x": 121,
+        "y": 3,
+        "label": "china: 3 tweet after 121 minutes"
+      },
+      {
+        "x": 205,
+        "y": 2,
+        "label": "china: 2 tweet after 205 minutes"
+      },
+      {
+        "x": 206,
+        "y": 5,
+        "label": "china: 5 tweet after 206 minutes"
+      },
+      {
+        "x": 50,
+        "y": 6,
+        "label": "china: 6 tweet after 50 minutes"
+      },
+      {
+        "x": 122,
+        "y": 3,
+        "label": "china: 3 tweet after 122 minutes"
+      },
+      {
+        "x": 207,
+        "y": 2,
+        "label": "china: 2 tweet after 207 minutes"
+      },
+      {
+        "x": 51,
+        "y": 10,
+        "label": "china: 10 tweet after 51 minutes"
+      },
+      {
+        "x": 123,
+        "y": 4,
+        "label": "china: 4 tweet after 123 minutes"
+      },
+      {
+        "x": 124,
+        "y": 1,
+        "label": "china: 1 tweet after 124 minutes"
+      },
+      {
+        "x": 217,
+        "y": 1,
+        "label": "china: 1 tweet after 217 minutes"
+      },
+      {
+        "x": 218,
+        "y": 1,
+        "label": "china: 1 tweet after 218 minutes"
+      },
+      {
+        "x": 219,
+        "y": 2,
+        "label": "china: 2 tweet after 219 minutes"
+      },
+      {
+        "x": 221,
+        "y": 3,
+        "label": "china: 3 tweet after 221 minutes"
+      },
+      {
+        "x": 222,
+        "y": 2,
+        "label": "china: 2 tweet after 222 minutes"
+      },
+      {
+        "x": 223,
+        "y": 2,
+        "label": "china: 2 tweet after 223 minutes"
+      },
+      {
+        "x": 224,
+        "y": 2,
+        "label": "china: 2 tweet after 224 minutes"
+      },
+      {
+        "x": 225,
+        "y": 3,
+        "label": "china: 3 tweet after 225 minutes"
+      },
+      {
+        "x": 226,
+        "y": 4,
+        "label": "china: 4 tweet after 226 minutes"
+      },
+      {
+        "x": 227,
+        "y": 4,
+        "label": "china: 4 tweet after 227 minutes"
+      },
+      {
+        "x": 228,
+        "y": 5,
+        "label": "china: 5 tweet after 228 minutes"
+      },
+      {
+        "x": 229,
+        "y": 3,
+        "label": "china: 3 tweet after 229 minutes"
+      },
+      {
+        "x": 230,
+        "y": 2,
+        "label": "china: 2 tweet after 230 minutes"
+      },
+      {
+        "x": 231,
+        "y": 2,
+        "label": "china: 2 tweet after 231 minutes"
+      },
+      {
+        "x": 232,
+        "y": 3,
+        "label": "china: 3 tweet after 232 minutes"
+      },
+      {
+        "x": 233,
+        "y": 1,
+        "label": "china: 1 tweet after 233 minutes"
+      },
+      {
+        "x": 234,
+        "y": 1,
+        "label": "china: 1 tweet after 234 minutes"
+      },
+      {
+        "x": 235,
+        "y": 1,
+        "label": "china: 1 tweet after 235 minutes"
+      },
+      {
+        "x": 236,
+        "y": 6,
+        "label": "china: 6 tweet after 236 minutes"
+      },
+      {
+        "x": 237,
+        "y": 1,
+        "label": "china: 1 tweet after 237 minutes"
+      },
+      {
+        "x": 238,
+        "y": 3,
+        "label": "china: 3 tweet after 238 minutes"
+      }
+    ]
+  },
+  {
+    "name": "earthquake",
+    "color": "rgba(9, 74, 185, .5)",
+    "data": [
+      {
+        "x": -15,
+        "y": 5,
+        "label": "earthquake: 5 tweet before -15 minutes"
+      },
+      {
+        "x": -14,
+        "y": 5,
+        "label": "earthquake: 5 tweet before -14 minutes"
+      },
+      {
+        "x": 52,
+        "y": 21,
+        "label": "earthquake: 21 tweet after 52 minutes"
+      },
+      {
+        "x": 53,
+        "y": 26,
+        "label": "earthquake: 26 tweet after 53 minutes"
+      },
+      {
+        "x": 125,
+        "y": 8,
+        "label": "earthquake: 8 tweet after 125 minutes"
+      },
+      {
+        "x": 124,
+        "y": 11,
+        "label": "earthquake: 11 tweet after 124 minutes"
+      },
+      {
+        "x": 126,
+        "y": 6,
+        "label": "earthquake: 6 tweet after 126 minutes"
+      },
+      {
+        "x": -13,
+        "y": 7,
+        "label": "earthquake: 7 tweet before -13 minutes"
+      },
+      {
+        "x": 127,
+        "y": 8,
+        "label": "earthquake: 8 tweet after 127 minutes"
+      },
+      {
+        "x": -12,
+        "y": 11,
+        "label": "earthquake: 11 tweet before -12 minutes"
+      },
+      {
+        "x": 128,
+        "y": 9,
+        "label": "earthquake: 9 tweet after 128 minutes"
+      },
+      {
+        "x": -11,
+        "y": 7,
+        "label": "earthquake: 7 tweet before -11 minutes"
+      },
+      {
+        "x": 54,
+        "y": 16,
+        "label": "earthquake: 16 tweet after 54 minutes"
+      },
+      {
+        "x": -10,
+        "y": 6,
+        "label": "earthquake: 6 tweet before -10 minutes"
+      },
+      {
+        "x": -9,
+        "y": 10,
+        "label": "earthquake: 10 tweet before -9 minutes"
+      },
+      {
+        "x": 129,
+        "y": 4,
+        "label": "earthquake: 4 tweet after 129 minutes"
+      },
+      {
+        "x": 130,
+        "y": 7,
+        "label": "earthquake: 7 tweet after 130 minutes"
+      },
+      {
+        "x": -8,
+        "y": 6,
+        "label": "earthquake: 6 tweet before -8 minutes"
+      },
+      {
+        "x": 55,
+        "y": 19,
+        "label": "earthquake: 19 tweet after 55 minutes"
+      },
+      {
+        "x": -7,
+        "y": 11,
+        "label": "earthquake: 11 tweet before -7 minutes"
+      },
+      {
+        "x": 131,
+        "y": 11,
+        "label": "earthquake: 11 tweet after 131 minutes"
+      },
+      {
+        "x": -6,
+        "y": 9,
+        "label": "earthquake: 9 tweet before -6 minutes"
+      },
+      {
+        "x": 56,
+        "y": 21,
+        "label": "earthquake: 21 tweet after 56 minutes"
+      },
+      {
+        "x": 132,
+        "y": 4,
+        "label": "earthquake: 4 tweet after 132 minutes"
+      },
+      {
+        "x": -5,
+        "y": 7,
+        "label": "earthquake: 7 tweet before -5 minutes"
+      },
+      {
+        "x": 133,
+        "y": 7,
+        "label": "earthquake: 7 tweet after 133 minutes"
+      },
+      {
+        "x": 134,
+        "y": 6,
+        "label": "earthquake: 6 tweet after 134 minutes"
+      },
+      {
+        "x": -4,
+        "y": 7,
+        "label": "earthquake: 7 tweet before -4 minutes"
+      },
+      {
+        "x": -3,
+        "y": 4,
+        "label": "earthquake: 4 tweet before -3 minutes"
+      },
+      {
+        "x": 57,
+        "y": 18,
+        "label": "earthquake: 18 tweet after 57 minutes"
+      },
+      {
+        "x": -2,
+        "y": 14,
+        "label": "earthquake: 14 tweet before -2 minutes"
+      },
+      {
+        "x": 58,
+        "y": 13,
+        "label": "earthquake: 13 tweet after 58 minutes"
+      },
+      {
+        "x": 135,
+        "y": 2,
+        "label": "earthquake: 2 tweet after 135 minutes"
+      },
+      {
+        "x": 136,
+        "y": 6,
+        "label": "earthquake: 6 tweet after 136 minutes"
+      },
+      {
+        "x": -1,
+        "y": 6,
+        "label": "earthquake: 6 tweet before -1 minutes"
+      },
+      {
+        "x": 137,
+        "y": 5,
+        "label": "earthquake: 5 tweet after 137 minutes"
+      },
+      {
+        "x": 0,
+        "y": 6,
+        "label": "earthquake: 6 tweet after 0 minutes"
+      },
+      {
+        "x": 1,
+        "y": 7,
+        "label": "earthquake: 7 tweet after 1 minutes"
+      },
+      {
+        "x": 59,
+        "y": 16,
+        "label": "earthquake: 16 tweet after 59 minutes"
+      },
+      {
+        "x": 138,
+        "y": 6,
+        "label": "earthquake: 6 tweet after 138 minutes"
+      },
+      {
+        "x": 2,
+        "y": 4,
+        "label": "earthquake: 4 tweet after 2 minutes"
+      },
+      {
+        "x": 60,
+        "y": 25,
+        "label": "earthquake: 25 tweet after 60 minutes"
+      },
+      {
+        "x": 139,
+        "y": 12,
+        "label": "earthquake: 12 tweet after 139 minutes"
+      },
+      {
+        "x": 3,
+        "y": 2,
+        "label": "earthquake: 2 tweet after 3 minutes"
+      },
+      {
+        "x": 4,
+        "y": 6,
+        "label": "earthquake: 6 tweet after 4 minutes"
+      },
+      {
+        "x": 61,
+        "y": 11,
+        "label": "earthquake: 11 tweet after 61 minutes"
+      },
+      {
+        "x": 140,
+        "y": 7,
+        "label": "earthquake: 7 tweet after 140 minutes"
+      },
+      {
+        "x": 141,
+        "y": 14,
+        "label": "earthquake: 14 tweet after 141 minutes"
+      },
+      {
+        "x": 5,
+        "y": 6,
+        "label": "earthquake: 6 tweet after 5 minutes"
+      },
+      {
+        "x": 142,
+        "y": 24,
+        "label": "earthquake: 24 tweet after 142 minutes"
+      },
+      {
+        "x": 6,
+        "y": 10,
+        "label": "earthquake: 10 tweet after 6 minutes"
+      },
+      {
+        "x": 62,
+        "y": 12,
+        "label": "earthquake: 12 tweet after 62 minutes"
+      },
+      {
+        "x": 7,
+        "y": 16,
+        "label": "earthquake: 16 tweet after 7 minutes"
+      },
+      {
+        "x": 63,
+        "y": 6,
+        "label": "earthquake: 6 tweet after 63 minutes"
+      },
+      {
+        "x": 8,
+        "y": 9,
+        "label": "earthquake: 9 tweet after 8 minutes"
+      },
+      {
+        "x": 143,
+        "y": 19,
+        "label": "earthquake: 19 tweet after 143 minutes"
+      },
+      {
+        "x": 64,
+        "y": 8,
+        "label": "earthquake: 8 tweet after 64 minutes"
+      },
+      {
+        "x": 9,
+        "y": 7,
+        "label": "earthquake: 7 tweet after 9 minutes"
+      },
+      {
+        "x": 10,
+        "y": 16,
+        "label": "earthquake: 16 tweet after 10 minutes"
+      },
+      {
+        "x": 144,
+        "y": 18,
+        "label": "earthquake: 18 tweet after 144 minutes"
+      },
+      {
+        "x": 65,
+        "y": 6,
+        "label": "earthquake: 6 tweet after 65 minutes"
+      },
+      {
+        "x": 66,
+        "y": 14,
+        "label": "earthquake: 14 tweet after 66 minutes"
+      },
+      {
+        "x": 11,
+        "y": 7,
+        "label": "earthquake: 7 tweet after 11 minutes"
+      },
+      {
+        "x": 12,
+        "y": 11,
+        "label": "earthquake: 11 tweet after 12 minutes"
+      },
+      {
+        "x": 145,
+        "y": 14,
+        "label": "earthquake: 14 tweet after 145 minutes"
+      },
+      {
+        "x": 67,
+        "y": 13,
+        "label": "earthquake: 13 tweet after 67 minutes"
+      },
+      {
+        "x": 146,
+        "y": 5,
+        "label": "earthquake: 5 tweet after 146 minutes"
+      },
+      {
+        "x": 13,
+        "y": 4,
+        "label": "earthquake: 4 tweet after 13 minutes"
+      },
+      {
+        "x": 14,
+        "y": 11,
+        "label": "earthquake: 11 tweet after 14 minutes"
+      },
+      {
+        "x": 147,
+        "y": 13,
+        "label": "earthquake: 13 tweet after 147 minutes"
+      },
+      {
+        "x": 15,
+        "y": 10,
+        "label": "earthquake: 10 tweet after 15 minutes"
+      },
+      {
+        "x": 68,
+        "y": 10,
+        "label": "earthquake: 10 tweet after 68 minutes"
+      },
+      {
+        "x": 148,
+        "y": 6,
+        "label": "earthquake: 6 tweet after 148 minutes"
+      },
+      {
+        "x": 69,
+        "y": 11,
+        "label": "earthquake: 11 tweet after 69 minutes"
+      },
+      {
+        "x": 149,
+        "y": 7,
+        "label": "earthquake: 7 tweet after 149 minutes"
+      },
+      {
+        "x": 16,
+        "y": 20,
+        "label": "earthquake: 20 tweet after 16 minutes"
+      },
+      {
+        "x": 150,
+        "y": 7,
+        "label": "earthquake: 7 tweet after 150 minutes"
+      },
+      {
+        "x": 70,
+        "y": 12,
+        "label": "earthquake: 12 tweet after 70 minutes"
+      },
+      {
+        "x": 210,
+        "y": 8,
+        "label": "earthquake: 8 tweet after 210 minutes"
+      },
+      {
+        "x": 209,
+        "y": 1,
+        "label": "earthquake: 1 tweet after 209 minutes"
+      },
+      {
+        "x": 211,
+        "y": 3,
+        "label": "earthquake: 3 tweet after 211 minutes"
+      },
+      {
+        "x": 212,
+        "y": 6,
+        "label": "earthquake: 6 tweet after 212 minutes"
+      },
+      {
+        "x": 213,
+        "y": 11,
+        "label": "earthquake: 11 tweet after 213 minutes"
+      },
+      {
+        "x": 214,
+        "y": 11,
+        "label": "earthquake: 11 tweet after 214 minutes"
+      },
+      {
+        "x": 151,
+        "y": 7,
+        "label": "earthquake: 7 tweet after 151 minutes"
+      },
+      {
+        "x": 17,
+        "y": 13,
+        "label": "earthquake: 13 tweet after 17 minutes"
+      },
+      {
+        "x": 152,
+        "y": 5,
+        "label": "earthquake: 5 tweet after 152 minutes"
+      },
+      {
+        "x": 153,
+        "y": 14,
+        "label": "earthquake: 14 tweet after 153 minutes"
+      },
+      {
+        "x": 18,
+        "y": 12,
+        "label": "earthquake: 12 tweet after 18 minutes"
+      },
+      {
+        "x": 71,
+        "y": 9,
+        "label": "earthquake: 9 tweet after 71 minutes"
+      },
+      {
+        "x": 72,
+        "y": 7,
+        "label": "earthquake: 7 tweet after 72 minutes"
+      },
+      {
+        "x": 154,
+        "y": 15,
+        "label": "earthquake: 15 tweet after 154 minutes"
+      },
+      {
+        "x": 19,
+        "y": 13,
+        "label": "earthquake: 13 tweet after 19 minutes"
+      },
+      {
+        "x": 73,
+        "y": 12,
+        "label": "earthquake: 12 tweet after 73 minutes"
+      },
+      {
+        "x": 155,
+        "y": 9,
+        "label": "earthquake: 9 tweet after 155 minutes"
+      },
+      {
+        "x": 20,
+        "y": 14,
+        "label": "earthquake: 14 tweet after 20 minutes"
+      },
+      {
+        "x": 74,
+        "y": 10,
+        "label": "earthquake: 10 tweet after 74 minutes"
+      },
+      {
+        "x": 156,
+        "y": 9,
+        "label": "earthquake: 9 tweet after 156 minutes"
+      },
+      {
+        "x": 21,
+        "y": 15,
+        "label": "earthquake: 15 tweet after 21 minutes"
+      },
+      {
+        "x": 157,
+        "y": 7,
+        "label": "earthquake: 7 tweet after 157 minutes"
+      },
+      {
+        "x": 215,
+        "y": 3,
+        "label": "earthquake: 3 tweet after 215 minutes"
+      },
+      {
+        "x": 216,
+        "y": 6,
+        "label": "earthquake: 6 tweet after 216 minutes"
+      },
+      {
+        "x": 75,
+        "y": 12,
+        "label": "earthquake: 12 tweet after 75 minutes"
+      },
+      {
+        "x": 76,
+        "y": 7,
+        "label": "earthquake: 7 tweet after 76 minutes"
+      },
+      {
+        "x": 22,
+        "y": 6,
+        "label": "earthquake: 6 tweet after 22 minutes"
+      },
+      {
+        "x": 23,
+        "y": 16,
+        "label": "earthquake: 16 tweet after 23 minutes"
+      },
+      {
+        "x": 158,
+        "y": 7,
+        "label": "earthquake: 7 tweet after 158 minutes"
+      },
+      {
+        "x": 159,
+        "y": 5,
+        "label": "earthquake: 5 tweet after 159 minutes"
+      },
+      {
+        "x": 77,
+        "y": 13,
+        "label": "earthquake: 13 tweet after 77 minutes"
+      },
+      {
+        "x": 160,
+        "y": 5,
+        "label": "earthquake: 5 tweet after 160 minutes"
+      },
+      {
+        "x": 24,
+        "y": 16,
+        "label": "earthquake: 16 tweet after 24 minutes"
+      },
+      {
+        "x": 78,
+        "y": 9,
+        "label": "earthquake: 9 tweet after 78 minutes"
+      },
+      {
+        "x": 161,
+        "y": 9,
+        "label": "earthquake: 9 tweet after 161 minutes"
+      },
+      {
+        "x": 25,
+        "y": 18,
+        "label": "earthquake: 18 tweet after 25 minutes"
+      },
+      {
+        "x": 162,
+        "y": 9,
+        "label": "earthquake: 9 tweet after 162 minutes"
+      },
+      {
+        "x": 79,
+        "y": 11,
+        "label": "earthquake: 11 tweet after 79 minutes"
+      },
+      {
+        "x": 163,
+        "y": 11,
+        "label": "earthquake: 11 tweet after 163 minutes"
+      },
+      {
+        "x": 26,
+        "y": 23,
+        "label": "earthquake: 23 tweet after 26 minutes"
+      },
+      {
+        "x": 80,
+        "y": 8,
+        "label": "earthquake: 8 tweet after 80 minutes"
+      },
+      {
+        "x": 164,
+        "y": 11,
+        "label": "earthquake: 11 tweet after 164 minutes"
+      },
+      {
+        "x": 81,
+        "y": 8,
+        "label": "earthquake: 8 tweet after 81 minutes"
+      },
+      {
+        "x": 165,
+        "y": 10,
+        "label": "earthquake: 10 tweet after 165 minutes"
+      },
+      {
+        "x": 82,
+        "y": 6,
+        "label": "earthquake: 6 tweet after 82 minutes"
+      },
+      {
+        "x": 27,
+        "y": 12,
+        "label": "earthquake: 12 tweet after 27 minutes"
+      },
+      {
+        "x": 166,
+        "y": 11,
+        "label": "earthquake: 11 tweet after 166 minutes"
+      },
+      {
+        "x": 83,
+        "y": 2,
+        "label": "earthquake: 2 tweet after 83 minutes"
+      },
+      {
+        "x": 84,
+        "y": 8,
+        "label": "earthquake: 8 tweet after 84 minutes"
+      },
+      {
+        "x": 28,
+        "y": 15,
+        "label": "earthquake: 15 tweet after 28 minutes"
+      },
+      {
+        "x": 167,
+        "y": 3,
+        "label": "earthquake: 3 tweet after 167 minutes"
+      },
+      {
+        "x": 168,
+        "y": 11,
+        "label": "earthquake: 11 tweet after 168 minutes"
+      },
+      {
+        "x": 85,
+        "y": 15,
+        "label": "earthquake: 15 tweet after 85 minutes"
+      },
+      {
+        "x": 169,
+        "y": 11,
+        "label": "earthquake: 11 tweet after 169 minutes"
+      },
+      {
+        "x": 86,
+        "y": 5,
+        "label": "earthquake: 5 tweet after 86 minutes"
+      },
+      {
+        "x": 29,
+        "y": 11,
+        "label": "earthquake: 11 tweet after 29 minutes"
+      },
+      {
+        "x": 30,
+        "y": 10,
+        "label": "earthquake: 10 tweet after 30 minutes"
+      },
+      {
+        "x": 87,
+        "y": 9,
+        "label": "earthquake: 9 tweet after 87 minutes"
+      },
+      {
+        "x": 31,
+        "y": 18,
+        "label": "earthquake: 18 tweet after 31 minutes"
+      },
+      {
+        "x": 170,
+        "y": 10,
+        "label": "earthquake: 10 tweet after 170 minutes"
+      },
+      {
+        "x": 171,
+        "y": 15,
+        "label": "earthquake: 15 tweet after 171 minutes"
+      },
+      {
+        "x": 88,
+        "y": 7,
+        "label": "earthquake: 7 tweet after 88 minutes"
+      },
+      {
+        "x": 89,
+        "y": 6,
+        "label": "earthquake: 6 tweet after 89 minutes"
+      },
+      {
+        "x": 32,
+        "y": 17,
+        "label": "earthquake: 17 tweet after 32 minutes"
+      },
+      {
+        "x": 90,
+        "y": 9,
+        "label": "earthquake: 9 tweet after 90 minutes"
+      },
+      {
+        "x": 172,
+        "y": 4,
+        "label": "earthquake: 4 tweet after 172 minutes"
+      },
+      {
+        "x": 91,
+        "y": 9,
+        "label": "earthquake: 9 tweet after 91 minutes"
+      },
+      {
+        "x": 173,
+        "y": 2,
+        "label": "earthquake: 2 tweet after 173 minutes"
+      },
+      {
+        "x": 174,
+        "y": 2,
+        "label": "earthquake: 2 tweet after 174 minutes"
+      },
+      {
+        "x": 92,
+        "y": 7,
+        "label": "earthquake: 7 tweet after 92 minutes"
+      },
+      {
+        "x": 175,
+        "y": 5,
+        "label": "earthquake: 5 tweet after 175 minutes"
+      },
+      {
+        "x": 176,
+        "y": 9,
+        "label": "earthquake: 9 tweet after 176 minutes"
+      },
+      {
+        "x": 33,
+        "y": 9,
+        "label": "earthquake: 9 tweet after 33 minutes"
+      },
+      {
+        "x": 177,
+        "y": 1,
+        "label": "earthquake: 1 tweet after 177 minutes"
+      },
+      {
+        "x": 93,
+        "y": 6,
+        "label": "earthquake: 6 tweet after 93 minutes"
+      },
+      {
+        "x": 94,
+        "y": 4,
+        "label": "earthquake: 4 tweet after 94 minutes"
+      },
+      {
+        "x": 178,
+        "y": 7,
+        "label": "earthquake: 7 tweet after 178 minutes"
+      },
+      {
+        "x": 34,
+        "y": 8,
+        "label": "earthquake: 8 tweet after 34 minutes"
+      },
+      {
+        "x": 95,
+        "y": 9,
+        "label": "earthquake: 9 tweet after 95 minutes"
+      },
+      {
+        "x": 179,
+        "y": 6,
+        "label": "earthquake: 6 tweet after 179 minutes"
+      },
+      {
+        "x": 180,
+        "y": 16,
+        "label": "earthquake: 16 tweet after 180 minutes"
+      },
+      {
+        "x": 96,
+        "y": 7,
+        "label": "earthquake: 7 tweet after 96 minutes"
+      },
+      {
+        "x": 35,
+        "y": 15,
+        "label": "earthquake: 15 tweet after 35 minutes"
+      },
+      {
+        "x": 97,
+        "y": 8,
+        "label": "earthquake: 8 tweet after 97 minutes"
+      },
+      {
+        "x": 98,
+        "y": 4,
+        "label": "earthquake: 4 tweet after 98 minutes"
+      },
+      {
+        "x": 181,
+        "y": 6,
+        "label": "earthquake: 6 tweet after 181 minutes"
+      },
+      {
+        "x": 99,
+        "y": 4,
+        "label": "earthquake: 4 tweet after 99 minutes"
+      },
+      {
+        "x": 100,
+        "y": 7,
+        "label": "earthquake: 7 tweet after 100 minutes"
+      },
+      {
+        "x": 182,
+        "y": 6,
+        "label": "earthquake: 6 tweet after 182 minutes"
+      },
+      {
+        "x": 183,
+        "y": 9,
+        "label": "earthquake: 9 tweet after 183 minutes"
+      },
+      {
+        "x": 101,
+        "y": 9,
+        "label": "earthquake: 9 tweet after 101 minutes"
+      },
+      {
+        "x": 184,
+        "y": 6,
+        "label": "earthquake: 6 tweet after 184 minutes"
+      },
+      {
+        "x": 36,
+        "y": 19,
+        "label": "earthquake: 19 tweet after 36 minutes"
+      },
+      {
+        "x": 185,
+        "y": 5,
+        "label": "earthquake: 5 tweet after 185 minutes"
+      },
+      {
+        "x": 37,
+        "y": 15,
+        "label": "earthquake: 15 tweet after 37 minutes"
+      },
+      {
+        "x": 102,
+        "y": 2,
+        "label": "earthquake: 2 tweet after 102 minutes"
+      },
+      {
+        "x": 103,
+        "y": 1,
+        "label": "earthquake: 1 tweet after 103 minutes"
+      },
+      {
+        "x": 104,
+        "y": 11,
+        "label": "earthquake: 11 tweet after 104 minutes"
+      },
+      {
+        "x": 105,
+        "y": 15,
+        "label": "earthquake: 15 tweet after 105 minutes"
+      },
+      {
+        "x": 186,
+        "y": 3,
+        "label": "earthquake: 3 tweet after 186 minutes"
+      },
+      {
+        "x": 187,
+        "y": 8,
+        "label": "earthquake: 8 tweet after 187 minutes"
+      },
+      {
+        "x": 188,
+        "y": 10,
+        "label": "earthquake: 10 tweet after 188 minutes"
+      },
+      {
+        "x": 38,
+        "y": 10,
+        "label": "earthquake: 10 tweet after 38 minutes"
+      },
+      {
+        "x": 189,
+        "y": 6,
+        "label": "earthquake: 6 tweet after 189 minutes"
+      },
+      {
+        "x": 106,
+        "y": 9,
+        "label": "earthquake: 9 tweet after 106 minutes"
+      },
+      {
+        "x": 39,
+        "y": 17,
+        "label": "earthquake: 17 tweet after 39 minutes"
+      },
+      {
+        "x": 190,
+        "y": 4,
+        "label": "earthquake: 4 tweet after 190 minutes"
+      },
+      {
+        "x": 191,
+        "y": 8,
+        "label": "earthquake: 8 tweet after 191 minutes"
+      },
+      {
+        "x": 107,
+        "y": 13,
+        "label": "earthquake: 13 tweet after 107 minutes"
+      },
+      {
+        "x": 40,
+        "y": 10,
+        "label": "earthquake: 10 tweet after 40 minutes"
+      },
+      {
+        "x": 192,
+        "y": 1,
+        "label": "earthquake: 1 tweet after 192 minutes"
+      },
+      {
+        "x": 108,
+        "y": 9,
+        "label": "earthquake: 9 tweet after 108 minutes"
+      },
+      {
+        "x": 193,
+        "y": 5,
+        "label": "earthquake: 5 tweet after 193 minutes"
+      },
+      {
+        "x": 109,
+        "y": 10,
+        "label": "earthquake: 10 tweet after 109 minutes"
+      },
+      {
+        "x": 41,
+        "y": 6,
+        "label": "earthquake: 6 tweet after 41 minutes"
+      },
+      {
+        "x": 194,
+        "y": 9,
+        "label": "earthquake: 9 tweet after 194 minutes"
+      },
+      {
+        "x": 195,
+        "y": 11,
+        "label": "earthquake: 11 tweet after 195 minutes"
+      },
+      {
+        "x": 110,
+        "y": 5,
+        "label": "earthquake: 5 tweet after 110 minutes"
+      },
+      {
+        "x": 42,
+        "y": 13,
+        "label": "earthquake: 13 tweet after 42 minutes"
+      },
+      {
+        "x": 111,
+        "y": 7,
+        "label": "earthquake: 7 tweet after 111 minutes"
+      },
+      {
+        "x": 196,
+        "y": 12,
+        "label": "earthquake: 12 tweet after 196 minutes"
+      },
+      {
+        "x": 112,
+        "y": 2,
+        "label": "earthquake: 2 tweet after 112 minutes"
+      },
+      {
+        "x": 43,
+        "y": 10,
+        "label": "earthquake: 10 tweet after 43 minutes"
+      },
+      {
+        "x": 197,
+        "y": 19,
+        "label": "earthquake: 19 tweet after 197 minutes"
+      },
+      {
+        "x": 113,
+        "y": 10,
+        "label": "earthquake: 10 tweet after 113 minutes"
+      },
+      {
+        "x": 114,
+        "y": 13,
+        "label": "earthquake: 13 tweet after 114 minutes"
+      },
+      {
+        "x": 44,
+        "y": 12,
+        "label": "earthquake: 12 tweet after 44 minutes"
+      },
+      {
+        "x": 198,
+        "y": 12,
+        "label": "earthquake: 12 tweet after 198 minutes"
+      },
+      {
+        "x": 115,
+        "y": 18,
+        "label": "earthquake: 18 tweet after 115 minutes"
+      },
+      {
+        "x": 45,
+        "y": 12,
+        "label": "earthquake: 12 tweet after 45 minutes"
+      },
+      {
+        "x": 199,
+        "y": 7,
+        "label": "earthquake: 7 tweet after 199 minutes"
+      },
+      {
+        "x": 116,
+        "y": 11,
+        "label": "earthquake: 11 tweet after 116 minutes"
+      },
+      {
+        "x": 46,
+        "y": 11,
+        "label": "earthquake: 11 tweet after 46 minutes"
+      },
+      {
+        "x": 200,
+        "y": 4,
+        "label": "earthquake: 4 tweet after 200 minutes"
+      },
+      {
+        "x": 117,
+        "y": 11,
+        "label": "earthquake: 11 tweet after 117 minutes"
+      },
+      {
+        "x": 201,
+        "y": 13,
+        "label": "earthquake: 13 tweet after 201 minutes"
+      },
+      {
+        "x": 118,
+        "y": 18,
+        "label": "earthquake: 18 tweet after 118 minutes"
+      },
+      {
+        "x": 47,
+        "y": 6,
+        "label": "earthquake: 6 tweet after 47 minutes"
+      },
+      {
+        "x": 119,
+        "y": 14,
+        "label": "earthquake: 14 tweet after 119 minutes"
+      },
+      {
+        "x": 202,
+        "y": 7,
+        "label": "earthquake: 7 tweet after 202 minutes"
+      },
+      {
+        "x": 203,
+        "y": 9,
+        "label": "earthquake: 9 tweet after 203 minutes"
+      },
+      {
+        "x": 48,
+        "y": 16,
+        "label": "earthquake: 16 tweet after 48 minutes"
+      },
+      {
+        "x": 204,
+        "y": 11,
+        "label": "earthquake: 11 tweet after 204 minutes"
+      },
+      {
+        "x": 49,
+        "y": 14,
+        "label": "earthquake: 14 tweet after 49 minutes"
+      },
+      {
+        "x": 120,
+        "y": 2,
+        "label": "earthquake: 2 tweet after 120 minutes"
+      },
+      {
+        "x": 121,
+        "y": 7,
+        "label": "earthquake: 7 tweet after 121 minutes"
+      },
+      {
+        "x": 122,
+        "y": 7,
+        "label": "earthquake: 7 tweet after 122 minutes"
+      },
+      {
+        "x": 205,
+        "y": 6,
+        "label": "earthquake: 6 tweet after 205 minutes"
+      },
+      {
+        "x": 206,
+        "y": 12,
+        "label": "earthquake: 12 tweet after 206 minutes"
+      },
+      {
+        "x": 50,
+        "y": 6,
+        "label": "earthquake: 6 tweet after 50 minutes"
+      },
+      {
+        "x": 123,
+        "y": 11,
+        "label": "earthquake: 11 tweet after 123 minutes"
+      },
+      {
+        "x": 207,
+        "y": 10,
+        "label": "earthquake: 10 tweet after 207 minutes"
+      },
+      {
+        "x": 51,
+        "y": 12,
+        "label": "earthquake: 12 tweet after 51 minutes"
+      },
+      {
+        "x": 208,
+        "y": 1,
+        "label": "earthquake: 1 tweet after 208 minutes"
+      },
+      {
+        "x": 217,
+        "y": 13,
+        "label": "earthquake: 13 tweet after 217 minutes"
+      },
+      {
+        "x": 220,
+        "y": 1,
+        "label": "earthquake: 1 tweet after 220 minutes"
+      },
+      {
+        "x": 219,
+        "y": 5,
+        "label": "earthquake: 5 tweet after 219 minutes"
+      },
+      {
+        "x": 221,
+        "y": 14,
+        "label": "earthquake: 14 tweet after 221 minutes"
+      },
+      {
+        "x": 222,
+        "y": 6,
+        "label": "earthquake: 6 tweet after 222 minutes"
+      },
+      {
+        "x": 223,
+        "y": 16,
+        "label": "earthquake: 16 tweet after 223 minutes"
+      },
+      {
+        "x": 224,
+        "y": 3,
+        "label": "earthquake: 3 tweet after 224 minutes"
+      },
+      {
+        "x": 225,
+        "y": 7,
+        "label": "earthquake: 7 tweet after 225 minutes"
+      },
+      {
+        "x": 226,
+        "y": 6,
+        "label": "earthquake: 6 tweet after 226 minutes"
+      },
+      {
+        "x": 227,
+        "y": 12,
+        "label": "earthquake: 12 tweet after 227 minutes"
+      },
+      {
+        "x": 228,
+        "y": 9,
+        "label": "earthquake: 9 tweet after 228 minutes"
+      },
+      {
+        "x": 229,
+        "y": 11,
+        "label": "earthquake: 11 tweet after 229 minutes"
+      },
+      {
+        "x": 230,
+        "y": 9,
+        "label": "earthquake: 9 tweet after 230 minutes"
+      },
+      {
+        "x": 231,
+        "y": 7,
+        "label": "earthquake: 7 tweet after 231 minutes"
+      },
+      {
+        "x": 232,
+        "y": 7,
+        "label": "earthquake: 7 tweet after 232 minutes"
+      },
+      {
+        "x": 233,
+        "y": 9,
+        "label": "earthquake: 9 tweet after 233 minutes"
+      },
+      {
+        "x": 234,
+        "y": 6,
+        "label": "earthquake: 6 tweet after 234 minutes"
+      },
+      {
+        "x": 235,
+        "y": 5,
+        "label": "earthquake: 5 tweet after 235 minutes"
+      },
+      {
+        "x": 236,
+        "y": 6,
+        "label": "earthquake: 6 tweet after 236 minutes"
+      },
+      {
+        "x": 237,
+        "y": 5,
+        "label": "earthquake: 5 tweet after 237 minutes"
+      },
+      {
+        "x": 238,
+        "y": 4,
+        "label": "earthquake: 4 tweet after 238 minutes"
+      },
+      {
+        "x": 239,
+        "y": 10,
+        "label": "earthquake: 10 tweet after 239 minutes"
+      }
+    ]
+  },
+  {
+    "name": "terremoto",
+    "color": "rgba(185, 44, 9, .5)",
+    "data": [
+      {
+        "x": 52,
+        "y": 1,
+        "label": "terremoto: 1 tweet after 52 minutes"
+      },
+      {
+        "x": -14,
+        "y": 1,
+        "label": "terremoto: 1 tweet before -14 minutes"
+      },
+      {
+        "x": 53,
+        "y": 6,
+        "label": "terremoto: 6 tweet after 53 minutes"
+      },
+      {
+        "x": 126,
+        "y": 4,
+        "label": "terremoto: 4 tweet after 126 minutes"
+      },
+      {
+        "x": -13,
+        "y": 1,
+        "label": "terremoto: 1 tweet before -13 minutes"
+      },
+      {
+        "x": -12,
+        "y": 3,
+        "label": "terremoto: 3 tweet before -12 minutes"
+      },
+      {
+        "x": 127,
+        "y": 3,
+        "label": "terremoto: 3 tweet after 127 minutes"
+      },
+      {
+        "x": -8,
+        "y": 2,
+        "label": "terremoto: 2 tweet before -8 minutes"
+      },
+      {
+        "x": 54,
+        "y": 1,
+        "label": "terremoto: 1 tweet after 54 minutes"
+      },
+      {
+        "x": 131,
+        "y": 3,
+        "label": "terremoto: 3 tweet after 131 minutes"
+      },
+      {
+        "x": -7,
+        "y": 1,
+        "label": "terremoto: 1 tweet before -7 minutes"
+      },
+      {
+        "x": 55,
+        "y": 4,
+        "label": "terremoto: 4 tweet after 55 minutes"
+      },
+      {
+        "x": 132,
+        "y": 5,
+        "label": "terremoto: 5 tweet after 132 minutes"
+      },
+      {
+        "x": -5,
+        "y": 2,
+        "label": "terremoto: 2 tweet before -5 minutes"
+      },
+      {
+        "x": -4,
+        "y": 1,
+        "label": "terremoto: 1 tweet before -4 minutes"
+      },
+      {
+        "x": 56,
+        "y": 3,
+        "label": "terremoto: 3 tweet after 56 minutes"
+      },
+      {
+        "x": 133,
+        "y": 2,
+        "label": "terremoto: 2 tweet after 133 minutes"
+      },
+      {
+        "x": -3,
+        "y": 1,
+        "label": "terremoto: 1 tweet before -3 minutes"
+      },
+      {
+        "x": 134,
+        "y": 2,
+        "label": "terremoto: 2 tweet after 134 minutes"
+      },
+      {
+        "x": 135,
+        "y": 5,
+        "label": "terremoto: 5 tweet after 135 minutes"
+      },
+      {
+        "x": 57,
+        "y": 1,
+        "label": "terremoto: 1 tweet after 57 minutes"
+      },
+      {
+        "x": 136,
+        "y": 4,
+        "label": "terremoto: 4 tweet after 136 minutes"
+      },
+      {
+        "x": -1,
+        "y": 1,
+        "label": "terremoto: 1 tweet before -1 minutes"
+      },
+      {
+        "x": 58,
+        "y": 3,
+        "label": "terremoto: 3 tweet after 58 minutes"
+      },
+      {
+        "x": 137,
+        "y": 6,
+        "label": "terremoto: 6 tweet after 137 minutes"
+      },
+      {
+        "x": 0,
+        "y": 1,
+        "label": "terremoto: 1 tweet after 0 minutes"
+      },
+      {
+        "x": 1,
+        "y": 1,
+        "label": "terremoto: 1 tweet after 1 minutes"
+      },
+      {
+        "x": 59,
+        "y": 3,
+        "label": "terremoto: 3 tweet after 59 minutes"
+      },
+      {
+        "x": 138,
+        "y": 2,
+        "label": "terremoto: 2 tweet after 138 minutes"
+      },
+      {
+        "x": 139,
+        "y": 5,
+        "label": "terremoto: 5 tweet after 139 minutes"
+      },
+      {
+        "x": 3,
+        "y": 1,
+        "label": "terremoto: 1 tweet after 3 minutes"
+      },
+      {
+        "x": 60,
+        "y": 3,
+        "label": "terremoto: 3 tweet after 60 minutes"
+      },
+      {
+        "x": 140,
+        "y": 2,
+        "label": "terremoto: 2 tweet after 140 minutes"
+      },
+      {
+        "x": 4,
+        "y": 2,
+        "label": "terremoto: 2 tweet after 4 minutes"
+      },
+      {
+        "x": 5,
+        "y": 3,
+        "label": "terremoto: 3 tweet after 5 minutes"
+      },
+      {
+        "x": 141,
+        "y": 2,
+        "label": "terremoto: 2 tweet after 141 minutes"
+      },
+      {
+        "x": 61,
+        "y": 1,
+        "label": "terremoto: 1 tweet after 61 minutes"
+      },
+      {
+        "x": 142,
+        "y": 3,
+        "label": "terremoto: 3 tweet after 142 minutes"
+      },
+      {
+        "x": 7,
+        "y": 8,
+        "label": "terremoto: 8 tweet after 7 minutes"
+      },
+      {
+        "x": 8,
+        "y": 4,
+        "label": "terremoto: 4 tweet after 8 minutes"
+      },
+      {
+        "x": 63,
+        "y": 4,
+        "label": "terremoto: 4 tweet after 63 minutes"
+      },
+      {
+        "x": 64,
+        "y": 2,
+        "label": "terremoto: 2 tweet after 64 minutes"
+      },
+      {
+        "x": 65,
+        "y": 2,
+        "label": "terremoto: 2 tweet after 65 minutes"
+      },
+      {
+        "x": 10,
+        "y": 2,
+        "label": "terremoto: 2 tweet after 10 minutes"
+      },
+      {
+        "x": 144,
+        "y": 4,
+        "label": "terremoto: 4 tweet after 144 minutes"
+      },
+      {
+        "x": 66,
+        "y": 4,
+        "label": "terremoto: 4 tweet after 66 minutes"
+      },
+      {
+        "x": 12,
+        "y": 1,
+        "label": "terremoto: 1 tweet after 12 minutes"
+      },
+      {
+        "x": 145,
+        "y": 4,
+        "label": "terremoto: 4 tweet after 145 minutes"
+      },
+      {
+        "x": 13,
+        "y": 2,
+        "label": "terremoto: 2 tweet after 13 minutes"
+      },
+      {
+        "x": 67,
+        "y": 7,
+        "label": "terremoto: 7 tweet after 67 minutes"
+      },
+      {
+        "x": 146,
+        "y": 2,
+        "label": "terremoto: 2 tweet after 146 minutes"
+      },
+      {
+        "x": 14,
+        "y": 1,
+        "label": "terremoto: 1 tweet after 14 minutes"
+      },
+      {
+        "x": 147,
+        "y": 2,
+        "label": "terremoto: 2 tweet after 147 minutes"
+      },
+      {
+        "x": 15,
+        "y": 4,
+        "label": "terremoto: 4 tweet after 15 minutes"
+      },
+      {
+        "x": 68,
+        "y": 5,
+        "label": "terremoto: 5 tweet after 68 minutes"
+      },
+      {
+        "x": 148,
+        "y": 3,
+        "label": "terremoto: 3 tweet after 148 minutes"
+      },
+      {
+        "x": 149,
+        "y": 4,
+        "label": "terremoto: 4 tweet after 149 minutes"
+      },
+      {
+        "x": 16,
+        "y": 1,
+        "label": "terremoto: 1 tweet after 16 minutes"
+      },
+      {
+        "x": 69,
+        "y": 4,
+        "label": "terremoto: 4 tweet after 69 minutes"
+      },
+      {
+        "x": 209,
+        "y": 3,
+        "label": "terremoto: 3 tweet after 209 minutes"
+      },
+      {
+        "x": 210,
+        "y": 4,
+        "label": "terremoto: 4 tweet after 210 minutes"
+      },
+      {
+        "x": 211,
+        "y": 2,
+        "label": "terremoto: 2 tweet after 211 minutes"
+      },
+      {
+        "x": 212,
+        "y": 2,
+        "label": "terremoto: 2 tweet after 212 minutes"
+      },
+      {
+        "x": 70,
+        "y": 6,
+        "label": "terremoto: 6 tweet after 70 minutes"
+      },
+      {
+        "x": 213,
+        "y": 3,
+        "label": "terremoto: 3 tweet after 213 minutes"
+      },
+      {
+        "x": 151,
+        "y": 2,
+        "label": "terremoto: 2 tweet after 151 minutes"
+      },
+      {
+        "x": 71,
+        "y": 4,
+        "label": "terremoto: 4 tweet after 71 minutes"
+      },
+      {
+        "x": 214,
+        "y": 2,
+        "label": "terremoto: 2 tweet after 214 minutes"
+      },
+      {
+        "x": 152,
+        "y": 3,
+        "label": "terremoto: 3 tweet after 152 minutes"
+      },
+      {
+        "x": 153,
+        "y": 3,
+        "label": "terremoto: 3 tweet after 153 minutes"
+      },
+      {
+        "x": 17,
+        "y": 3,
+        "label": "terremoto: 3 tweet after 17 minutes"
+      },
+      {
+        "x": 18,
+        "y": 3,
+        "label": "terremoto: 3 tweet after 18 minutes"
+      },
+      {
+        "x": 72,
+        "y": 3,
+        "label": "terremoto: 3 tweet after 72 minutes"
+      },
+      {
+        "x": 154,
+        "y": 2,
+        "label": "terremoto: 2 tweet after 154 minutes"
+      },
+      {
+        "x": 73,
+        "y": 3,
+        "label": "terremoto: 3 tweet after 73 minutes"
+      },
+      {
+        "x": 155,
+        "y": 1,
+        "label": "terremoto: 1 tweet after 155 minutes"
+      },
+      {
+        "x": 74,
+        "y": 2,
+        "label": "terremoto: 2 tweet after 74 minutes"
+      },
+      {
+        "x": 156,
+        "y": 1,
+        "label": "terremoto: 1 tweet after 156 minutes"
+      },
+      {
+        "x": 215,
+        "y": 2,
+        "label": "terremoto: 2 tweet after 215 minutes"
+      },
+      {
+        "x": 21,
+        "y": 2,
+        "label": "terremoto: 2 tweet after 21 minutes"
+      },
+      {
+        "x": 75,
+        "y": 4,
+        "label": "terremoto: 4 tweet after 75 minutes"
+      },
+      {
+        "x": 157,
+        "y": 1,
+        "label": "terremoto: 1 tweet after 157 minutes"
+      },
+      {
+        "x": 76,
+        "y": 4,
+        "label": "terremoto: 4 tweet after 76 minutes"
+      },
+      {
+        "x": 158,
+        "y": 1,
+        "label": "terremoto: 1 tweet after 158 minutes"
+      },
+      {
+        "x": 159,
+        "y": 1,
+        "label": "terremoto: 1 tweet after 159 minutes"
+      },
+      {
+        "x": 161,
+        "y": 4,
+        "label": "terremoto: 4 tweet after 161 minutes"
+      },
+      {
+        "x": 77,
+        "y": 3,
+        "label": "terremoto: 3 tweet after 77 minutes"
+      },
+      {
+        "x": 160,
+        "y": 2,
+        "label": "terremoto: 2 tweet after 160 minutes"
+      },
+      {
+        "x": 24,
+        "y": 4,
+        "label": "terremoto: 4 tweet after 24 minutes"
+      },
+      {
+        "x": 78,
+        "y": 6,
+        "label": "terremoto: 6 tweet after 78 minutes"
+      },
+      {
+        "x": 162,
+        "y": 1,
+        "label": "terremoto: 1 tweet after 162 minutes"
+      },
+      {
+        "x": 25,
+        "y": 2,
+        "label": "terremoto: 2 tweet after 25 minutes"
+      },
+      {
+        "x": 79,
+        "y": 1,
+        "label": "terremoto: 1 tweet after 79 minutes"
+      },
+      {
+        "x": 163,
+        "y": 2,
+        "label": "terremoto: 2 tweet after 163 minutes"
+      },
+      {
+        "x": 80,
+        "y": 5,
+        "label": "terremoto: 5 tweet after 80 minutes"
+      },
+      {
+        "x": 164,
+        "y": 4,
+        "label": "terremoto: 4 tweet after 164 minutes"
+      },
+      {
+        "x": 81,
+        "y": 4,
+        "label": "terremoto: 4 tweet after 81 minutes"
+      },
+      {
+        "x": 82,
+        "y": 4,
+        "label": "terremoto: 4 tweet after 82 minutes"
+      },
+      {
+        "x": 26,
+        "y": 2,
+        "label": "terremoto: 2 tweet after 26 minutes"
+      },
+      {
+        "x": 165,
+        "y": 2,
+        "label": "terremoto: 2 tweet after 165 minutes"
+      },
+      {
+        "x": 83,
+        "y": 3,
+        "label": "terremoto: 3 tweet after 83 minutes"
+      },
+      {
+        "x": 27,
+        "y": 5,
+        "label": "terremoto: 5 tweet after 27 minutes"
+      },
+      {
+        "x": 166,
+        "y": 1,
+        "label": "terremoto: 1 tweet after 166 minutes"
+      },
+      {
+        "x": 84,
+        "y": 6,
+        "label": "terremoto: 6 tweet after 84 minutes"
+      },
+      {
+        "x": 85,
+        "y": 4,
+        "label": "terremoto: 4 tweet after 85 minutes"
+      },
+      {
+        "x": 28,
+        "y": 3,
+        "label": "terremoto: 3 tweet after 28 minutes"
+      },
+      {
+        "x": 168,
+        "y": 4,
+        "label": "terremoto: 4 tweet after 168 minutes"
+      },
+      {
+        "x": 29,
+        "y": 9,
+        "label": "terremoto: 9 tweet after 29 minutes"
+      },
+      {
+        "x": 169,
+        "y": 6,
+        "label": "terremoto: 6 tweet after 169 minutes"
+      },
+      {
+        "x": 86,
+        "y": 4,
+        "label": "terremoto: 4 tweet after 86 minutes"
+      },
+      {
+        "x": 30,
+        "y": 10,
+        "label": "terremoto: 10 tweet after 30 minutes"
+      },
+      {
+        "x": 31,
+        "y": 12,
+        "label": "terremoto: 12 tweet after 31 minutes"
+      },
+      {
+        "x": 170,
+        "y": 1,
+        "label": "terremoto: 1 tweet after 170 minutes"
+      },
+      {
+        "x": 87,
+        "y": 4,
+        "label": "terremoto: 4 tweet after 87 minutes"
+      },
+      {
+        "x": 88,
+        "y": 1,
+        "label": "terremoto: 1 tweet after 88 minutes"
+      },
+      {
+        "x": 89,
+        "y": 3,
+        "label": "terremoto: 3 tweet after 89 minutes"
+      },
+      {
+        "x": 171,
+        "y": 3,
+        "label": "terremoto: 3 tweet after 171 minutes"
+      },
+      {
+        "x": 90,
+        "y": 2,
+        "label": "terremoto: 2 tweet after 90 minutes"
+      },
+      {
+        "x": 172,
+        "y": 3,
+        "label": "terremoto: 3 tweet after 172 minutes"
+      },
+      {
+        "x": 32,
+        "y": 11,
+        "label": "terremoto: 11 tweet after 32 minutes"
+      },
+      {
+        "x": 91,
+        "y": 1,
+        "label": "terremoto: 1 tweet after 91 minutes"
+      },
+      {
+        "x": 173,
+        "y": 1,
+        "label": "terremoto: 1 tweet after 173 minutes"
+      },
+      {
+        "x": 174,
+        "y": 4,
+        "label": "terremoto: 4 tweet after 174 minutes"
+      },
+      {
+        "x": 175,
+        "y": 2,
+        "label": "terremoto: 2 tweet after 175 minutes"
+      },
+      {
+        "x": 176,
+        "y": 3,
+        "label": "terremoto: 3 tweet after 176 minutes"
+      },
+      {
+        "x": 92,
+        "y": 3,
+        "label": "terremoto: 3 tweet after 92 minutes"
+      },
+      {
+        "x": 93,
+        "y": 4,
+        "label": "terremoto: 4 tweet after 93 minutes"
+      },
+      {
+        "x": 33,
+        "y": 11,
+        "label": "terremoto: 11 tweet after 33 minutes"
+      },
+      {
+        "x": 177,
+        "y": 3,
+        "label": "terremoto: 3 tweet after 177 minutes"
+      },
+      {
+        "x": 178,
+        "y": 3,
+        "label": "terremoto: 3 tweet after 178 minutes"
+      },
+      {
+        "x": 34,
+        "y": 9,
+        "label": "terremoto: 9 tweet after 34 minutes"
+      },
+      {
+        "x": 94,
+        "y": 1,
+        "label": "terremoto: 1 tweet after 94 minutes"
+      },
+      {
+        "x": 95,
+        "y": 1,
+        "label": "terremoto: 1 tweet after 95 minutes"
+      },
+      {
+        "x": 35,
+        "y": 12,
+        "label": "terremoto: 12 tweet after 35 minutes"
+      },
+      {
+        "x": 181,
+        "y": 1,
+        "label": "terremoto: 1 tweet after 181 minutes"
+      },
+      {
+        "x": 98,
+        "y": 1,
+        "label": "terremoto: 1 tweet after 98 minutes"
+      },
+      {
+        "x": 99,
+        "y": 2,
+        "label": "terremoto: 2 tweet after 99 minutes"
+      },
+      {
+        "x": 182,
+        "y": 3,
+        "label": "terremoto: 3 tweet after 182 minutes"
+      },
+      {
+        "x": 36,
+        "y": 5,
+        "label": "terremoto: 5 tweet after 36 minutes"
+      },
+      {
+        "x": 100,
+        "y": 1,
+        "label": "terremoto: 1 tweet after 100 minutes"
+      },
+      {
+        "x": 101,
+        "y": 4,
+        "label": "terremoto: 4 tweet after 101 minutes"
+      },
+      {
+        "x": 183,
+        "y": 4,
+        "label": "terremoto: 4 tweet after 183 minutes"
+      },
+      {
+        "x": 184,
+        "y": 1,
+        "label": "terremoto: 1 tweet after 184 minutes"
+      },
+      {
+        "x": 102,
+        "y": 3,
+        "label": "terremoto: 3 tweet after 102 minutes"
+      },
+      {
+        "x": 185,
+        "y": 4,
+        "label": "terremoto: 4 tweet after 185 minutes"
+      },
+      {
+        "x": 37,
+        "y": 7,
+        "label": "terremoto: 7 tweet after 37 minutes"
+      },
+      {
+        "x": 104,
+        "y": 4,
+        "label": "terremoto: 4 tweet after 104 minutes"
+      },
+      {
+        "x": 186,
+        "y": 2,
+        "label": "terremoto: 2 tweet after 186 minutes"
+      },
+      {
+        "x": 188,
+        "y": 3,
+        "label": "terremoto: 3 tweet after 188 minutes"
+      },
+      {
+        "x": 189,
+        "y": 1,
+        "label": "terremoto: 1 tweet after 189 minutes"
+      },
+      {
+        "x": 105,
+        "y": 2,
+        "label": "terremoto: 2 tweet after 105 minutes"
+      },
+      {
+        "x": 38,
+        "y": 2,
+        "label": "terremoto: 2 tweet after 38 minutes"
+      },
+      {
+        "x": 106,
+        "y": 3,
+        "label": "terremoto: 3 tweet after 106 minutes"
+      },
+      {
+        "x": 190,
+        "y": 1,
+        "label": "terremoto: 1 tweet after 190 minutes"
+      },
+      {
+        "x": 39,
+        "y": 11,
+        "label": "terremoto: 11 tweet after 39 minutes"
+      },
+      {
+        "x": 40,
+        "y": 3,
+        "label": "terremoto: 3 tweet after 40 minutes"
+      },
+      {
+        "x": 192,
+        "y": 7,
+        "label": "terremoto: 7 tweet after 192 minutes"
+      },
+      {
+        "x": 191,
+        "y": 3,
+        "label": "terremoto: 3 tweet after 191 minutes"
+      },
+      {
+        "x": 107,
+        "y": 1,
+        "label": "terremoto: 1 tweet after 107 minutes"
+      },
+      {
+        "x": 193,
+        "y": 2,
+        "label": "terremoto: 2 tweet after 193 minutes"
+      },
+      {
+        "x": 109,
+        "y": 2,
+        "label": "terremoto: 2 tweet after 109 minutes"
+      },
+      {
+        "x": 41,
+        "y": 5,
+        "label": "terremoto: 5 tweet after 41 minutes"
+      },
+      {
+        "x": 194,
+        "y": 2,
+        "label": "terremoto: 2 tweet after 194 minutes"
+      },
+      {
+        "x": 42,
+        "y": 9,
+        "label": "terremoto: 9 tweet after 42 minutes"
+      },
+      {
+        "x": 195,
+        "y": 1,
+        "label": "terremoto: 1 tweet after 195 minutes"
+      },
+      {
+        "x": 110,
+        "y": 1,
+        "label": "terremoto: 1 tweet after 110 minutes"
+      },
+      {
+        "x": 111,
+        "y": 2,
+        "label": "terremoto: 2 tweet after 111 minutes"
+      },
+      {
+        "x": 43,
+        "y": 7,
+        "label": "terremoto: 7 tweet after 43 minutes"
+      },
+      {
+        "x": 112,
+        "y": 1,
+        "label": "terremoto: 1 tweet after 112 minutes"
+      },
+      {
+        "x": 113,
+        "y": 1,
+        "label": "terremoto: 1 tweet after 113 minutes"
+      },
+      {
+        "x": 196,
+        "y": 3,
+        "label": "terremoto: 3 tweet after 196 minutes"
+      },
+      {
+        "x": 114,
+        "y": 1,
+        "label": "terremoto: 1 tweet after 114 minutes"
+      },
+      {
+        "x": 44,
+        "y": 5,
+        "label": "terremoto: 5 tweet after 44 minutes"
+      },
+      {
+        "x": 45,
+        "y": 2,
+        "label": "terremoto: 2 tweet after 45 minutes"
+      },
+      {
+        "x": 198,
+        "y": 1,
+        "label": "terremoto: 1 tweet after 198 minutes"
+      },
+      {
+        "x": 117,
+        "y": 2,
+        "label": "terremoto: 2 tweet after 117 minutes"
+      },
+      {
+        "x": 116,
+        "y": 1,
+        "label": "terremoto: 1 tweet after 116 minutes"
+      },
+      {
+        "x": 46,
+        "y": 5,
+        "label": "terremoto: 5 tweet after 46 minutes"
+      },
+      {
+        "x": 200,
+        "y": 1,
+        "label": "terremoto: 1 tweet after 200 minutes"
+      },
+      {
+        "x": 202,
+        "y": 3,
+        "label": "terremoto: 3 tweet after 202 minutes"
+      },
+      {
+        "x": 118,
+        "y": 3,
+        "label": "terremoto: 3 tweet after 118 minutes"
+      },
+      {
+        "x": 47,
+        "y": 7,
+        "label": "terremoto: 7 tweet after 47 minutes"
+      },
+      {
+        "x": 201,
+        "y": 2,
+        "label": "terremoto: 2 tweet after 201 minutes"
+      },
+      {
+        "x": 203,
+        "y": 3,
+        "label": "terremoto: 3 tweet after 203 minutes"
+      },
+      {
+        "x": 48,
+        "y": 2,
+        "label": "terremoto: 2 tweet after 48 minutes"
+      },
+      {
+        "x": 119,
+        "y": 3,
+        "label": "terremoto: 3 tweet after 119 minutes"
+      },
+      {
+        "x": 204,
+        "y": 2,
+        "label": "terremoto: 2 tweet after 204 minutes"
+      },
+      {
+        "x": 49,
+        "y": 2,
+        "label": "terremoto: 2 tweet after 49 minutes"
+      },
+      {
+        "x": 120,
+        "y": 3,
+        "label": "terremoto: 3 tweet after 120 minutes"
+      },
+      {
+        "x": 121,
+        "y": 2,
+        "label": "terremoto: 2 tweet after 121 minutes"
+      },
+      {
+        "x": 205,
+        "y": 2,
+        "label": "terremoto: 2 tweet after 205 minutes"
+      },
+      {
+        "x": 122,
+        "y": 4,
+        "label": "terremoto: 4 tweet after 122 minutes"
+      },
+      {
+        "x": 206,
+        "y": 1,
+        "label": "terremoto: 1 tweet after 206 minutes"
+      },
+      {
+        "x": 50,
+        "y": 7,
+        "label": "terremoto: 7 tweet after 50 minutes"
+      },
+      {
+        "x": 123,
+        "y": 4,
+        "label": "terremoto: 4 tweet after 123 minutes"
+      },
+      {
+        "x": 207,
+        "y": 2,
+        "label": "terremoto: 2 tweet after 207 minutes"
+      },
+      {
+        "x": 208,
+        "y": 1,
+        "label": "terremoto: 1 tweet after 208 minutes"
+      },
+      {
+        "x": 51,
+        "y": 5,
+        "label": "terremoto: 5 tweet after 51 minutes"
+      },
+      {
+        "x": 216,
+        "y": 4,
+        "label": "terremoto: 4 tweet after 216 minutes"
+      },
+      {
+        "x": 217,
+        "y": 3,
+        "label": "terremoto: 3 tweet after 217 minutes"
+      },
+      {
+        "x": 219,
+        "y": 1,
+        "label": "terremoto: 1 tweet after 219 minutes"
+      },
+      {
+        "x": 220,
+        "y": 1,
+        "label": "terremoto: 1 tweet after 220 minutes"
+      },
+      {
+        "x": 221,
+        "y": 5,
+        "label": "terremoto: 5 tweet after 221 minutes"
+      },
+      {
+        "x": 222,
+        "y": 2,
+        "label": "terremoto: 2 tweet after 222 minutes"
+      },
+      {
+        "x": 223,
+        "y": 3,
+        "label": "terremoto: 3 tweet after 223 minutes"
+      },
+      {
+        "x": 224,
+        "y": 1,
+        "label": "terremoto: 1 tweet after 224 minutes"
+      },
+      {
+        "x": 225,
+        "y": 5,
+        "label": "terremoto: 5 tweet after 225 minutes"
+      },
+      {
+        "x": 226,
+        "y": 2,
+        "label": "terremoto: 2 tweet after 226 minutes"
+      },
+      {
+        "x": 227,
+        "y": 2,
+        "label": "terremoto: 2 tweet after 227 minutes"
+      },
+      {
+        "x": 228,
+        "y": 4,
+        "label": "terremoto: 4 tweet after 228 minutes"
+      },
+      {
+        "x": 229,
+        "y": 1,
+        "label": "terremoto: 1 tweet after 229 minutes"
+      },
+      {
+        "x": 230,
+        "y": 2,
+        "label": "terremoto: 2 tweet after 230 minutes"
+      },
+      {
+        "x": 231,
+        "y": 4,
+        "label": "terremoto: 4 tweet after 231 minutes"
+      },
+      {
+        "x": 232,
+        "y": 1,
+        "label": "terremoto: 1 tweet after 232 minutes"
+      },
+      {
+        "x": 234,
+        "y": 3,
+        "label": "terremoto: 3 tweet after 234 minutes"
+      },
+      {
+        "x": 235,
+        "y": 1,
+        "label": "terremoto: 1 tweet after 235 minutes"
+      },
+      {
+        "x": 236,
+        "y": 3,
+        "label": "terremoto: 3 tweet after 236 minutes"
+      },
+      {
+        "x": 237,
+        "y": 2,
+        "label": "terremoto: 2 tweet after 237 minutes"
+      },
+      {
+        "x": 238,
+        "y": 3,
+        "label": "terremoto: 3 tweet after 238 minutes"
+      },
+      {
+        "x": 239,
+        "y": 4,
+        "label": "terremoto: 4 tweet after 239 minutes"
+      }
+    ]
+  },
+  {
+    "name": "tsunami",
+    "color": "rgba(185, 9, 185, .5)",
+    "data": [
+      {
+        "x": -13,
+        "y": 1,
+        "label": "tsunami: 1 tweet before -13 minutes"
+      },
+      {
+        "x": 131,
+        "y": 1,
+        "label": "tsunami: 1 tweet after 131 minutes"
+      },
+      {
+        "x": 135,
+        "y": 1,
+        "label": "tsunami: 1 tweet after 135 minutes"
+      },
+      {
+        "x": 60,
+        "y": 1,
+        "label": "tsunami: 1 tweet after 60 minutes"
+      },
+      {
+        "x": 63,
+        "y": 1,
+        "label": "tsunami: 1 tweet after 63 minutes"
+      },
+      {
+        "x": 64,
+        "y": 1,
+        "label": "tsunami: 1 tweet after 64 minutes"
+      },
+      {
+        "x": 210,
+        "y": 1,
+        "label": "tsunami: 1 tweet after 210 minutes"
+      },
+      {
+        "x": 211,
+        "y": 1,
+        "label": "tsunami: 1 tweet after 211 minutes"
+      },
+      {
+        "x": 213,
+        "y": 1,
+        "label": "tsunami: 1 tweet after 213 minutes"
+      },
+      {
+        "x": 152,
+        "y": 1,
+        "label": "tsunami: 1 tweet after 152 minutes"
+      },
+      {
+        "x": 17,
+        "y": 1,
+        "label": "tsunami: 1 tweet after 17 minutes"
+      },
+      {
+        "x": 214,
+        "y": 1,
+        "label": "tsunami: 1 tweet after 214 minutes"
+      },
+      {
+        "x": 153,
+        "y": 1,
+        "label": "tsunami: 1 tweet after 153 minutes"
+      },
+      {
+        "x": 215,
+        "y": 1,
+        "label": "tsunami: 1 tweet after 215 minutes"
+      },
+      {
+        "x": 216,
+        "y": 1,
+        "label": "tsunami: 1 tweet after 216 minutes"
+      },
+      {
+        "x": 79,
+        "y": 1,
+        "label": "tsunami: 1 tweet after 79 minutes"
+      },
+      {
+        "x": 80,
+        "y": 1,
+        "label": "tsunami: 1 tweet after 80 minutes"
+      },
+      {
+        "x": 168,
+        "y": 1,
+        "label": "tsunami: 1 tweet after 168 minutes"
+      },
+      {
+        "x": 28,
+        "y": 1,
+        "label": "tsunami: 1 tweet after 28 minutes"
+      },
+      {
+        "x": 32,
+        "y": 1,
+        "label": "tsunami: 1 tweet after 32 minutes"
+      },
+      {
+        "x": 182,
+        "y": 1,
+        "label": "tsunami: 1 tweet after 182 minutes"
+      },
+      {
+        "x": 183,
+        "y": 1,
+        "label": "tsunami: 1 tweet after 183 minutes"
+      },
+      {
+        "x": 191,
+        "y": 1,
+        "label": "tsunami: 1 tweet after 191 minutes"
+      },
+      {
+        "x": 192,
+        "y": 1,
+        "label": "tsunami: 1 tweet after 192 minutes"
+      },
+      {
+        "x": 193,
+        "y": 1,
+        "label": "tsunami: 1 tweet after 193 minutes"
+      },
+      {
+        "x": 195,
+        "y": 2,
+        "label": "tsunami: 2 tweet after 195 minutes"
+      },
+      {
+        "x": 196,
+        "y": 2,
+        "label": "tsunami: 2 tweet after 196 minutes"
+      },
+      {
+        "x": 112,
+        "y": 1,
+        "label": "tsunami: 1 tweet after 112 minutes"
+      },
+      {
+        "x": 200,
+        "y": 2,
+        "label": "tsunami: 2 tweet after 200 minutes"
+      },
+      {
+        "x": 203,
+        "y": 1,
+        "label": "tsunami: 1 tweet after 203 minutes"
+      },
+      {
+        "x": 204,
+        "y": 1,
+        "label": "tsunami: 1 tweet after 204 minutes"
+      },
+      {
+        "x": 206,
+        "y": 2,
+        "label": "tsunami: 2 tweet after 206 minutes"
+      },
+      {
+        "x": 218,
+        "y": 2,
+        "label": "tsunami: 2 tweet after 218 minutes"
+      },
+      {
+        "x": 225,
+        "y": 1,
+        "label": "tsunami: 1 tweet after 225 minutes"
+      },
+      {
+        "x": 227,
+        "y": 1,
+        "label": "tsunami: 1 tweet after 227 minutes"
+      },
+      {
+        "x": 237,
+        "y": 1,
+        "label": "tsunami: 1 tweet after 237 minutes"
+      },
+      {
+        "x": 239,
+        "y": 1,
+        "label": "tsunami: 1 tweet after 239 minutes"
+      }
+    ]
+  }
+]

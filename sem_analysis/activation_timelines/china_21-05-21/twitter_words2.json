@@ -1,0 +1,215 @@
+[
+  {
+    "name": "nuclear",
+    "color": "rgba(0, 204, 20, .5)",
+    "data": [
+      {
+        "x": 127,
+        "y": 1,
+        "label": "nuclear: 1 tweet after 127 minutes"
+      },
+      {
+        "x": 22,
+        "y": 1,
+        "label": "nuclear: 1 tweet after 22 minutes"
+      },
+      {
+        "x": 187,
+        "y": 1,
+        "label": "nuclear: 1 tweet after 187 minutes"
+      }
+    ]
+  },
+  {
+    "name": "killed",
+    "color": "rgba(9, 74, 185, .5)",
+    "data": [
+      {
+        "x": 131,
+        "y": 2,
+        "label": "killed: 2 tweet after 131 minutes"
+      },
+      {
+        "x": 132,
+        "y": 1,
+        "label": "killed: 1 tweet after 132 minutes"
+      },
+      {
+        "x": 133,
+        "y": 1,
+        "label": "killed: 1 tweet after 133 minutes"
+      },
+      {
+        "x": 139,
+        "y": 2,
+        "label": "killed: 2 tweet after 139 minutes"
+      },
+      {
+        "x": 142,
+        "y": 4,
+        "label": "killed: 4 tweet after 142 minutes"
+      },
+      {
+        "x": 141,
+        "y": 1,
+        "label": "killed: 1 tweet after 141 minutes"
+      },
+      {
+        "x": 143,
+        "y": 2,
+        "label": "killed: 2 tweet after 143 minutes"
+      },
+      {
+        "x": 144,
+        "y": 1,
+        "label": "killed: 1 tweet after 144 minutes"
+      },
+      {
+        "x": 145,
+        "y": 1,
+        "label": "killed: 1 tweet after 145 minutes"
+      },
+      {
+        "x": 146,
+        "y": 2,
+        "label": "killed: 2 tweet after 146 minutes"
+      },
+      {
+        "x": 147,
+        "y": 3,
+        "label": "killed: 3 tweet after 147 minutes"
+      },
+      {
+        "x": 149,
+        "y": 4,
+        "label": "killed: 4 tweet after 149 minutes"
+      },
+      {
+        "x": 150,
+        "y": 1,
+        "label": "killed: 1 tweet after 150 minutes"
+      },
+      {
+        "x": 151,
+        "y": 1,
+        "label": "killed: 1 tweet after 151 minutes"
+      },
+      {
+        "x": 153,
+        "y": 3,
+        "label": "killed: 3 tweet after 153 minutes"
+      },
+      {
+        "x": 154,
+        "y": 4,
+        "label": "killed: 4 tweet after 154 minutes"
+      },
+      {
+        "x": 157,
+        "y": 2,
+        "label": "killed: 2 tweet after 157 minutes"
+      },
+      {
+        "x": 162,
+        "y": 1,
+        "label": "killed: 1 tweet after 162 minutes"
+      },
+      {
+        "x": 166,
+        "y": 2,
+        "label": "killed: 2 tweet after 166 minutes"
+      },
+      {
+        "x": 168,
+        "y": 3,
+        "label": "killed: 3 tweet after 168 minutes"
+      },
+      {
+        "x": 169,
+        "y": 1,
+        "label": "killed: 1 tweet after 169 minutes"
+      },
+      {
+        "x": 170,
+        "y": 1,
+        "label": "killed: 1 tweet after 170 minutes"
+      },
+      {
+        "x": 171,
+        "y": 4,
+        "label": "killed: 4 tweet after 171 minutes"
+      },
+      {
+        "x": 172,
+        "y": 3,
+        "label": "killed: 3 tweet after 172 minutes"
+      },
+      {
+        "x": 178,
+        "y": 1,
+        "label": "killed: 1 tweet after 178 minutes"
+      },
+      {
+        "x": 183,
+        "y": 1,
+        "label": "killed: 1 tweet after 183 minutes"
+      },
+      {
+        "x": 184,
+        "y": 1,
+        "label": "killed: 1 tweet after 184 minutes"
+      },
+      {
+        "x": 194,
+        "y": 1,
+        "label": "killed: 1 tweet after 194 minutes"
+      },
+      {
+        "x": 195,
+        "y": 2,
+        "label": "killed: 2 tweet after 195 minutes"
+      },
+      {
+        "x": 204,
+        "y": 1,
+        "label": "killed: 1 tweet after 204 minutes"
+      }
+    ]
+  },
+  {
+    "name": "landslide",
+    "color": "rgba(185, 44, 9, .5)",
+    "data": [
+      {
+        "x": 196,
+        "y": 1,
+        "label": "landslide: 1 tweet after 196 minutes"
+      },
+      {
+        "x": 199,
+        "y": 1,
+        "label": "landslide: 1 tweet after 199 minutes"
+      },
+      {
+        "x": 202,
+        "y": 1,
+        "label": "landslide: 1 tweet after 202 minutes"
+      },
+      {
+        "x": 203,
+        "y": 1,
+        "label": "landslide: 1 tweet after 203 minutes"
+      },
+      {
+        "x": 206,
+        "y": 1,
+        "label": "landslide: 1 tweet after 206 minutes"
+      },
+      {
+        "x": 223,
+        "y": 1,
+        "label": "landslide: 1 tweet after 223 minutes"
+      }
+    ]
+  }
+]
