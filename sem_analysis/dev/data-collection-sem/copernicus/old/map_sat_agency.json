@@ -1,0 +1,362 @@
+{
+  "Pre-eventimage:SPOT6/7©AirbusDS": {
+    "real": 1,
+    "agency": "airbus"
+  },
+  "Post-eventimage:SPOT6/7©AirbusDS": {
+    "real": 1,
+    "agency": "airbus"
+  },
+  "Pre-eventimage:PlanetScope©Planet,2022": {
+    "real": 1,
+    "agency": "planet"
+  },
+  "Post-eventimage:Sentinel-3A": {
+    "real": 1,
+    "agency": "esa"
+  },
+  "Pre-eventimage:Sentinel-2A": {
+    "real": 1,
+    "agency": "esa"
+  },
+  "Post-eventimage:Sentinel-2A": {
+    "real": 1,
+    "agency": "esa"
+  },
+  "Post-eventimage:Sentinel-2A/B": {
+    "real": 1,
+    "agency": "esa"
+  },
+  "Pre-eventimage:ESRIWorldImagery©Digitalglobe": {
+    "real": 1,
+    "agency": "digitalglobe"
+  },
+  "Post-eventimage:Plèiades-1B©CNES": {
+    "real": 1,
+    "agency": "cnes"
+  },
+  "Pre-eventimage:ESRIWorldImagery©DigitalGlobe": {
+    "real": 1,
+    "agency": "digitalglobe"
+  },
+  "Post-eventimage:Pléiades-1A/B©CNES": {
+    "real": 1,
+    "agency": "cnes"
+  },
+  "Pre-eventimage:Sentinel-1A/B": {
+    "real": 1,
+    "agency": "esa"
+  },
+  "Pre-eventimage:WorldView-2©DigitalglobeDigitalGlobe,Inc.": {
+    "real": 1,
+    "agency": "digitalglobe"
+  },
+  "Post-eventimage:GeEye-1©MaxarTechnologies,Inc.": {
+    "real": 1,
+    "agency": "maxar"
+  },
+  "Post-eventimage:GeoEye-1©MaxarTechnologies,Inc.": {
+    "real": 1,
+    "agency": "maxar"
+  },
+  "Pre-eventimage:Sentinel-2B": {
+    "real": 1,
+    "agency": "esa"
+  },
+  "Post-eventimage:COSMO-SkyMed©ASI": {
+    "real": 1,
+    "agency": "asi"
+  },
+  "Post-eventimage:Sentinel-1B": {
+    "real": 1,
+    "agency": "esa"
+  },
+  "Post-eventimage:TerraSar-X©InfoterraGmbH": {
+    "real": 1,
+    "agency": "dlr"
+  },
+  "Post-eventimage:Sentinel-1A/B": {
+    "real": 1,
+    "agency": "esa"
+  },
+  "Pre-eventimage:SPOT7©AirbusDS": {
+    "real": 1,
+    "agency": "airbus"
+  },
+  "Pre-eventimage:SPOT6©AirbusDS": {
+    "real": 1,
+    "agency": "airbus"
+  },
+  "Post-eventimage:SPOT6©AirbusDS": {
+    "real": 1,
+    "agency": "airbus"
+  },
+  "Post-eventimage:Pléiades-1A©CNES": {
+    "real": 1,
+    "agency": "cnes"
+  },
+  "Post-eventimage:SPOT7©AirbusDS": {
+    "real": 1,
+    "agency": "airbus"
+  },
+  "Post-eventimage:Sentinel-3A/B": {
+    "real": 1,
+    "agency": "esa"
+  },
+  "Pre-eventimage:Pléiades-1A/B©CNES": {
+    "real": 1,
+    "agency": "cnes"
+  },
+  "Post-eventimage:WorldView-2©MaxarTechnologies,Inc.": {
+    "real": 1,
+    "agency": "maxar"
+  },
+  "Pre-eventimage:Listofallsensors:WORLDVIEW2": {
+    "real": 1,
+    "agency": "digitalglobe"
+  },
+  "Post-eventimage:PléiadesNEO©CNES": {
+    "real": 1,
+    "agency": "cnes"
+  },
+  "Post-eventimage:Sentinel-1A": {
+    "real": 1,
+    "agency": "esa"
+  },
+  "Pre-eventimage:WorldView-2©MaxarTechnologies,Inc.": {
+    "real": 1,
+    "agency": "maxar"
+  },
+  "Pre-eventimage:Sentinel-2A/B": {
+    "real": 1,
+    "agency": "esa"
+  },
+  "Post-eventimage:GeoEye©MaxarTechnologies,Inc.": {
+    "real": 1,
+    "agency": "maxar"
+  },
+  "Post-eventimage:PleiadesNEO©AirbusDS": {
+    "real": 1,
+    "agency": "airbus"
+  },
+  "Post-eventimage:PlanetScope©Planet,2022": {
+    "real": 1,
+    "agency": "planet"
+  },
+  "Post-eventimage:Sentinel-2B": {
+    "real": 1,
+    "agency": "esa"
+  },
+  "Post-eventimage:Post-eventimage:SPOT6/7©AirbusDS": {
+    "real": 1,
+    "agency": "airbus"
+  },
+  "Post-eventimage:Pléiades-1B©CNES": {
+    "real": 1,
+    "agency": "cnes"
+  },
+  "Pre-eventimage:Pléiades-1A©CNES": {
+    "real": 1,
+    "agency": "cnes"
+  },
+  "Post-eventimage:COSMO-SkyMedSecondGeneration©ASI": {
+    "real": 1,
+    "agency": "asi"
+  },
+  "Post-eventimage:GeoEye©DigitalGlobe,Inc.": {
+    "real": 1,
+    "agency": "digitalglobe"
+  },
+  "Post-eventimage:<Sentinel-2A/B": {
+    "real": 1,
+    "agency": "esa"
+  },
+  "Pre-eventimage:PlanetScope©Planet,2021": {
+    "real": 1,
+    "agency": "planet"
+  },
+  "Pre-eventimage:WorldView-2©DigitalGlobe,Inc.": {
+    "real": 1,
+    "agency": "digitalglobe"
+  },
+  "Post-eventimage:Sentinel-3B": {
+    "real": 1,
+    "agency": "esa"
+  },
+  "Pre-eventimage:Pre-eventimage:Sentinel-2A/B": {
+    "real": 1,
+    "agency": "esa"
+  },
+  "Post-eventimage:COSMO-SkyMed©ASI2022),distributedbye-GEOSS.p.A.": {
+    "real": 1,
+    "agency": "asi"
+  },
+  "Post-eventimage:WorldView-2©DigitalglobeDigitalGlobe,Inc.": {
+    "real": 1,
+    "agency": "digitalglobe"
+  },
+  "Post-eventimage:DEIMOS-2©DeimosImagingS.L.U.": {
+    "real": 1,
+    "agency": "geosat"
+  },
+  "Pre-eventimage:WorldView2©MaxarTechnologies,Inc.": {
+    "real": 1,
+    "agency": "maxar"
+  },
+  "Post-eventimage:SAOCOM-1": {
+    "real": 1,
+    "agency": "conae"
+  },
+  "Pre-eventimage:Pléiades-1B©CNES": {
+    "real": 1,
+    "agency": "cnes"
+  },
+  "Pre-eventimage:Pleiades-1A©CNES": {
+    "real": 1,
+    "agency": "cnes"
+  },
+  "Post-eventimage:Pleiades-1A©CNES": {
+    "real": 1,
+    "agency": "cnes"
+  },
+  "Pre-eventimage:WorldView-3©DigitalglobeDigitalGlobe,Inc.": {
+    "real": 1,
+    "agency": "digitalglobe"
+  },
+  "Pre-eventimage:Pleiades-1B©CNES": {
+    "real": 1,
+    "agency": "cnes"
+  },
+  "Pre-eventimage:GeoEye-1©MaxarTechnologies,Inc.": {
+    "real": 1,
+    "agency": "maxar"
+  },
+  "Post-eventimage:Landsat8©courtesyoftheU.S.GeologicalSurvey": {
+    "real": 1,
+    "agency": "nasa"
+  },
+  "Post-eventimage:WorldView-3©DigitalGlobe,Inc.": {
+    "real": 1,
+    "agency": "digitalglobe"
+  },
+  "Pre-eventimage:COSMO-SkyMed©ASI": {
+    "real": 1,
+    "agency": "asi"
+  },
+  "Post-eventimage:PlanetScope©Planet,2021": {
+    "real": 1,
+    "agency": "planet"
+  },
+  "Post-eventimage:PléiadesNEO©AirbusDS": {
+    "real": 1,
+    "agency": "airbus"
+  },
+  "Pre-eventimage:GeoEye-1©DigitalGlobe,Inc.": {
+    "real": 1,
+    "agency": "digitalglobe"
+  },
+  "Post-eventimage:Pleiades-1B©AirbusDS": {
+    "real": 1,
+    "agency": "airbus"
+  },
+  "Post-eventimage:SPOT76©AirbusDS": {
+    "real": 1,
+    "agency": "airbus"
+  },
+  "Pre-eventimage:WorldView-3©DigitalGlobe,Inc.": {
+    "real": 1,
+    "agency": "digitalglobe"
+  },
+  "Pre-eventimage:Geoeye©DigitalGlobe,Inc.": {
+    "real": 1,
+    "agency": "digitalglobe"
+  },
+  "Post-eventimage:PlanetScope©Planet": {
+    "real": 1,
+    "agency": "planet"
+  },
+  "Pre-eventimage:Worldview-3©DigitalGlobe,Inc.": {
+    "real": 1,
+    "agency": "digitalglobe"
+  },
+  "Post-eventimage:SPOT6/7©CNES": {
+    "real": 1,
+    "agency": "cnes"
+  },
+  "Post-eventimage:Aerialdata@EuropeanCommission": {
+    "real": 1,
+    "agency": "eu"
+  },
+  "Post-eventimage:Landsat9©courtesyoftheU.S.GeologicalSurvey": {
+    "real": 1,
+    "agency": "nasa"
+  },
+  "Pre-eventimage::SPOT6©AirbusDS": {
+    "real": 1,
+    "agency": "airbus"
+  },
+  "Post-eventimage:COSMO-SkyMed": {
+    "real": 1,
+    "agency": "asi"
+  },
+  "Post-eventimage:Geoeye1©MaxarTechnologies,Inc.": {
+    "real": 1,
+    "agency": "maxar"
+  },
+  "Pre-eventimage:World-View1©DigitalGlobe,Inc.": {
+    "real": 1,
+    "agency": "digitalglobe"
+  },
+  "Pre-eventimage:GeoEye©DigitalGlobe,Inc.": {
+    "real": 1,
+    "agency": "digitalglobe"
+  },
+  "Pre-eventimage:World-View2©DigitalGlobe,Inc.": {
+    "real": 1,
+    "agency": "digitalglobe"
+  },
+  "Pre-eventimage:WorldView-1©DigitalGlobe,Inc.": {
+    "real": 1,
+    "agency": "digitalglobe"
+  },
+  "Pre-eventimage:World-View3©DigitalGlobe,Inc.": {
+    "real": 1,
+    "agency": "digitalglobe"
+  },
+  "Post-eventimage:SPOTX©AirbusDS": {
+    "real": 1,
+    "agency": "airbus"
+  },
+  "Post-eventimage:SAOCOM®Product©CONAE": {
+    "real": 1,
+    "agency": "conae"
+  },
+  "Post-eventimage:GeoEye1©MaxarTechnologies,Inc.": {
+    "real": 1,
+    "agency": "maxar"
+  },
+  "Post-eventimage:SkySat©Planet,2022": {
+    "real": 1,
+    "agency": "planet"
+  },
+  "Pre-eventimage:WorldView-3©MaxarTechnologies,Inc.": {
+    "real": 1,
+    "agency": "maxar"
+  },
+  "Pre-eventimage:GeoEye©MaxarTechnologies,Inc.": {
+    "real": 1,
+    "agency": "maxar"
+  },
+  "Post-eventimage:WorldView-3©MaxarTechnologies,Inc.": {
+    "real": 1,
+    "agency": "maxar"
+  },
+  "Post-eventimage:Pléiades-NEO©CNES": {
+    "real": 1,
+    "agency": "cnes"
+  },
+  "Post-eventimage:[WorldView-2]©MaxarTechnologies,Inc.": {
+    "real": 1,
+    "agency": "maxar"
+  }
+}

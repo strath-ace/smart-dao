@@ -1,0 +1,5442 @@
+[
+  {
+    "Country": "Indonesia",
+    "Date": "2023-03-07",
+    "Activation_ID": "809",
+    "Satellites": [
+      "worldview",
+      "3"
+    ],
+    "Map_Producers": [
+      "brin"
+    ]
+  },
+  {
+    "Country": "Vanuatu",
+    "Date": "2023-03-03",
+    "Activation_ID": "808",
+    "Satellites": [
+      "pleiades",
+      "worldview",
+      "2"
+    ],
+    "Map_Producers": [
+      "unitar",
+      "unosat"
+    ]
+  },
+  {
+    "Country": "Philippines",
+    "Date": "2023-03-02",
+    "Activation_ID": "807",
+    "Satellites": [
+      "worldview",
+      "3",
+      "rcm",
+      "iceye",
+      "terra modis",
+      "gaofen",
+      "sentinel",
+      "1",
+      "2"
+    ],
+    "Map_Producers": [
+      "noaa",
+      "nesdis",
+      "philsa"
+    ]
+  },
+  {
+    "Country": "Mozambique",
+    "Date": "2023-02-24",
+    "Activation_ID": "805",
+    "Satellites": [
+      "rcm",
+      "noaa",
+      "20",
+      "gaofen",
+      "3",
+      "1",
+      "2",
+      "sentinel",
+      "terrasar",
+      "x"
+    ],
+    "Map_Producers": [
+      "unitar",
+      "unosat",
+      "noaa"
+    ]
+  },
+  {
+    "Country": "Madagascar",
+    "Date": "2023-02-21",
+    "Activation_ID": "804",
+    "Satellites": [
+      "pleiades",
+      "sentinel",
+      "2",
+      "terrasar",
+      "x"
+    ],
+    "Map_Producers": [
+      "copernicus ems rapid mapping",
+      "ithaca",
+      "unitar",
+      "unosat",
+      "unosat"
+    ]
+  },
+  {
+    "Country": "Brazil",
+    "Date": "2023-02-20",
+    "Activation_ID": "803",
+    "Satellites": [
+      "alos",
+      "2",
+      "pleiades",
+      "worldview",
+      "3",
+      "sentinel",
+      "planetscope"
+    ],
+    "Map_Producers": [
+      "cenad",
+      "cenad",
+      "inpe"
+    ]
+  },
+  {
+    "Country": "Mozambique",
+    "Date": "2023-02-16",
+    "Activation_ID": "801",
+    "Satellites": [
+      "noaa",
+      "20",
+      "sentinel",
+      "1",
+      "rcm",
+      "terrasar",
+      "x"
+    ],
+    "Map_Producers": [
+      "george mason university",
+      "the international water management institute",
+      "ingc",
+      "cgiar",
+      "aiccra"
+    ]
+  },
+  {
+    "Country": "Chile",
+    "Date": "2023-02-10",
+    "Activation_ID": "799",
+    "Satellites": [
+      "sentinel",
+      "2"
+    ],
+    "Map_Producers": [
+      "ciren"
+    ]
+  },
+  {
+    "Country": "Syrian Arab Republic",
+    "Date": "2023-02-06",
+    "Activation_ID": "798",
+    "Satellites": [
+      "worldview",
+      "3",
+      "pleiades",
+      "2",
+      "sdgsat",
+      "1",
+      "suomi npp",
+      "yangwang",
+      "geoeye",
+      "sentinel",
+      "kompsat3",
+      "pleiades <br",
+      ">\n<a href=\"https:",
+      "",
+      "disasterscharter.org",
+      "documents",
+      "10180",
+      "18462174",
+      "preliminary",
+      "satellite",
+      "derived",
+      "damage",
+      "assessment",
+      "in",
+      "latakia",
+      "update\" target=\"_blank\">download full report<",
+      "a>"
+    ],
+    "Map_Producers": [
+      "unitar",
+      "unosat",
+      "spatial services",
+      "unosat",
+      "p",
+      "unosat"
+    ]
+  },
+  {
+    "Country": "Turkey",
+    "Date": "2023-02-06",
+    "Activation_ID": "797",
+    "Satellites": [
+      "pleiades",
+      "geoeye",
+      "1",
+      "worldview",
+      "gaofen",
+      "2",
+      "planetscope",
+      "kompsat",
+      "3",
+      "sentinel",
+      "cbers",
+      "4",
+      "yangwang",
+      "1 space telescope",
+      "viirs",
+      "sdgsat",
+      "radarsat"
+    ],
+    "Map_Producers": [
+      "istanbul technical university department of geomatics engineering remote sensing lab (i̇tü)",
+      "istanbul technical university",
+      "the national academy of sciences of belarus: geoinformation systems",
+      "the british geological survey",
+      "kari",
+      "the national academy of science of belarus: geoinformation systems",
+      "national remote sensing centre",
+      "isro",
+      "national academy of sciences of belarus: geoinformation systems",
+      "cenad",
+      "ue geoinformation systems",
+      "the canada centre for mapping",
+      "earth observation",
+      "natural resources canada",
+      "unitar",
+      "unosat",
+      "ief",
+      "cea",
+      "copernicus ems",
+      "geoinformation systems",
+      "ue geoinformation systems",
+      "copernicus ems"
+    ]
+  },
+  {
+    "Country": "Zambia",
+    "Date": "2023-01-30",
+    "Activation_ID": "796",
+    "Satellites": [
+      "suomi npp",
+      "noaa",
+      "20",
+      "newsat",
+      "sentinel",
+      "2",
+      "",
+      "rcm"
+    ],
+    "Map_Producers": [
+      "unitar",
+      "unosat",
+      "iwmi",
+      "cgiar climate resilience initiative",
+      "accelerating the impact of cgiar climate research for africa (aiccra)"
+    ]
+  },
+  {
+    "Country": "Madagascar",
+    "Date": "2023-01-24",
+    "Activation_ID": "795",
+    "Satellites": [
+      "spot6",
+      "sentinel",
+      "2",
+      "rcm",
+      "1",
+      "pleiades",
+      "worldview",
+      "geoeye",
+      "spot",
+      "saocom",
+      "terrasar",
+      "x"
+    ],
+    "Map_Producers": [
+      "gmv",
+      "ithaca",
+      "telespazio iberica",
+      "e",
+      "geos",
+      "copernicus ems"
+    ]
+  },
+  {
+    "Country": "Colombia",
+    "Date": "2023-01-16",
+    "Activation_ID": "794",
+    "Satellites": [
+      "pleiades"
+    ],
+    "Map_Producers": [
+      "icube",
+      "sertit"
+    ]
+  },
+  {
+    "Country": "Indonesia",
+    "Date": "2022-12-05",
+    "Activation_ID": "792",
+    "Satellites": [
+      "worldview",
+      "2",
+      "vrss",
+      "spot",
+      "6",
+      "sentinel",
+      "3",
+      "terrasar",
+      "x",
+      "planetscope"
+    ],
+    "Map_Producers": [
+      "unitar",
+      "unosat",
+      "dlr"
+    ]
+  },
+  {
+    "Country": "Indonesia",
+    "Date": "2022-11-22",
+    "Activation_ID": "791",
+    "Satellites": [
+      "pleiades",
+      "sentinel",
+      "1"
+    ],
+    "Map_Producers": [
+      "unitar",
+      "unosat",
+      "mohammed bin rashid space centre"
+    ]
+  },
+  {
+    "Country": "United Kingdom",
+    "Date": "2022-11-18",
+    "Activation_ID": "790",
+    "Satellites": [
+      "rcm"
+    ],
+    "Map_Producers": [
+      "scottish environment protection agency",
+      "scottish environment protect agency"
+    ]
+  },
+  {
+    "Country": "Philippines",
+    "Date": "2022-10-29",
+    "Activation_ID": "789",
+    "Satellites": [
+      "pleiades",
+      "sentinel",
+      "2",
+      "kanopus",
+      "v",
+      "rcm",
+      "3",
+      "terrasar",
+      "x",
+      "worldview",
+      "1",
+      "l",
+      "sat",
+      "9"
+    ],
+    "Map_Producers": [
+      "geo",
+      "information systems",
+      "gic ait",
+      "gic",
+      "ait",
+      "ue geo",
+      "unitar",
+      "unosat"
+    ]
+  },
+  {
+    "Country": "Chad",
+    "Date": "2022-10-20",
+    "Activation_ID": "788",
+    "Satellites": [
+      "noaa_20",
+      "sentinel",
+      "2",
+      "kanopus",
+      "v",
+      "plaeiades",
+      "pleiades",
+      "worldview",
+      "suomi npp"
+    ],
+    "Map_Producers": [
+      "unitar",
+      "unosat"
+    ]
+  },
+  {
+    "Country": "Thailand",
+    "Date": "2022-10-19",
+    "Activation_ID": "787",
+    "Satellites": [
+      "terrasar",
+      "x",
+      "t",
+      "em",
+      "sentinel",
+      "1",
+      "noaa",
+      "20",
+      "alos2"
+    ],
+    "Map_Producers": [
+      "gic",
+      "ait",
+      "noaa",
+      "snpp+noaa20"
+    ]
+  },
+  {
+    "Country": "Honduras",
+    "Date": "2022-10-12",
+    "Activation_ID": "786",
+    "Satellites": [
+      "newsat",
+      "sentinel",
+      "1",
+      "l",
+      "sat",
+      "8",
+      "saocom",
+      "2",
+      "kompsat",
+      "3",
+      "rcm",
+      "pleiades"
+    ],
+    "Map_Producers": [
+      "usgs",
+      "the national centre for disaster prevention of mexico",
+      "the national center for fisaster prevention of mexico",
+      "the federal university of\nsanta maria",
+      "brazil",
+      "national center for disaster prevention of mexico",
+      "kari (2022)",
+      "the federal  university of santa maria",
+      "brazil",
+      "united nations office for outer space affairs"
+    ]
+  },
+  {
+    "Country": "Venezuela, Bolivarian Republic Of",
+    "Date": "2022-10-10",
+    "Activation_ID": "785",
+    "Satellites": [
+      "gf3",
+      "pleiades",
+      "terrasar",
+      "x",
+      "1",
+      "vrss",
+      "2",
+      "vrss2",
+      "newsat",
+      "sentinel"
+    ],
+    "Map_Producers": [
+      "abae",
+      "icube",
+      "sertit",
+      "ucube",
+      "cnes",
+      "abae (2022)"
+    ]
+  },
+  {
+    "Country": "Thailand",
+    "Date": "2022-10-02",
+    "Activation_ID": "784",
+    "Satellites": [
+      "geoeye",
+      "1",
+      "sentinel",
+      "2",
+      "worldview",
+      "3",
+      "kompsat",
+      "kanopus",
+      "v",
+      "6",
+      "pleiades",
+      "iceye",
+      "rcm"
+    ],
+    "Map_Producers": [
+      "unitar",
+      "unosat",
+      "gistda"
+    ]
+  },
+  {
+    "Country": "Lao People's Democratic Republic",
+    "Date": "2022-09-28",
+    "Activation_ID": "783",
+    "Satellites": [
+      "senintel",
+      "2",
+      "pleiades",
+      "1",
+      "sentinel"
+    ],
+    "Map_Producers": [
+      "unosat"
+    ]
+  },
+  {
+    "Country": "Philippines",
+    "Date": "2022-09-25",
+    "Activation_ID": "782",
+    "Satellites": [
+      "sentinel",
+      "1",
+      "rcm",
+      "3"
+    ],
+    "Map_Producers": [
+      "cgiar"
+    ]
+  },
+  {
+    "Country": "Canada",
+    "Date": "2022-09-23",
+    "Activation_ID": "781",
+    "Satellites": [
+      "pleiades"
+    ],
+    "Map_Producers": [
+      "the canada centre of mapping",
+      "earth observation",
+      "natural resources canada"
+    ]
+  },
+  {
+    "Country": "Dominican Republic",
+    "Date": "2022-09-20",
+    "Activation_ID": "780",
+    "Satellites": [
+      "sentinel",
+      "2"
+    ],
+    "Map_Producers": [
+      "sini"
+    ]
+  },
+  {
+    "Country": "Honduras",
+    "Date": "2022-09-19",
+    "Activation_ID": "778",
+    "Satellites": [
+      "sentinel",
+      "1",
+      "pleiades",
+      "kompsat3",
+      "2"
+    ],
+    "Map_Producers": [
+      "defesa civil brasil",
+      "cnes",
+      "kari"
+    ]
+  },
+  {
+    "Country": "Nigeria",
+    "Date": "2022-09-15",
+    "Activation_ID": "777",
+    "Satellites": [
+      "rcm",
+      "1",
+      "sentinel",
+      "kompsat",
+      "3",
+      "kompsat3",
+      "2",
+      "planetscope",
+      "pleiades",
+      "worldview",
+      "noaa",
+      "20"
+    ],
+    "Map_Producers": [
+      "national space research",
+      "development agency",
+      "the national space research",
+      "kari",
+      "development agency",
+      "noaa",
+      "nasrda"
+    ]
+  },
+  {
+    "Country": "South Africa",
+    "Date": "2022-09-12",
+    "Activation_ID": "776",
+    "Satellites": [
+      "sentinel",
+      "2",
+      "pleiades"
+    ],
+    "Map_Producers": [
+      "sansa",
+      "south african national space agency (sansa)"
+    ]
+  },
+  {
+    "Country": "China",
+    "Date": "2022-09-06",
+    "Activation_ID": "775",
+    "Satellites": [
+      "gf3"
+    ],
+    "Map_Producers": [
+      "ndrcc"
+    ]
+  },
+  {
+    "Country": "Republic Of Korea",
+    "Date": "2022-09-02",
+    "Activation_ID": "773",
+    "Satellites": [
+      "saocom",
+      "sentinel",
+      "1",
+      "rcm"
+    ],
+    "Map_Producers": [
+      "k",
+      "water research institute"
+    ]
+  },
+  {
+    "Country": "Pakistan",
+    "Date": "2022-08-30",
+    "Activation_ID": "772",
+    "Satellites": [
+      "suomi npp",
+      "suomi npp<br",
+      ">\n<a href=\"https:",
+      "",
+      "disasterscharter.org",
+      "documents",
+      "10180",
+      "14989767",
+      "preliminary",
+      "satellite",
+      "derived",
+      "flood",
+      "evolution",
+      "assessment",
+      "9a4ba4ad",
+      "5140",
+      "4f9e",
+      "b4eb",
+      "7a0b5a3031ea\">download the full report<",
+      "a>",
+      "sentinel",
+      "2",
+      "planetscope",
+      "spot6",
+      "worldview",
+      "3",
+      "geoeye",
+      "spot 6",
+      "jilin",
+      "01 optical",
+      "a",
+      "1",
+      "noaa"
+    ],
+    "Map_Producers": [
+      "unosat",
+      "unitar",
+      "george mason university"
+    ]
+  },
+  {
+    "Country": "Philippines",
+    "Date": "2022-08-23",
+    "Activation_ID": "771",
+    "Satellites": [
+      "terrasar",
+      "x"
+    ],
+    "Map_Producers": [
+      "dlr"
+    ]
+  },
+  {
+    "Country": "Russian Federation",
+    "Date": "2022-08-23",
+    "Activation_ID": "770",
+    "Satellites": [
+      "worldview",
+      "2"
+    ],
+    "Map_Producers": [
+      "roscosmos"
+    ]
+  },
+  {
+    "Country": "Sudan",
+    "Date": "2022-08-21",
+    "Activation_ID": "769",
+    "Satellites": [
+      "pleiades",
+      "l",
+      "sat",
+      "8",
+      "9",
+      "worldview",
+      "3",
+      "rcm",
+      "vrss2",
+      "sentinel",
+      "2",
+      "landsat8",
+      "landsat9",
+      "tandem",
+      "x",
+      "terrasar"
+    ],
+    "Map_Producers": [
+      "icube",
+      "sertit",
+      "ue \"geoinformation systems\"",
+      "ue geoinformation systems",
+      "united nations satellite centre (unosat)",
+      "ue geo",
+      "information systems",
+      "ue \"geoinformation systems",
+      "unitar",
+      "unosat"
+    ]
+  },
+  {
+    "Country": "Gambia",
+    "Date": "2022-08-09",
+    "Activation_ID": "768",
+    "Satellites": [
+      "sentinel",
+      "2",
+      "worldview",
+      "3",
+      "pleiades",
+      "kanopus",
+      "v"
+    ],
+    "Map_Producers": [
+      "unitar",
+      "unosat"
+    ]
+  },
+  {
+    "Country": "Russian Federation",
+    "Date": "2022-08-08",
+    "Activation_ID": "767",
+    "Satellites": [
+      "pleiades",
+      "kanopus",
+      "v",
+      "resurs",
+      "p"
+    ],
+    "Map_Producers": [
+      "icube",
+      "sertit",
+      "nts omz"
+    ]
+  },
+  {
+    "Country": "Tunisia",
+    "Date": "2022-07-27",
+    "Activation_ID": "766",
+    "Satellites": [
+      "pleiades",
+      "worldview",
+      "2",
+      "kompsat",
+      "3",
+      "l",
+      "sat",
+      "9",
+      "sentinel",
+      "8"
+    ],
+    "Map_Producers": [
+      "icube",
+      "sertit",
+      "ue \"geoinformation systems\"",
+      "ue \"geoinformation systems"
+    ]
+  },
+  {
+    "Country": "Philippines",
+    "Date": "2022-07-27",
+    "Activation_ID": "765",
+    "Satellites": [
+      "sentinel",
+      "1",
+      "pleiades"
+    ],
+    "Map_Producers": [
+      "dost",
+      "philvolcs",
+      "unitar",
+      "unosat"
+    ]
+  },
+  {
+    "Country": "India",
+    "Date": "2022-07-14",
+    "Activation_ID": "764",
+    "Satellites": [
+      "pleiades",
+      "1",
+      "newsat",
+      "sentinel",
+      "2",
+      "kompsat",
+      "5",
+      "geoeye",
+      "rcm"
+    ],
+    "Map_Producers": [
+      "icube",
+      "sertit",
+      "national remote sensing centre",
+      "isro",
+      "the national remote sensing centre",
+      "isro"
+    ]
+  },
+  {
+    "Country": "Afghanistan",
+    "Date": "2022-06-22",
+    "Activation_ID": "763",
+    "Satellites": [
+      "worldview",
+      "2",
+      "newsat",
+      "jilin",
+      "1",
+      "3"
+    ],
+    "Map_Producers": [
+      "unitar",
+      "unosat"
+    ]
+  },
+  {
+    "Country": "Bangladesh",
+    "Date": "2022-06-17",
+    "Activation_ID": "762",
+    "Satellites": [
+      "sentinel",
+      "1",
+      "pleiades",
+      "rcm"
+    ],
+    "Map_Producers": [
+      "icube",
+      "sertit",
+      "unitar",
+      "unosat"
+    ]
+  },
+  {
+    "Country": "Philippines",
+    "Date": "2022-06-13",
+    "Activation_ID": "761",
+    "Satellites": [
+      "spot6",
+      "sentinel",
+      "2",
+      "planetscope",
+      "kompsat",
+      "3a"
+    ],
+    "Map_Producers": [
+      "dost",
+      "philvolcs",
+      "phivolcs"
+    ]
+  },
+  {
+    "Country": "Afghanistan",
+    "Date": "2022-06-06",
+    "Activation_ID": "760",
+    "Satellites": [
+      "spot6",
+      "sentinel",
+      "2"
+    ],
+    "Map_Producers": [
+      "unitar",
+      "unosat"
+    ]
+  },
+  {
+    "Country": "Gambia",
+    "Date": "2022-06-04",
+    "Activation_ID": "759",
+    "Satellites": [
+      "pleiades",
+      "sentinel",
+      "1"
+    ],
+    "Map_Producers": [
+      "unitar",
+      "unosat"
+    ]
+  },
+  {
+    "Country": "Brazil",
+    "Date": "2022-05-30",
+    "Activation_ID": "758",
+    "Satellites": [
+      "pleiades",
+      "pleiades_1b"
+    ],
+    "Map_Producers": [
+      "cenad"
+    ]
+  },
+  {
+    "Country": "South Africa",
+    "Date": "2022-05-24",
+    "Activation_ID": "757",
+    "Satellites": [
+      "sentinel",
+      "1",
+      "worldview",
+      "2",
+      "pleiades",
+      "kompsat",
+      "3"
+    ],
+    "Map_Producers": [
+      "nasrda",
+      "unitar",
+      "unosat",
+      "moses john duguru",
+      "independent un consultant",
+      "geoinformation systems"
+    ]
+  },
+  {
+    "Country": "Philippines",
+    "Date": "2022-04-13",
+    "Activation_ID": "756",
+    "Satellites": [
+      "pleiades",
+      "sentinel",
+      "2",
+      "rcm",
+      "1",
+      "1 <br",
+      ">\nmap produced by esa",
+      "terrasar",
+      "x",
+      "t",
+      "em",
+      "worldview",
+      "kompsat",
+      "5",
+      "tandem"
+    ],
+    "Map_Producers": [
+      "icube",
+      "sertit",
+      "esa",
+      "the canadian space agency",
+      "canadian space agency",
+      "csa",
+      "geo",
+      "information systems",
+      "unitar",
+      "unosat",
+      "geoinformation systems",
+      "datos",
+      "philsa",
+      "ue \"geoinformation systems\""
+    ]
+  },
+  {
+    "Country": "South Africa",
+    "Date": "2022-04-13",
+    "Activation_ID": "755",
+    "Satellites": [
+      "pleiades",
+      "worldview",
+      "3",
+      "kompsat",
+      "newsat",
+      "2",
+      "geoeye",
+      "1"
+    ],
+    "Map_Producers": [
+      "icube",
+      "sertit",
+      "unitar",
+      "unosat",
+      "cube",
+      "national disaster management centre of south africa"
+    ]
+  },
+  {
+    "Country": "Brazil",
+    "Date": "2022-04-05",
+    "Activation_ID": "754",
+    "Satellites": [
+      "cbers",
+      "4a",
+      "pleiades",
+      "google",
+      "google satellite",
+      "l",
+      "sat 9"
+    ],
+    "Map_Producers": [
+      "cenad"
+    ]
+  },
+  {
+    "Country": "Mozambique",
+    "Date": "2022-03-13",
+    "Activation_ID": "753",
+    "Satellites": [
+      "terrasar",
+      "x",
+      "sentinel",
+      "1",
+      "2",
+      "rcm"
+    ],
+    "Map_Producers": [
+      "unitar",
+      "unosat"
+    ]
+  },
+  {
+    "Country": "Madagascar",
+    "Date": "2022-02-25",
+    "Activation_ID": "752",
+    "Satellites": [
+      "worldview",
+      "2",
+      "3",
+      "cartosat",
+      "sentinel",
+      "pleiades",
+      "rcm",
+      "1",
+      "terrasar",
+      "x"
+    ],
+    "Map_Producers": [
+      "unitar",
+      "unosat"
+    ]
+  },
+  {
+    "Country": "Brazil",
+    "Date": "2022-02-16",
+    "Activation_ID": "751",
+    "Satellites": [
+      "pleiades",
+      "cbers",
+      "4a"
+    ],
+    "Map_Producers": [
+      "cenad"
+    ]
+  },
+  {
+    "Country": "Madagascar",
+    "Date": "2022-02-04",
+    "Activation_ID": "750",
+    "Satellites": [
+      "sentinel",
+      "2",
+      "pleiades",
+      "1",
+      "terrasar",
+      "x",
+      "rcm"
+    ],
+    "Map_Producers": [
+      "unitar",
+      "unosat"
+    ]
+  },
+  {
+    "Country": "Ecuador",
+    "Date": "2022-01-31",
+    "Activation_ID": "749",
+    "Satellites": [
+      "sentinel",
+      "1",
+      "rcm"
+    ],
+    "Map_Producers": [
+      "university of costa rica"
+    ]
+  },
+  {
+    "Country": "Mozambique",
+    "Date": "2022-01-25",
+    "Activation_ID": "748",
+    "Satellites": [
+      "sentinel",
+      "2",
+      "1",
+      "worldview",
+      "cbers",
+      "4a",
+      "vrss2",
+      "worlview",
+      "terrsar",
+      "x",
+      "vision",
+      "rcm",
+      "t",
+      "em",
+      "terrasar",
+      "fy3d"
+    ],
+    "Map_Producers": [
+      "ue geoinformation systems",
+      "inpe",
+      "geoinformation systems",
+      "ue",
+      "unitar",
+      "unosat",
+      "federal university of santa maria",
+      "brazil",
+      "the federal university of santa maria",
+      "e",
+      "geos"
+    ]
+  },
+  {
+    "Country": "Madagascar",
+    "Date": "2022-01-24",
+    "Activation_ID": "747",
+    "Satellites": [
+      "pleiades",
+      "worldview",
+      "2",
+      "sentinel",
+      "rcm",
+      "3",
+      "1",
+      "saocom 1a"
+    ],
+    "Map_Producers": [
+      "ithaca",
+      "e",
+      "geos",
+      "sertit",
+      "gaf",
+      "copernicus ems",
+      "gaf ag",
+      "ag"
+    ]
+  },
+  {
+    "Country": "Peru",
+    "Date": "2022-01-20",
+    "Activation_ID": "745",
+    "Satellites": [
+      "perusat",
+      "1",
+      "worldview",
+      "2",
+      "3",
+      "l",
+      "sat",
+      "8",
+      "sentinel",
+      "vision",
+      "radarsat",
+      "kompsat",
+      "5",
+      "worldview_3",
+      "worldview2"
+    ],
+    "Map_Producers": [
+      "maxar",
+      "conida",
+      "noaa",
+      "nesdis"
+    ]
+  },
+  {
+    "Country": "Sao Tome And Principe",
+    "Date": "2022-01-20",
+    "Activation_ID": "746",
+    "Satellites": [
+      "pleiades",
+      "sentinel",
+      "2"
+    ],
+    "Map_Producers": [
+      "unitar",
+      "unosat"
+    ]
+  },
+  {
+    "Country": "Tonga",
+    "Date": "2022-01-15",
+    "Activation_ID": "744",
+    "Satellites": [
+      "planetscope",
+      "sentinel",
+      "1",
+      "2",
+      "pleiades",
+      "worldview",
+      "3",
+      "kompsat",
+      "kanopus",
+      "v",
+      "jilin",
+      "01",
+      "03",
+      "gf1"
+    ],
+    "Map_Producers": [
+      "british geological survey",
+      "unitar",
+      "unosat",
+      "ithaca",
+      "icube",
+      "sertit",
+      "casc",
+      "second institute of oceanography",
+      "mnr",
+      "china"
+    ]
+  },
+  {
+    "Country": "Ecuador",
+    "Date": "2022-01-07",
+    "Activation_ID": "743",
+    "Satellites": [
+      "sentinel",
+      "2"
+    ],
+    "Map_Producers": [
+      "cnsa",
+      "cresda"
+    ]
+  },
+  {
+    "Country": "Brazil",
+    "Date": "2021-12-30",
+    "Activation_ID": "742",
+    "Satellites": [
+      "pleiades",
+      "cbers",
+      "4a",
+      "worldview",
+      "3",
+      "2"
+    ],
+    "Map_Producers": [
+      "inpe"
+    ]
+  },
+  {
+    "Country": "Philippines",
+    "Date": "2021-12-16",
+    "Activation_ID": "741",
+    "Satellites": [
+      "pleiades",
+      "geoeye",
+      "worldview",
+      "3",
+      "1",
+      "sentinel",
+      "2",
+      "spot 6",
+      "spot 7"
+    ],
+    "Map_Producers": [
+      "unitar",
+      "unosat"
+    ]
+  },
+  {
+    "Country": "Micronesia, Federated States Of",
+    "Date": "2021-12-08",
+    "Activation_ID": "740",
+    "Satellites": [
+      "worldview",
+      "2",
+      "sentinel",
+      "1",
+      "3",
+      "pleiades"
+    ],
+    "Map_Producers": [
+      "usgs",
+      "university of connecticut"
+    ]
+  },
+  {
+    "Country": "Indonesia",
+    "Date": "2021-12-07",
+    "Activation_ID": "739",
+    "Satellites": [
+      "pleiades",
+      "sentinel",
+      "2",
+      "vision",
+      "1",
+      "l",
+      "sat",
+      "8"
+    ],
+    "Map_Producers": [
+      "gic",
+      "unitar",
+      "unosat",
+      "ait",
+      "usgs"
+    ]
+  },
+  {
+    "Country": "Philippines",
+    "Date": "2021-11-24",
+    "Activation_ID": "738",
+    "Satellites": [
+      "planetscope",
+      "sentinel",
+      "2",
+      "pleiades"
+    ],
+    "Map_Producers": [
+      "dost",
+      "phivolcs",
+      "sertit"
+    ]
+  },
+  {
+    "Country": "Sri Lanka",
+    "Date": "2021-11-12",
+    "Activation_ID": "737",
+    "Satellites": [
+      "worldview",
+      "2",
+      "3",
+      "sentinel",
+      "alos2",
+      "terrasar",
+      "x",
+      "alos",
+      "rcm"
+    ],
+    "Map_Producers": [
+      "ue geoinformation systems",
+      "geo",
+      "information systems",
+      "gic",
+      "ait"
+    ]
+  },
+  {
+    "Country": "Thailand",
+    "Date": "2021-09-28",
+    "Activation_ID": "734",
+    "Satellites": [
+      "pleiades",
+      "sentinel",
+      "1",
+      "gaofen",
+      "2",
+      "kanopus",
+      "v",
+      "noaa"
+    ],
+    "Map_Producers": [
+      "sertit",
+      "unitar",
+      "unosat"
+    ]
+  },
+  {
+    "Country": "China",
+    "Date": "2021-09-16",
+    "Activation_ID": "733",
+    "Satellites": [
+      "pleiades"
+    ],
+    "Map_Producers": [
+      "national disaster reduction center of china"
+    ]
+  },
+  {
+    "Country": "Sudan",
+    "Date": "2021-09-09",
+    "Activation_ID": "732",
+    "Satellites": [
+      "kanopus",
+      "v",
+      "sentinel",
+      "2",
+      "pleiades"
+    ],
+    "Map_Producers": [
+      "unosat",
+      "unitar"
+    ]
+  },
+  {
+    "Country": "Togo",
+    "Date": "2021-09-06",
+    "Activation_ID": "731",
+    "Satellites": [
+      "sentinel",
+      "1",
+      "terrasar",
+      "x",
+      "rcm",
+      "3"
+    ],
+    "Map_Producers": [
+      "geoinformation systems",
+      "ue \"geoinformation systems\"",
+      "icube",
+      "sertit"
+    ]
+  },
+  {
+    "Country": "Haiti",
+    "Date": "2021-08-17",
+    "Activation_ID": "730",
+    "Satellites": [
+      "sentinel",
+      "2",
+      "rcm",
+      "3",
+      "1",
+      "worldview",
+      "pleiades",
+      "planetscope"
+    ],
+    "Map_Producers": [
+      "bgc",
+      "icube",
+      "sertit"
+    ]
+  },
+  {
+    "Country": "Haiti",
+    "Date": "2021-08-14",
+    "Activation_ID": "729",
+    "Satellites": [
+      "pleiades",
+      "1",
+      "kanopus",
+      "v",
+      "worldview",
+      "3",
+      "2"
+    ],
+    "Map_Producers": [
+      "icube",
+      "sertit",
+      "unitar",
+      "unosat"
+    ]
+  },
+  {
+    "Country": "Russian Federation",
+    "Date": "2021-08-14",
+    "Activation_ID": "728",
+    "Satellites": [
+      "sentinel",
+      "2"
+    ],
+    "Map_Producers": [
+      "roscosmos"
+    ]
+  },
+  {
+    "Country": "Japan",
+    "Date": "2021-08-14",
+    "Activation_ID": "727",
+    "Satellites": [
+      "sentinel",
+      "1",
+      "terrasar",
+      "x"
+    ],
+    "Map_Producers": [
+      "chiba university",
+      "yamaguchi university"
+    ]
+  },
+  {
+    "Country": "Russian Federation",
+    "Date": "2021-08-04",
+    "Activation_ID": "725",
+    "Satellites": [
+      "kanopus",
+      "v",
+      "sentinel",
+      "1",
+      "terrasar",
+      "x"
+    ],
+    "Map_Producers": [
+      "roscosmos"
+    ]
+  },
+  {
+    "Country": "Tunisia",
+    "Date": "2021-07-28",
+    "Activation_ID": "724",
+    "Satellites": [
+      "planetscope",
+      "pleiades"
+    ],
+    "Map_Producers": [
+      "unitar",
+      "unosat"
+    ]
+  },
+  {
+    "Country": "India",
+    "Date": "2021-07-26",
+    "Activation_ID": "723",
+    "Satellites": [
+      "pleiades",
+      "kompsat 3",
+      "sentinel",
+      "1",
+      "saocom 1a",
+      "saocom",
+      "1a",
+      "terrasar",
+      "x",
+      "resourcesat",
+      "2",
+      "tandem",
+      "rcm",
+      "radarsat"
+    ],
+    "Map_Producers": [
+      "nrsc",
+      "isro"
+    ]
+  },
+  {
+    "Country": "Russian Federation",
+    "Date": "2021-07-20",
+    "Activation_ID": "722",
+    "Satellites": [
+      "meteor",
+      "m"
+    ],
+    "Map_Producers": [
+      "roscosmos"
+    ]
+  },
+  {
+    "Country": "Switzerland",
+    "Date": "2021-07-15",
+    "Activation_ID": "720",
+    "Satellites": [
+      "t",
+      "em",
+      "x",
+      "rcm"
+    ],
+    "Map_Producers": [
+      "swiss federal office of topography"
+    ]
+  },
+  {
+    "Country": "Luxembourg",
+    "Date": "2021-07-15",
+    "Activation_ID": "721",
+    "Satellites": [
+      "pleiades",
+      "tandem",
+      "x",
+      "terrasar",
+      "sentinel",
+      "1"
+    ],
+    "Map_Producers": [
+      "list"
+    ]
+  },
+  {
+    "Country": "Thailand",
+    "Date": "2021-07-06",
+    "Activation_ID": "719",
+    "Satellites": [
+      "pleiades"
+    ],
+    "Map_Producers": [
+      "unitar",
+      "unosat"
+    ]
+  },
+  {
+    "Country": "Russian Federation",
+    "Date": "2021-06-21",
+    "Activation_ID": "718",
+    "Satellites": [
+      "kanopus",
+      "v"
+    ],
+    "Map_Producers": [
+      "roscosmos"
+    ]
+  },
+  {
+    "Country": "Guyana",
+    "Date": "2021-06-07",
+    "Activation_ID": "717",
+    "Satellites": [
+      "suomi npp",
+      "sentinel",
+      "1",
+      "rcm",
+      "terrasar",
+      "x",
+      "2",
+      "noaa",
+      "20"
+    ],
+    "Map_Producers": [
+      "unitar",
+      "unosat"
+    ]
+  },
+  {
+    "Country": "Sri Lanka",
+    "Date": "2021-06-05",
+    "Activation_ID": "716",
+    "Satellites": [
+      "alos2",
+      "alos",
+      "2",
+      "tandem",
+      "x"
+    ],
+    "Map_Producers": [
+      "iwmi"
+    ]
+  },
+  {
+    "Country": "Sri Lanka",
+    "Date": "2021-06-04",
+    "Activation_ID": "715",
+    "Satellites": [
+      "worldview",
+      "2",
+      "cbers",
+      "4",
+      "rcm",
+      "pleiades",
+      "sentinel",
+      "1",
+      "saocom 1a",
+      "iceye",
+      "l",
+      "sat 8"
+    ],
+    "Map_Producers": [
+      "noaa",
+      "mitigation",
+      "research",
+      "development division of disaster management centre"
+    ]
+  },
+  {
+    "Country": "India",
+    "Date": "2021-05-25",
+    "Activation_ID": "714",
+    "Satellites": [
+      "sentinel",
+      "1",
+      "pleiades",
+      "t",
+      "em",
+      "x",
+      "saocom 1a",
+      "rcm",
+      "2",
+      "3",
+      "saocom",
+      "1a",
+      "kanopus",
+      "v",
+      "tandem"
+    ],
+    "Map_Producers": [
+      "nrsc",
+      "isro"
+    ]
+  },
+  {
+    "Country": "The Democratic Republic of the Congo",
+    "Date": "2021-05-23",
+    "Activation_ID": "713",
+    "Satellites": [
+      "l",
+      "sat",
+      "8",
+      "sentinel",
+      "1",
+      "alos",
+      "2",
+      "cosmo",
+      "skymed",
+      "pleiades",
+      "saocom",
+      "1a",
+      "world",
+      "view",
+      "terrasar",
+      "x"
+    ],
+    "Map_Producers": [
+      "usgs",
+      "unitar",
+      "unosat"
+    ]
+  },
+  {
+    "Country": "China",
+    "Date": "2021-05-22",
+    "Activation_ID": "712",
+    "Satellites": [
+      "spot7",
+      "terrasar",
+      "x"
+    ],
+    "Map_Producers": [
+      "ipgp",
+      "ndrcc"
+    ]
+  },
+  {
+    "Country": "China",
+    "Date": "2021-05-22",
+    "Activation_ID": "711",
+    "Satellites": [
+      "gf1",
+      "iceye",
+      "x2"
+    ],
+    "Map_Producers": [
+      "cnsa"
+    ]
+  },
+  {
+    "Country": "Russian Federation",
+    "Date": "2021-05-21",
+    "Activation_ID": "710",
+    "Satellites": [
+      "resurs",
+      "p"
+    ],
+    "Map_Producers": [
+      "roscosmos"
+    ]
+  },
+  {
+    "Country": "India",
+    "Date": "2021-05-16",
+    "Activation_ID": "709",
+    "Satellites": [
+      "pleiades",
+      "rcm",
+      "1"
+    ],
+    "Map_Producers": [
+      "nrsc",
+      "isro"
+    ]
+  },
+  {
+    "Country": "Russian Federation",
+    "Date": "2021-05-12",
+    "Activation_ID": "708",
+    "Satellites": [
+      "resurs",
+      "p"
+    ],
+    "Map_Producers": [
+      "roscosmos"
+    ]
+  },
+  {
+    "Country": "Russian Federation",
+    "Date": "2021-05-07",
+    "Activation_ID": "707",
+    "Satellites": [
+      "resurs",
+      "p"
+    ],
+    "Map_Producers": [
+      "roscosmos"
+    ]
+  },
+  {
+    "Country": "Somalia",
+    "Date": "2021-05-03",
+    "Activation_ID": "706",
+    "Satellites": [
+      "pleiades",
+      "kompsat",
+      "5",
+      "tandem_x",
+      "rcm",
+      "1",
+      "worldview",
+      "3"
+    ],
+    "Map_Producers": [
+      "unitar",
+      "unosat"
+    ]
+  },
+  {
+    "Country": "Russian Federation",
+    "Date": "2021-04-14",
+    "Activation_ID": "705",
+    "Satellites": [
+      "resurs",
+      "p"
+    ],
+    "Map_Producers": [
+      "roscomos"
+    ]
+  },
+  {
+    "Country": "Russian Federation",
+    "Date": "2021-04-12",
+    "Activation_ID": "704",
+    "Satellites": [
+      "resurs",
+      "p"
+    ],
+    "Map_Producers": [
+      "roscosmos"
+    ]
+  },
+  {
+    "Country": "Saint Vincent And The Grenadines",
+    "Date": "2021-04-09",
+    "Activation_ID": "703",
+    "Satellites": [
+      "worldview",
+      "1",
+      "3",
+      "rcm",
+      "sentinel",
+      "2",
+      "saocom",
+      "1a",
+      "pleiades",
+      "radarsat",
+      "terrasar",
+      "x"
+    ],
+    "Map_Producers": [
+      "usgs",
+      "unitar",
+      "unosat"
+    ]
+  },
+  {
+    "Country": "Timor-leste",
+    "Date": "2021-04-07",
+    "Activation_ID": "701",
+    "Satellites": [
+      "pleiades",
+      "vision",
+      "1",
+      "geoeye",
+      "worldview",
+      "2",
+      "planetscope",
+      "sentinel"
+    ],
+    "Map_Producers": [
+      "unitar",
+      "unosat"
+    ]
+  },
+  {
+    "Country": "Indonesia",
+    "Date": "2021-04-06",
+    "Activation_ID": "702",
+    "Satellites": [
+      "vision",
+      "1",
+      "worldview",
+      "3",
+      "pleiades"
+    ],
+    "Map_Producers": [
+      "unosat",
+      "unitar",
+      "lapan"
+    ]
+  },
+  {
+    "Country": "Philippines",
+    "Date": "2021-02-22",
+    "Activation_ID": "700",
+    "Satellites": [
+      "sentinel",
+      "1",
+      "resourcesat",
+      "2",
+      "alos"
+    ],
+    "Map_Producers": [
+      "geomatics for environment",
+      "development (ged) laboratory"
+    ]
+  },
+  {
+    "Country": "India",
+    "Date": "2021-02-07",
+    "Activation_ID": "698",
+    "Satellites": [
+      "resourcesat",
+      "2",
+      "pleiades",
+      "kompsat 3",
+      "geoeye",
+      "worldview",
+      "3",
+      "cartosat 2",
+      "cartosat",
+      "kompsat",
+      "sentinel",
+      "kanopus_v_ik",
+      "kanopus v"
+    ],
+    "Map_Producers": [
+      "nrsc",
+      "isro"
+    ]
+  },
+  {
+    "Country": "Eswatini",
+    "Date": "2021-01-27",
+    "Activation_ID": "697",
+    "Satellites": [
+      "worldview",
+      "2",
+      "pleiades",
+      "sentinel"
+    ],
+    "Map_Producers": [
+      "ue geoinformation systems",
+      "geoinformation systems",
+      "dlr",
+      "zki"
+    ]
+  },
+  {
+    "Country": "Mozambique",
+    "Date": "2021-01-22",
+    "Activation_ID": "696",
+    "Satellites": [
+      "sentinel",
+      "1",
+      "pleiades",
+      "terrasar",
+      "x",
+      "suomi npp"
+    ],
+    "Map_Producers": [
+      "unitar",
+      "unosat"
+    ]
+  },
+  {
+    "Country": "Indonesia",
+    "Date": "2021-01-15",
+    "Activation_ID": "695",
+    "Satellites": [
+      "kompsat3",
+      "pleiades",
+      "alos",
+      "2",
+      "sentinel",
+      "1"
+    ],
+    "Map_Producers": [
+      "kari",
+      "bnbp",
+      "lapan"
+    ]
+  },
+  {
+    "Country": "Morocco",
+    "Date": "2021-01-12",
+    "Activation_ID": "694",
+    "Satellites": [
+      "pleiades"
+    ],
+    "Map_Producers": [
+      "unitar",
+      "unosat"
+    ]
+  },
+  {
+    "Country": "Bolivia, Plurinational State Of",
+    "Date": "2021-01-04",
+    "Activation_ID": "693",
+    "Satellites": [
+      "cbers",
+      "4a"
+    ],
+    "Map_Producers": [
+      "inpe<br",
+      ">\ncopyright (2020) inpe",
+      "inpe"
+    ]
+  },
+  {
+    "Country": "Fiji",
+    "Date": "2020-12-15",
+    "Activation_ID": "691",
+    "Satellites": [
+      "worldview",
+      "1",
+      "2",
+      "pleiades",
+      "rcm",
+      "sentinel"
+    ],
+    "Map_Producers": [
+      "unitar",
+      "unosat"
+    ]
+  },
+  {
+    "Country": "Sri Lanka",
+    "Date": "2020-12-02",
+    "Activation_ID": "690",
+    "Satellites": [
+      "terrasar",
+      "x",
+      "rcm",
+      "3",
+      "sentinel",
+      "1"
+    ],
+    "Map_Producers": [
+      "international water management institute (iwmi)",
+      "dmc sri lanka",
+      "disaster management centre",
+      "sri lanka",
+      "international water management institute",
+      "sri lanka"
+    ]
+  },
+  {
+    "Country": "Mexico",
+    "Date": "2020-12-01",
+    "Activation_ID": "689",
+    "Satellites": [
+      "terrasar",
+      "x",
+      "pleiades",
+      "worldview"
+    ],
+    "Map_Producers": [
+      "national autonomous university of méxico (unam)",
+      "maritime authority of colombia (dimar)",
+      "national center of disaster prevention (cenapred)"
+    ]
+  },
+  {
+    "Country": "India",
+    "Date": "2020-11-24",
+    "Activation_ID": "688",
+    "Satellites": [
+      "sentinel",
+      "1",
+      "t",
+      "em",
+      "x",
+      "rcm",
+      "3",
+      "saocom 1a",
+      "kompsat",
+      "5",
+      "terrasar",
+      "resourcesat",
+      "2",
+      "saocom",
+      "saocom 1",
+      "radarsat",
+      "alos",
+      "novasar",
+      "pleiades",
+      "worldview",
+      "kanopus",
+      "v",
+      "tandem"
+    ],
+    "Map_Producers": [
+      "nrsc",
+      "isro"
+    ]
+  },
+  {
+    "Country": "Colombia",
+    "Date": "2020-11-17",
+    "Activation_ID": "687",
+    "Satellites": [
+      "pleiades"
+    ],
+    "Map_Producers": [
+      "ungrd"
+    ]
+  },
+  {
+    "Country": "Philippines",
+    "Date": "2020-11-15",
+    "Activation_ID": "686",
+    "Satellites": [
+      "spot6",
+      "sentinel",
+      "2",
+      "spot7",
+      "spot",
+      "7",
+      "1",
+      "rcm"
+    ],
+    "Map_Producers": [
+      "gic",
+      "ait",
+      "geoinformatics center ait",
+      "geoinformatics center"
+    ]
+  },
+  {
+    "Country": "Indonesia",
+    "Date": "2020-11-10",
+    "Activation_ID": "685",
+    "Satellites": [
+      "terrasar",
+      "x",
+      "paz",
+      "rcm",
+      "2",
+      "3",
+      "1",
+      "terrasar_x",
+      "tandem",
+      "cosmo skymed",
+      "alsat",
+      "1b",
+      "spot6",
+      "vrss2",
+      "kompsat",
+      "5",
+      "iceye",
+      "x2",
+      "spot",
+      "6"
+    ],
+    "Map_Producers": [
+      "usgs",
+      "the department of natural resources canada",
+      "the canada center for mapping",
+      "earth observation",
+      "natural resources",
+      "radarsat is an official mark of the canadian space agency"
+    ]
+  },
+  {
+    "Country": "Panama",
+    "Date": "2020-11-09",
+    "Activation_ID": "684",
+    "Satellites": [
+      "sentinel",
+      "1",
+      "kompsat",
+      "5",
+      "terrasar",
+      "x"
+    ],
+    "Map_Producers": [
+      "ue geoinformation systems",
+      "cathalac"
+    ]
+  },
+  {
+    "Country": "Mexico",
+    "Date": "2020-11-06",
+    "Activation_ID": "683",
+    "Satellites": [
+      "sentinel",
+      "1",
+      "iceye",
+      "pleiades",
+      "terrasar",
+      "x",
+      "t",
+      "em",
+      "tandem",
+      "noaa"
+    ],
+    "Map_Producers": [
+      "autonomous university of mexico state (uaemex)",
+      "federal university of santa maría",
+      "brasil;",
+      "national center of disaster prevention (cenapred)",
+      "inegi",
+      "copernicus ems",
+      "the radar produced induction diary (rapid)",
+      "<br",
+      "> federal university of santa maría",
+      "national center of disaster prevention (cenapred)",
+      "noaa",
+      "jps"
+    ]
+  },
+  {
+    "Country": "Philippines",
+    "Date": "2020-11-02",
+    "Activation_ID": "682",
+    "Satellites": [
+      "pleiades",
+      "worldview",
+      "2",
+      "sentinel",
+      "1"
+    ],
+    "Map_Producers": [
+      "dost",
+      "phivolcs",
+      "unitar",
+      "unosat"
+    ]
+  },
+  {
+    "Country": "Vietnam",
+    "Date": "2020-10-28",
+    "Activation_ID": "681",
+    "Satellites": [
+      "sentinel",
+      "1",
+      "saocom 1a",
+      "pleiades"
+    ],
+    "Map_Producers": [
+      "unitar",
+      "unosat"
+    ]
+  },
+  {
+    "Country": "Vietnam",
+    "Date": "2020-10-15",
+    "Activation_ID": "680",
+    "Satellites": [
+      "sentinel",
+      "1",
+      "pleiades",
+      "noaa",
+      "kompsat",
+      "5",
+      "tandem",
+      "x",
+      "rcm"
+    ],
+    "Map_Producers": [
+      "unitar",
+      "unosat",
+      "noaa",
+      "jpss"
+    ]
+  },
+  {
+    "Country": "Togo",
+    "Date": "2020-10-12",
+    "Activation_ID": "679",
+    "Satellites": [
+      "pleiades",
+      "worldview",
+      "2",
+      "3",
+      "noaa",
+      "sentinel",
+      "1"
+    ],
+    "Map_Producers": [
+      "copernicus ems",
+      "copernicus ems",
+      "noaa",
+      "jpss"
+    ]
+  },
+  {
+    "Country": "Argentina",
+    "Date": "2020-09-28",
+    "Activation_ID": "678",
+    "Satellites": [
+      "kompsat",
+      "3",
+      "cbers",
+      "4a",
+      "alsat",
+      "1b",
+      "sentinel",
+      "2",
+      "resourcesat",
+      "world",
+      "view",
+      "kanopus",
+      "v",
+      "spot6",
+      "spot",
+      "6",
+      "4"
+    ],
+    "Map_Producers": [
+      "kari",
+      "conae",
+      "conae",
+      "br"
+    ]
+  },
+  {
+    "Country": "Niger",
+    "Date": "2020-09-21",
+    "Activation_ID": "677",
+    "Satellites": [
+      "kompsat",
+      "3",
+      "sentinel",
+      "1",
+      "2",
+      "noaa",
+      "20",
+      "pleiades",
+      "noaa_20"
+    ],
+    "Map_Producers": [
+      "national space research",
+      "development agency (nasrda)",
+      "gmv",
+      "nasrda",
+      "copernicus ems",
+      "sertit",
+      "noaa"
+    ]
+  },
+  {
+    "Country": "Bolivia, Plurinational State",
+    "Date": "2020-09-15",
+    "Activation_ID": "676",
+    "Satellites": [
+      "sentinel",
+      "2",
+      "cbers",
+      "4a",
+      "4"
+    ],
+    "Map_Producers": [
+      "sinager",
+      "defensa civil bolivia",
+      "denfensa civil bolivia"
+    ]
+  },
+  {
+    "Country": "Sudan",
+    "Date": "2020-09-07",
+    "Activation_ID": "675",
+    "Satellites": [
+      "suomi npp",
+      "terrasar",
+      "x",
+      "sentinel",
+      "2",
+      "pleiades",
+      "noaa",
+      "20",
+      "viirs",
+      "snpp"
+    ],
+    "Map_Producers": [
+      "unitar",
+      "unosat",
+      "geo",
+      "information systems",
+      "geoinformation systems",
+      "noaa",
+      "ue \"geoinformation systems\""
+    ]
+  },
+  {
+    "Country": "Japan",
+    "Date": "2020-09-04",
+    "Activation_ID": "674",
+    "Satellites": [
+      "kanopus_v",
+      "cbers",
+      "4",
+      "sentinel",
+      "1",
+      "terrasar",
+      "x",
+      "rcm",
+      "pleiades",
+      "2"
+    ],
+    "Map_Producers": [
+      "aisia air survey co. ltd",
+      "japan",
+      "tohoku university",
+      "yamaguchi university",
+      "kagawa university",
+      "jaxa"
+    ]
+  },
+  {
+    "Country": "Korea, Republic Of",
+    "Date": "2020-08-31",
+    "Activation_ID": "673",
+    "Satellites": [
+      "sentinel",
+      "1"
+    ],
+    "Map_Producers": [
+      "k",
+      "water research institute"
+    ]
+  },
+  {
+    "Country": "Republic Of Korea",
+    "Date": "2020-08-25",
+    "Activation_ID": "671",
+    "Satellites": [
+      "sentinel",
+      "1"
+    ],
+    "Map_Producers": [
+      "k",
+      "water research institute"
+    ]
+  },
+  {
+    "Country": "Cameroon",
+    "Date": "2020-08-24",
+    "Activation_ID": "672",
+    "Satellites": [
+      "pleiades <br",
+      ">\nworld",
+      "view",
+      "2",
+      "geo",
+      "eye<br",
+      ">\npleiades"
+    ],
+    "Map_Producers": [
+      "unosat",
+      "unitar"
+    ]
+  },
+  {
+    "Country": "Russian Federation",
+    "Date": "2020-08-19",
+    "Activation_ID": "670",
+    "Satellites": [
+      "radarsat",
+      "2",
+      "sentinel",
+      "noaa",
+      "20",
+      "kanopus_v",
+      "kanopus",
+      "v_ik",
+      "v"
+    ],
+    "Map_Producers": [
+      "nts omz",
+      "noaa"
+    ]
+  },
+  {
+    "Country": "Philippines",
+    "Date": "2020-08-19",
+    "Activation_ID": "669",
+    "Satellites": [
+      "sentinel",
+      "1"
+    ],
+    "Map_Producers": [
+      "dost",
+      "phivolcs"
+    ]
+  },
+  {
+    "Country": "Republic of South Korea",
+    "Date": "2020-08-14",
+    "Activation_ID": "668",
+    "Satellites": [
+      "kompsat",
+      "5",
+      "sentinel",
+      "1",
+      "pleaides",
+      "pleiades"
+    ],
+    "Map_Producers": [
+      "kari",
+      "national disaster management research institute"
+    ]
+  },
+  {
+    "Country": "Sudan",
+    "Date": "2020-08-13",
+    "Activation_ID": "667",
+    "Satellites": [
+      "suomi npp",
+      "noaa",
+      "viirs",
+      "sentinel",
+      "2",
+      "20<br",
+      ">\nsuomi",
+      "pleiades",
+      "1",
+      "cbers",
+      "4",
+      "kanopus",
+      "v"
+    ],
+    "Map_Producers": [
+      "ruhr",
+      "university bochum",
+      "university of bonn",
+      "zfl",
+      "noaa"
+    ]
+  },
+  {
+    "Country": "Mauritius",
+    "Date": "2020-08-08",
+    "Activation_ID": "666",
+    "Satellites": [
+      "pleiades",
+      "worldview",
+      "3",
+      "2",
+      "sentinel",
+      "alos",
+      "geoeye",
+      "1",
+      "terrasar",
+      "x",
+      "pleiades <br",
+      ">\ngeo",
+      "eye"
+    ],
+    "Map_Producers": [
+      "sertit",
+      "unitar",
+      "unosat",
+      "noaa"
+    ]
+  },
+  {
+    "Country": "India",
+    "Date": "2020-08-08",
+    "Activation_ID": "665",
+    "Satellites": [
+      "cartosat",
+      "2",
+      "pleaides",
+      "terrasar",
+      "x<br",
+      ">\nresourcesat",
+      "rcm",
+      "3<br",
+      "x",
+      "pleiades"
+    ],
+    "Map_Producers": [
+      "nrsc",
+      "isro"
+    ]
+  },
+  {
+    "Country": "Lebanon",
+    "Date": "2020-08-05",
+    "Activation_ID": "664",
+    "Satellites": [
+      "pleiades"
+    ],
+    "Map_Producers": [
+      "sertit"
+    ]
+  },
+  {
+    "Country": "India",
+    "Date": "2020-07-22",
+    "Activation_ID": "663",
+    "Satellites": [
+      "resourcesat",
+      "2<br",
+      ">\nsentinel",
+      "1",
+      "sentinel",
+      "t",
+      "em",
+      "x",
+      "2",
+      "reesourcesat",
+      "pleiades",
+      "kompsat",
+      "3",
+      "kanopus",
+      "v",
+      "worldview",
+      "pleaides",
+      "terrasar",
+      ">\npleaides",
+      "rcm",
+      "1<br",
+      ">\nresourcesat",
+      ">\npleiades",
+      "1 <br",
+      ">\nrcm",
+      "noaa",
+      "20",
+      "saocom 1a<br",
+      ">\nterrasar",
+      ">\nradarsat",
+      "x<br",
+      ">\nalos",
+      ">\nalos<br"
+    ],
+    "Map_Producers": [
+      "nrsc",
+      "isro",
+      "noaa",
+      "isro",
+      "br"
+    ]
+  },
+  {
+    "Country": "Indonesia",
+    "Date": "2020-07-16",
+    "Activation_ID": "662",
+    "Satellites": [
+      "pleiades",
+      "pleaides",
+      "planetscope",
+      "worldview",
+      "2",
+      "rcm",
+      "1",
+      "tandem",
+      "x",
+      "terrasar",
+      "spot",
+      "6"
+    ],
+    "Map_Producers": [
+      "lapan",
+      "gic",
+      "ait"
+    ]
+  },
+  {
+    "Country": "India",
+    "Date": "2020-07-15",
+    "Activation_ID": "661",
+    "Satellites": [
+      "spot",
+      "6",
+      "sentinel",
+      "1",
+      "kompsat",
+      "5",
+      "saocom",
+      "1a",
+      "terrasar",
+      "x",
+      "resourcesat",
+      "2",
+      "alos",
+      "radarsat",
+      "terrsar",
+      "2<br",
+      ">\nsaocom 1a",
+      "saocom 1a",
+      ">\ntandem",
+      "x <br",
+      ">\nterrasar",
+      "x<br",
+      ">",
+      "1a br&gt;\nsentinel",
+      "2a",
+      ">tandem",
+      ">\nsentinel",
+      "1 <br",
+      "> saocom",
+      "1<br",
+      ">\nrcm",
+      "3<br",
+      "3",
+      "rcm",
+      ">\nresourcesat",
+      "2:"
+    ],
+    "Map_Producers": [
+      "nrsc",
+      "nesac",
+      "isro",
+      "dlr"
+    ]
+  },
+  {
+    "Country": "Bangladesh",
+    "Date": "2020-07-13",
+    "Activation_ID": "660",
+    "Satellites": [
+      "worldview",
+      "2",
+      "noaa",
+      "sentinel",
+      "1a",
+      "1b",
+      "tandem",
+      "x",
+      "tandem_x",
+      "20",
+      "pleiades_1a"
+    ],
+    "Map_Producers": [
+      "unitar",
+      "unosat",
+      "noaa"
+    ]
+  },
+  {
+    "Country": "Colombia",
+    "Date": "2020-07-13",
+    "Activation_ID": "659",
+    "Satellites": [
+      "world",
+      "view",
+      "geo",
+      "eye",
+      "worldview_2",
+      "radarsat",
+      "radarsat2",
+      "2",
+      "quickbird",
+      "sentinel",
+      "1",
+      "terrasar",
+      "x",
+      "noaa",
+      "suomi",
+      "npp",
+      "virs",
+      "20"
+    ],
+    "Map_Producers": [
+      "ungrd",
+      "ideam",
+      "noaa"
+    ]
+  },
+  {
+    "Country": "Nepal",
+    "Date": "2020-07-08",
+    "Activation_ID": "658",
+    "Satellites": [
+      "sentinel",
+      "1",
+      "terrasar",
+      "x",
+      "radarsat",
+      "2"
+    ],
+    "Map_Producers": [
+      "unitar",
+      "unosat"
+    ]
+  },
+  {
+    "Country": "Japan",
+    "Date": "2020-07-06",
+    "Activation_ID": "657",
+    "Satellites": [
+      "saocom",
+      "1a",
+      "alos",
+      "2",
+      "sentinel",
+      "1",
+      "alos2"
+    ],
+    "Map_Producers": [
+      "chiba university",
+      "university of tabriz",
+      "riken",
+      "yamaguchi university"
+    ]
+  },
+  {
+    "Country": "Myanmar",
+    "Date": "2020-07-03",
+    "Activation_ID": "656",
+    "Satellites": [
+      "t",
+      "em",
+      "x <br",
+      "> terrasar",
+      "x"
+    ],
+    "Map_Producers": [
+      "icimod"
+    ]
+  },
+  {
+    "Country": "Russian Federation",
+    "Date": "2020-06-04",
+    "Activation_ID": "655",
+    "Satellites": [
+      "pleiades",
+      "resurs",
+      "p"
+    ],
+    "Map_Producers": [
+      "roscosmos"
+    ]
+  },
+  {
+    "Country": "El Salvador",
+    "Date": "2020-06-02",
+    "Activation_ID": "654",
+    "Satellites": [
+      "gf3",
+      "sentinel_1a",
+      "gf1",
+      "sentinel",
+      "1",
+      "gaofen",
+      "terrasar",
+      "x"
+    ],
+    "Map_Producers": [
+      "ndrcc"
+    ]
+  },
+  {
+    "Country": "India",
+    "Date": "2020-05-19",
+    "Activation_ID": "653",
+    "Satellites": [
+      "planetscope",
+      "sentinel",
+      "2",
+      "kompsat3",
+      "kompsat",
+      "3",
+      "pleiades",
+      "resourcesat",
+      "kompsat5",
+      "pleaides",
+      "kanopus",
+      "v",
+      "cbers",
+      "4",
+      "radarsat",
+      "terrasar",
+      "x"
+    ],
+    "Map_Producers": [
+      "nrsc"
+    ]
+  },
+  {
+    "Country": "Bangladesh",
+    "Date": "2020-05-18",
+    "Activation_ID": "652",
+    "Satellites": [
+      "sentinel",
+      "1",
+      "noaa_20",
+      "2",
+      "pleiades",
+      "radarsat",
+      "terrasar",
+      "x",
+      "worldview",
+      "alos2",
+      "landsat8"
+    ],
+    "Map_Producers": [
+      "noaa",
+      "jpss",
+      "unitar",
+      "unosat",
+      "iwmi"
+    ]
+  },
+  {
+    "Country": "Guatemala",
+    "Date": "2020-04-30",
+    "Activation_ID": "651",
+    "Satellites": [
+      "spot",
+      "7",
+      "6"
+    ],
+    "Map_Producers": [
+      "cenad"
+    ]
+  },
+  {
+    "Country": "Somalia",
+    "Date": "2020-04-28",
+    "Activation_ID": "650",
+    "Satellites": [
+      "iceye",
+      "x4",
+      "noaa 20",
+      "worldview",
+      "2",
+      "pleiades"
+    ],
+    "Map_Producers": [
+      "unitar",
+      "unosat",
+      "noaa"
+    ]
+  },
+  {
+    "Country": "Fiji",
+    "Date": "2020-04-08",
+    "Activation_ID": "648",
+    "Satellites": [
+      "pleiades",
+      "worldview",
+      "3",
+      "1",
+      "2"
+    ],
+    "Map_Producers": [
+      "<a href=\"https:",
+      "",
+      "unitar.org",
+      "maps",
+      "map",
+      "3040\" target=\"blank\">unitar",
+      "unosat",
+      "a",
+      "unitar",
+      "unosat",
+      "3034\" target=\"blank\">unitar"
+    ]
+  },
+  {
+    "Country": "Vanuatu",
+    "Date": "2020-04-03",
+    "Activation_ID": "647",
+    "Satellites": [
+      "noaa",
+      "pleiades",
+      "worldview",
+      "2",
+      "1",
+      "resurs",
+      "p",
+      "3"
+    ],
+    "Map_Producers": [
+      "unitar",
+      "unosat",
+      "<a href=\"https:",
+      "",
+      "unitar.org",
+      "maps",
+      "map",
+      "3043\" target=\"blank\">unitar",
+      "unosat",
+      "a",
+      "bluecham sas",
+      "sau",
+      "3035\" target=\"blank\">unitar",
+      "copernicus ems",
+      "3031\" target=\"blank\">unitar",
+      "3027\" target=\"blank\">unitar"
+    ]
+  },
+  {
+    "Country": "Zambia",
+    "Date": "2020-03-06",
+    "Activation_ID": "646",
+    "Satellites": [
+      "suomi",
+      "npp",
+      "noaa",
+      "20",
+      "pleiades",
+      "sentinel",
+      "1"
+    ],
+    "Map_Producers": [
+      "noaa",
+      "unitar",
+      "unosat"
+    ]
+  },
+  {
+    "Country": "United Arab Emirates",
+    "Date": "2020-03-02",
+    "Activation_ID": "645",
+    "Satellites": [
+      "sentinel",
+      "2"
+    ],
+    "Map_Producers": [
+      "noaa",
+      "nesdis"
+    ]
+  },
+  {
+    "Country": "Bolivia, Plurinational State Of",
+    "Date": "2020-02-25",
+    "Activation_ID": "644",
+    "Satellites": [
+      "l",
+      "sat",
+      "5",
+      "8",
+      "terrasar",
+      "x",
+      "kanopus",
+      "v",
+      "pleiades"
+    ],
+    "Map_Producers": [
+      "abe"
+    ]
+  },
+  {
+    "Country": "Madagascar",
+    "Date": "2020-01-27",
+    "Activation_ID": "643",
+    "Satellites": [
+      "sentinel_2a",
+      "sentinel",
+      "2",
+      "1",
+      "l",
+      "sat 8",
+      "worldview",
+      "3",
+      "resurs",
+      "p",
+      "kshmsa_vr",
+      "suomi",
+      "npp",
+      "kanopus",
+      "v",
+      "sat",
+      "8",
+      "bka",
+      "terrasar",
+      "x",
+      "alos",
+      "suomi npp"
+    ],
+    "Map_Producers": [
+      "copernicus ems",
+      "national academy of sciences of belarus",
+      "noaa",
+      "ue \"geoinformation systems\"",
+      "george mason university",
+      "geoinformation systems",
+      "<a href=\"https:",
+      "",
+      "unitar.org",
+      "maps",
+      "map",
+      "3013\">unitar",
+      "unosat",
+      "a",
+      "3012\" target=\"blank\">unitar",
+      "3011\" target=\"blank\">unitar"
+    ]
+  },
+  {
+    "Country": "Brazil",
+    "Date": "2020-01-23",
+    "Activation_ID": "642",
+    "Satellites": [
+      "pleiades",
+      "radarsat",
+      "2",
+      "terrasar",
+      "x",
+      "sentinel",
+      "1"
+    ],
+    "Map_Producers": [
+      "cenad"
+    ]
+  },
+  {
+    "Country": "Zambia",
+    "Date": "2020-01-22",
+    "Activation_ID": "640",
+    "Satellites": [
+      "pleiades"
+    ],
+    "Map_Producers": [
+      "sertit"
+    ]
+  },
+  {
+    "Country": "Pakistan",
+    "Date": "2020-01-22",
+    "Activation_ID": "641",
+    "Satellites": [
+      "sentinel",
+      "2",
+      "modis"
+    ],
+    "Map_Producers": [
+      "unitar",
+      "unosat"
+    ]
+  },
+  {
+    "Country": "Philippines",
+    "Date": "2020-01-13",
+    "Activation_ID": "639",
+    "Satellites": [
+      "sentinel",
+      "1a <br",
+      ">\nsentinel",
+      "1b",
+      "1a",
+      "2a <br",
+      "2b",
+      ">\nspot7",
+      "worldview",
+      "2<br",
+      "spot",
+      "7 <br",
+      ">\nworldview",
+      "2",
+      "kompsat",
+      "3a <br",
+      "kompsat3a",
+      "2 <br",
+      "spot7 <br",
+      ">\n worldview_2",
+      ">\nspot",
+      "7",
+      "7<br",
+      ">\nmap produced by dost",
+      "phivolcs",
+      "3a",
+      "dove",
+      "pleiades"
+    ],
+    "Map_Producers": [
+      "dost",
+      "phivolcs",
+      "copernicus ems",
+      "sertit"
+    ]
+  },
+  {
+    "Country": "Indonesia",
+    "Date": "2020-01-07",
+    "Activation_ID": "638",
+    "Satellites": [
+      "worldview",
+      "2",
+      "pleiades",
+      "radarsat"
+    ],
+    "Map_Producers": [
+      "lapan",
+      "gic",
+      "ait"
+    ]
+  },
+  {
+    "Country": "Chile",
+    "Date": "2019-12-10",
+    "Activation_ID": "636",
+    "Satellites": [
+      "sentinel",
+      "1",
+      "alos",
+      "2",
+      "terrasar",
+      "x",
+      "radarsat"
+    ],
+    "Map_Producers": [
+      "ciren"
+    ]
+  },
+  {
+    "Country": "Philippines",
+    "Date": "2019-12-02",
+    "Activation_ID": "634",
+    "Satellites": [
+      "pleiades"
+    ],
+    "Map_Producers": [
+      "<a href=\"https:",
+      "",
+      "unitar.org",
+      "unosat",
+      "node",
+      "44",
+      "3000\">unitar",
+      "unosat",
+      "a"
+    ]
+  },
+  {
+    "Country": "Kenya",
+    "Date": "2019-11-25",
+    "Activation_ID": "633",
+    "Satellites": [
+      "pleiades",
+      "worldview",
+      "3"
+    ],
+    "Map_Producers": [
+      "rcmrd",
+      "unitar",
+      "unosat"
+    ]
+  },
+  {
+    "Country": "Central African Republic",
+    "Date": "2019-11-16",
+    "Activation_ID": "632",
+    "Satellites": [
+      "terrasar",
+      "x",
+      "tandem",
+      "sentinel",
+      "1"
+    ],
+    "Map_Producers": [
+      "ue geoinformation systems"
+    ]
+  },
+  {
+    "Country": "Australia",
+    "Date": "2019-11-13",
+    "Activation_ID": "631",
+    "Satellites": [
+      "sentinel",
+      "2",
+      "l",
+      "sat 8"
+    ],
+    "Map_Producers": [
+      "<a href=\"https:",
+      "",
+      "emergency.copernicus.eu",
+      "mapping",
+      "list",
+      "of",
+      "components",
+      "emsr408\">copernicus ems",
+      "a"
+    ]
+  },
+  {
+    "Country": "Philippines",
+    "Date": "2019-11-01",
+    "Activation_ID": "629",
+    "Satellites": [
+      "worldview",
+      "2",
+      "pleiades",
+      "sentinel",
+      "1"
+    ],
+    "Map_Producers": [
+      "dost",
+      "phivolcs"
+    ]
+  },
+  {
+    "Country": "Kenya",
+    "Date": "2019-10-31",
+    "Activation_ID": "628",
+    "Satellites": [
+      "sentinel",
+      "2"
+    ],
+    "Map_Producers": [
+      "unitar",
+      "unosat"
+    ]
+  },
+  {
+    "Country": "Cameroon",
+    "Date": "2019-10-17",
+    "Activation_ID": "627",
+    "Satellites": [
+      "pleiades",
+      "sentinel",
+      "2",
+      "1"
+    ],
+    "Map_Producers": [
+      "<a href=\"http:",
+      "",
+      "sertit.unistra.fr",
+      "en",
+      "rms",
+      "?action=675\" target=\"blank\">sertit",
+      "a",
+      "unitar",
+      "unosat"
+    ]
+  },
+  {
+    "Country": "Lebanon and Syria",
+    "Date": "2019-10-16",
+    "Activation_ID": "626",
+    "Satellites": [
+      "spot",
+      "6",
+      "viirs"
+    ],
+    "Map_Producers": [
+      "<a href=\"https:",
+      "",
+      "unitar.org",
+      "maps",
+      "map",
+      "2961\" target=\"blank\">unitar",
+      "unosat",
+      "a",
+      "2960\" target=\"blank\">unitar",
+      "2958\" target=\"blank\">unitar",
+      "2957\" target=\"blank\">unitar",
+      "unitar",
+      "unosat"
+    ]
+  },
+  {
+    "Country": "Japan",
+    "Date": "2019-10-11",
+    "Activation_ID": "625",
+    "Satellites": [
+      "sentinel",
+      "1",
+      "cbers",
+      "4",
+      "2",
+      "kanopus",
+      "v",
+      "spot",
+      "6",
+      "terrasar",
+      "x",
+      "alos"
+    ],
+    "Map_Producers": [
+      "hiroshima institute of technology",
+      "tsukuba university",
+      "chubu university",
+      "chiba university",
+      "jaxa",
+      "yamaguchi university",
+      "tohoku university"
+    ]
+  },
+  {
+    "Country": "Indonesia",
+    "Date": "2019-09-30",
+    "Activation_ID": "624",
+    "Satellites": [
+      "worldview",
+      "2",
+      "pleiades"
+    ],
+    "Map_Producers": [
+      "unitar",
+      "unosat",
+      "e",
+      "geos"
+    ]
+  },
+  {
+    "Country": "India",
+    "Date": "2019-09-30",
+    "Activation_ID": "623",
+    "Satellites": [
+      "worldview",
+      "2",
+      "pleiades",
+      "3",
+      "resourcesat",
+      "kanopus",
+      "v",
+      "cbers",
+      "4",
+      "terrasar",
+      "x",
+      "radarsat",
+      "sentinel",
+      "1",
+      "l",
+      "sat",
+      "8",
+      "flooding at bhagalpur district",
+      "bihar state",
+      "india"
+    ],
+    "Map_Producers": [
+      "nrsc"
+    ]
+  },
+  {
+    "Country": "Pakistan",
+    "Date": "2019-09-26",
+    "Activation_ID": "622",
+    "Satellites": [
+      "pleiades",
+      "worldview",
+      "2",
+      "sentinel",
+      "1"
+    ],
+    "Map_Producers": [
+      "unitar",
+      "unosat"
+    ]
+  },
+  {
+    "Country": "Paraguay",
+    "Date": "2019-09-20",
+    "Activation_ID": "621",
+    "Satellites": [
+      "worldview",
+      "2",
+      "l",
+      "sat",
+      "8",
+      "kanopus",
+      "v",
+      "gaofen",
+      "1",
+      "resurs",
+      "p",
+      "sentinel",
+      "aqua",
+      "spot",
+      "7",
+      "cbers",
+      "4"
+    ],
+    "Map_Producers": [
+      "conae"
+    ]
+  },
+  {
+    "Country": "Bahamas",
+    "Date": "2019-09-04",
+    "Activation_ID": "620",
+    "Satellites": [
+      "planetscope",
+      "kanopus",
+      "v",
+      "worldview",
+      "3",
+      "sentinel",
+      "1",
+      "suomi npp",
+      "noaa",
+      "20",
+      "20 &amp; goes",
+      "16",
+      "kompsat",
+      "5",
+      "pleiades"
+    ],
+    "Map_Producers": [
+      "noaa",
+      "copernicus ems"
+    ]
+  },
+  {
+    "Country": "Bolivia",
+    "Date": "2019-09-02",
+    "Activation_ID": "619",
+    "Satellites": [
+      "spot",
+      "6",
+      "pleiades",
+      "7",
+      "sentinel",
+      "2"
+    ],
+    "Map_Producers": [
+      "sertit"
+    ]
+  },
+  {
+    "Country": "Japan",
+    "Date": "2019-08-29",
+    "Activation_ID": "618",
+    "Satellites": [
+      "kompsat",
+      "5",
+      "alos",
+      "2"
+    ],
+    "Map_Producers": [
+      "yamaguchi university"
+    ]
+  },
+  {
+    "Country": "Sudan",
+    "Date": "2019-08-26",
+    "Activation_ID": "617",
+    "Satellites": [
+      "pleiades",
+      "spot",
+      "6",
+      "sentinel",
+      "2",
+      "radarsat",
+      "suomi",
+      "npp"
+    ],
+    "Map_Producers": [
+      "unitar",
+      "unosat",
+      "<a href=\"https:",
+      "",
+      "unitar.org",
+      "maps",
+      "map",
+      "2928\" target=\"blank\">unitar",
+      "unosat",
+      "a",
+      "2927\" target=\"blank\">unitar"
+    ]
+  },
+  {
+    "Country": "Bolivia, Plurinational State Of",
+    "Date": "2019-08-21",
+    "Activation_ID": "616",
+    "Satellites": [
+      "l",
+      "sat",
+      "8",
+      "pleiades"
+    ],
+    "Map_Producers": [
+      "sinager",
+      "sat",
+      "<a href=\"http:",
+      "",
+      "sertit.unistra.fr",
+      "en",
+      "rms",
+      "?action=673\" target=\"blank\">sertit",
+      "a"
+    ]
+  },
+  {
+    "Country": "Russian Federation",
+    "Date": "2019-08-15",
+    "Activation_ID": "615",
+    "Satellites": [
+      "radarsat",
+      "2",
+      "resurs",
+      "p"
+    ],
+    "Map_Producers": [
+      "nts omz"
+    ]
+  },
+  {
+    "Country": "Russian Federation",
+    "Date": "2019-07-24",
+    "Activation_ID": "614",
+    "Satellites": [
+      "l",
+      "sat",
+      "8",
+      "sentinel",
+      "1"
+    ],
+    "Map_Producers": [
+      "nts omz"
+    ]
+  },
+  {
+    "Country": "Peru",
+    "Date": "2019-07-20",
+    "Activation_ID": "613",
+    "Satellites": [
+      "terrasar",
+      "x",
+      "perusat",
+      "1"
+    ],
+    "Map_Producers": [
+      "conida"
+    ]
+  },
+  {
+    "Country": "India",
+    "Date": "2019-07-17",
+    "Activation_ID": "612",
+    "Satellites": [
+      "resourcesat",
+      "2",
+      "sentinel",
+      "1",
+      "radarsat",
+      "alos",
+      "terrasar",
+      "x",
+      "kanopus",
+      "v",
+      "pleiades",
+      "gaofen",
+      "kompsat",
+      "3",
+      "cartosat",
+      "worldview"
+    ],
+    "Map_Producers": [
+      "nrsc",
+      "isro"
+    ]
+  },
+  {
+    "Country": "Russia",
+    "Date": "2019-06-27",
+    "Activation_ID": "611",
+    "Satellites": [
+      "resurs",
+      "p",
+      "kanopus",
+      "v",
+      "terrasar",
+      "x",
+      "cbers",
+      "pleiades"
+    ],
+    "Map_Producers": [
+      "nts omz"
+    ]
+  },
+  {
+    "Country": "Paraguay",
+    "Date": "2019-05-17",
+    "Activation_ID": "609",
+    "Satellites": [
+      "cosmo",
+      "skymed",
+      "kompsat",
+      "5",
+      "sentinel",
+      "2",
+      "1",
+      "worldview",
+      "gaofen",
+      "resurs",
+      "p",
+      "l",
+      "sat",
+      "8",
+      "3",
+      "pleiades",
+      "terrasar",
+      "x",
+      "radarsat",
+      "cbers",
+      "4"
+    ],
+    "Map_Producers": [
+      "conae"
+    ]
+  },
+  {
+    "Country": "India",
+    "Date": "2019-05-03",
+    "Activation_ID": "608",
+    "Satellites": [
+      "resourcesat",
+      "2",
+      "cbers",
+      "4",
+      "pleiades",
+      "kanopus",
+      "v",
+      "terrasar",
+      "x",
+      "radarsat",
+      "alos",
+      "sentinel",
+      "1"
+    ],
+    "Map_Producers": [
+      "nrsc"
+    ]
+  },
+  {
+    "Country": "Bolivia, Plurinational State Of",
+    "Date": "2019-05-01",
+    "Activation_ID": "607",
+    "Satellites": [
+      "pleiades"
+    ],
+    "Map_Producers": [
+      "sinager",
+      "sat"
+    ]
+  },
+  {
+    "Country": "Mozambique",
+    "Date": "2019-04-25",
+    "Activation_ID": "606",
+    "Satellites": [
+      "sentinel",
+      "1",
+      "terrasar",
+      "x"
+    ],
+    "Map_Producers": [
+      "sedec"
+    ]
+  },
+  {
+    "Country": "South Africa",
+    "Date": "2019-04-25",
+    "Activation_ID": "605",
+    "Satellites": [
+      "pleiades"
+    ],
+    "Map_Producers": [
+      "sansa",
+      "iwmi"
+    ]
+  },
+  {
+    "Country": "Canada",
+    "Date": "2019-04-19",
+    "Activation_ID": "604",
+    "Satellites": [
+      "terrasar",
+      "x",
+      "rapideye",
+      "pleiades",
+      "planetscope",
+      "kompsat",
+      "5",
+      "2",
+      "geoeye",
+      "1",
+      "alos",
+      "radarsat"
+    ],
+    "Map_Producers": [
+      "natural resources canada",
+      "canada centre for mapping",
+      "earth observation"
+    ]
+  },
+  {
+    "Country": "Iraq",
+    "Date": "2019-04-15",
+    "Activation_ID": "603",
+    "Satellites": [
+      "sentinel",
+      "2",
+      "1",
+      "kompsat",
+      "5",
+      "kanopus",
+      "v",
+      "radarsat",
+      "terrasar",
+      "x"
+    ],
+    "Map_Producers": [
+      "ue geoinformation systems"
+    ]
+  },
+  {
+    "Country": "South Korea",
+    "Date": "2019-04-05",
+    "Activation_ID": "602",
+    "Satellites": [
+      "pleiades"
+    ],
+    "Map_Producers": [
+      "national disaster management research institute"
+    ]
+  },
+  {
+    "Country": "Iran, Islamic Republic Of",
+    "Date": "2019-03-31",
+    "Activation_ID": "601",
+    "Satellites": [
+      "alos",
+      "2",
+      "pleiades"
+    ],
+    "Map_Producers": [
+      "earth observation centre",
+      "iranian space agency"
+    ]
+  },
+  {
+    "Country": "Indonesia",
+    "Date": "2019-03-19",
+    "Activation_ID": "600",
+    "Satellites": [
+      "pleiades",
+      "alos",
+      "2",
+      "radarsat"
+    ],
+    "Map_Producers": [
+      "sertit",
+      "gic",
+      "ait",
+      "geoinformatics center"
+    ]
+  },
+  {
+    "Country": "Zimbabwe",
+    "Date": "2019-03-16",
+    "Activation_ID": "599",
+    "Satellites": [
+      "pleiades",
+      "spot",
+      "7",
+      "pleaides"
+    ],
+    "Map_Producers": [
+      "sertit"
+    ]
+  },
+  {
+    "Country": "Mozambique",
+    "Date": "2019-03-14",
+    "Activation_ID": "598",
+    "Satellites": [
+      "sentinel",
+      "1",
+      "alos",
+      "2",
+      "pleiades",
+      "terrasar",
+      "x",
+      "tandem",
+      "worldview",
+      "3",
+      "radarsat",
+      "dmc"
+    ],
+    "Map_Producers": [
+      "<a href=\"https:",
+      "",
+      "unitar.org",
+      "unosat",
+      "node",
+      "44",
+      "2877\">unitar",
+      "unosat",
+      "a",
+      "sedec",
+      "mdr",
+      "sertit",
+      "dlr",
+      "zki",
+      "2881\" target=\"blank\">unitar",
+      "2878\" target=\"blank\">unitar",
+      "2877\" target=\"blank\">unitar",
+      "2875\" target=\"blank\">unitar",
+      "2873\" target=\"blank\">unitar",
+      "uol",
+      "nceo",
+      "emergency.copernicus.eu",
+      "mapping",
+      "list",
+      "of",
+      "components",
+      "emsr348\">copernicus ems",
+      "brazilian department of civil protection",
+      "defense"
+    ]
+  },
+  {
+    "Country": "Plurinational State of Bolivia",
+    "Date": "2019-02-08",
+    "Activation_ID": "597",
+    "Satellites": [
+      "worldview",
+      "3",
+      "sentinel",
+      "2",
+      "pleiades"
+    ],
+    "Map_Producers": [
+      "abe"
+    ]
+  },
+  {
+    "Country": "Brazil",
+    "Date": "2019-01-25",
+    "Activation_ID": "596",
+    "Satellites": [
+      "sentinel",
+      "2",
+      "rapideye",
+      "cbers",
+      "4",
+      "radarsat"
+    ],
+    "Map_Producers": [
+      "dlr",
+      "zki",
+      "cenad"
+    ]
+  },
+  {
+    "Country": "Brazil",
+    "Date": "2019-01-13",
+    "Activation_ID": "595",
+    "Satellites": [
+      "cbers",
+      "4 &amp; sentinel",
+      "1",
+      "4",
+      "radarsat",
+      "2",
+      "pleiades"
+    ],
+    "Map_Producers": [
+      "cenad"
+    ]
+  },
+  {
+    "Country": "Indonesia",
+    "Date": "2018-12-23",
+    "Activation_ID": "594",
+    "Satellites": [
+      "terrasar",
+      "x",
+      "sentinel",
+      "1",
+      "geoeye",
+      "pleiades",
+      "worldview",
+      "2"
+    ],
+    "Map_Producers": [
+      "lapan",
+      "<a href=\"https:",
+      "",
+      "emergency.copernicus.eu",
+      "mapping",
+      "list",
+      "of",
+      "components",
+      "emsr335\" target=\"blank\">copernicus ems",
+      "a",
+      "<a href=\"http:",
+      "www.unitar.org",
+      "unosat",
+      "node",
+      "44",
+      "2860\" target=\"blank\">unitar",
+      "unosat",
+      "2861\" target=\"blank\">unitar"
+    ]
+  },
+  {
+    "Country": "India",
+    "Date": "2018-12-17",
+    "Activation_ID": "593",
+    "Satellites": [
+      "resourcesat",
+      "2",
+      "uk",
+      "dmc2"
+    ],
+    "Map_Producers": [
+      "nrsc",
+      "isro"
+    ]
+  },
+  {
+    "Country": "Iraq",
+    "Date": "2018-11-25",
+    "Activation_ID": "592",
+    "Satellites": [
+      "spot",
+      "7",
+      "sentinel",
+      "2",
+      "1"
+    ],
+    "Map_Producers": [
+      "sertit"
+    ]
+  },
+  {
+    "Country": "United States",
+    "Date": "2018-11-14",
+    "Activation_ID": "591",
+    "Satellites": [
+      "tet",
+      "1",
+      "pleiades",
+      "sentinel",
+      "2",
+      "suomi",
+      "npp",
+      "rapideye"
+    ],
+    "Map_Producers": [
+      "<a href=\"https:",
+      "",
+      "activations.zki.dlr.de",
+      "en",
+      "activations",
+      "items",
+      "act139.html\">dlr",
+      "zki",
+      "a",
+      "sertit",
+      "act139.html\" target=\"blank\">dlr"
+    ]
+  },
+  {
+    "Country": "Russian Federation",
+    "Date": "2018-10-25",
+    "Activation_ID": "590",
+    "Satellites": [
+      "pleiades",
+      "resurs",
+      "p",
+      "kompsat",
+      "3"
+    ],
+    "Map_Producers": [
+      "roscosmos"
+    ]
+  },
+  {
+    "Country": "Uganda",
+    "Date": "2018-10-12",
+    "Activation_ID": "589",
+    "Satellites": [
+      "pleiades"
+    ],
+    "Map_Producers": [
+      "<a href=\"http:",
+      "",
+      "emergency.copernicus.eu",
+      "mapping",
+      "list",
+      "of",
+      "components",
+      "emsr325\" target=\"blank\">copernicus ems",
+      "a",
+      "www.unitar.org",
+      "unosat",
+      "node",
+      "44",
+      "2852\">unitar",
+      "unosat"
+    ]
+  },
+  {
+    "Country": "United States",
+    "Date": "2018-10-10",
+    "Activation_ID": "588",
+    "Satellites": [
+      "resurs",
+      "p"
+    ],
+    "Map_Producers": [
+      "roscosmos"
+    ]
+  },
+  {
+    "Country": "Indonesia",
+    "Date": "2018-09-29",
+    "Activation_ID": "587",
+    "Satellites": [
+      "resurs",
+      "p",
+      "pleiades",
+      "worldview",
+      "3",
+      "pleiades &amp; worldview",
+      "geoeye",
+      "1",
+      "2",
+      "sentinel"
+    ],
+    "Map_Producers": [
+      "roscosmos",
+      "lapan",
+      "itb",
+      "",
+      "ait",
+      "<a href=\"http:",
+      "emergency.copernicus.eu",
+      "mapping",
+      "list",
+      "of",
+      "components",
+      "emsr317\" target=\"blank\">copernicus ems",
+      "a",
+      "www.unitar.org",
+      "unosat",
+      "node",
+      "44",
+      "2847\" target=\"blank\">unitar",
+      "unosat",
+      "2846\">unitar",
+      "2845\">unitar",
+      "sertit"
+    ]
+  },
+  {
+    "Country": "Philippines",
+    "Date": "2018-09-18",
+    "Activation_ID": "586",
+    "Satellites": [
+      "alos",
+      "2",
+      "pleiades"
+    ],
+    "Map_Producers": [
+      "sentinel asia",
+      "<a href=\"http:",
+      "",
+      "www.unitar.org",
+      "unosat",
+      "node",
+      "44",
+      "2844\">unitar",
+      "unosat",
+      "a",
+      "2843\" target=\"blank\">unitar",
+      "bgs"
+    ]
+  },
+  {
+    "Country": "United States",
+    "Date": "2018-09-11",
+    "Activation_ID": "585",
+    "Satellites": [
+      "sentinel",
+      "2",
+      "terrasar",
+      "x"
+    ],
+    "Map_Producers": [
+      "<a href=\"https:",
+      "",
+      "activations.zki.dlr.de",
+      "en",
+      "activations",
+      "items",
+      "act138.html\">dlr",
+      "zki",
+      "a",
+      "act138.html\" target=\"blank\">dlr"
+    ]
+  },
+  {
+    "Country": "India",
+    "Date": "2018-08-21",
+    "Activation_ID": "584",
+    "Satellites": [
+      "",
+      "pleiades",
+      "kompsat",
+      "spot",
+      "7",
+      "worldview",
+      "2",
+      "6",
+      "gaofen",
+      "resourcesat"
+    ],
+    "Map_Producers": [
+      "nrsc",
+      "isro"
+    ]
+  },
+  {
+    "Country": "Vietnam",
+    "Date": "2018-08-16",
+    "Activation_ID": "583",
+    "Satellites": [
+      "terrasar",
+      "x",
+      "sentinel",
+      "1"
+    ],
+    "Map_Producers": [
+      "iwmi"
+    ]
+  },
+  {
+    "Country": "India",
+    "Date": "2018-08-16",
+    "Activation_ID": "582",
+    "Satellites": [
+      "resourcesat",
+      "2",
+      "sentinel",
+      "1",
+      "pleiades",
+      "kanopus",
+      "v",
+      "terrasar",
+      "x",
+      "radarsat",
+      "alos"
+    ],
+    "Map_Producers": [
+      "nrsc",
+      "isro"
+    ]
+  },
+  {
+    "Country": "Venezuela",
+    "Date": "2018-08-15",
+    "Activation_ID": "581",
+    "Satellites": [
+      "wordview",
+      "2",
+      "vrss",
+      "1",
+      "pleiades",
+      "kompsat",
+      "3",
+      "worldview",
+      "l",
+      "sat 8",
+      "cbers",
+      "4",
+      "alos",
+      "sentinel",
+      "tandem",
+      "x"
+    ],
+    "Map_Producers": [
+      "abae"
+    ]
+  },
+  {
+    "Country": "Indonesia",
+    "Date": "2018-08-06",
+    "Activation_ID": "580",
+    "Satellites": [
+      "pleiades",
+      "worldview",
+      "2",
+      "alos",
+      "sentinel"
+    ],
+    "Map_Producers": [
+      "gadjah mada university",
+      "<a href=\"http:",
+      "",
+      "www.unitar.org",
+      "unosat",
+      "node",
+      "44",
+      "2839\">unitar",
+      "unosat",
+      "a",
+      "the copernicus emergency management service",
+      "lapan",
+      "2838\">unitar",
+      "ait",
+      "2837\">unitar",
+      "sertit",
+      "2836\">unitar"
+    ]
+  },
+  {
+    "Country": "Greece",
+    "Date": "2018-07-24",
+    "Activation_ID": "579",
+    "Satellites": [
+      "spot",
+      "6",
+      "7",
+      "",
+      "pleiades",
+      "uk",
+      "dmc2"
+    ],
+    "Map_Producers": [
+      "the copernicus emergency management service",
+      "the copernicus emergency management service"
+    ]
+  },
+  {
+    "Country": "Laos People's Democratic Republic",
+    "Date": "2018-07-24",
+    "Activation_ID": "578",
+    "Satellites": [
+      "kompsat",
+      "5",
+      "terrasar",
+      "x",
+      "sentinel",
+      "1",
+      "alos",
+      "2",
+      "radarsat"
+    ],
+    "Map_Producers": [
+      "<a href=\"http:",
+      "",
+      "www.unitar.org",
+      "unosat",
+      "node",
+      "44",
+      "2835\" target=\"blank\">unitar",
+      "unosat",
+      "a",
+      "2834\" target=\"blank\">unitar",
+      "2831\" target=\"blank\">unitar",
+      "2830\">unitar",
+      "adpc"
+    ]
+  },
+  {
+    "Country": "Japan",
+    "Date": "2018-07-07",
+    "Activation_ID": "577",
+    "Satellites": [
+      "pleiades",
+      "tandem",
+      "x",
+      "alos",
+      "2"
+    ],
+    "Map_Producers": [
+      "cnes",
+      "hiroshima institute of technology",
+      "gic",
+      "ait",
+      "yamaguchi university",
+      "sertit",
+      "yuzo suga lab"
+    ]
+  },
+  {
+    "Country": "Guatemala",
+    "Date": "2018-06-05",
+    "Activation_ID": "576",
+    "Satellites": [
+      "sentinel",
+      "2",
+      "pleiades",
+      "alos",
+      "worldview",
+      "3",
+      "4",
+      "tandem",
+      "x",
+      "1",
+      "metop"
+    ],
+    "Map_Producers": [
+      "copernicus emergency management service (2018 european union)",
+      "gaf ag",
+      "e",
+      "geos",
+      "<a href=\"http:",
+      "",
+      "www.unitar.org",
+      "unosat",
+      "node",
+      "44",
+      "2815\">unitar",
+      "unosat",
+      "a"
+    ]
+  },
+  {
+    "Country": "China",
+    "Date": "2018-06-04",
+    "Activation_ID": "575",
+    "Satellites": [
+      "kanopus",
+      "v",
+      "rapideye",
+      "spot",
+      "6",
+      "kompsat",
+      "3"
+    ],
+    "Map_Producers": [
+      "ndrcc",
+      "nrscc"
+    ]
+  },
+  {
+    "Country": "Sri Lanka",
+    "Date": "2018-05-21",
+    "Activation_ID": "573",
+    "Satellites": [
+      "alos",
+      "2",
+      "sentinel",
+      "radarsat",
+      "l",
+      "sat",
+      "8",
+      "1",
+      "terrasar",
+      "x"
+    ],
+    "Map_Producers": [
+      "iwmi",
+      "disaster management centre"
+    ]
+  },
+  {
+    "Country": "Djibouti",
+    "Date": "2018-05-20",
+    "Activation_ID": "572",
+    "Satellites": [
+      "planet",
+      "worldview",
+      "2",
+      "pleiades"
+    ],
+    "Map_Producers": [
+      "<a href=\"http:",
+      "",
+      "www.unitar.org",
+      "unosat",
+      "node",
+      "44",
+      "2811\" target=\"_blank\">unitar",
+      "unosat",
+      "a",
+      "2808\" target=\"blank\">unitar"
+    ]
+  },
+  {
+    "Country": "United States of America",
+    "Date": "2018-05-07",
+    "Activation_ID": "571",
+    "Satellites": [
+      "radarsat",
+      "2 &amp; terrasar",
+      "x",
+      "worldview",
+      "3",
+      "2",
+      "sentinel",
+      "1b",
+      "kompsat",
+      "l",
+      "sat",
+      "8",
+      "sat 8",
+      "terrasar",
+      "uk",
+      "dmc",
+      "gaofen",
+      "pleiades",
+      "5",
+      "terra",
+      "liss",
+      "iii",
+      "alos",
+      "1a"
+    ],
+    "Map_Producers": [
+      "usgs"
+    ]
+  },
+  {
+    "Country": "Somalia",
+    "Date": "2018-05-07",
+    "Activation_ID": "570",
+    "Satellites": [
+      "pleiades",
+      "radarsat",
+      "2"
+    ],
+    "Map_Producers": [
+      "<a href=\"http:",
+      "",
+      "www.unitar.org",
+      "unosat",
+      "node",
+      "44",
+      "2796\" target=\"_blank\">unitar",
+      "unosat",
+      "a",
+      "2793\" target=\"_blank\">unitar"
+    ]
+  },
+  {
+    "Country": "Russian Federation",
+    "Date": "2018-04-04",
+    "Activation_ID": "569",
+    "Satellites": [
+      "pleiades",
+      "terrasar",
+      "x"
+    ],
+    "Map_Producers": [
+      "roscosmos"
+    ]
+  },
+  {
+    "Country": "New Caledonia",
+    "Date": "2018-03-08",
+    "Activation_ID": "568",
+    "Satellites": [
+      "pleiades"
+    ],
+    "Map_Producers": [
+      "bluecham sas",
+      "sau",
+      "blucham sas"
+    ]
+  },
+  {
+    "Country": "Iran",
+    "Date": "2018-02-18",
+    "Activation_ID": "567",
+    "Satellites": [
+      "kompsat",
+      "5"
+    ],
+    "Map_Producers": [
+      "roscosmos"
+    ]
+  },
+  {
+    "Country": "Tonga",
+    "Date": "2018-02-12",
+    "Activation_ID": "566",
+    "Satellites": [
+      "pleiades",
+      "worldview",
+      "2",
+      "3",
+      "geoeye",
+      "1"
+    ],
+    "Map_Producers": [
+      "e",
+      "geos",
+      "<a href=\"http:",
+      "",
+      "www.unitar.org",
+      "unosat",
+      "node",
+      "44",
+      "2778\" target=\"blank\">unitar",
+      "unosat",
+      "a",
+      "2777\" target=\"blank\">unitar",
+      "2776\" target=\"blank\">unitar",
+      "2775\" target=\"blank\">unitar",
+      "2774\" target=\"blank\">unitar",
+      "2773\" target=\"blank\">unitar",
+      "2772\" target=\"blank\">unitar",
+      "2771\" target=\"blank\">unitar",
+      "2770\" target=\"blank\">unitar",
+      "2769\" target=\"blank\">unitar"
+    ]
+  },
+  {
+    "Country": "Bolivia",
+    "Date": "2018-02-08",
+    "Activation_ID": "565",
+    "Satellites": [
+      "pleiades",
+      "terrasar",
+      "x",
+      "radarsat",
+      "2",
+      "sentinel",
+      "1"
+    ],
+    "Map_Producers": [
+      "abae",
+      "<a href=\"http:",
+      "",
+      "www.unitar.org",
+      "unosat",
+      "node",
+      "44",
+      "2768\" target=\"blank\">unitar",
+      "unosat",
+      "a",
+      "2767\" target=\"blank\">unitar"
+    ]
+  },
+  {
+    "Country": "Argentina",
+    "Date": "2018-02-03",
+    "Activation_ID": "564",
+    "Satellites": [
+      "spot",
+      "6",
+      "7",
+      "worldview",
+      "3",
+      "resurs",
+      "p",
+      "radarsat",
+      "2",
+      "terrasar",
+      "x"
+    ],
+    "Map_Producers": [
+      "conae"
+    ]
+  },
+  {
+    "Country": "Papua New Guinea",
+    "Date": "2018-01-22",
+    "Activation_ID": "563",
+    "Satellites": [
+      "alos",
+      "2"
+    ],
+    "Map_Producers": [
+      "ait"
+    ]
+  },
+  {
+    "Country": "Philippines",
+    "Date": "2018-01-16",
+    "Activation_ID": "562",
+    "Satellites": [
+      "uk",
+      "dmc2",
+      "rapideye"
+    ],
+    "Map_Producers": [
+      "dost phivolcs"
+    ]
+  },
+  {
+    "Country": "Argentina",
+    "Date": "2017-11-17",
+    "Activation_ID": "561",
+    "Satellites": [
+      "radarsat",
+      "2 &amp; terrasar",
+      "x",
+      "terrasar"
+    ],
+    "Map_Producers": [
+      "conae"
+    ]
+  },
+  {
+    "Country": "South Korea",
+    "Date": "2017-11-15",
+    "Activation_ID": "560",
+    "Satellites": [
+      "pleiades"
+    ],
+    "Map_Producers": [
+      "national disaster management research institute",
+      "ministry of the interior",
+      "safety",
+      "korea institute of geoscience",
+      "mineral resources"
+    ]
+  },
+  {
+    "Country": "Iran",
+    "Date": "2017-11-13",
+    "Activation_ID": "559",
+    "Satellites": [
+      "pleiades",
+      "worldview",
+      "3",
+      "sentinel",
+      "1",
+      "resurs",
+      "p"
+    ],
+    "Map_Producers": [
+      "<a href=\"http:",
+      "",
+      "www.unitar.org",
+      "unosat",
+      "node",
+      "44",
+      "2745\" target=\"blank\">unitar",
+      "unosat",
+      "a",
+      "iranian space agency",
+      "2737\" target=\"blank\">unitar",
+      "2736\" target=\"blank\">unitar",
+      "2732\" target=\"blank\">unitar",
+      "2733\" target=\"_blank\">unitar",
+      "2729\" target=\"_blank\">unitar"
+    ]
+  },
+  {
+    "Country": "Iraq",
+    "Date": "2017-11-12",
+    "Activation_ID": "558",
+    "Satellites": [
+      "plediades",
+      "pleiades"
+    ],
+    "Map_Producers": [
+      "<a href=\"http:",
+      "",
+      "www.unitar.org",
+      "unosat",
+      "node",
+      "44",
+      "2724\" target=\"_blank\">unitar",
+      "unosat",
+      "a",
+      "2726\" target=\"_blank\">unitar"
+    ]
+  },
+  {
+    "Country": "Vietnam",
+    "Date": "2017-11-06",
+    "Activation_ID": "557",
+    "Satellites": [
+      "sentinel",
+      "1",
+      "radarsat",
+      "2"
+    ],
+    "Map_Producers": [
+      "<a href=\"http:",
+      "",
+      "www.unitar.org",
+      "unosat",
+      "node",
+      "44",
+      "2723\" target=\"_blank\">unitar",
+      "unosat",
+      "a",
+      "2722\" target=\"_blank\">unitar",
+      "2720\" target=\"_blank\">unitar",
+      "2718\" target=\"blank\">unitar"
+    ]
+  },
+  {
+    "Country": "Mexico",
+    "Date": "2017-09-20",
+    "Activation_ID": "555",
+    "Satellites": [
+      "worldview",
+      "2",
+      "pleiades",
+      "3"
+    ],
+    "Map_Producers": [
+      "<a href=\"http:",
+      "",
+      "www.unitar.org",
+      "unosat",
+      "node",
+      "44",
+      "2714\" target=\"blank\">autonomous university of the state of mexico",
+      "a",
+      "2713\" target=\"blank\">autonomous university of the state of mexico",
+      "2712\" target=\"blank\">unitar",
+      "unosat",
+      "a> based on results provided by the autonomous university of the state of mexico",
+      "2711\" target=\"blank\">unitar",
+      "2705\" target=\"blank\">unitar",
+      "2700\" target=\"blank\">igg",
+      "unam",
+      "2699\" target=\"blank\">unitar",
+      "2698\" target=\"_blank\"> unitar",
+      "2692\" target=\"blank\">unitar",
+      "2689 \" target=\"_blank\">unitar",
+      "2685\" target=\"blank\">unitar",
+      "2686\" target=\"blank\">unitar",
+      "2683\" target=\"blank\">unitar",
+      "2682\" target=\"blank\">unitar",
+      "2678\" target=\"blank\">unitar"
+    ]
+  },
+  {
+    "Country": "Dominican Republic",
+    "Date": "2017-09-19",
+    "Activation_ID": "556",
+    "Satellites": [
+      "radarsat",
+      "2",
+      "sentinel",
+      "1"
+    ],
+    "Map_Producers": [
+      "eigeo"
+    ]
+  },
+  {
+    "Country": "Caribbean",
+    "Date": "2017-09-19",
+    "Activation_ID": "552",
+    "Satellites": [
+      "pleiades",
+      "worldview",
+      "2",
+      "kompsat",
+      "3",
+      "resurs",
+      "p"
+    ],
+    "Map_Producers": [
+      "<a href=\"http:",
+      "",
+      "www.unitar.org",
+      "unosat",
+      "node",
+      "44",
+      "2762\" target=\"_blank\">unitar",
+      "unosat",
+      "a",
+      "2708\" target=\"blank\">unitar",
+      "2704\" target=\"blank\">unitar",
+      "2703\" target=\"blank\">unitar",
+      "2702\" target=\"blank\">unitar",
+      "2696\" target=\"blank\">unitar",
+      "2695\" target=\"blank\">unitar",
+      "2690\" target=\"blank\">unitar",
+      "roscosmos",
+      "2681\" target=\"blank\">unitar",
+      "2679\" target=\"blank\">unitar",
+      "2676\" target=\"blank\">unitar"
+    ]
+  },
+  {
+    "Country": "Antilles Islands",
+    "Date": "2017-09-18",
+    "Activation_ID": "553",
+    "Satellites": [
+      "pleiades"
+    ],
+    "Map_Producers": [
+      "sertit"
+    ]
+  },
+  {
+    "Country": "Dominican Republic",
+    "Date": "5 September 2017",
+    "Activation_ID": "549",
+    "Satellites": [
+      "rapideye",
+      "sentinel",
+      "1"
+    ],
+    "Map_Producers": [
+      "eigeo"
+    ]
+  },
+  {
+    "Country": "Caribbean",
+    "Date": "5 September 2017",
+    "Activation_ID": "548",
+    "Satellites": [
+      "pleiades",
+      "radarsat",
+      "2",
+      "worldview",
+      "kompsat",
+      "3"
+    ],
+    "Map_Producers": [
+      "<a href=\"http:",
+      "",
+      "www.unitar.org",
+      "unosat",
+      "node",
+      "44",
+      "2694\" target=\"_blank\">unitar",
+      "unosat",
+      "a",
+      "2693\" target=\"_blank\">unitar",
+      "2672\" target=\"blank\">unitar",
+      "2670\" target=\"blank\">unitar",
+      "2667\" target=\"blank\">unitar",
+      "2666\" target=\"blank\">unitar",
+      "unitar",
+      "<a href=\"www.unitar.org",
+      "2660\" target=\"blank\">unitar",
+      "2659\" target=\"blank\">unitar",
+      "sertit",
+      "2658\" target=\"blank\">unitar"
+    ]
+  },
+  {
+    "Country": "United States",
+    "Date": "24 August 2017",
+    "Activation_ID": "547",
+    "Satellites": [
+      "terrasar",
+      "x"
+    ],
+    "Map_Producers": [
+      "<a href=\"https:",
+      "",
+      "www.zki.dlr.de",
+      "map",
+      "2986\" target=\"blank\">zki",
+      "dlr",
+      "a",
+      "zki",
+      "dlr"
+    ]
+  },
+  {
+    "Country": "Bangladesh",
+    "Date": "15 August 2017",
+    "Activation_ID": "545",
+    "Satellites": [
+      "sentinel",
+      "1",
+      "terrasar",
+      "x",
+      "suomi",
+      "npp",
+      "viirs"
+    ],
+    "Map_Producers": [
+      "unitar",
+      "unosat",
+      "noaa"
+    ]
+  },
+  {
+    "Country": "Sierra Leone",
+    "Date": "15 August 2017",
+    "Activation_ID": "546",
+    "Satellites": [
+      "geoeye",
+      "1",
+      "worldview",
+      "3"
+    ],
+    "Map_Producers": [
+      "bgs",
+      "unitar",
+      "unosat"
+    ]
+  },
+  {
+    "Country": "Nepal",
+    "Date": "15 August 2017",
+    "Activation_ID": "544",
+    "Satellites": [
+      "sentinel",
+      "1",
+      "worldview",
+      "2",
+      "radarsat",
+      "terrasar",
+      "x",
+      "pleiades",
+      "alos",
+      "palsar"
+    ],
+    "Map_Producers": [
+      "icimod"
+    ]
+  },
+  {
+    "Country": "Vietnam",
+    "Date": "7 August 2017",
+    "Activation_ID": "540",
+    "Satellites": [
+      "pleiades"
+    ],
+    "Map_Producers": [
+      "iranian space agency",
+      "asian institute of technology",
+      "ait"
+    ]
+  },
+  {
+    "Country": "Venezuela",
+    "Date": "6 August 2017",
+    "Activation_ID": "541",
+    "Satellites": [
+      "sentinel",
+      "1",
+      "2",
+      "radarsat",
+      "worldview",
+      "vrss",
+      "l",
+      "sat",
+      "8",
+      "pleiades",
+      "tandem",
+      "x",
+      "suomi",
+      "npp",
+      "viirs"
+    ],
+    "Map_Producers": [
+      "abae",
+      "noaa"
+    ]
+  },
+  {
+    "Country": "China",
+    "Date": "24 June 2017",
+    "Activation_ID": "538",
+    "Satellites": [
+      "terrasar",
+      "x",
+      "pleiades",
+      "rapideye",
+      "alos",
+      "kompsat",
+      "5",
+      "sentinel",
+      "1",
+      "worldview",
+      "2",
+      "2 &amp; pleiades"
+    ],
+    "Map_Producers": [
+      "ndrcc"
+    ]
+  },
+  {
+    "Country": "South Africa",
+    "Date": "12 June 2017",
+    "Activation_ID": "536",
+    "Satellites": [
+      "l",
+      "sat",
+      "8",
+      "sentinel",
+      "2",
+      "spot",
+      "7"
+    ],
+    "Map_Producers": [
+      "csir",
+      "meraka institute"
+    ]
+  },
+  {
+    "Country": "Uruguay",
+    "Date": "6 June 2017",
+    "Activation_ID": "535",
+    "Satellites": [
+      "cartosat",
+      "2",
+      "radarsat",
+      "spot",
+      "6",
+      "alos",
+      "7",
+      "tandem",
+      "x"
+    ],
+    "Map_Producers": [
+      "conae"
+    ]
+  },
+  {
+    "Country": "Bangladesh",
+    "Date": "30 May 2017",
+    "Activation_ID": "534",
+    "Satellites": [
+      "radarsat",
+      "2",
+      "pleiades",
+      "terrasar",
+      "x",
+      "sentinel",
+      "1"
+    ],
+    "Map_Producers": [
+      "gic",
+      "ait",
+      "unitar",
+      "unosat"
+    ]
+  },
+  {
+    "Country": "Sri Lanka",
+    "Date": "26 May 2017",
+    "Activation_ID": "533",
+    "Satellites": [
+      "terrasar",
+      "x",
+      "resourcesat",
+      "2",
+      "radarsat",
+      "sentinel",
+      "alos",
+      "kompsat",
+      "5",
+      "1",
+      "theos ms"
+    ],
+    "Map_Producers": [
+      "gmc",
+      "ait",
+      "iwmi",
+      "gic",
+      "imwi"
+    ]
+  },
+  {
+    "Country": "Russian Federation",
+    "Date": "26 May 2017",
+    "Activation_ID": "532",
+    "Satellites": [
+      "pleiades"
+    ],
+    "Map_Producers": [
+      "rss"
+    ]
+  },
+  {
+    "Country": "Russian Federation",
+    "Date": "25 May 2017",
+    "Activation_ID": "531",
+    "Satellites": [
+      "rapideye <br",
+      ">\n\nspot",
+      "6",
+      "resurs",
+      "p"
+    ],
+    "Map_Producers": [
+      "ntsomz"
+    ]
+  },
+  {
+    "Country": "Chile",
+    "Date": "13 May 2017",
+    "Activation_ID": "530",
+    "Satellites": [
+      "pleiades",
+      "1a",
+      "kompsat",
+      "3"
+    ],
+    "Map_Producers": [
+      "ciren"
+    ]
+  },
+  {
+    "Country": "Canada",
+    "Date": "6 May 2017",
+    "Activation_ID": "529",
+    "Satellites": [
+      "radarsat",
+      "2",
+      "sentinel",
+      "1b",
+      "pleiades",
+      "terrasar",
+      "x"
+    ],
+    "Map_Producers": [
+      "natural resources canada"
+    ]
+  },
+  {
+    "Country": "Haiti",
+    "Date": "25 April 2017",
+    "Activation_ID": "527",
+    "Satellites": [
+      "worldview",
+      "2",
+      "radarsat",
+      "sentinel",
+      "1",
+      "global precipitation measurement (gpm)"
+    ],
+    "Map_Producers": [
+      "<a href=\"http:",
+      "",
+      "www.unitar.org",
+      "unosat",
+      "node",
+      "44",
+      "2587\" target=\"blank\">unitar",
+      "unosat",
+      "a",
+      "2585\" target=\"blank\">unitar",
+      "2583\" target=\"blank\">unitar"
+    ]
+  },
+  {
+    "Country": "Dominican Republic",
+    "Date": "24 April 2017",
+    "Activation_ID": "526",
+    "Satellites": [
+      "spot",
+      "6"
+    ],
+    "Map_Producers": [
+      "<a href=\"http:",
+      "",
+      "www.unitar.org",
+      "unosat",
+      "node",
+      "44",
+      "2590\" target=\"blank\">unitar",
+      "unosat",
+      "a"
+    ]
+  },
+  {
+    "Country": "Argentina",
+    "Date": "12 April 2017",
+    "Activation_ID": "525",
+    "Satellites": [
+      "terra",
+      "aqua",
+      "resourcesat",
+      "2",
+      "worldview",
+      "3",
+      "rapideye",
+      "radarsat",
+      "alos",
+      "tandem",
+      "x",
+      "pleiades"
+    ],
+    "Map_Producers": [
+      "conae"
+    ]
+  },
+  {
+    "Country": "Colombia",
+    "Date": "01 April 2017",
+    "Activation_ID": "524",
+    "Satellites": [
+      "rapideye",
+      "pleiades",
+      "geoeye",
+      "1",
+      "worldview",
+      "",
+      "2",
+      "resourcesat",
+      "openstreetmap &amp; humanitarian mapping unit",
+      "ground data from authorities"
+    ],
+    "Map_Producers": [
+      "remote sensing section",
+      "helmholtz centre potsdam",
+      "gfz german research centre for geosciences",
+      "<a href=\"http:",
+      "",
+      "www.unitar.org",
+      "unosat",
+      "node",
+      "44",
+      "2575\" target=\"blank\">unitar",
+      "unosat",
+      "a",
+      "2567\" target=\"blank\">unitar",
+      "2565\" target=\"blank\">unitar"
+    ]
+  },
+  {
+    "Country": "Peru",
+    "Date": "31 March 2017",
+    "Activation_ID": "523",
+    "Satellites": [
+      "worldview",
+      "3",
+      "spot",
+      "7",
+      "6",
+      "radarsat",
+      "2",
+      "kompsat",
+      "resurs",
+      "p",
+      "perusat",
+      "1",
+      "tandem",
+      "x"
+    ],
+    "Map_Producers": [
+      "conida",
+      "yamaguchi university",
+      "japan"
+    ]
+  },
+  {
+    "Country": "Australia",
+    "Date": "29 March 2017",
+    "Activation_ID": "522",
+    "Satellites": [
+      "terrasar",
+      "x",
+      "radarsat",
+      "2",
+      "cosmo",
+      "skymed",
+      "resurs",
+      "p",
+      "sentinel",
+      "1",
+      "resourcesat"
+    ],
+    "Map_Producers": [
+      "geoscience australia",
+      "e",
+      "geos"
+    ]
+  },
+  {
+    "Country": "Madagascar",
+    "Date": "6 March 2017",
+    "Activation_ID": "521",
+    "Satellites": [
+      "terrasar",
+      "x",
+      "radarsat",
+      "2"
+    ],
+    "Map_Producers": [
+      "unitar",
+      "unosat"
+    ]
+  },
+  {
+    "Country": "Argentina",
+    "Date": "5 January 2017",
+    "Activation_ID": "518",
+    "Satellites": [
+      "gaofen",
+      "1 (gf",
+      "1)",
+      "resurs",
+      "p"
+    ],
+    "Map_Producers": [
+      "conae"
+    ]
+  },
+  {
+    "Country": "India",
+    "Date": "12 December 2016",
+    "Activation_ID": "517",
+    "Satellites": [
+      "pleiades",
+      "worldview",
+      "2"
+    ],
+    "Map_Producers": [
+      "isro"
+    ]
+  },
+  {
+    "Country": "Costa Rica",
+    "Date": "28 November 2016",
+    "Activation_ID": "515",
+    "Satellites": [
+      "radarsat",
+      "2",
+      "sentinel",
+      "1b"
+    ],
+    "Map_Producers": [
+      "natural resources canada"
+    ]
+  },
+  {
+    "Country": "Israel",
+    "Date": "24 November 2016",
+    "Activation_ID": "514",
+    "Satellites": [
+      "rapideye",
+      "spot",
+      "6"
+    ],
+    "Map_Producers": [
+      "nts omz"
+    ]
+  }
+]

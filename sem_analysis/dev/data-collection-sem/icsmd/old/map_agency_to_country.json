@@ -1,0 +1,122 @@
+[
+  {
+    "agency_input": "digitalglobe",
+    "real": 1,
+    "country": "usa"
+  },
+  {
+    "agency_input": "cnes",
+    "real": 1,
+    "country": "france"
+  },
+  {
+    "agency_input": "csa",
+    "real": 1,
+    "country": "canada"
+  },
+  {
+    "agency_input": "iceye",
+    "real": 1,
+    "country": "finland"
+  },
+  {
+    "agency_input": "nasa",
+    "real": 1,
+    "country": "usa"
+  },
+  {
+    "agency_input": "cnsa",
+    "real": 1,
+    "country": "china"
+  },
+  {
+    "agency_input": "esa",
+    "real": 1,
+    "country": "eu"
+  },
+  {
+    "agency_input": "dlr",
+    "real": 1,
+    "country": "germany"
+  },
+  {
+    "agency_input": "jaxa",
+    "real": 1,
+    "country": "japan"
+  },
+  {
+    "agency_input": "planet",
+    "real": 1,
+    "country": "usa"
+  },
+  {
+    "agency_input": "kari",
+    "real": 1,
+    "country": "korea"
+  },
+  {
+    "agency_input": "inpe",
+    "real": 1,
+    "country": "brazil"
+  },
+  {
+    "agency_input": "conae",
+    "real": 1,
+    "country": "argentina"
+  },
+  {
+    "agency_input": "abae",
+    "real": 1,
+    "country": "venezuela"
+  },
+  {
+    "agency_input": "roscosmos",
+    "real": 1,
+    "country": "russia"
+  },
+  {
+    "agency_input": "google",
+    "real": 1,
+    "country": "usa"
+  },
+  {
+    "agency_input": "isro",
+    "real": 1,
+    "country": "india"
+  },
+  {
+    "agency_input": "peru",
+    "real": 1,
+    "country": "peru"
+  },
+  {
+    "agency_input": "asi",
+    "real": 1,
+    "country": "italy"
+  },
+  {
+    "agency_input": "uk",
+    "real": 1,
+    "country": "uk"
+  },
+  {
+    "agency_input": "airbus",
+    "real": 1,
+    "country": "france"
+  },
+  {
+    "agency_input": "algeria",
+    "real": 1,
+    "country": "algeria"
+  },
+  {
+    "agency_input": "surrey",
+    "real": 1,
+    "country": "uk"
+  },
+  {
+    "agency_input": "eumetsat",
+    "real": 1,
+    "country": "eu"
+  }
+]

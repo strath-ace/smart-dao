@@ -1,0 +1,466 @@
+{
+  "unitar": {
+    "real": 1,
+    "country": "un"
+  },
+  "unosat": {
+    "real": 1,
+    "country": "un"
+  },
+  "nrsc": {
+    "real": 1,
+    "country": "us"
+  },
+  "isro": {
+    "real": 1,
+    "country": "india"
+  },
+  "andreykuklin": {
+    "real": 1,
+    "country": "russia"
+  },
+  "mbrsc": {
+    "real": 1,
+    "country": "uae"
+  },
+  "suwanansatei": {
+    "real": 0,
+    "country": "na"
+  },
+  "ee": {
+    "real": 0,
+    "country": "na"
+  },
+  "koreaaerospaceresearchinstitute(kari)": {
+    "real": 1,
+    "country": "korea"
+  },
+  "kari": {
+    "real": 1,
+    "country": "korea"
+  },
+  "marceloduran": {
+    "real": 0,
+    "country": "na"
+  },
+  "nationalautonomousuniversityofmexico(unam)": {
+    "real": 1,
+    "country": "mexico"
+  },
+  "roscosmos": {
+    "real": 1,
+    "country": "russia"
+  },
+  "sansa": {
+    "real": 1,
+    "country": "south africa"
+  },
+  "girirajamarnath": {
+    "real": 0,
+    "country": "na"
+  },
+  "ait": {
+    "real": 1,
+    "country": "eu"
+  },
+  "icube-sertit": {
+    "real": 1,
+    "country": "france"
+  },
+  "yamaguchiuniversity": {
+    "real": 1,
+    "country": "japan"
+  },
+  "ministryofregionaldevelopment": {
+    "real": 1,
+    "country": "poland"
+  },
+  "integracaobrazil": {
+    "real": 1,
+    "country": "brazil"
+  },
+  "nationaldisasterreductioncenterofchina(ndrcc)": {
+    "real": 1,
+    "country": "china"
+  },
+  "chathumalmadhurangaweththasinghearachchige": {
+    "real": 1,
+    "country": "thailand"
+  },
+  "conae": {
+    "real": 1,
+    "country": "argentina"
+  },
+  "dlr": {
+    "real": 1,
+    "country": "germany"
+  },
+  "asianinstituteoftechnology": {
+    "real": 1,
+    "country": "thailand"
+  },
+  "nationaldisastermanagementorganization-ghana": {
+    "real": 1,
+    "country": "ghana"
+  },
+  "ntsomz": {
+    "real": 1,
+    "country": "russia"
+  },
+  "csa": {
+    "real": 1,
+    "country": "canada"
+  },
+  "sertit": {
+    "real": 1,
+    "country": "france"
+  },
+  "bolivianspaceagency-abe": {
+    "real": 1,
+    "country": "bolivia"
+  },
+  "cnsa": {
+    "real": 1,
+    "country": "china"
+  },
+  "ndrcc": {
+    "real": 1,
+    "country": "china"
+  },
+  "abigailpidlaoan": {
+    "real": 1,
+    "country": "philippines"
+  },
+  "purdueuniversity": {
+    "real": 1,
+    "country": "us"
+  },
+  "philippineinstituteofvolcanology": {
+    "real": 1,
+    "country": "philippines"
+  },
+  "seismology(phivolcs)-dost": {
+    "real": 1,
+    "country": "philippines"
+  },
+  "pm_abaepm_abae": {
+    "real": 1,
+    "country": "venezuela"
+  },
+  "teodorohunger": {
+    "real": 1,
+    "country": "un"
+  },
+  "nationalremotesensingcentre": {
+    "real": 1,
+    "country": "india"
+  },
+  "agenciaespacialdelparaguay(aep)": {
+    "real": 1,
+    "country": "paraguay"
+  },
+  "abe": {
+    "real": 1,
+    "country": "bolivia"
+  },
+  "ministériodaintegraçãonacional": {
+    "real": 1,
+    "country": "brazil"
+  },
+  "lapan": {
+    "real": 1,
+    "country": "indonesia"
+  },
+  "ufsm": {
+    "real": 1,
+    "country": "brazil"
+  },
+  "autonomousuniversityofmexicostate(uaemex)": {
+    "real": 1,
+    "country": "mexico"
+  },
+  "zki": {
+    "real": 1,
+    "country": "germany"
+  },
+  "jakrapongtawala": {
+    "real": 1,
+    "country": "un"
+  },
+  "universityoflouisianaatlafayetteregionalapplicationcenter(rac)": {
+    "real": 1,
+    "country": "us"
+  },
+  "esa": {
+    "real": 1,
+    "country": "eu"
+  },
+  "seismology(phivolcs)": {
+    "real": 1,
+    "country": "philippines"
+  },
+  "inpe": {
+    "real": 1,
+    "country": "brazil"
+  },
+  "centrodeinformaciónderecursosnaturales(ciren)": {
+    "real": 1,
+    "country": "chile"
+  },
+  "phivolcs": {
+    "real": 1,
+    "country": "philippines"
+  },
+  "nationalremotesensingcentre(nrsc)": {
+    "real": 1,
+    "country": "india"
+  },
+  "sinager": {
+    "real": 1,
+    "country": "honduras"
+  },
+  "cgiar": {
+    "real": 1,
+    "country": "un"
+  },
+  "icimod": {
+    "real": 1,
+    "country": "himalaya region"
+  },
+  "jaxa": {
+    "real": 1,
+    "country": "japan"
+  },
+  "nationaldisasterreductioncentreofchina": {
+    "real": 1,
+    "country": "china"
+  },
+  "icubesertit": {
+    "real": 1,
+    "country": "france"
+  },
+  "governmentofnewcaledonia": {
+    "real": 1,
+    "country": "new caledonia"
+  },
+  "argans": {
+    "real": 1,
+    "country": "uk"
+  },
+  "abae": {
+    "real": 1,
+    "country": "venezuala"
+  },
+  "islamicrepublicofiranun-spiderregionalsupportoffice": {
+    "real": 1,
+    "country": "iran"
+  },
+  "geoscienceaustralia": {
+    "real": 1,
+    "country": "australia"
+  },
+  "ruhr-universitybochum": {
+    "real": 1,
+    "country": "germany"
+  },
+  "nadmo": {
+    "real": 1,
+    "country": "ghana"
+  },
+  "bolivianspaceagency": {
+    "real": 1,
+    "country": "bolivia"
+  },
+  "sibusisoginindza": {
+    "real": 1,
+    "country": "eswatini"
+  },
+  "rameshsivanpillai": {
+    "real": 1,
+    "country": "us"
+  },
+  "asianinstituteoftechnology(ait)": {
+    "real": 1,
+    "country": "thailand"
+  },
+  "universityoflouisianaatlafayette": {
+    "real": 1,
+    "country": "us"
+  },
+  "stephencl": {
+    "real": 0,
+    "country": "na"
+  },
+  "illon": {
+    "real": 0,
+    "country": "na"
+  },
+  "internationalwatermanagementinstitute": {
+    "real": 1,
+    "country": "sri lanka"
+  },
+  "cenad": {
+    "real": 0,
+    "country": "na"
+  },
+  "samirbelabbes": {
+    "real": 1,
+    "country": "un"
+  },
+  "rafaelmachado": {
+    "real": 0,
+    "country": "na"
+  },
+  "indonesiannationalinstituteofaeronautics": {
+    "real": 1,
+    "country": "indonesia"
+  },
+  "space(lapan)": {
+    "real": 1,
+    "country": "indonesia"
+  },
+  "beijinguniversity": {
+    "real": 1,
+    "country": "china"
+  },
+  "wentingcao": {
+    "real": 1,
+    "country": "china"
+  },
+  "conida": {
+    "real": 0,
+    "country": "na"
+  },
+  "iirs": {
+    "real": 1,
+    "country": "india"
+  },
+  "unitednationsinstitutefortraining": {
+    "real": 1,
+    "country": "un"
+  },
+  "research(unitar": {
+    "real": 1,
+    "country": "un"
+  },
+  "unosat)": {
+    "real": 1,
+    "country": "un"
+  },
+  "jamaicapangasinan": {
+    "real": 1,
+    "country": "jamaica"
+  },
+  "claireneil": {
+    "real": 0,
+    "country": "na"
+  },
+  "chathumalmadhuranga": {
+    "real": 1,
+    "country": "thailand"
+  },
+  "oyewumiademuyiwa": {
+    "real": 1,
+    "country": "nigeria"
+  },
+  "internationalwatermanagementinstitute(iwmi)": {
+    "real": 1,
+    "country": "sri lanka"
+  },
+  "keverndebellot": {
+    "real": 0,
+    "country": "na"
+  },
+  "aep": {
+    "real": 1,
+    "country": "paraguay"
+  },
+  "usgs": {
+    "real": 1,
+    "country": "us"
+  },
+  "disastermanagementcentre": {
+    "real": 1,
+    "country": "un"
+  },
+  "srilanka": {
+    "real": 1,
+    "country": "sri lanka"
+  },
+  "pedroyoussef": {
+    "real": 0,
+    "country": "na"
+  },
+  "sngre": {
+    "real": 1,
+    "country": "ecuador"
+  },
+  "marthavillagomez": {
+    "real": 0,
+    "country": "na"
+  },
+  "ungrd": {
+    "real": 1,
+    "country": "colombia"
+  },
+  "nationalgeology": {
+    "real": 0,
+    "country": "na"
+  },
+  "miningserviceofchile": {
+    "real": 1,
+    "country": "chile"
+  },
+  "alex": {
+    "real": 0,
+    "country": "na"
+  },
+  "erariza": {
+    "real": 0,
+    "country": "na"
+  },
+  "swissfederalofficeoftopography": {
+    "real": 1,
+    "country": "switzerland"
+  },
+  "sinager-bolivia": {
+    "real": 1,
+    "country": "bolivia"
+  },
+  "carloslaverde": {
+    "real": 0,
+    "country": "na"
+  },
+  "josépasapera": {
+    "real": 0,
+    "country": "na"
+  },
+  "angsanachaksan": {
+    "real": 0,
+    "country": "na"
+  },
+  "seismology": {
+    "real": 0,
+    "country": "na"
+  },
+  "equipointerinstitucionaldeinformacióngeoespacial(eigeo)": {
+    "real": 0,
+    "country": "na"
+  },
+  "universityofwyoming": {
+    "real": 1,
+    "country": "us"
+  },
+  "cathalac": {
+    "real": 1,
+    "country": "latin america"
+  },
+  "canadianspaceagency(csa)": {
+    "real": 1,
+    "country": "canada"
+  },
+  "oktaygokce": {
+    "real": 0,
+    "country": "na"
+  }
+}

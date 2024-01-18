@@ -1,0 +1,1132 @@
+[
+  {
+    "sat_input": "worldview",
+    "real": 1,
+    "country": "digitalglobe"
+  },
+  {
+    "sat_input": "3",
+    "real": 0,
+    "country": "na"
+  },
+  {
+    "sat_input": "pleiades",
+    "real": 1,
+    "country": "cnes"
+  },
+  {
+    "sat_input": "2",
+    "real": 0,
+    "country": "na"
+  },
+  {
+    "sat_input": "rcm",
+    "real": 1,
+    "country": "csa"
+  },
+  {
+    "sat_input": "iceye",
+    "real": 1,
+    "country": "iceye"
+  },
+  {
+    "sat_input": "terra modis",
+    "real": 1,
+    "country": "nasa"
+  },
+  {
+    "sat_input": "gaofen",
+    "real": 1,
+    "country": "cnsa"
+  },
+  {
+    "sat_input": "sentinel",
+    "real": 1,
+    "country": "esa"
+  },
+  {
+    "sat_input": "1",
+    "real": 0,
+    "country": "na"
+  },
+  {
+    "sat_input": "noaa",
+    "real": 0,
+    "country": "na"
+  },
+  {
+    "sat_input": "20",
+    "real": 0,
+    "country": "na"
+  },
+  {
+    "sat_input": "terrasar",
+    "real": 1,
+    "country": "dlr"
+  },
+  {
+    "sat_input": "x",
+    "real": 0,
+    "country": "na"
+  },
+  {
+    "sat_input": "alos",
+    "real": 1,
+    "country": "jaxa"
+  },
+  {
+    "sat_input": "planetscope",
+    "real": 1,
+    "country": "planet"
+  },
+  {
+    "sat_input": "sdgsat",
+    "real": 1,
+    "country": "cnsa"
+  },
+  {
+    "sat_input": "suomi npp",
+    "real": 1,
+    "country": "nasa"
+  },
+  {
+    "sat_input": "yangwang",
+    "real": 1,
+    "country": "cnsa"
+  },
+  {
+    "sat_input": "geoeye",
+    "real": 1,
+    "country": "digitalglobe"
+  },
+  {
+    "sat_input": "kompsat3",
+    "real": 1,
+    "country": "kari"
+  },
+  {
+    "sat_input": "pleiades <br",
+    "real": 1,
+    "country": "cnes"
+  },
+  {
+    "sat_input": ">\n<a href=\"https:",
+    "real": 0,
+    "country": "na"
+  },
+  {
+    "sat_input": "",
+    "real": 0,
+    "country": "na"
+  },
+  {
+    "sat_input": "disasterscharter.org",
+    "real": 0,
+    "country": "na"
+  },
+  {
+    "sat_input": "documents",
+    "real": 0,
+    "country": "na"
+  },
+  {
+    "sat_input": "10180",
+    "real": 0,
+    "country": "na"
+  },
+  {
+    "sat_input": "18462174",
+    "real": 0,
+    "country": "na"
+  },
+  {
+    "sat_input": "preliminary",
+    "real": 0,
+    "country": "na"
+  },
+  {
+    "sat_input": "satellite",
+    "real": 0,
+    "country": "na"
+  },
+  {
+    "sat_input": "derived",
+    "real": 0,
+    "country": "na"
+  },
+  {
+    "sat_input": "damage",
+    "real": 0,
+    "country": "na"
+  },
+  {
+    "sat_input": "assessment",
+    "real": 0,
+    "country": "na"
+  },
+  {
+    "sat_input": "in",
+    "real": 0,
+    "country": "na"
+  },
+  {
+    "sat_input": "latakia",
+    "real": 0,
+    "country": "na"
+  },
+  {
+    "sat_input": "update\" target=\"_blank\">download full report<",
+    "real": 0,
+    "country": "na"
+  },
+  {
+    "sat_input": "a>",
+    "real": 0,
+    "country": "na"
+  },
+  {
+    "sat_input": "kompsat",
+    "real": 1,
+    "country": "kari"
+  },
+  {
+    "sat_input": "cbers",
+    "real": 1,
+    "country": "cnsa/inpe"
+  },
+  {
+    "sat_input": "4",
+    "real": 0,
+    "country": "na"
+  },
+  {
+    "sat_input": "1 space telescope",
+    "real": 0,
+    "country": "na"
+  },
+  {
+    "sat_input": "viirs",
+    "real": 0,
+    "country": "na"
+  },
+  {
+    "sat_input": "radarsat",
+    "real": 1,
+    "country": "csa"
+  },
+  {
+    "sat_input": "newsat",
+    "real": 0,
+    "country": "na"
+  },
+  {
+    "sat_input": "spot6",
+    "real": 1,
+    "country": "esa"
+  },
+  {
+    "sat_input": "spot",
+    "real": 1,
+    "country": "esa"
+  },
+  {
+    "sat_input": "saocom",
+    "real": 1,
+    "country": "conae"
+  },
+  {
+    "sat_input": "vrss",
+    "real": 1,
+    "country": "abae"
+  },
+  {
+    "sat_input": "6",
+    "real": 0,
+    "country": "na"
+  },
+  {
+    "sat_input": "kanopus",
+    "real": 1,
+    "country": "roscosmos"
+  },
+  {
+    "sat_input": "v",
+    "real": 0,
+    "country": "na"
+  },
+  {
+    "sat_input": "l",
+    "real": 0,
+    "country": "na"
+  },
+  {
+    "sat_input": "sat",
+    "real": 0,
+    "country": "na"
+  },
+  {
+    "sat_input": "9",
+    "real": 0,
+    "country": "na"
+  },
+  {
+    "sat_input": "noaa_20",
+    "real": 0,
+    "country": "na"
+  },
+  {
+    "sat_input": "plaeiades",
+    "real": 1,
+    "country": "cnes"
+  },
+  {
+    "sat_input": "t",
+    "real": 0,
+    "country": "na"
+  },
+  {
+    "sat_input": "em",
+    "real": 0,
+    "country": "na"
+  },
+  {
+    "sat_input": "alos2",
+    "real": 1,
+    "country": "jaxa"
+  },
+  {
+    "sat_input": "8",
+    "real": 0,
+    "country": "na"
+  },
+  {
+    "sat_input": "gf3",
+    "real": 0,
+    "country": "na"
+  },
+  {
+    "sat_input": "vrss2",
+    "real": 1,
+    "country": "abae"
+  },
+  {
+    "sat_input": "senintel",
+    "real": 1,
+    "country": "esa"
+  },
+  {
+    "sat_input": "suomi npp<br",
+    "real": 1,
+    "country": "nasa"
+  },
+  {
+    "sat_input": "worldview",
+    "real": 1,
+    "country": "/bin/python3 /home/robert/dev/get-icsmd-operators/make_real_sats.py"
+  },
+  {
+    "sat_input": "14989767",
+    "real": 0,
+    "country": "na"
+  },
+  {
+    "sat_input": "flood",
+    "real": 0,
+    "country": "na"
+  },
+  {
+    "sat_input": "evolution",
+    "real": 0,
+    "country": "na"
+  },
+  {
+    "sat_input": "9a4ba4ad",
+    "real": 0,
+    "country": "na"
+  },
+  {
+    "sat_input": "5140",
+    "real": 0,
+    "country": "na"
+  },
+  {
+    "sat_input": "4f9e",
+    "real": 0,
+    "country": "na"
+  },
+  {
+    "sat_input": "b4eb",
+    "real": 0,
+    "country": "na"
+  },
+  {
+    "sat_input": "7a0b5a3031ea\">download the full report<",
+    "real": 0,
+    "country": "na"
+  },
+  {
+    "sat_input": "spot 6",
+    "real": 1,
+    "country": "esa"
+  },
+  {
+    "sat_input": "jilin",
+    "real": 1,
+    "country": "cnsa"
+  },
+  {
+    "sat_input": "01 optical",
+    "real": 0,
+    "country": "na"
+  },
+  {
+    "sat_input": "a",
+    "real": 0,
+    "country": "na"
+  },
+  {
+    "sat_input": "landsat8",
+    "real": 1,
+    "country": "nasa"
+  },
+  {
+    "sat_input": "landsat9",
+    "real": 1,
+    "country": "nasa"
+  },
+  {
+    "sat_input": "tandem",
+    "real": 1,
+    "country": "dlr"
+  },
+  {
+    "sat_input": "resurs",
+    "real": 1,
+    "country": "roscosmos"
+  },
+  {
+    "sat_input": "p",
+    "real": 0,
+    "country": "na"
+  },
+  {
+    "sat_input": "5",
+    "real": 0,
+    "country": "na"
+  },
+  {
+    "sat_input": "3a",
+    "real": 0,
+    "country": "na"
+  },
+  {
+    "sat_input": "pleiades_1b",
+    "real": 1,
+    "country": "cnes"
+  },
+  {
+    "sat_input": "1 <br",
+    "real": 0,
+    "country": "na"
+  },
+  {
+    "sat_input": ">\nmap produced by esa",
+    "real": 0,
+    "country": "na"
+  },
+  {
+    "sat_input": "4a",
+    "real": 0,
+    "country": "na"
+  },
+  {
+    "sat_input": "google",
+    "real": 0,
+    "country": "na"
+  },
+  {
+    "sat_input": "google satellite",
+    "real": 1,
+    "country": "google"
+  },
+  {
+    "sat_input": "sat 9",
+    "real": 0,
+    "country": "na"
+  },
+  {
+    "sat_input": "cartosat",
+    "real": 1,
+    "country": "isro"
+  },
+  {
+    "sat_input": "worlview",
+    "real": 1,
+    "country": "digitalglobe"
+  },
+  {
+    "sat_input": "terrsar",
+    "real": 1,
+    "country": "dlr"
+  },
+  {
+    "sat_input": "vision",
+    "real": 0,
+    "country": "na"
+  },
+  {
+    "sat_input": "fy3d",
+    "real": 0,
+    "country": "na"
+  },
+  {
+    "sat_input": "saocom 1a",
+    "real": 1,
+    "country": "conae"
+  },
+  {
+    "sat_input": "perusat",
+    "real": 1,
+    "country": "peru"
+  },
+  {
+    "sat_input": "worldview_3",
+    "real": 1,
+    "country": "digitalglobe"
+  },
+  {
+    "sat_input": "worldview2",
+    "real": 1,
+    "country": "digitalglobe"
+  },
+  {
+    "sat_input": "01",
+    "real": 0,
+    "country": "na"
+  },
+  {
+    "sat_input": "03",
+    "real": 0,
+    "country": "na"
+  },
+  {
+    "sat_input": "gf1",
+    "real": 0,
+    "country": "na"
+  },
+  {
+    "sat_input": "spot 7",
+    "real": 1,
+    "country": "esa"
+  },
+  {
+    "sat_input": "kompsat 3",
+    "real": 1,
+    "country": "kari"
+  },
+  {
+    "sat_input": "1a",
+    "real": 0,
+    "country": "na"
+  },
+  {
+    "sat_input": "resourcesat",
+    "real": 1,
+    "country": "isro"
+  },
+  {
+    "sat_input": "meteor",
+    "real": 1,
+    "country": "roscosmos"
+  },
+  {
+    "sat_input": "m",
+    "real": 0,
+    "country": "na"
+  },
+  {
+    "sat_input": "sat 8",
+    "real": 0,
+    "country": "na"
+  },
+  {
+    "sat_input": "cosmo",
+    "real": 1,
+    "country": "asi"
+  },
+  {
+    "sat_input": "skymed",
+    "real": 1,
+    "country": "asi"
+  },
+  {
+    "sat_input": "world",
+    "real": 0,
+    "country": "na"
+  },
+  {
+    "sat_input": "view",
+    "real": 0,
+    "country": "na"
+  },
+  {
+    "sat_input": "spot7",
+    "real": 1,
+    "country": "esa"
+  },
+  {
+    "sat_input": "x2",
+    "real": 0,
+    "country": "na"
+  },
+  {
+    "sat_input": "tandem_x",
+    "real": 1,
+    "country": "dlr"
+  },
+  {
+    "sat_input": "cartosat 2",
+    "real": 1,
+    "country": "isro"
+  },
+  {
+    "sat_input": "kanopus_v_ik",
+    "real": 1,
+    "country": "roscosmos"
+  },
+  {
+    "sat_input": "kanopus v",
+    "real": 1,
+    "country": "roscosmos"
+  },
+  {
+    "sat_input": "saocom 1",
+    "real": 1,
+    "country": "conae"
+  },
+  {
+    "sat_input": "novasar",
+    "real": 1,
+    "country": "uk/airbus"
+  },
+  {
+    "sat_input": "7",
+    "real": 0,
+    "country": "na"
+  },
+  {
+    "sat_input": "paz",
+    "real": 0,
+    "country": "na"
+  },
+  {
+    "sat_input": "terrasar_x",
+    "real": 1,
+    "country": "dlr"
+  },
+  {
+    "sat_input": "cosmo skymed",
+    "real": 1,
+    "country": "asi"
+  },
+  {
+    "sat_input": "alsat",
+    "real": 1,
+    "country": "algeria/surrey"
+  },
+  {
+    "sat_input": "1b",
+    "real": 0,
+    "country": "na"
+  },
+  {
+    "sat_input": "snpp",
+    "real": 1,
+    "country": "nasa"
+  },
+  {
+    "sat_input": "kanopus_v",
+    "real": 1,
+    "country": "roscosmos"
+  },
+  {
+    "sat_input": ">\nworld",
+    "real": 0,
+    "country": "na"
+  },
+  {
+    "sat_input": "geo",
+    "real": 0,
+    "country": "na"
+  },
+  {
+    "sat_input": "eye<br",
+    "real": 1,
+    "country": "digitalglobe"
+  },
+  {
+    "sat_input": ">\npleiades",
+    "real": 1,
+    "country": "cnes"
+  },
+  {
+    "sat_input": "v_ik",
+    "real": 0,
+    "country": "na"
+  },
+  {
+    "sat_input": "pleaides",
+    "real": 1,
+    "country": "cnes"
+  },
+  {
+    "sat_input": "20<br",
+    "real": 0,
+    "country": "na"
+  },
+  {
+    "sat_input": ">\nsuomi",
+    "real": 1,
+    "country": "nasa"
+  },
+  {
+    "sat_input": ">\ngeo",
+    "real": 0,
+    "country": "na"
+  },
+  {
+    "sat_input": "eye",
+    "real": 1,
+    "country": "digitalglobe"
+  },
+  {
+    "sat_input": "x<br",
+    "real": 0,
+    "country": "na"
+  },
+  {
+    "sat_input": ">\nresourcesat",
+    "real": 1,
+    "country": "isro"
+  },
+  {
+    "sat_input": "3<br",
+    "real": 0,
+    "country": "na"
+  },
+  {
+    "sat_input": "2<br",
+    "real": 0,
+    "country": "na"
+  },
+  {
+    "sat_input": ">\nsentinel",
+    "real": 1,
+    "country": "esa"
+  },
+  {
+    "sat_input": "reesourcesat",
+    "real": 1,
+    "country": "isro"
+  },
+  {
+    "sat_input": ">\npleaides",
+    "real": 1,
+    "country": "cnes"
+  },
+  {
+    "sat_input": "1<br",
+    "real": 0,
+    "country": "na"
+  },
+  {
+    "sat_input": ">\nrcm",
+    "real": 1,
+    "country": "csa"
+  },
+  {
+    "sat_input": "saocom 1a<br",
+    "real": 1,
+    "country": "conae"
+  },
+  {
+    "sat_input": ">\nterrasar",
+    "real": 1,
+    "country": "dlr"
+  },
+  {
+    "sat_input": ">\nradarsat",
+    "real": 1,
+    "country": "csa"
+  },
+  {
+    "sat_input": ">\nalos",
+    "real": 1,
+    "country": "jaxa"
+  },
+  {
+    "sat_input": ">\nalos<br",
+    "real": 1,
+    "country": "jaxa"
+  },
+  {
+    "sat_input": ">\nsaocom 1a",
+    "real": 1,
+    "country": "conae"
+  },
+  {
+    "sat_input": ">\ntandem",
+    "real": 1,
+    "country": "dlr"
+  },
+  {
+    "sat_input": "x <br",
+    "real": 0,
+    "country": "na"
+  },
+  {
+    "sat_input": ">",
+    "real": 0,
+    "country": "na"
+  },
+  {
+    "sat_input": "1a br&gt;\nsentinel",
+    "real": 1,
+    "country": "esa"
+  },
+  {
+    "sat_input": "2a",
+    "real": 0,
+    "country": "na"
+  },
+  {
+    "sat_input": ">tandem",
+    "real": 1,
+    "country": "dlr"
+  },
+  {
+    "sat_input": "> saocom",
+    "real": 1,
+    "country": "conae"
+  },
+  {
+    "sat_input": "2:",
+    "real": 0,
+    "country": "na"
+  },
+  {
+    "sat_input": "pleiades_1a",
+    "real": 1,
+    "country": "cnes"
+  },
+  {
+    "sat_input": "worldview_2",
+    "real": 1,
+    "country": "digitalglobe"
+  },
+  {
+    "sat_input": "radarsat2",
+    "real": 1,
+    "country": "csa"
+  },
+  {
+    "sat_input": "quickbird",
+    "real": 1,
+    "country": "esa"
+  },
+  {
+    "sat_input": "suomi",
+    "real": 1,
+    "country": "nasa"
+  },
+  {
+    "sat_input": "npp",
+    "real": 1,
+    "country": "nasa"
+  },
+  {
+    "sat_input": "virs",
+    "real": 0,
+    "country": "na"
+  },
+  {
+    "sat_input": "> terrasar",
+    "real": 1,
+    "country": "dlr"
+  },
+  {
+    "sat_input": "sentinel_1a",
+    "real": 1,
+    "country": "esa"
+  },
+  {
+    "sat_input": "kompsat5",
+    "real": 1,
+    "country": "kari"
+  },
+  {
+    "sat_input": "x4",
+    "real": 0,
+    "country": "na"
+  },
+  {
+    "sat_input": "noaa 20",
+    "real": 0,
+    "country": "na"
+  },
+  {
+    "sat_input": "sentinel_2a",
+    "real": 1,
+    "country": "esa"
+  },
+  {
+    "sat_input": "kshmsa_vr",
+    "real": 0,
+    "country": "na"
+  },
+  {
+    "sat_input": "bka",
+    "real": 0,
+    "country": "na"
+  },
+  {
+    "sat_input": "modis",
+    "real": 0,
+    "country": "na"
+  },
+  {
+    "sat_input": "1a <br",
+    "real": 0,
+    "country": "na"
+  },
+  {
+    "sat_input": "2a <br",
+    "real": 0,
+    "country": "na"
+  },
+  {
+    "sat_input": "2b",
+    "real": 0,
+    "country": "na"
+  },
+  {
+    "sat_input": ">\nspot7",
+    "real": 1,
+    "country": "esa"
+  },
+  {
+    "sat_input": "7 <br",
+    "real": 0,
+    "country": "na"
+  },
+  {
+    "sat_input": ">\nworldview",
+    "real": 1,
+    "country": "digitalglobe"
+  },
+  {
+    "sat_input": "3a <br",
+    "real": 0,
+    "country": "na"
+  },
+  {
+    "sat_input": "kompsat3a",
+    "real": 1,
+    "country": "kari"
+  },
+  {
+    "sat_input": "2 <br",
+    "real": 0,
+    "country": "na"
+  },
+  {
+    "sat_input": "spot7 <br",
+    "real": 1,
+    "country": "esa"
+  },
+  {
+    "sat_input": ">\n worldview_2",
+    "real": 1,
+    "country": "digitalglobe"
+  },
+  {
+    "sat_input": ">\nspot",
+    "real": 1,
+    "country": "esa"
+  },
+  {
+    "sat_input": "7<br",
+    "real": 0,
+    "country": "na"
+  },
+  {
+    "sat_input": ">\nmap produced by dost",
+    "real": 0,
+    "country": "na"
+  },
+  {
+    "sat_input": "phivolcs",
+    "real": 0,
+    "country": "na"
+  },
+  {
+    "sat_input": "dove",
+    "real": 0,
+    "country": "na"
+  },
+  {
+    "sat_input": "flooding at bhagalpur district",
+    "real": 0,
+    "country": "na"
+  },
+  {
+    "sat_input": "bihar state",
+    "real": 0,
+    "country": "na"
+  },
+  {
+    "sat_input": "india",
+    "real": 0,
+    "country": "na"
+  },
+  {
+    "sat_input": "aqua",
+    "real": 0,
+    "country": "na"
+  },
+  {
+    "sat_input": "20 &amp; goes",
+    "real": 0,
+    "country": "na"
+  },
+  {
+    "sat_input": "16",
+    "real": 0,
+    "country": "na"
+  },
+  {
+    "sat_input": "rapideye",
+    "real": 1,
+    "country": "planet"
+  },
+  {
+    "sat_input": "dmc",
+    "real": 0,
+    "country": "na"
+  },
+  {
+    "sat_input": "4 &amp; sentinel",
+    "real": 1,
+    "country": "esa"
+  },
+  {
+    "sat_input": "uk",
+    "real": 0,
+    "country": "na"
+  },
+  {
+    "sat_input": "dmc2",
+    "real": 1,
+    "country": "uk"
+  },
+  {
+    "sat_input": "tet",
+    "real": 0,
+    "country": "na"
+  },
+  {
+    "sat_input": "pleiades &amp; worldview",
+    "real": 1,
+    "country": "esa/digitalglobe"
+  },
+  {
+    "sat_input": "wordview",
+    "real": 1,
+    "country": "digitalglobe"
+  },
+  {
+    "sat_input": "metop",
+    "real": 1,
+    "country": "eumetsat"
+  },
+  {
+    "sat_input": "planet",
+    "real": 0,
+    "country": "na"
+  },
+  {
+    "sat_input": "2 &amp; terrasar",
+    "real": 1,
+    "country": "dlr"
+  },
+  {
+    "sat_input": "terra",
+    "real": 1,
+    "country": "dlr"
+  },
+  {
+    "sat_input": "liss",
+    "real": 0,
+    "country": "na"
+  },
+  {
+    "sat_input": "iii",
+    "real": 0,
+    "country": "na"
+  },
+  {
+    "sat_input": "plediades",
+    "real": 1,
+    "country": "cnes"
+  },
+  {
+    "sat_input": "palsar",
+    "real": 0,
+    "country": "na"
+  },
+  {
+    "sat_input": "2 &amp; pleiades",
+    "real": 1,
+    "country": "cnes"
+  },
+  {
+    "sat_input": "theos ms",
+    "real": 0,
+    "country": "na"
+  },
+  {
+    "sat_input": "rapideye <br",
+    "real": 1,
+    "country": "planet"
+  },
+  {
+    "sat_input": ">\n\nspot",
+    "real": 1,
+    "country": "esa"
+  },
+  {
+    "sat_input": "global precipitation measurement (gpm)",
+    "real": 0,
+    "country": "na"
+  },
+  {
+    "sat_input": "openstreetmap &amp; humanitarian mapping unit",
+    "real": 0,
+    "country": "na"
+  },
+  {
+    "sat_input": "ground data from authorities",
+    "real": 0,
+    "country": "na"
+  },
+  {
+    "sat_input": "1 (gf",
+    "real": 0,
+    "country": "na"
+  },
+  {
+    "sat_input": "1)",
+    "real": 0,
+    "country": "na"
+  }
+]

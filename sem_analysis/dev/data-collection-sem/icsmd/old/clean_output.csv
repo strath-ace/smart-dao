@@ -1,0 +1,236 @@
+808,2023-03-03,['france'],0.903,vanuatu,0.607
+807,2023-03-02,"['canada', 'finland', 'usa', 'china', 'eu']",0.8995999999999998,philippines,0.699
+805,2023-02-24,"['canada', 'china', 'eu', 'germany']",0.8900000000000001,mozambique,0.446
+804,2023-02-21,"['france', 'eu', 'germany']",0.9196666666666667,madagascar,0.501
+803,2023-02-20,"['japan', 'france', 'eu', 'usa']",0.914,brazil,0.754
+801,2023-02-16,"['eu', 'canada', 'germany']",0.9306666666666666,mozambique,0.446
+799,2023-02-10,['eu'],0.914,chile,0.855
+798,2023-02-06,"['france', 'china', 'usa', 'eu', 'korea']",0.8556000000000001,syrian arab republic,0.577
+796,2023-01-30,"['usa', 'eu', 'canada']",0.9286666666666666,zambia,0.565
+795,2023-01-24,"['eu', 'canada', 'france', 'usa', 'argentina', 'germany']",0.9066666666666667,madagascar,0.501
+794,2023-01-16,['france'],0.903,colombia,0.752
+792,2022-12-05,"['venezuela', 'eu', 'germany', 'usa']",0.87225,indonesia,0.705
+791,2022-11-22,"['france', 'eu']",0.9085000000000001,indonesia,0.705
+790,2022-11-18,['canada'],0.936,united kingdom,0.929
+789,2022-10-29,"['france', 'eu', 'russia', 'canada', 'germany']",0.9218,philippines,0.699
+788,2022-10-20,"['eu', 'russia', 'france', 'usa']",0.9085,chad,0.394
+787,2022-10-19,"['germany', 'eu', 'japan']",0.9269999999999999,thailand,0.8
+786,2022-10-12,"['eu', 'argentina', 'korea', 'canada', 'france']",0.9039999999999999,honduras,0.621
+784,2022-10-02,"['usa', 'eu', 'korea', 'russia', 'france', 'finland', 'canada']",0.9224285714285713,thailand,0.8
+782,2022-09-25,"['eu', 'canada']",0.925,philippines,0.699
+781,2022-09-23,['france'],0.903,canada,0.936
+780,2022-09-20,['eu'],0.914,dominican republic,0.767
+778,2022-09-19,"['eu', 'france', 'korea']",0.914,honduras,0.621
+777,2022-09-15,"['canada', 'eu', 'korea', 'usa', 'france']",0.9206,nigeria,0.535
+776,2022-09-12,"['eu', 'france']",0.9085000000000001,south africa,0.713
+772,2022-08-30,"['usa', 'eu', 'china']",0.8726666666666668,pakistan,0.544
+771,2022-08-23,['germany'],0.942,philippines,0.699
+769,2022-08-21,"['france', 'canada', 'venezuela', 'eu', 'usa', 'germany']",0.8833333333333333,sudan,0.508
+768,2022-08-09,"['eu', 'france', 'russia']",0.9066666666666667,gambia,0.5
+767,2022-08-08,"['france', 'russia']",0.903,russian federation,0.822
+766,2022-07-27,"['france', 'korea', 'eu']",0.914,tunisia,0.731
+765,2022-07-27,"['eu', 'france']",0.9085000000000001,philippines,0.699
+764,2022-07-14,"['france', 'eu', 'korea', 'usa', 'canada']",0.9206,india,0.633
+763,2022-06-22,['china'],0.768,afghanistan,0.478
+762,2022-06-17,"['eu', 'france', 'canada']",0.9176666666666667,bangladesh,0.661
+761,2022-06-13,"['eu', 'usa', 'korea']",0.9176666666666667,philippines,0.699
+760,2022-06-06,['eu'],0.914,afghanistan,0.478
+759,2022-06-04,"['france', 'eu']",0.9085000000000001,gambia,0.5
+758,2022-05-30,['france'],0.903,brazil,0.754
+757,2022-05-24,"['eu', 'france', 'korea']",0.914,south africa,0.713
+756,2022-04-13,"['france', 'eu', 'canada', 'germany', 'korea']",0.924,philippines,0.699
+755,2022-04-13,"['france', 'korea', 'usa']",0.9176666666666667,south africa,0.713
+754,2022-04-05,"['france', 'usa']",0.903,brazil,0.754
+753,2022-03-13,"['germany', 'eu', 'canada']",0.9306666666666666,mozambique,0.446
+752,2022-02-25,"['india', 'eu', 'france', 'canada', 'germany']",0.8656,madagascar,0.501
+751,2022-02-16,['france'],0.903,brazil,0.754
+750,2022-02-04,"['eu', 'france', 'germany', 'canada']",0.9237500000000001,madagascar,0.501
+749,2022-01-31,"['eu', 'canada']",0.925,ecuador,0.74
+748,2022-01-25,"['eu', 'venezuela', 'usa', 'germany', 'canada']",0.8347999999999999,mozambique,0.446
+747,2022-01-24,"['france', 'eu', 'canada', 'argentina']",0.89875,madagascar,0.501
+745,2022-01-20,"['peru', 'eu', 'canada', 'korea', 'usa']",0.8924,peru,0.762
+746,2022-01-20,"['france', 'eu']",0.9085000000000001,sao tome and principe,0.618
+744,2022-01-15,"['usa', 'eu', 'france', 'korea', 'russia', 'china']",0.8914999999999998,tonga,0.745
+743,2022-01-07,['eu'],0.914,ecuador,0.74
+742,2021-12-30,['france'],0.903,brazil,0.754
+741,2021-12-16,"['france', 'usa', 'eu']",0.9066666666666667,philippines,0.699
+739,2021-12-07,"['france', 'eu']",0.9085000000000001,indonesia,0.705
+738,2021-11-24,"['usa', 'eu', 'france']",0.9103333333333333,philippines,0.699
+737,2021-11-12,"['eu', 'japan', 'germany', 'canada']",0.9292499999999999,sri lanka,0.782
+734,2021-09-28,"['france', 'eu', 'china', 'russia']",0.8382499999999999,thailand,0.8
+733,2021-09-16,['france'],0.903,china,0.768
+732,2021-09-09,"['russia', 'eu', 'france']",0.9066666666666667,sudan,0.508
+731,2021-09-06,"['eu', 'germany', 'canada']",0.9306666666666666,togo,0.539
+730,2021-08-17,"['eu', 'canada', 'france', 'usa']",0.914,haiti,0.535
+729,2021-08-14,"['france', 'russia']",0.903,haiti,0.535
+728,2021-08-14,['eu'],0.914,russian federation,0.822
+727,2021-08-14,"['eu', 'germany']",0.9279999999999999,japan,0.925
+725,2021-08-04,"['russia', 'eu', 'germany']",0.9326666666666666,russian federation,0.822
+724,2021-07-28,"['usa', 'france']",0.9225,tunisia,0.731
+723,2021-07-26,"['france', 'korea', 'eu', 'argentina', 'germany', 'india', 'canada']",0.8707142857142857,india,0.633
+722,2021-07-20,['russia'],0.936,russian federation,0.822
+720,2021-07-15,['canada'],0.936,switzerland,0.962
+721,2021-07-15,"['france', 'germany', 'eu']",0.9196666666666666,luxembourg,0.93
+719,2021-07-06,['france'],0.903,thailand,0.8
+718,2021-06-21,['russia'],0.903,russian federation,0.822
+717,2021-06-07,"['usa', 'eu', 'canada', 'germany']",0.9237500000000001,guyana,0.714
+716,2021-06-05,"['japan', 'germany']",0.9335,sri lanka,0.782
+715,2021-06-04,"['canada', 'france', 'eu', 'argentina', 'finland']",0.907,sri lanka,0.782
+714,2021-05-25,"['eu', 'france', 'argentina', 'canada', 'russia', 'germany']",0.9121666666666668,india,0.633
+712,2021-05-22,"['eu', 'germany']",0.9279999999999999,china,0.768
+711,2021-05-22,['finland'],0.94,china,0.768
+710,2021-05-21,['russia'],0.94,russian federation,0.822
+709,2021-05-16,"['france', 'canada']",0.9195,india,0.633
+708,2021-05-12,['russia'],0.936,russian federation,0.822
+707,2021-05-07,['russia'],0.936,russian federation,0.822
+705,2021-04-14,['russia'],0.936,russian federation,0.822
+704,2021-04-12,['russia'],0.936,russian federation,0.822
+703,2021-04-09,"['canada', 'eu', 'argentina', 'france', 'germany']",0.9074,saint vincent and the grenadines,0.751
+701,2021-04-07,"['france', 'usa', 'eu']",0.9066666666666667,timor-leste,0.607
+702,2021-04-06,['france'],0.903,indonesia,0.705
+700,2021-02-22,"['eu', 'india', 'japan']",0.8240000000000002,philippines,0.699
+698,2021-02-07,"['india', 'france', 'korea', 'usa', 'eu', 'russia']",0.8689999999999999,india,0.633
+697,2021-01-27,"['france', 'eu']",0.9085000000000001,eswatini,0.597
+696,2021-01-22,"['eu', 'france', 'germany', 'usa']",0.9252500000000001,mozambique,0.446
+695,2021-01-15,"['korea', 'france', 'japan', 'eu']",0.9167500000000001,indonesia,0.705
+694,2021-01-12,['france'],0.903,morocco,0.683
+691,2020-12-15,"['france', 'canada', 'eu']",0.9176666666666667,fiji,0.73
+690,2020-12-02,"['germany', 'canada', 'eu']",0.9306666666666668,sri lanka,0.782
+689,2020-12-01,"['germany', 'france']",0.9225,mexico,0.758
+688,2020-11-24,"['eu', 'canada', 'argentina', 'korea', 'germany', 'india', 'japan', 'france', 'russia']",0.8803333333333333,india,0.633
+687,2020-11-17,['france'],0.903,colombia,0.752
+686,2020-11-15,"['eu', 'canada']",0.925,philippines,0.699
+685,2020-11-10,"['germany', 'canada', 'italy', 'eu', 'venezuela', 'korea', 'finland']",0.8918571428571429,indonesia,0.705
+684,2020-11-09,"['eu', 'korea', 'germany']",0.9269999999999999,panama,0.805
+683,2020-11-06,"['eu', 'finland', 'france', 'germany']",0.92475,mexico,0.758
+682,2020-11-02,"['france', 'eu']",0.9085000000000001,philippines,0.699
+681,2020-10-28,"['eu', 'argentina', 'france']",0.8863333333333333,vietnam,0.703
+680,2020-10-15,"['eu', 'france', 'korea', 'germany', 'canada']",0.924,vietnam,0.703
+679,2020-10-12,"['france', 'eu']",0.9085000000000001,togo,0.539
+678,2020-09-28,"['korea', 'eu', 'india', 'russia']",0.77625,argentina,0.842
+677,2020-09-21,"['korea', 'eu', 'france']",0.914,niger,0.4
+675,2020-09-07,"['usa', 'germany', 'eu', 'france']",0.91825,sudan,0.508
+674,2020-09-04,"['russia', 'eu', 'germany', 'canada', 'france']",0.9196000000000002,japan,0.925
+672,2020-08-24,"['france', 'usa']",0.903,cameroon,0.576
+670,2020-08-19,"['canada', 'eu', 'russia']",0.9213333333333334,russian federation,0.822
+669,2020-08-19,['eu'],0.914,philippines,0.699
+667,2020-08-13,"['usa', 'eu', 'france', 'russia']",0.90575,sudan,0.508
+666,2020-08-08,"['france', 'eu', 'japan', 'usa', 'germany']",0.9218,mauritius,0.802
+665,2020-08-08,"['india', 'france', 'germany', 'canada']",0.8534999999999999,india,0.633
+664,2020-08-05,['france'],0.903,lebanon,0.706
+663,2020-07-22,"['india', 'eu', 'france', 'korea', 'russia', 'germany', 'canada', 'argentina', 'japan']",0.8827777777777777,india,0.633
+662,2020-07-16,"['france', 'usa', 'canada', 'germany', 'eu']",0.9196,indonesia,0.705
+661,2020-07-15,"['eu', 'korea', 'argentina', 'germany', 'india', 'japan', 'canada']",0.8738571428571429,india,0.633
+660,2020-07-13,"['eu', 'germany', 'france']",0.9196666666666666,bangladesh,0.661
+659,2020-07-13,"['usa', 'canada', 'eu', 'germany']",0.9237500000000001,colombia,0.752
+658,2020-07-08,"['eu', 'germany', 'canada']",0.9306666666666666,nepal,0.602
+657,2020-07-06,"['argentina', 'japan', 'eu']",0.8936666666666667,japan,0.925
+656,2020-07-03,['germany'],0.942,myanmar,0.585
+655,2020-06-04,"['france', 'russia']",0.903,russian federation,0.822
+654,2020-06-02,"['eu', 'china', 'germany']",0.8746666666666666,el salvador,0.675
+653,2020-05-19,"['usa', 'eu', 'korea', 'france', 'india', 'russia', 'canada', 'germany']",0.8535,india,0.633
+652,2020-05-18,"['eu', 'france', 'canada', 'germany', 'japan', 'usa']",0.9241666666666667,bangladesh,0.661
+651,2020-04-30,['eu'],0.914,guatemala,0.627
+648,2020-04-08,['france'],0.903,fiji,0.73
+647,2020-04-03,"['france', 'russia']",0.903,vanuatu,0.607
+646,2020-03-06,"['usa', 'france', 'eu']",0.9066666666666667,zambia,0.565
+645,2020-03-02,['eu'],0.914,united arab emirates,0.911
+643,2020-01-27,"['eu', 'russia', 'usa', 'germany', 'japan']",0.9218,madagascar,0.501
+642,2020-01-23,"['france', 'canada', 'germany', 'eu']",0.92375,brazil,0.754
+640,2020-01-22,['france'],0.903,zambia,0.565
+641,2020-01-22,['eu'],0.914,pakistan,0.544
+639,2020-01-13,"['eu', 'usa', 'korea', 'france']",0.914,philippines,0.699
+638,2020-01-07,"['france', 'canada']",0.9195,indonesia,0.705
+636,2019-12-10,"['eu', 'japan', 'germany', 'canada']",0.9292499999999999,chile,0.855
+634,2019-12-02,['france'],0.903,philippines,0.699
+633,2019-11-25,['france'],0.903,kenya,0.575
+632,2019-11-16,"['germany', 'eu']",0.9279999999999999,central african republic,0.404
+631,2019-11-13,['eu'],0.914,australia,0.951
+629,2019-11-01,"['france', 'eu']",0.9085000000000001,philippines,0.699
+628,2019-10-31,['eu'],0.914,kenya,0.575
+627,2019-10-17,"['france', 'eu']",0.9085000000000001,cameroon,0.576
+625,2019-10-11,"['eu', 'russia', 'germany', 'japan']",0.9237500000000001,japan,0.925
+624,2019-09-30,['france'],0.903,indonesia,0.705
+623,2019-09-30,"['france', 'india', 'russia', 'germany', 'canada', 'eu']",0.8268333333333332,india,0.633
+622,2019-09-26,"['france', 'eu']",0.9085000000000001,pakistan,0.544
+621,2019-09-20,"['russia', 'china', 'eu']",0.8653333333333334,paraguay,0.717
+620,2019-09-04,"['usa', 'russia', 'eu', 'korea', 'france']",0.914,bahamas,0.812
+619,2019-09-02,"['eu', 'france']",0.9085000000000001,bolivia,0.692
+618,2019-08-29,"['korea', 'japan']",0.925,japan,0.925
+617,2019-08-26,"['france', 'eu', 'canada', 'usa']",0.92225,sudan,0.508
+615,2019-08-15,"['canada', 'russia']",0.936,russian federation,0.822
+614,2019-07-24,['eu'],0.914,russian federation,0.822
+613,2019-07-20,"['germany', 'peru']",0.852,peru,0.762
+612,2019-07-17,"['india', 'eu', 'canada', 'japan', 'germany', 'russia', 'france', 'china', 'korea']",0.8764444444444445,india,0.633
+609,2019-05-17,"['italy', 'korea', 'eu', 'china', 'russia', 'france', 'germany', 'canada']",0.881375,paraguay,0.717
+608,2019-05-03,"['india', 'france', 'russia', 'germany', 'canada', 'japan', 'eu']",0.8794285714285713,india,0.633
+606,2019-04-25,"['eu', 'germany']",0.9279999999999999,mozambique,0.446
+605,2019-04-25,['france'],0.903,south africa,0.713
+604,2019-04-19,"['germany', 'usa', 'france', 'korea', 'japan', 'canada']",0.9288333333333333,canada,0.936
+603,2019-04-15,"['eu', 'korea', 'russia', 'canada', 'germany']",0.9284000000000001,iraq,0.686
+600,2019-03-19,"['france', 'japan', 'canada']",0.9213333333333334,indonesia,0.705
+599,2019-03-16,"['france', 'eu']",0.9085000000000001,zimbabwe,0.593
+598,2019-03-14,"['eu', 'japan', 'france', 'germany', 'canada']",0.924,mozambique,0.446
+596,2019-01-25,"['eu', 'usa', 'canada']",0.9213333333333334,brazil,0.754
+595,2019-01-13,"['eu', 'canada', 'france']",0.9176666666666667,brazil,0.754
+594,2018-12-23,"['germany', 'eu', 'usa', 'france']",0.91825,indonesia,0.705
+593,2018-12-17,"['india', 'uk']",0.633,india,0.633
+592,2018-11-25,['eu'],0.914,iraq,0.686
+591,2018-11-14,"['france', 'eu', 'usa']",0.9103333333333334,united states,0.921
+590,2018-10-25,"['france', 'russia', 'korea']",0.9103333333333333,russian federation,0.822
+589,2018-10-12,['france'],0.903,uganda,0.525
+588,2018-10-10,['russia'],0.903,united states,0.921
+587,2018-09-29,"['russia', 'france', 'usa', 'eu']",0.90575,indonesia,0.705
+586,2018-09-18,"['japan', 'france']",0.914,philippines,0.699
+585,2018-09-11,"['eu', 'germany']",0.9279999999999999,united states,0.921
+584,2018-08-21,"['france', 'korea', 'eu', 'china', 'india']",0.8286,india,0.633
+583,2018-08-16,"['germany', 'eu']",0.9279999999999999,vietnam,0.703
+582,2018-08-16,"['india', 'eu', 'france', 'russia', 'germany', 'canada', 'japan']",0.8794285714285713,india,0.633
+581,2018-08-15,"['usa', 'venezuela', 'france', 'korea', 'japan', 'eu', 'germany']",0.8892857142857142,venezuela,0.691
+580,2018-08-06,"['france', 'japan', 'eu']",0.914,indonesia,0.705
+579,2018-07-24,"['eu', 'france', 'uk']",0.9066666666666667,greece,0.887
+577,2018-07-07,"['france', 'germany', 'japan']",0.9233333333333333,japan,0.925
+576,2018-06-05,"['eu', 'france', 'japan', 'germany']",0.921,guatemala,0.627
+575,2018-06-04,"['russia', 'usa', 'eu', 'korea']",0.93075,china,0.768
+573,2018-05-21,"['japan', 'eu', 'canada', 'germany']",0.9292499999999999,sri lanka,0.782
+572,2018-05-20,['france'],0.903,djibouti,0.509
+569,2018-04-04,"['france', 'germany']",0.9225,russian federation,0.822
+567,2018-02-18,['korea'],0.925,iran,0.774
+566,2018-02-12,"['france', 'usa']",0.903,tonga,0.745
+565,2018-02-08,"['france', 'germany', 'canada', 'eu']",0.9237500000000001,bolivia,0.692
+564,2018-02-03,"['eu', 'russia', 'canada', 'germany']",0.9265000000000001,argentina,0.842
+563,2018-01-22,['japan'],0.925,papua new guinea,0.558
+562,2018-01-16,"['uk', 'usa']",0.925,philippines,0.699
+561,2017-11-17,"['canada', 'germany']",0.9390000000000001,argentina,0.842
+559,2017-11-13,"['france', 'eu', 'russia']",0.9103333333333334,iran,0.774
+558,2017-11-12,['france'],0.903,iraq,0.686
+557,2017-11-06,"['eu', 'canada']",0.925,vietnam,0.703
+555,2017-09-20,['france'],0.903,mexico,0.758
+556,2017-09-19,"['canada', 'eu']",0.925,dominican republic,0.767
+549,5 September 2017,"['usa', 'eu']",0.9085000000000001,dominican republic,0.767
+547,24 August 2017,['germany'],0.942,united states,0.921
+545,15 August 2017,"['eu', 'germany', 'usa']",0.9326666666666666,bangladesh,0.661
+546,15 August 2017,['usa'],0.942,sierra leone,0.477
+544,15 August 2017,"['eu', 'canada', 'germany', 'france', 'japan']",0.924,nepal,0.602
+540,7 August 2017,['france'],0.903,vietnam,0.703
+541,6 August 2017,"['eu', 'canada', 'venezuela', 'france', 'germany', 'usa']",0.888,venezuela,0.691
+538,24 June 2017,"['germany', 'france', 'usa', 'japan', 'korea', 'eu']",0.9186666666666666,china,0.768
+536,12 June 2017,['eu'],0.914,south africa,0.713
+535,6 June 2017,"['india', 'canada', 'eu', 'japan', 'germany']",0.8700000000000001,uruguay,0.809
+534,30 May 2017,"['canada', 'france', 'germany', 'eu']",0.92375,bangladesh,0.661
+533,26 May 2017,"['germany', 'india', 'canada', 'eu', 'japan', 'korea']",0.8791666666666668,sri lanka,0.782
+532,26 May 2017,['france'],0.903,russian federation,0.822
+531,25 May 2017,"['usa', 'eu', 'russia']",0.9103333333333334,russian federation,0.822
+530,13 May 2017,"['france', 'korea']",0.914,chile,0.855
+529,6 May 2017,"['canada', 'eu', 'france', 'germany']",0.9237500000000001,canada,0.936
+527,25 April 2017,"['canada', 'eu']",0.925,haiti,0.535
+526,24 April 2017,['eu'],0.914,dominican republic,0.767
+525,12 April 2017,"['germany', 'india', 'usa', 'canada', 'japan', 'france']",0.8286666666666666,argentina,0.842
+524,01 April 2017,"['usa', 'france', 'india']",0.8130000000000001,colombia,0.752
+523,31 March 2017,"['eu', 'canada', 'korea', 'russia', 'peru', 'germany']",0.9006666666666666,peru,0.762
+522,29 March 2017,"['germany', 'canada', 'italy', 'russia', 'eu', 'india']",0.8691666666666666,australia,0.951
+521,6 March 2017,"['germany', 'canada']",0.9390000000000001,madagascar,0.501
+518,5 January 2017,"['china', 'russia']",0.768,argentina,0.842
+517,12 December 2016,['france'],0.903,india,0.633
+515,28 November 2016,"['canada', 'eu']",0.925,costa rica,0.809
+514,24 November 2016,"['usa', 'eu']",0.914,israel,0.919

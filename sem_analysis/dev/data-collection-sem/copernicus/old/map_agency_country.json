@@ -1,0 +1,50 @@
+{
+  "airbus": {
+    "real": 1,
+    "country": "france"
+  },
+  "planet": {
+    "real": 1,
+    "country": "us"
+  },
+  "esa": {
+    "real": 1,
+    "country": "eu"
+  },
+  "digitalglobe": {
+    "real": 1,
+    "country": "us"
+  },
+  "cnes": {
+    "real": 1,
+    "country": "france"
+  },
+  "maxar": {
+    "real": 1,
+    "country": "us"
+  },
+  "asi": {
+    "real": 1,
+    "country": "italy"
+  },
+  "dlr": {
+    "real": 1,
+    "country": "germany"
+  },
+  "geosat": {
+    "real": 1,
+    "country": "portugal"
+  },
+  "conae": {
+    "real": 1,
+    "country": "argentina"
+  },
+  "nasa": {
+    "real": 1,
+    "country": "us"
+  },
+  "eu": {
+    "real": 1,
+    "country": "eu"
+  }
+}

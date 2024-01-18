@@ -1,0 +1,9690 @@
+{
+  "all_activations": [
+    "681-flood-large-in-viet-nam-activation",
+    "685-volcano-in-indonesia-activation",
+    "574-cyclone-in-yemen-activation",
+    "665-flood-flash-in-india-activation",
+    "770-fire-in-russian-federation-activation",
+    "608-cyclone-in-india-activation",
+    "645-oil-spill-in-united-arab-emirates-activation",
+    "783-storm-hurricane-urban-in-lao-people-s-democratic-republic-activation",
+    "602-fire-in-korea-republic-of-activation",
+    "671-storm-hurricane-urban-in-korea-republic-of-activation",
+    "799-fire-in-chile-activation",
+    "689-landslide-in-mexico-activation",
+    "569-flood-in-russian-federation-activation",
+    "726-flood-large-in-russian-federation-activation",
+    "713-volcano-in-congo-the-democratic-republic-of-the-activation",
+    "757-flood-large-in-south-africa-activation",
+    "782-storm-hurricane-urban-in-philippines-activation",
+    "624-earthquake-in-indonesia-activation",
+    "600-flood-in-indonesia-activation",
+    "731-flood-large-in-togo-activation",
+    "661-flood-large-in-india-activation",
+    "691-storm-hurricane-urban-in-fiji-activation",
+    "625-storm-hurricane-urban-in-japan-activation",
+    "673-storm-hurricane-urban-in-korea-republic-of-activation",
+    "612-flood-large-in-india-activation",
+    "596-dam-collapse-in-brazil-activation",
+    "642-flood-flash-in-brazil-activation",
+    "733-earthquake-in-china-activation",
+    "792-volcano-in-indonesia-activation",
+    "678-fire-in-argentina-activation",
+    "666-oil-spill-in-mauritius-activation",
+    "605-flood-in-south-africa-activation",
+    "648-storm-hurricane-urban-in-fiji-activation",
+    "638-flood-flash-in-indonesia-activation",
+    "686-flood-large-in-philippines-activation",
+    "632-flood-large-in-central-african-republic-activation",
+    "611-flood-large-in-russian-federation-activation",
+    "725-flood-large-in-russian-federation-activation",
+    "570-flood-in-somalia-activation",
+    "781-storm-hurricane-urban-in-canada-activation",
+    "599-cyclone-in-zimbabwe-activation",
+    "773-flood-large-in-korea-republic-of-activation",
+    "708-flood-large-in-russian-federation-activation",
+    "597-landslide-in-bolivia-plurinational-state-of-activation",
+    "575-fire-in-china-activation",
+    "802-earthquake-in-philippines-activation",
+    "615-flood-flash-in-russian-federation-activation",
+    "554-cyclone-in-puerto-rico-activation",
+    "756-flood-flash-in-philippines-activation",
+    "586-cyclone-in-philippines-activation",
+    "721-flood-large-in-luxembourg-activation",
+    "553-flood-in-martinique-activation",
+    "785-flood-large-in-venezuela-bolivarian-republic-of-activation",
+    "788-flood-large-in-chad-activation",
+    "587-earthquake-in-indonesia-activation",
+    "582-flood-in-india-activation",
+    "621-fire-in-paraguay-activation",
+    "764-flood-large-in-india-activation",
+    "787-flood-large-in-thailand-activation",
+    "676-fire-in-bolivia-plurinational-state-of-activation",
+    "679-flood-large-in-togo-activation",
+    "727-flood-flash-in-japan-activation",
+    "598-cyclone-in-mozambique-activation",
+    "695-earthquake-in-indonesia-activation",
+    "736-storm-hurricane-urban-in-oman-activation",
+    "748-flood-large-in-mozambique-activation",
+    "590-flood-in-russian-federation-activation",
+    "683-flood-large-in-mexico-activation",
+    "688-storm-hurricane-urban-in-india-activation",
+    "704-flood-flash-in-russian-federation-activation",
+    "697-landslide-in-eswatini-activation",
+    "701-flood-large-in-timor-leste-activation",
+    "805-flood-large-in-mozambique-activation",
+    "734-flood-large-in-thailand-activation",
+    "766-fire-in-tunisia-activation",
+    "696-flood-large-in-mozambique-activation",
+    "588-cyclone-in-united-states-activation",
+    "579-fire-in-greece-activation",
+    "765-earthquake-in-philippines-activation",
+    "741-storm-hurricane-rural-in-philippines-activation",
+    "576-volcano-in-guatemala-activation",
+    "755-landslide-in-south-africa-activation",
+    "560-earthquake-in-korea-republic-of-activation",
+    "772-flood-large-in-pakistan-activation",
+    "647-storm-hurricane-urban-in-vanuatu-activation",
+    "742-flood-large-in-brazil-activation",
+    "636-lost-aircraft-in-chile-activation",
+    "761-volcano-in-philippines-activation",
+    "593-cyclone-in-india-activation",
+    "693-flood-flash-in-bolivia-plurinational-state-of-activation",
+    "712-earthquake-in-china-activation",
+    "670-flood-large-in-russian-federation-activation",
+    "623-flood-large-in-india-activation",
+    "716-flood-large-in-sri-lanka-activation",
+    "656-landslide-in-myanmar-activation",
+    "737-flood-large-in-sri-lanka-activation",
+    "680-flood-large-in-viet-nam-activation",
+    "654-flood-large-in-el-salvador-activation",
+    "677-flood-large-in-niger-activation",
+    "750-flood-large-in-madagascar-activation",
+    "675-flood-large-in-sudan-activation",
+    "711-earthquake-in-china-activation",
+    "617-flood-large-in-sudan-activation",
+    "568-cyclone-in-new-caledonia-activation",
+    "793-oil-spill-in-mauritius-activation",
+    "798-earthquake-in-syrian-arab-republic-activation",
+    "634-storm-hurricane-urban-in-philippines-activation",
+    "643-flood-large-in-madagascar-activation",
+    "565-flood-in-bolivia-plurinational-state-of-activation",
+    "562-volcano-in-philippines-activation",
+    "674-storm-hurricane-rural-in-japan-activation",
+    "561-find-and-rescue-of-submarine-at-sea-in-argentina-activation",
+    "601-flood-in-iran-islamic-republic-of-activation",
+    "774-flood-large-in-russian-federation-activation",
+    "650-flood-large-in-somalia-activation",
+    "672-flood-flash-in-cameroon-activation",
+    "631-fire-in-australia-activation",
+    "667-flood-large-in-sudan-activation",
+    "633-landslide-in-kenya-activation",
+    "578-flood-in-lao-people-s-democratic-republic-activation",
+    "705-flood-large-in-russian-federation-activation",
+    "641-snow-hazard-in-pakistan-activation",
+    "759-oil-spill-in-gambia-activation",
+    "585-cyclone-in-united-states-activation",
+    "644-flood-large-in-bolivia-plurinational-state-of-activation",
+    "800-flood-flash-in-eswatini-activation",
+    "780-storm-hurricane-rural-in-dominican-republic-activation",
+    "614-flood-large-in-russian-federation-activation",
+    "662-flood-flash-in-indonesia-activation",
+    "620-storm-hurricane-urban-in-bahamas-activation",
+    "707-flood-large-in-russian-federation-activation",
+    "703-volcano-in-saint-vincent-and-the-grenadines-activation",
+    "738-oil-spill-in-philippines-activation",
+    "801-flood-large-in-mozambique-activation",
+    "804-landslide-in-madagascar-activation",
+    "690-storm-hurricane-rural-in-sri-lanka-activation",
+    "751-flood-flash-in-brazil-activation",
+    "729-earthquake-in-haiti-activation",
+    "808-storm-hurricane-urban-in-vanuatu-activation",
+    "595-flood-in-brazil-activation",
+    "778-flood-large-in-honduras-activation",
+    "796-flood-large-in-zambia-activation",
+    "694-flood-flash-in-morocco-activation",
+    "594-ocean-wave-in-indonesia-activation",
+    "664-industrial-accident-in-lebanon-activation",
+    "655-oil-spill-in-russian-federation-activation",
+    "592-flood-in-iraq-activation",
+    "754-flood-large-in-brazil-activation",
+    "795-storm-hurricane-urban-in-madagascar-activation",
+    "563-volcano-in-papua-new-guinea-activation",
+    "658-flood-large-in-nepal-activation",
+    "603-flood-in-iraq-activation",
+    "659-flood-large-in-colombia-activation",
+    "552-cyclone-in-dominica-activation",
+    "791-earthquake-in-indonesia-activation",
+    "660-flood-large-in-bangladesh-activation",
+    "775-earthquake-in-china-activation",
+    "652-flood-large-in-bangladesh-activation",
+    "767-flood-flash-in-russian-federation-activation",
+    "753-flood-large-in-mozambique-activation",
+    "622-earthquake-in-pakistan-activation",
+    "728-fire-in-russian-federation-activation",
+    "806-storm-hurricane-rural-in-solomon-islands-activation",
+    "610-earthquake-in-peru-activation",
+    "698-flood-flash-in-india-activation",
+    "628-flood-large-in-kenya-activation",
+    "564-flood-in-argentina-activation",
+    "589-landslide-in-uganda-activation",
+    "651-fire-in-guatemala-activation",
+    "807-oil-spill-in-philippines-activation",
+    "723-flood-large-in-india-activation",
+    "577-flood-in-japan-activation",
+    "776-flood-large-in-south-africa-activation",
+    "745-oil-spill-in-peru-activation",
+    "700-flood-large-in-philippines-activation",
+    "790-flood-large-in-united-kingdom-activation",
+    "580-earthquake-in-indonesia-activation",
+    "746-flood-large-in-sao-tome-and-principe-activation",
+    "789-storm-hurricane-rural-in-philippines-activation",
+    "777-flood-large-in-nigeria-activation",
+    "583-flood-in-viet-nam-activation",
+    "779-storm-hurricane-urban-in-turks-and-caicos-islands-activation",
+    "730-flood-large-in-haiti-activation",
+    "758-landslide-in-brazil-activation",
+    "769-flood-large-in-sudan-activation",
+    "609-flood-in-paraguay-activation",
+    "572-flood-in-djibouti-activation",
+    "571-volcano-in-united-states-activation",
+    "573-flood-in-sri-lanka-activation",
+    "715-oil-spill-in-sri-lanka-activation",
+    "724-fire-in-tunisia-activation",
+    "717-flood-large-in-guyana-activation",
+    "803-landslide-in-brazil-activation",
+    "747-flood-large-in-madagascar-activation",
+    "702-flood-flash-in-indonesia-activation",
+    "709-storm-hurricane-urban-in-india-activation",
+    "718-flood-flash-in-russian-federation-activation",
+    "559-earthquake-in-iran-islamic-republic-of-activation",
+    "558-earthquake-in-iraq-activation",
+    "768-flood-flash-in-gambia-activation",
+    "567-passenger-airplane-in-iran-in-iran-islamic-republic-of-activation",
+    "646-flood-large-in-zambia-activation",
+    "635-landslide-in-uganda-activation",
+    "749-flood-flash-in-ecuador-activation",
+    "657-flood-large-in-japan-activation",
+    "810-flood-large-in-ecuador-activation",
+    "687-storm-hurricane-urban-in-colombia-activation",
+    "706-flood-large-in-somalia-activation",
+    "699-flood-flash-in-chile-activation",
+    "616-fire-in-bolivia-plurinational-state-of-activation",
+    "722-fire-in-russian-federation-activation",
+    "739-volcano-in-indonesia-activation",
+    "740-flood-large-in-micronesia-federated-states-of-activation",
+    "763-earthquake-in-afghanistan-activation",
+    "606-cyclone-in-mozambique-activation",
+    "744-ocean-wave-in-tonga-activation",
+    "613-volcano-in-peru-activation",
+    "682-flood-large-in-philippines-activation",
+    "566-cyclone-in-tonga-activation",
+    "786-flood-large-in-honduras-activation",
+    "719-fire-in-thailand-activation",
+    "720-flood-large-in-switzerland-activation",
+    "630-storm-hurricane-urban-in-bangladesh-activation",
+    "669-earthquake-in-philippines-activation",
+    "607-landslide-in-bolivia-plurinational-state-of-activation",
+    "794-landslide-in-colombia-activation",
+    "650-storm-hurricane-urban-in-tonga-activation",
+    "812-flood-large-in-madagascar-activation",
+    "811-flood-large-in-peru-activation",
+    "809-landslide-in-indonesia-activation",
+    "663-flood-large-in-india-activation",
+    "668-landslide-in-korea-republic-of-activation",
+    "732-flood-large-in-sudan-activation",
+    "629-earthquake-in-philippines-activation",
+    "653-storm-hurricane-urban-in-india-activation",
+    "556-flood-in-dominican-republic-activation",
+    "627-flood-flash-in-cameroon-activation",
+    "591-fire-in-united-states-activation",
+    "714-storm-hurricane-rural-in-india-activation",
+    "784-flood-large-in-thailand-activation",
+    "743-volcano-in-ecuador-activation",
+    "684-flood-large-in-panama-activation",
+    "752-landslide-in-madagascar-activation",
+    "639-volcano-in-philippines-activation",
+    "618-flood-large-in-japan-activation",
+    "584-landslide-in-india-activation",
+    "619-fire-in-bolivia-plurinational-state-of-activation",
+    "762-flood-large-in-bangladesh-activation",
+    "626-fire-in-lebanon-syrian-arab-republic-activation",
+    "557-cyclone-in-viet-nam-activation",
+    "637-flood-large-in-fiji-activation",
+    "581-flood-in-venezuela-bolivarian-republic-of-activation",
+    "771-flood-large-in-philippines-activation",
+    "604-flood-in-canada-activation",
+    "640-flood-large-in-zambia-activation",
+    "760-fire-in-afghanistan-activation",
+    "710-flood-flash-in-russian-federation-activation",
+    "692-ship-wreck-in-russian-federation-activation",
+    "797-earthquake-in-turkey-activation",
+    "553-earthquake-in-mexico-activation"
+  ],
+  "681-flood-large-in-viet-nam-activation": {
+    "TypeofEvent:": [
+      "cyclone"
+    ],
+    "LocationofEvent:": [
+      "vietnam"
+    ],
+    "DateofCharterActivation:": [
+      1603843200
+    ],
+    "TimeofCharterActivation:": [
+      "20:17"
+    ],
+    "CharterRequestor:": [
+      "unitaronbehalfofunitednationsofficeforthecoordinationofhumanitarianaffairs(ocha)"
+    ],
+    "ActivationID:": [
+      "681"
+    ],
+    "ProjectManagement:": [
+      "unitar",
+      "unosat"
+    ],
+    "Source:": [
+      "sentinel1",
+      "saocom1a",
+      "pleiades"
+    ],
+    "Acquired:": [
+      1604880000,
+      1604793600,
+      1604361600,
+      1604016000,
+      1603929600,
+      1603843200
+    ]
+  },
+  "685-volcano-in-indonesia-activation": {
+    "TypeofEvent:": [],
+    "LocationofEvent:": [
+      "indonesia"
+    ],
+    "DateofCharterActivation:": [
+      1604966400
+    ],
+    "TimeofCharterActivation:": [
+      "12:26"
+    ],
+    "CharterRequestor:": [
+      "usgsonbehalfofmerapivolcanoobservatory"
+    ],
+    "ActivationID:": [
+      "685"
+    ],
+    "ProjectManagement:": [],
+    "Source:": [
+      "terrasarx",
+      "paz",
+      "rcm",
+      "rcm2",
+      "rcm3",
+      "rcm1",
+      "terrasar_x",
+      "tandemx",
+      "cosmoskymed",
+      "alsat1b",
+      "spot6",
+      "vrss2",
+      "kompsat5",
+      "iceyex2"
+    ],
+    "Acquired:": [
+      1605052800,
+      1606953600,
+      1605484800,
+      1606435200,
+      1607299200,
+      1605398400,
+      1606780800,
+      1607558400,
+      1607904000,
+      1607212800,
+      1606867200,
+      1606003200,
+      1608076800,
+      1605830400,
+      1605657600,
+      1605571200,
+      1605139200,
+      1597446000,
+      1592953200,
+      1605312000
+    ]
+  },
+  "574-cyclone-in-yemen-activation": {
+    "TypeofEvent:": [
+      "cyclone"
+    ],
+    "LocationofEvent:": [
+      "yemen"
+    ],
+    "DateofCharterActivation:": [
+      1527894000
+    ],
+    "TimeofCharterActivation:": [
+      "07:56"
+    ],
+    "CharterRequestor:": [
+      "departmentforinternationaldevelopmentuk"
+    ],
+    "ActivationID:": [
+      "574"
+    ],
+    "ProjectManagement:": [
+      "unitar",
+      "unosat"
+    ],
+    "Source:": [
+      "pleiades",
+      "meteosat8"
+    ],
+    "Acquired:": [
+      1528066800
+    ]
+  },
+  "665-flood-flash-in-india-activation": {
+    "TypeofEvent:": [
+      "floods"
+    ],
+    "LocationofEvent:": [
+      "india"
+    ],
+    "DateofCharterActivation:": [
+      1596841200
+    ],
+    "TimeofCharterActivation:": [
+      "13:28"
+    ],
+    "CharterRequestor:": [
+      "isro"
+    ],
+    "ActivationID:": [
+      "665"
+    ],
+    "ProjectManagement:": [
+      "nrsc",
+      "isro"
+    ],
+    "Source:": [
+      "cartosat2",
+      "pleaides",
+      "terrasarx",
+      "rcm3",
+      "pleiades"
+    ],
+    "Acquired:": [
+      1598396400,
+      1597791600,
+      1583452800,
+      1597100400,
+      1596927600
+    ]
+  },
+  "770-fire-in-russian-federation-activation": {
+    "TypeofEvent:": [
+      "fires"
+    ],
+    "LocationofEvent:": [
+      "russianfederation"
+    ],
+    "DateofCharterActivation:": [
+      1661209200
+    ],
+    "TimeofCharterActivation:": [
+      "12:00"
+    ],
+    "CharterRequestor:": [
+      "ministryoftherussianfederationforcivildefense,emergencies&eliminationofnaturaldisasters(emercom)"
+    ],
+    "ActivationID:": [
+      "770"
+    ],
+    "ProjectManagement:": [
+      "andreykuklin"
+    ],
+    "Source:": [
+      "worldview2"
+    ],
+    "Acquired:": [
+      1661814000
+    ]
+  },
+  "608-cyclone-in-india-activation": {
+    "TypeofEvent:": [],
+    "LocationofEvent:": [
+      "india"
+    ],
+    "DateofCharterActivation:": [
+      1556838000
+    ],
+    "TimeofCharterActivation:": [
+      "00:41"
+    ],
+    "CharterRequestor:": [
+      "isro"
+    ],
+    "ActivationID:": [
+      "608"
+    ],
+    "ProjectManagement:": [
+      "nrsc"
+    ],
+    "Source:": [
+      "resourcesat2",
+      "cbers4",
+      "pleiades",
+      "kanopusv",
+      "terrasarx",
+      "radarsat2",
+      "alos2",
+      "alos",
+      "sentinel1"
+    ],
+    "Acquired:": [
+      1550620800,
+      1550448000,
+      1551916800,
+      1557183600,
+      1557097200,
+      1556924400
+    ]
+  },
+  "645-oil-spill-in-united-arab-emirates-activation": {
+    "TypeofEvent:": [
+      "oilspill"
+    ],
+    "LocationofEvent:": [
+      "unitedarabemirates"
+    ],
+    "DateofCharterActivation:": [
+      1583107200
+    ],
+    "TimeofCharterActivation:": [
+      "04:48"
+    ],
+    "CharterRequestor:": [
+      "ncema"
+    ],
+    "ActivationID:": [
+      "645"
+    ],
+    "ProjectManagement:": [
+      "mbrsc"
+    ],
+    "Source:": [
+      "sentinel2"
+    ],
+    "Acquired:": [
+      1583107200
+    ]
+  },
+  "783-storm-hurricane-urban-in-lao-people-s-democratic-republic-activation": {
+    "TypeofEvent:": [
+      "floods"
+    ],
+    "LocationofEvent:": [
+      "laos"
+    ],
+    "DateofCharterActivation:": [
+      1664319600
+    ],
+    "TimeofCharterActivation:": [
+      "16:31"
+    ],
+    "CharterRequestor:": [
+      "unitaronbehalfofunitednationsofficeforthecoordinationofhumanitarianaffairs(ocha)|regionalofficeforasia&thepacific"
+    ],
+    "ActivationID:": [
+      "783"
+    ],
+    "ProjectManagement:": [
+      "suwanansatei",
+      "ee"
+    ],
+    "Source:": [
+      "senintel2",
+      "pleiades",
+      "pleiades1",
+      "sentinel1"
+    ],
+    "Acquired:": [
+      1665097200,
+      1664751600,
+      1664838000,
+      1664492400
+    ]
+  },
+  "602-fire-in-korea-republic-of-activation": {
+    "TypeofEvent:": [
+      "fire"
+    ],
+    "LocationofEvent:": [
+      "southkorea"
+    ],
+    "DateofCharterActivation:": [
+      1554418800
+    ],
+    "TimeofCharterActivation:": [
+      "09:49"
+    ],
+    "CharterRequestor:": [
+      "nationaldisastermanagementinstitute(ndmi)"
+    ],
+    "ActivationID:": [
+      "602"
+    ],
+    "ProjectManagement:": [
+      "koreaaerospaceresearchinstitute(kari)"
+    ],
+    "Source:": [
+      "pleiades"
+    ],
+    "Acquired:": [
+      1554591600
+    ]
+  },
+  "671-storm-hurricane-urban-in-korea-republic-of-activation": {
+    "TypeofEvent:": [
+      "cyclone"
+    ],
+    "LocationofEvent:": [
+      "republicofkorea"
+    ],
+    "DateofCharterActivation:": [
+      1598310000
+    ],
+    "TimeofCharterActivation:": [
+      "16:17"
+    ],
+    "CharterRequestor:": [
+      "nationaldisastermanagementinstitute(ndmi)"
+    ],
+    "ActivationID:": [
+      "671"
+    ],
+    "ProjectManagement:": [
+      "kari"
+    ],
+    "Source:": [
+      "sentinel1"
+    ],
+    "Acquired:": [
+      1598396400
+    ]
+  },
+  "799-fire-in-chile-activation": {
+    "TypeofEvent:": [
+      "fires"
+    ],
+    "LocationofEvent:": [
+      "chile"
+    ],
+    "DateofCharterActivation:": [
+      1675987200
+    ],
+    "TimeofCharterActivation:": [
+      "13:17"
+    ],
+    "CharterRequestor:": [
+      "ministryofinterior&publicsafety(onemi)"
+    ],
+    "ActivationID:": [
+      "799"
+    ],
+    "ProjectManagement:": [
+      "marceloduran"
+    ],
+    "Source:": [
+      "sentinel2"
+    ],
+    "Acquired:": [
+      1675728000,
+      1674432000
+    ]
+  },
+  "689-landslide-in-mexico-activation": {
+    "TypeofEvent:": [
+      "l&slide"
+    ],
+    "LocationofEvent:": [
+      "mexico"
+    ],
+    "DateofCharterActivation:": [
+      1606780800
+    ],
+    "TimeofCharterActivation:": [
+      "10:30"
+    ],
+    "CharterRequestor:": [
+      "unoosa/un-spideronbehalfofnationaldisasterpreventioncentreofmexico(cenapred)"
+    ],
+    "ActivationID:": [
+      "689"
+    ],
+    "ProjectManagement:": [
+      "nationalautonomousuniversityofmexico(unam)"
+    ],
+    "Source:": [
+      "terrasarx",
+      "pleiades",
+      "worldview"
+    ],
+    "Acquired:": [
+      1607644800,
+      1606953600,
+      1606867200,
+      1607126400
+    ]
+  },
+  "569-flood-in-russian-federation-activation": {
+    "TypeofEvent:": [
+      "floods"
+    ],
+    "LocationofEvent:": [
+      "russianfederation"
+    ],
+    "DateofCharterActivation:": [
+      1522796400
+    ],
+    "TimeofCharterActivation:": [
+      "13:23"
+    ],
+    "CharterRequestor:": [
+      "emercomofrussia"
+    ],
+    "ActivationID:": [
+      "569"
+    ],
+    "ProjectManagement:": [
+      "roscosmos"
+    ],
+    "Source:": [
+      "pleiades",
+      "terrasarx"
+    ],
+    "Acquired:": [
+      1522882800
+    ]
+  },
+  "726-flood-large-in-russian-federation-activation": {
+    "TypeofEvent:": [
+      "flood"
+    ],
+    "LocationofEvent:": [
+      "russianfederation"
+    ],
+    "DateofCharterActivation:": [
+      1628809200
+    ],
+    "TimeofCharterActivation:": [
+      "09:15"
+    ],
+    "CharterRequestor:": [
+      "ministryoftherussianfederationforcivildefense,emergencies&eliminationofnaturaldisasters(emercom)"
+    ],
+    "ActivationID:": [
+      "726"
+    ],
+    "ProjectManagement:": [
+      "roscosmos"
+    ],
+    "Source:": [],
+    "Acquired:": []
+  },
+  "713-volcano-in-congo-the-democratic-republic-of-the-activation": {
+    "TypeofEvent:": [
+      "volcano"
+    ],
+    "LocationofEvent:": [
+      "thedemocraticrepublicofthecongo"
+    ],
+    "DateofCharterActivation:": [
+      1621724400
+    ],
+    "TimeofCharterActivation:": [
+      "10:54"
+    ],
+    "CharterRequestor:": [
+      "unitaronbehalfofunitednationsofficeforthecoordinationofhumanitarianaffairs(ocha)"
+    ],
+    "ActivationID:": [
+      "713"
+    ],
+    "ProjectManagement:": [
+      "unitar",
+      "unosat"
+    ],
+    "Source:": [
+      "l",
+      "sat8",
+      "sentinel1",
+      "alos2",
+      "cosmoskymed",
+      "sentinel2",
+      "pleiades",
+      "saocom1a",
+      "worldview2",
+      "terrasarx"
+    ],
+    "Acquired:": [
+      1622502000,
+      1621897200,
+      1622415600,
+      1622070000,
+      1603494000,
+      1615420800,
+      1621810800
+    ]
+  },
+  "757-flood-large-in-south-africa-activation": {
+    "TypeofEvent:": [
+      "floods"
+    ],
+    "LocationofEvent:": [
+      "southafrica"
+    ],
+    "DateofCharterActivation:": [
+      1653346800
+    ],
+    "TimeofCharterActivation:": [
+      "13:43"
+    ],
+    "CharterRequestor:": [
+      "nationaldisastermanagementcentre"
+    ],
+    "ActivationID:": [
+      "757"
+    ],
+    "ProjectManagement:": [
+      "sansa"
+    ],
+    "Source:": [
+      "sentinel1",
+      "worldview2",
+      "pleiades",
+      "kompsat3"
+    ],
+    "Acquired:": [
+      1653260400,
+      1654297200,
+      1653692400,
+      1653865200
+    ]
+  },
+  "782-storm-hurricane-urban-in-philippines-activation": {
+    "TypeofEvent:": [],
+    "LocationofEvent:": [
+      "philippines"
+    ],
+    "DateofCharterActivation:": [
+      1664060400
+    ],
+    "TimeofCharterActivation:": [
+      "17:48"
+    ],
+    "CharterRequestor:": [
+      "unoosa/un-spideronbehalfofphilippinesspaceagencyonbehalfofthenationaldisasterriskreduction&managementcouncil,officeofcivildefense"
+    ],
+    "ActivationID:": [
+      "782"
+    ],
+    "ProjectManagement:": [
+      "girirajamarnath"
+    ],
+    "Source:": [
+      "sentinel1",
+      "rcm3"
+    ],
+    "Acquired:": [
+      1664146800,
+      1664233200
+    ]
+  },
+  "624-earthquake-in-indonesia-activation": {
+    "TypeofEvent:": [
+      "earthquake"
+    ],
+    "LocationofEvent:": [
+      "indonesia"
+    ],
+    "DateofCharterActivation:": [
+      1569798000
+    ],
+    "TimeofCharterActivation:": [
+      "17:55"
+    ],
+    "CharterRequestor:": [
+      "unosatonbehalfofunitednationseconomic&socialcommissionforasia&thepacific(unescap)"
+    ],
+    "ActivationID:": [
+      "624"
+    ],
+    "ProjectManagement:": [
+      "unosat"
+    ],
+    "Source:": [
+      "worldview2",
+      "pleiades"
+    ],
+    "Acquired:": [
+      1554418800,
+      1570143600
+    ]
+  },
+  "600-flood-in-indonesia-activation": {
+    "TypeofEvent:": [
+      "floods"
+    ],
+    "LocationofEvent:": [
+      "indonesia"
+    ],
+    "DateofCharterActivation:": [
+      1552953600
+    ],
+    "TimeofCharterActivation:": [
+      "17:27"
+    ],
+    "CharterRequestor:": [
+      "adrconbehalfoflapan"
+    ],
+    "ActivationID:": [
+      "600"
+    ],
+    "ProjectManagement:": [
+      "ait"
+    ],
+    "Source:": [
+      "pleiades",
+      "alos2",
+      "radarsat2"
+    ],
+    "Acquired:": [
+      1553212800,
+      1553126400,
+      1492815600
+    ]
+  },
+  "731-flood-large-in-togo-activation": {
+    "TypeofEvent:": [
+      "flood"
+    ],
+    "LocationofEvent:": [
+      "togo"
+    ],
+    "DateofCharterActivation:": [
+      1630882800
+    ],
+    "TimeofCharterActivation:": [
+      "10:47"
+    ],
+    "CharterRequestor:": [
+      "nationalagencyforcivilprotection(anpc)"
+    ],
+    "ActivationID:": [
+      "731"
+    ],
+    "ProjectManagement:": [
+      "icube-sertit"
+    ],
+    "Source:": [
+      "sentinel1",
+      "terrasarx",
+      "rcm3",
+      "rcm"
+    ],
+    "Acquired:": [
+      1631660400,
+      1631228400,
+      1631142000,
+      1630882800
+    ]
+  },
+  "661-flood-large-in-india-activation": {
+    "TypeofEvent:": [
+      "floods"
+    ],
+    "LocationofEvent:": [
+      "india"
+    ],
+    "DateofCharterActivation:": [
+      1594767600
+    ],
+    "TimeofCharterActivation:": [
+      "15:52"
+    ],
+    "CharterRequestor:": [
+      "isro"
+    ],
+    "ActivationID:": [
+      "661"
+    ],
+    "ProjectManagement:": [
+      "nrsc"
+    ],
+    "Source:": [
+      "spot6",
+      "sentinel1",
+      "kompsat5",
+      "saocom1a",
+      "terrasarx",
+      "resourcesat2",
+      "alos2",
+      "radarsat2",
+      "terrsarx",
+      "sentinel2",
+      "sentinel1a",
+      "",
+      "sentinel2a",
+      "rcm2"
+    ],
+    "Acquired:": [
+      1596409200,
+      1596063600,
+      1595977200,
+      1595631600,
+      1595372400,
+      1593903600,
+      1594335600,
+      1594940400,
+      1595458800,
+      1594767600,
+      1595113200,
+      1581033600,
+      1595286000,
+      1594854000,
+      1585440000,
+      1586559600,
+      1588978800
+    ]
+  },
+  "691-storm-hurricane-urban-in-fiji-activation": {
+    "TypeofEvent:": [
+      "storm-cyclone"
+    ],
+    "LocationofEvent:": [
+      "fiji"
+    ],
+    "DateofCharterActivation:": [
+      1607990400
+    ],
+    "TimeofCharterActivation:": [
+      "15:27"
+    ],
+    "CharterRequestor:": [
+      "unitaronbehalfofunitednationsofficeforthecoordinationofhumanitarianaffairs(ocha)"
+    ],
+    "ActivationID:": [
+      "691"
+    ],
+    "ProjectManagement:": [
+      "unitar"
+    ],
+    "Source:": [
+      "worldview1",
+      "worldview2",
+      "pleiades",
+      "rcm",
+      "sentinel1"
+    ],
+    "Acquired:": [
+      1609027200,
+      1608768000,
+      1608595200,
+      1608336000,
+      1608249600
+    ]
+  },
+  "625-storm-hurricane-urban-in-japan-activation": {
+    "TypeofEvent:": [
+      "cyclone"
+    ],
+    "LocationofEvent:": [
+      "japan"
+    ],
+    "DateofCharterActivation:": [
+      1570748400
+    ],
+    "TimeofCharterActivation:": [
+      "12:37"
+    ],
+    "CharterRequestor:": [
+      "asiandisasterreductioncenter(adrc)"
+    ],
+    "ActivationID:": [
+      "625"
+    ],
+    "ProjectManagement:": [
+      "yamaguchiuniversity"
+    ],
+    "Source:": [
+      "sentinel1",
+      "cbers4",
+      "sentinel2",
+      "kanopusv",
+      "spot6",
+      "terrasarx",
+      "alos2"
+    ],
+    "Acquired:": [
+      1570316400,
+      1570921200,
+      1571007600,
+      1570662000,
+      1570230000,
+      1569798000,
+      1570402800,
+      1570834800
+    ]
+  },
+  "673-storm-hurricane-urban-in-korea-republic-of-activation": {
+    "TypeofEvent:": [
+      "cyclone"
+    ],
+    "LocationofEvent:": [
+      "korea,republicof"
+    ],
+    "DateofCharterActivation:": [
+      1598828400
+    ],
+    "TimeofCharterActivation:": [
+      "00:38"
+    ],
+    "CharterRequestor:": [
+      "nationaldisastermanagementinstitute(ndmi)"
+    ],
+    "ActivationID:": [
+      "673"
+    ],
+    "ProjectManagement:": [
+      "kari"
+    ],
+    "Source:": [
+      "sentinel1"
+    ],
+    "Acquired:": []
+  },
+  "612-flood-large-in-india-activation": {
+    "TypeofEvent:": [
+      "floods"
+    ],
+    "LocationofEvent:": [
+      "india"
+    ],
+    "DateofCharterActivation:": [
+      1563318000
+    ],
+    "TimeofCharterActivation:": [
+      "20:52"
+    ],
+    "CharterRequestor:": [
+      "isro"
+    ],
+    "ActivationID:": [
+      "612"
+    ],
+    "ProjectManagement:": [
+      "nrsc"
+    ],
+    "Source:": [
+      "resourcesat2",
+      "sentinel1",
+      "radarsat2",
+      "alos2",
+      "terrasarx",
+      "kanopusv",
+      "pleiades",
+      "gaofen2",
+      "kompsat3",
+      "cartosat1",
+      "worldview2"
+    ],
+    "Acquired:": [
+      1549497600,
+      1563490800,
+      1555455600,
+      1563922800,
+      1563663600,
+      1563750000,
+      1563404400,
+      1268956800,
+      1563577200,
+      1558998000
+    ]
+  },
+  "596-dam-collapse-in-brazil-activation": {
+    "TypeofEvent:": [
+      "l&slide"
+    ],
+    "LocationofEvent:": [
+      "brazil"
+    ],
+    "DateofCharterActivation:": [
+      1548374400
+    ],
+    "TimeofCharterActivation:": [
+      "16:23"
+    ],
+    "CharterRequestor:": [
+      "cenad"
+    ],
+    "ActivationID:": [
+      "596"
+    ],
+    "ProjectManagement:": [
+      "ministryofregionaldevelopment"
+    ],
+    "Source:": [
+      "sentinel2",
+      "rapideye",
+      "cbers4",
+      "radarsat2"
+    ],
+    "Acquired:": [
+      1548115200,
+      1540249200,
+      1548720000,
+      1548547200
+    ]
+  },
+  "642-flood-flash-in-brazil-activation": {
+    "TypeofEvent:": [
+      "floods&l&slides"
+    ],
+    "LocationofEvent:": [
+      "brazil"
+    ],
+    "DateofCharterActivation:": [
+      1579737600
+    ],
+    "TimeofCharterActivation:": [
+      "22:08"
+    ],
+    "CharterRequestor:": [
+      "cenad"
+    ],
+    "ActivationID:": [
+      "642"
+    ],
+    "ProjectManagement:": [
+      "integracaobrazil"
+    ],
+    "Source:": [
+      "pleiades",
+      "radarsat2",
+      "terrasarx",
+      "sentinel1"
+    ],
+    "Acquired:": [
+      1580515200,
+      1579996800,
+      1579910400
+    ]
+  },
+  "733-earthquake-in-china-activation": {
+    "TypeofEvent:": [
+      "earthquake"
+    ],
+    "LocationofEvent:": [
+      "china"
+    ],
+    "DateofCharterActivation:": [
+      1631746800
+    ],
+    "TimeofCharterActivation:": [
+      "18:57"
+    ],
+    "CharterRequestor:": [
+      "nationaldisasterreductioncenterofchina(ndrcc)"
+    ],
+    "ActivationID:": [
+      "733"
+    ],
+    "ProjectManagement:": [
+      "nationaldisasterreductioncenterofchina(ndrcc)"
+    ],
+    "Source:": [
+      "pleiades"
+    ],
+    "Acquired:": [
+      1632092400
+    ]
+  },
+  "792-volcano-in-indonesia-activation": {
+    "TypeofEvent:": [
+      "volcano"
+    ],
+    "LocationofEvent:": [
+      "indonesia"
+    ],
+    "DateofCharterActivation:": [
+      1670198400
+    ],
+    "TimeofCharterActivation:": [
+      "11:17"
+    ],
+    "CharterRequestor:": [
+      "adrconbehalfofjapaninternationalcooperationagency(jica)"
+    ],
+    "ActivationID:": [
+      "792"
+    ],
+    "ProjectManagement:": [
+      "chathumalmadhurangaweththasinghearachchige"
+    ],
+    "Source:": [
+      "worldview2",
+      "vrss2",
+      "spot6",
+      "sentinel2",
+      "worldview3",
+      "terrasarx",
+      "planetscope"
+    ],
+    "Acquired:": [
+      1651618800,
+      1663369200,
+      1670716800,
+      1670198400,
+      1668297600
+    ]
+  },
+  "678-fire-in-argentina-activation": {
+    "TypeofEvent:": [
+      "fire"
+    ],
+    "LocationofEvent:": [
+      "argentina"
+    ],
+    "DateofCharterActivation:": [
+      1601247600
+    ],
+    "TimeofCharterActivation:": [
+      "22:04"
+    ],
+    "CharterRequestor:": [
+      "comisiónnacionaldeactividadesespaciales-conaeonbehalfofsec.nacionaldeproteccióncivilargentina–ministeriodeseguridad–sinagir-argentina"
+    ],
+    "ActivationID:": [
+      "678"
+    ],
+    "ProjectManagement:": [
+      "conae"
+    ],
+    "Source:": [
+      "kompsat3",
+      "cbers4a",
+      "alsat1b",
+      "sentinel2",
+      "resourcesat2",
+      "worldview2",
+      "kanopusv",
+      "spot6",
+      "cbers4"
+    ],
+    "Acquired:": [
+      1601420400,
+      1601593200,
+      1601679600,
+      1601938800,
+      1601506800,
+      1601334000,
+      1601247600
+    ]
+  },
+  "666-oil-spill-in-mauritius-activation": {
+    "TypeofEvent:": [
+      "oilspill"
+    ],
+    "LocationofEvent:": [
+      "mauritius"
+    ],
+    "DateofCharterActivation:": [
+      1596841200
+    ],
+    "TimeofCharterActivation:": [
+      "16:59"
+    ],
+    "CharterRequestor:": [
+      "unitaronbehalfofunofficeforthecoordinationofhumanitarianaffairs(ocha),&centreopérationneldegestioninterministérielledescrises(cogic)"
+    ],
+    "ActivationID:": [
+      "666"
+    ],
+    "ProjectManagement:": [
+      "unitar",
+      "unosat"
+    ],
+    "Source:": [
+      "pleiades",
+      "worldview3",
+      "worldview2",
+      "sentinel2",
+      "alos2",
+      "geoeye1",
+      "terrasarx"
+    ],
+    "Acquired:": [
+      1599519600,
+      1598482800,
+      1597532400,
+      1597359600,
+      1597273200,
+      1596754800,
+      1597446000,
+      1597100400,
+      1597014000,
+      1596668400
+    ]
+  },
+  "605-flood-in-south-africa-activation": {
+    "TypeofEvent:": [
+      "floods"
+    ],
+    "LocationofEvent:": [
+      "southafrica"
+    ],
+    "DateofCharterActivation:": [
+      1556146800
+    ],
+    "TimeofCharterActivation:": [
+      "16:04"
+    ],
+    "CharterRequestor:": [
+      "unitednationsofficeforouterspaceaffairs(unoosa)onbehalfofnationaldisastermanagementcentreofsouthafrica"
+    ],
+    "ActivationID:": [
+      "605"
+    ],
+    "ProjectManagement:": [
+      "dlr"
+    ],
+    "Source:": [
+      "pleiades"
+    ],
+    "Acquired:": [
+      1556233200
+    ]
+  },
+  "648-storm-hurricane-urban-in-fiji-activation": {
+    "TypeofEvent:": [
+      "oceanstorm-cyclone"
+    ],
+    "LocationofEvent:": [
+      "fiji"
+    ],
+    "DateofCharterActivation:": [
+      1586300400
+    ],
+    "TimeofCharterActivation:": [
+      "11:07"
+    ],
+    "CharterRequestor:": [
+      "unitaronbehalfofunitednationsofficeforthecoordinationofhumanitarianaffairs|regionalofficeforasia&thepacific(roap)"
+    ],
+    "ActivationID:": [
+      "648"
+    ],
+    "ProjectManagement:": [
+      "unitar",
+      "unosat"
+    ],
+    "Source:": [
+      "pleiades",
+      "worldview3",
+      "worldview1",
+      "worldview2"
+    ],
+    "Acquired:": [
+      1586300400,
+      1586646000,
+      1579737600
+    ]
+  },
+  "638-flood-flash-in-indonesia-activation": {
+    "TypeofEvent:": [
+      "flood,l&slide"
+    ],
+    "LocationofEvent:": [
+      "indonesia"
+    ],
+    "DateofCharterActivation:": [
+      1578355200
+    ],
+    "TimeofCharterActivation:": [
+      "21:38"
+    ],
+    "CharterRequestor:": [
+      "adrconbehalfoflapan(indonesiannationalinstituteofaeronautics&space)"
+    ],
+    "ActivationID:": [
+      "638"
+    ],
+    "ProjectManagement:": [
+      "ait"
+    ],
+    "Source:": [
+      "worldview2",
+      "pleiades",
+      "radarsat2"
+    ],
+    "Acquired:": [
+      1565218800,
+      1579132800,
+      1578614400,
+      1547078400
+    ]
+  },
+  "686-flood-large-in-philippines-activation": {
+    "TypeofEvent:": [
+      "floods"
+    ],
+    "LocationofEvent:": [
+      "philippines"
+    ],
+    "DateofCharterActivation:": [
+      1605398400
+    ],
+    "TimeofCharterActivation:": [
+      "17:26"
+    ],
+    "CharterRequestor:": [
+      "adrconbehalfofphivolcs"
+    ],
+    "ActivationID:": [
+      "686"
+    ],
+    "ProjectManagement:": [
+      "asianinstituteoftechnology"
+    ],
+    "Source:": [
+      "spot6",
+      "sentinel2",
+      "spot7",
+      "sentinel1rcm1",
+      "sentinel1",
+      "rcm1"
+    ],
+    "Acquired:": [
+      1594854000,
+      1599606000,
+      1605657600,
+      1605225600,
+      1597964400
+    ]
+  },
+  "632-flood-large-in-central-african-republic-activation": {
+    "TypeofEvent:": [],
+    "LocationofEvent:": [
+      "centralafricanrepublic"
+    ],
+    "DateofCharterActivation:": [
+      1573862400
+    ],
+    "TimeofCharterActivation:": [
+      "23:22"
+    ],
+    "CharterRequestor:": [
+      "nadmoonbehalfofministèredel'actionhumanitaireetdelaréconciliationnationale-républiquecentrafricaine"
+    ],
+    "ActivationID:": [
+      "632"
+    ],
+    "ProjectManagement:": [
+      "nationaldisastermanagementorganization-ghana"
+    ],
+    "Source:": [
+      "terrasarx",
+      "tandemx",
+      "sentinel1"
+    ],
+    "Acquired:": [
+      1572998400,
+      1387324800,
+      1574035200,
+      1573862400
+    ]
+  },
+  "611-flood-large-in-russian-federation-activation": {
+    "TypeofEvent:": [
+      "flood"
+    ],
+    "LocationofEvent:": [
+      "russia"
+    ],
+    "DateofCharterActivation:": [
+      1561590000
+    ],
+    "TimeofCharterActivation:": [
+      "09:42"
+    ],
+    "CharterRequestor:": [
+      "ministryoftherussianfederationforcivildefense,emergencies&eliminationofnaturaldisasters(emercom)"
+    ],
+    "ActivationID:": [
+      "611"
+    ],
+    "ProjectManagement:": [
+      "ntsomz"
+    ],
+    "Source:": [
+      "resursp",
+      "kanopusv",
+      "terrasarx",
+      "cbers",
+      "pleiades"
+    ],
+    "Acquired:": [
+      1562281200,
+      1561676400,
+      1561849200,
+      1560898800,
+      1553644800,
+      1562022000
+    ]
+  },
+  "725-flood-large-in-russian-federation-activation": {
+    "TypeofEvent:": [
+      "flood"
+    ],
+    "LocationofEvent:": [
+      "russianfederation"
+    ],
+    "DateofCharterActivation:": [
+      1628031600
+    ],
+    "TimeofCharterActivation:": [
+      "10:25"
+    ],
+    "CharterRequestor:": [
+      "ministryoftherussianfederationforcivildefense,emergencies&eliminationofnaturaldisasters(emercom)"
+    ],
+    "ActivationID:": [
+      "725"
+    ],
+    "ProjectManagement:": [
+      "roscosmos"
+    ],
+    "Source:": [
+      "kanopusv",
+      "sentinel1",
+      "terrasarx"
+    ],
+    "Acquired:": [
+      1629414000,
+      1628982000
+    ]
+  },
+  "570-flood-in-somalia-activation": {
+    "TypeofEvent:": [
+      "flood"
+    ],
+    "LocationofEvent:": [
+      "somalia"
+    ],
+    "DateofCharterActivation:": [
+      1525647600
+    ],
+    "TimeofCharterActivation:": [
+      "16:01"
+    ],
+    "CharterRequestor:": [
+      "unitar-unosatonbehalfofunitednationsofficeforthecoordinationofhumanitarianaffairs"
+    ],
+    "ActivationID:": [
+      "570"
+    ],
+    "ProjectManagement:": [
+      "unitar",
+      "unosat"
+    ],
+    "Source:": [
+      "pleiades",
+      "radarsat2"
+    ],
+    "Acquired:": [
+      1526338800,
+      1526252400,
+      1525820400
+    ]
+  },
+  "781-storm-hurricane-urban-in-canada-activation": {
+    "TypeofEvent:": [
+      "floods"
+    ],
+    "LocationofEvent:": [
+      "canada"
+    ],
+    "DateofCharterActivation:": [
+      1663887600
+    ],
+    "TimeofCharterActivation:": [
+      "20:20"
+    ],
+    "CharterRequestor:": [
+      "governmentoperationscentre"
+    ],
+    "ActivationID:": [
+      "781"
+    ],
+    "ProjectManagement:": [
+      "csa"
+    ],
+    "Source:": [
+      "pleiades"
+    ],
+    "Acquired:": [
+      1664492400
+    ]
+  },
+  "599-cyclone-in-zimbabwe-activation": {
+    "TypeofEvent:": [
+      "oceanstorm-cyclone"
+    ],
+    "LocationofEvent:": [
+      "zimbabwe"
+    ],
+    "DateofCharterActivation:": [
+      1552694400
+    ],
+    "TimeofCharterActivation:": [
+      "16:21"
+    ],
+    "CharterRequestor:": [
+      "unoosaonbehalfofundp"
+    ],
+    "ActivationID:": [
+      "599"
+    ],
+    "ProjectManagement:": [
+      "sertit"
+    ],
+    "Source:": [
+      "pleiades",
+      "spot7",
+      "pleaides"
+    ],
+    "Acquired:": [
+      1529794800,
+      1553040000,
+      1553126400,
+      1552867200
+    ]
+  },
+  "773-flood-large-in-korea-republic-of-activation": {
+    "TypeofEvent:": [
+      "floods"
+    ],
+    "LocationofEvent:": [
+      "republicofkorea"
+    ],
+    "DateofCharterActivation:": [
+      1662073200
+    ],
+    "TimeofCharterActivation:": [
+      "16:22"
+    ],
+    "CharterRequestor:": [
+      "nationaldisastermanagementinstitute(ndmi)"
+    ],
+    "ActivationID:": [
+      "773"
+    ],
+    "ProjectManagement:": [
+      "kari"
+    ],
+    "Source:": [
+      "saocom",
+      "sentinel1",
+      "rcm"
+    ],
+    "Acquired:": [
+      1662332400
+    ]
+  },
+  "708-flood-large-in-russian-federation-activation": {
+    "TypeofEvent:": [
+      "flood"
+    ],
+    "LocationofEvent:": [
+      "russianfederation"
+    ],
+    "DateofCharterActivation:": [
+      1620774000
+    ],
+    "TimeofCharterActivation:": [
+      "17:06"
+    ],
+    "CharterRequestor:": [
+      "ministryoftherussianfederationforcivildefense,emergencies&eliminationofnaturaldisasters(emercom)"
+    ],
+    "ActivationID:": [
+      "708"
+    ],
+    "ProjectManagement:": [
+      "roscosmos"
+    ],
+    "Source:": [
+      "resursp"
+    ],
+    "Acquired:": [
+      1621465200
+    ]
+  },
+  "597-landslide-in-bolivia-plurinational-state-of-activation": {
+    "TypeofEvent:": [
+      "l&slide"
+    ],
+    "LocationofEvent:": [
+      "plurinationalstateofbolivia"
+    ],
+    "DateofCharterActivation:": [
+      1549584000
+    ],
+    "TimeofCharterActivation:": [
+      "21:25"
+    ],
+    "CharterRequestor:": [
+      "sinager-sat/videci"
+    ],
+    "ActivationID:": [
+      "597"
+    ],
+    "ProjectManagement:": [
+      "bolivianspaceagency-abe"
+    ],
+    "Source:": [
+      "worldview3",
+      "sentinel2",
+      "pleiades"
+    ],
+    "Acquired:": [
+      1550707200,
+      1548288000,
+      1549584000,
+      1549929600
+    ]
+  },
+  "575-fire-in-china-activation": {
+    "TypeofEvent:": [
+      "fires"
+    ],
+    "LocationofEvent:": [
+      "china"
+    ],
+    "DateofCharterActivation:": [
+      1528066800
+    ],
+    "TimeofCharterActivation:": [
+      "11:28"
+    ],
+    "CharterRequestor:": [
+      "nationaldisasterreductioncenterofchina"
+    ],
+    "ActivationID:": [
+      "575"
+    ],
+    "ProjectManagement:": [
+      "cnsa",
+      "ndrcc"
+    ],
+    "Source:": [
+      "kanopusv",
+      "rapideye",
+      "spot6",
+      "kompsat3"
+    ],
+    "Acquired:": [
+      1530486000
+    ]
+  },
+  "802-earthquake-in-philippines-activation": {
+    "TypeofEvent:": [
+      "earthquakes"
+    ],
+    "LocationofEvent:": [
+      "philippines"
+    ],
+    "DateofCharterActivation:": [
+      1676592000
+    ],
+    "TimeofCharterActivation:": [
+      "22:28"
+    ],
+    "CharterRequestor:": [
+      "adrconbehalfofphivolcs(philippines)"
+    ],
+    "ActivationID:": [
+      "802"
+    ],
+    "ProjectManagement:": [
+      "abigailpidlaoan"
+    ],
+    "Source:": [],
+    "Acquired:": []
+  },
+  "615-flood-flash-in-russian-federation-activation": {
+    "TypeofEvent:": [
+      "flood"
+    ],
+    "LocationofEvent:": [
+      "russianfederation"
+    ],
+    "DateofCharterActivation:": [
+      1565823600
+    ],
+    "TimeofCharterActivation:": [
+      "18:21"
+    ],
+    "CharterRequestor:": [
+      "ministryoftherussianfederationforcivildefense,emergencies&eliminationofnaturaldisasters(emercom)"
+    ],
+    "ActivationID:": [
+      "615"
+    ],
+    "ProjectManagement:": [
+      "roscosmos"
+    ],
+    "Source:": [
+      "radarsat2",
+      "resursp"
+    ],
+    "Acquired:": [
+      1566082800,
+      1566774000
+    ]
+  },
+  "554-cyclone-in-puerto-rico-activation": {
+    "TypeofEvent:": [
+      "oceanstorm-hurricane"
+    ],
+    "LocationofEvent:": [
+      "puertorico&u.s.virginisl&s"
+    ],
+    "DateofCharterActivation:": [
+      1505775600
+    ],
+    "TimeofCharterActivation:": [
+      "06:36"
+    ],
+    "CharterRequestor:": [
+      "usgeologicalsurveyonbehalfoffederalemergencymanagementagency"
+    ],
+    "ActivationID:": [
+      "554"
+    ],
+    "ProjectManagement:": [
+      "purdueuniversity"
+    ],
+    "Source:": [],
+    "Acquired:": []
+  },
+  "756-flood-flash-in-philippines-activation": {
+    "TypeofEvent:": [
+      "oceanstorm,floods,l&slides"
+    ],
+    "LocationofEvent:": [
+      "philippines"
+    ],
+    "DateofCharterActivation:": [
+      1649804400
+    ],
+    "TimeofCharterActivation:": [
+      "15:18"
+    ],
+    "CharterRequestor:": [
+      "unoosaonbehalfofphilippinespaceagencyonbehalfofthephilippinenationaldisasterriskreduction"
+    ],
+    "ActivationID:": [
+      "756"
+    ],
+    "ProjectManagement:": [
+      "unitar",
+      "unosat"
+    ],
+    "Source:": [
+      "pleiades",
+      "sentinel2",
+      "rcm1",
+      "sentinel1",
+      "terrasarx",
+      "t",
+      "emx",
+      "worldview2",
+      "kompsat5",
+      "tandemx"
+    ],
+    "Acquired:": [
+      1649977200,
+      1650150000,
+      1650322800,
+      1641859200,
+      1650063600,
+      1649199600,
+      1650236400,
+      1649286000,
+      1649890800,
+      1651359600,
+      1650409200,
+      1649631600,
+      1650668400,
+      1650582000,
+      1650495600,
+      1648080000
+    ]
+  },
+  "586-cyclone-in-philippines-activation": {
+    "TypeofEvent:": [
+      "oceanstorm,typhoon&l&slide"
+    ],
+    "LocationofEvent:": [
+      "philippines"
+    ],
+    "DateofCharterActivation:": [
+      1537225200
+    ],
+    "TimeofCharterActivation:": [
+      "21:26"
+    ],
+    "CharterRequestor:": [
+      "adrc/sentinelasiaonbehalfofmanilaobservatory/unitar-unosatonbehalfofunocharoap"
+    ],
+    "ActivationID:": [
+      "586"
+    ],
+    "ProjectManagement:": [
+      "philippineinstituteofvolcanology",
+      "seismology(phivolcs)-dost"
+    ],
+    "Source:": [
+      "alos2",
+      "pleiades"
+    ],
+    "Acquired:": [
+      1536015600,
+      1537225200,
+      1532386800,
+      1537484400,
+      1537398000,
+      1537657200,
+      1537743600
+    ]
+  },
+  "721-flood-large-in-luxembourg-activation": {
+    "TypeofEvent:": [
+      "floods"
+    ],
+    "LocationofEvent:": [
+      "luxembourg"
+    ],
+    "DateofCharterActivation:": [
+      1626303600
+    ],
+    "TimeofCharterActivation:": [
+      "14:11"
+    ],
+    "CharterRequestor:": [
+      "cgdis–nationalfire&rescuecorpsluxembourg(corpsgr&-ducald'incendieetdesecours)"
+    ],
+    "ActivationID:": [
+      "721"
+    ],
+    "ProjectManagement:": [
+      "unitar"
+    ],
+    "Source:": [
+      "pleiades",
+      "tandemx",
+      "terrasarx",
+      "sentinel1"
+    ],
+    "Acquired:": [
+      1626476400,
+      1626562800,
+      1610323200,
+      1625871600,
+      1626390000,
+      1625266800,
+      1626303600
+    ]
+  },
+  "553-flood-in-martinique-activation": {
+    "TypeofEvent:": [
+      "oceanstorm-hurricane"
+    ],
+    "LocationofEvent:": [
+      "antillesisl&s"
+    ],
+    "DateofCharterActivation:": [
+      1505689200
+    ],
+    "TimeofCharterActivation:": [
+      "16:31"
+    ],
+    "CharterRequestor:": [
+      "cogic"
+    ],
+    "ActivationID:": [
+      "553"
+    ],
+    "ProjectManagement:": [
+      "sertit"
+    ],
+    "Source:": [
+      "pleiades"
+    ],
+    "Acquired:": [
+      1505862000,
+      1505948400
+    ]
+  },
+  "785-flood-large-in-venezuela-bolivarian-republic-of-activation": {
+    "TypeofEvent:": [],
+    "LocationofEvent:": [
+      "venezuela,bolivarianrepublicof"
+    ],
+    "DateofCharterActivation:": [
+      1665356400
+    ],
+    "TimeofCharterActivation:": [
+      "20:01"
+    ],
+    "CharterRequestor:": [
+      "civilprotectionofvenezuela"
+    ],
+    "ActivationID:": [
+      "785"
+    ],
+    "ProjectManagement:": [
+      "pm_abaepm_abae"
+    ],
+    "Source:": [
+      "gf3",
+      "pleiades",
+      "terrasarx",
+      "pleiades1",
+      "vrss2",
+      "newsat",
+      "sentinel2"
+    ],
+    "Acquired:": [
+      1666134000,
+      1666393200,
+      1665442800,
+      1609804800,
+      1640995200,
+      1666047600,
+      1665529200
+    ]
+  },
+  "788-flood-large-in-chad-activation": {
+    "TypeofEvent:": [],
+    "LocationofEvent:": [
+      "chad"
+    ],
+    "DateofCharterActivation:": [
+      1666220400
+    ],
+    "TimeofCharterActivation:": [
+      "09:50"
+    ],
+    "CharterRequestor:": [
+      "unitaronbehalfofunitednationsofficeforthecoordinationofhumanitarianaffairs(ocha)"
+    ],
+    "ActivationID:": [
+      "788"
+    ],
+    "ProjectManagement:": [
+      "teodorohunger"
+    ],
+    "Source:": [
+      "noaa_20",
+      "sentinel2",
+      "kanopusv",
+      "plaeiades",
+      "pleiades",
+      "worldview2",
+      "suominpp"
+    ],
+    "Acquired:": [
+      1667433600,
+      1667174400,
+      1667084400,
+      1666306800,
+      1666566000,
+      1666652400,
+      1666220400,
+      1666047600
+    ]
+  },
+  "587-earthquake-in-indonesia-activation": {
+    "TypeofEvent:": [
+      "earthquake,tsunami"
+    ],
+    "LocationofEvent:": [
+      "indonesia"
+    ],
+    "DateofCharterActivation:": [
+      1538175600
+    ],
+    "TimeofCharterActivation:": [
+      "19:31"
+    ],
+    "CharterRequestor:": [
+      "adrconbehalfoflapan"
+    ],
+    "ActivationID:": [
+      "587"
+    ],
+    "ProjectManagement:": [
+      "ait"
+    ],
+    "Source:": [
+      "resursp",
+      "pleiades",
+      "worldview3",
+      "amp",
+      "geoeye1",
+      "worldview1",
+      "worldview2",
+      "sentinel2"
+    ],
+    "Acquired:": [
+      1523228400,
+      1538262000,
+      1530831600,
+      1526684400,
+      1467759600,
+      1538434800,
+      1534460400
+    ]
+  },
+  "582-flood-in-india-activation": {
+    "TypeofEvent:": [
+      "flood"
+    ],
+    "LocationofEvent:": [
+      "india"
+    ],
+    "DateofCharterActivation:": [
+      1534374000
+    ],
+    "TimeofCharterActivation:": [
+      "15:33"
+    ],
+    "CharterRequestor:": [
+      "isro"
+    ],
+    "ActivationID:": [
+      "582"
+    ],
+    "ProjectManagement:": [
+      "nationalremotesensingcentre"
+    ],
+    "Source:": [
+      "resourcesat2",
+      "sentinel1",
+      "pleiades",
+      "kanopusv",
+      "terrasarx",
+      "radarsat2",
+      "alos2"
+    ],
+    "Acquired:": [
+      1520294400,
+      1535151600,
+      1534978800,
+      1534806000,
+      1534633200,
+      1534546800
+    ]
+  },
+  "621-fire-in-paraguay-activation": {
+    "TypeofEvent:": [
+      "fire"
+    ],
+    "LocationofEvent:": [
+      "paraguay"
+    ],
+    "DateofCharterActivation:": [
+      1568934000
+    ],
+    "TimeofCharterActivation:": [
+      "17:20"
+    ],
+    "CharterRequestor:": [
+      "secretariadeemergencianacional(sen)"
+    ],
+    "ActivationID:": [
+      "621"
+    ],
+    "ProjectManagement:": [
+      "agenciaespacialdelparaguay(aep)"
+    ],
+    "Source:": [
+      "worldview2",
+      "l",
+      "sat8",
+      "kanopusv",
+      "gaofen1",
+      "resursp",
+      "sentinel2",
+      "aqua",
+      "spot7",
+      "cbers4"
+    ],
+    "Acquired:": [
+      1569538800,
+      1568674800,
+      1569884400,
+      1569452400,
+      1569193200,
+      1569625200,
+      1568502000,
+      1569970800,
+      1569798000,
+      1569711600,
+      1567983600,
+      1569279600,
+      1569106800,
+      1565132400
+    ]
+  },
+  "764-flood-large-in-india-activation": {
+    "TypeofEvent:": [
+      "flood"
+    ],
+    "LocationofEvent:": [
+      "india"
+    ],
+    "DateofCharterActivation:": [
+      1657753200
+    ],
+    "TimeofCharterActivation:": [
+      "16:04"
+    ],
+    "CharterRequestor:": [
+      "isro"
+    ],
+    "ActivationID:": [
+      "764"
+    ],
+    "ProjectManagement:": [
+      "nrsc"
+    ],
+    "Source:": [
+      "pleiades1",
+      "newsat",
+      "sentinel2",
+      "pleiades",
+      "kompsat5",
+      "geoeye1",
+      "rcm"
+    ],
+    "Acquired:": [
+      1658185200,
+      1657926000,
+      1658098800
+    ]
+  },
+  "787-flood-large-in-thailand-activation": {
+    "TypeofEvent:": [],
+    "LocationofEvent:": [
+      "thail&"
+    ],
+    "DateofCharterActivation:": [
+      1666134000
+    ],
+    "TimeofCharterActivation:": [
+      "18:27"
+    ],
+    "CharterRequestor:": [
+      "adrconbehalfofgeo-informatics&spacetechnologydevelopmentagency(gistda)"
+    ],
+    "ActivationID:": [
+      "787"
+    ],
+    "ProjectManagement:": [
+      "chathumalmadhurangaweththasinghearachchige"
+    ],
+    "Source:": [
+      "terrasarx",
+      "t",
+      "emx",
+      "sentinel1",
+      "noaa20",
+      "alos2"
+    ],
+    "Acquired:": [
+      1666566000,
+      1666479600,
+      1662937200,
+      1666220400,
+      1665788400
+    ]
+  },
+  "676-fire-in-bolivia-plurinational-state-of-activation": {
+    "TypeofEvent:": [
+      "fire"
+    ],
+    "LocationofEvent:": [
+      "bolivia,plurinationalstate"
+    ],
+    "DateofCharterActivation:": [
+      1600124400
+    ],
+    "TimeofCharterActivation:": [
+      "15:12"
+    ],
+    "CharterRequestor:": [
+      "sinager-sat"
+    ],
+    "ActivationID:": [
+      "676"
+    ],
+    "ProjectManagement:": [
+      "abe"
+    ],
+    "Source:": [
+      "sentinel2",
+      "cbers4a",
+      "cbers4"
+    ],
+    "Acquired:": [
+      1600902000,
+      1599865200,
+      1589756400
+    ]
+  },
+  "679-flood-large-in-togo-activation": {
+    "TypeofEvent:": [
+      "flood"
+    ],
+    "LocationofEvent:": [
+      "togo"
+    ],
+    "DateofCharterActivation:": [
+      1602457200
+    ],
+    "TimeofCharterActivation:": [
+      "12:44"
+    ],
+    "CharterRequestor:": [
+      "agencenationaledelaprotectioncivile(anpc)"
+    ],
+    "ActivationID:": [
+      "679"
+    ],
+    "ProjectManagement:": [
+      "csa"
+    ],
+    "Source:": [
+      "pleiades",
+      "worldview2",
+      "worldview3pleiades",
+      "noaa",
+      "sentinel1"
+    ],
+    "Acquired:": [
+      1602889200,
+      1539039600,
+      1602543600,
+      1602630000
+    ]
+  },
+  "727-flood-flash-in-japan-activation": {
+    "TypeofEvent:": [
+      "flood"
+    ],
+    "LocationofEvent:": [
+      "japan"
+    ],
+    "DateofCharterActivation:": [
+      1628895600
+    ],
+    "TimeofCharterActivation:": [
+      "12:16"
+    ],
+    "CharterRequestor:": [
+      "adrc"
+    ],
+    "ActivationID:": [
+      "727"
+    ],
+    "ProjectManagement:": [
+      "yamaguchiuniversity"
+    ],
+    "Source:": [
+      "sentinel1",
+      "terrasarx"
+    ],
+    "Acquired:": [
+      1628982000
+    ]
+  },
+  "598-cyclone-in-mozambique-activation": {
+    "TypeofEvent:": [
+      "oceanstorm-cyclone"
+    ],
+    "LocationofEvent:": [
+      "mozambique"
+    ],
+    "DateofCharterActivation:": [
+      1552521600
+    ],
+    "TimeofCharterActivation:": [
+      "22:04"
+    ],
+    "CharterRequestor:": [
+      "cenad"
+    ],
+    "ActivationID:": [
+      "598"
+    ],
+    "ProjectManagement:": [
+      "ministériodaintegraçãonacional"
+    ],
+    "Source:": [
+      "sentinel1",
+      "alos2",
+      "pleiades",
+      "sentinel2",
+      "terrasarx",
+      "tandemx",
+      "worldview3",
+      "radarsat2",
+      "dmc"
+    ],
+    "Acquired:": [
+      1548374400,
+      1553040000,
+      1553299200,
+      1553558400,
+      1543708800,
+      1545264000,
+      1552953600,
+      1547769600,
+      1553212800,
+      1552521600,
+      1540944000,
+      1552780800
+    ]
+  },
+  "695-earthquake-in-indonesia-activation": {
+    "TypeofEvent:": [
+      "earthquake"
+    ],
+    "LocationofEvent:": [
+      "indonesia"
+    ],
+    "DateofCharterActivation:": [
+      1610668800
+    ],
+    "TimeofCharterActivation:": [
+      "20:46"
+    ],
+    "CharterRequestor:": [
+      "adrconbehalfofindonesiainstituteofaeronautics&space(lapan)"
+    ],
+    "ActivationID:": [
+      "695"
+    ],
+    "ProjectManagement:": [
+      "lapan"
+    ],
+    "Source:": [
+      "kompsat3",
+      "pleiades",
+      "alos2",
+      "sentinel1"
+    ],
+    "Acquired:": [
+      1611446400,
+      1611273600,
+      1611014400
+    ]
+  },
+  "736-storm-hurricane-urban-in-oman-activation": {
+    "TypeofEvent:": [
+      "oceanstorm-cyclone"
+    ],
+    "LocationofEvent:": [
+      "oman"
+    ],
+    "DateofCharterActivation:": [
+      1633215600
+    ],
+    "TimeofCharterActivation:": [
+      "15:17"
+    ],
+    "CharterRequestor:": [
+      "unoosa/un-spideronbehalfofomancivildefense&ambulanceauthority"
+    ],
+    "ActivationID:": [
+      "736"
+    ],
+    "ProjectManagement:": [
+      "mbrsc"
+    ],
+    "Source:": [],
+    "Acquired:": []
+  },
+  "748-flood-large-in-mozambique-activation": {
+    "TypeofEvent:": [
+      "oceanstorm"
+    ],
+    "LocationofEvent:": [
+      "mozambique"
+    ],
+    "DateofCharterActivation:": [
+      1643068800
+    ],
+    "TimeofCharterActivation:": [
+      "13:11"
+    ],
+    "CharterRequestor:": [
+      "unoosa/un-spideronbehalfofnationalinstitutefordisasterriskreductionofmozambique(ingd)"
+    ],
+    "ActivationID:": [
+      "748"
+    ],
+    "ProjectManagement:": [
+      "ufsm"
+    ],
+    "Source:": [
+      "sentinel2",
+      "sentinel1",
+      "worldview2",
+      "cbers4a",
+      "vrss2",
+      "worlview2",
+      "terrsarx",
+      "vision1",
+      "rcm1",
+      "t",
+      "emx",
+      "terrasarx",
+      "fy3d",
+      "rcm2"
+    ],
+    "Acquired:": [
+      1634425200,
+      1643932800,
+      1644364800,
+      1638316800,
+      1571871600,
+      1643328000,
+      1644019200,
+      1643760000,
+      1643846400,
+      1643155200,
+      1643587200,
+      1642291200,
+      1643500800,
+      1642723200,
+      1420848000,
+      1643068800,
+      1643241600,
+      1641686400
+    ]
+  },
+  "590-flood-in-russian-federation-activation": {
+    "TypeofEvent:": [
+      "flood"
+    ],
+    "LocationofEvent:": [
+      "russianfederation"
+    ],
+    "DateofCharterActivation:": [
+      1540422000
+    ],
+    "TimeofCharterActivation:": [
+      "14:25"
+    ],
+    "CharterRequestor:": [
+      "emercomofrussia"
+    ],
+    "ActivationID:": [
+      "590"
+    ],
+    "ProjectManagement:": [
+      "roscosmos"
+    ],
+    "Source:": [
+      "pleiades",
+      "resursp",
+      "kompsat3"
+    ],
+    "Acquired:": [
+      1540681200
+    ]
+  },
+  "683-flood-large-in-mexico-activation": {
+    "TypeofEvent:": [
+      "floods"
+    ],
+    "LocationofEvent:": [
+      "mexico"
+    ],
+    "DateofCharterActivation:": [
+      1604620800
+    ],
+    "TimeofCharterActivation:": [
+      "17:36"
+    ],
+    "CharterRequestor:": [
+      "unoosa/un-spideronbehalfofmexiconationalcivilprotectionsystem&mexicanspaceagency"
+    ],
+    "ActivationID:": [
+      "683"
+    ],
+    "ProjectManagement:": [
+      "autonomousuniversityofmexicostate(uaemex)"
+    ],
+    "Source:": [
+      "sentinel1",
+      "iceye",
+      "pleiades",
+      "terrasarx",
+      "t",
+      "emx",
+      "tandemx",
+      "noaa"
+    ],
+    "Acquired:": [
+      1605916800,
+      1604966400,
+      1604016000,
+      1604880000,
+      1604793600,
+      1378508400,
+      1604361600,
+      1604534400,
+      1604707200
+    ]
+  },
+  "688-storm-hurricane-urban-in-india-activation": {
+    "TypeofEvent:": [
+      "cyclone,floods"
+    ],
+    "LocationofEvent:": [
+      "india"
+    ],
+    "DateofCharterActivation:": [
+      1606176000
+    ],
+    "TimeofCharterActivation:": [
+      "16:00"
+    ],
+    "CharterRequestor:": [
+      "isro"
+    ],
+    "ActivationID:": [
+      "688"
+    ],
+    "ProjectManagement:": [
+      "nrsc"
+    ],
+    "Source:": [
+      "sentinel1",
+      "t",
+      "emx",
+      "rcm3",
+      "saocom1a",
+      "kompsat5",
+      "terrasarx",
+      "resourcesat2",
+      "sentinel1resourcesat2",
+      "saocom",
+      "saocom1",
+      "radarsat2",
+      "alos2",
+      "novasar",
+      "rcm1",
+      "pleiades",
+      "worldview3",
+      "kanopusv",
+      "tandemx"
+    ],
+    "Acquired:": [
+      1606262400,
+      1606348800,
+      1607472000,
+      1607299200,
+      1607212800,
+      1579996800,
+      1549497600,
+      1606694400,
+      1598050800,
+      1606521600,
+      1606435200
+    ]
+  },
+  "704-flood-flash-in-russian-federation-activation": {
+    "TypeofEvent:": [
+      "flood"
+    ],
+    "LocationofEvent:": [
+      "russianfederation"
+    ],
+    "DateofCharterActivation:": [
+      1618182000
+    ],
+    "TimeofCharterActivation:": [
+      "11:58"
+    ],
+    "CharterRequestor:": [
+      "ministryoftherussianfederationforcivildefense,emergencies&eliminationofnaturaldisasters(emercom)"
+    ],
+    "ActivationID:": [
+      "704"
+    ],
+    "ProjectManagement:": [
+      "roscosmos"
+    ],
+    "Source:": [
+      "resursp"
+    ],
+    "Acquired:": [
+      1618786800
+    ]
+  },
+  "697-landslide-in-eswatini-activation": {
+    "TypeofEvent:": [
+      "cyclone,l&slide,flood"
+    ],
+    "LocationofEvent:": [
+      "eswatini"
+    ],
+    "DateofCharterActivation:": [
+      1611705600
+    ],
+    "TimeofCharterActivation:": [
+      "21:31"
+    ],
+    "CharterRequestor:": [
+      "ndma"
+    ],
+    "ActivationID:": [
+      "697"
+    ],
+    "ProjectManagement:": [
+      "dlr",
+      "zki"
+    ],
+    "Source:": [
+      "worldview2",
+      "pleiades",
+      "sentinel"
+    ],
+    "Acquired:": [
+      1611964800,
+      1612396800,
+      1611878400
+    ]
+  },
+  "701-flood-large-in-timor-leste-activation": {
+    "TypeofEvent:": [
+      "floods,l&slides,cyclone"
+    ],
+    "LocationofEvent:": [
+      "timor-leste"
+    ],
+    "DateofCharterActivation:": [
+      1617750000
+    ],
+    "TimeofCharterActivation:": [
+      "16:23"
+    ],
+    "CharterRequestor:": [
+      "unitaronbehalfofunresidentcoordinatoroffice-timorleste"
+    ],
+    "ActivationID:": [
+      "701"
+    ],
+    "ProjectManagement:": [
+      "unitar",
+      "unosat"
+    ],
+    "Source:": [
+      "pleiades",
+      "vision1",
+      "geoeye",
+      "worldview2",
+      "planetscope",
+      "sentinel1"
+    ],
+    "Acquired:": [
+      1618182000,
+      1618095600,
+      1587596400,
+      1618009200,
+      1617922800,
+      1617836400,
+      1617577200
+    ]
+  },
+  "805-flood-large-in-mozambique-activation": {
+    "TypeofEvent:": [
+      "tropicalstorm"
+    ],
+    "LocationofEvent:": [
+      "mozambique"
+    ],
+    "DateofCharterActivation:": [
+      1677196800
+    ],
+    "TimeofCharterActivation:": [
+      "16:18"
+    ],
+    "CharterRequestor:": [
+      "unitaronbehalfofunitednationsofficeforthecoordinationofhumanitarianaffairs(ocha)¦regionalofficeforsouthern&amp;easternafrica"
+    ],
+    "ActivationID:": [
+      "805"
+    ],
+    "ProjectManagement:": [
+      "jakrapongtawala"
+    ],
+    "Source:": [
+      "sentinel2",
+      "sentinel1",
+      "rcm",
+      "worldview2",
+      "vision1",
+      "worldview3",
+      "pleiades",
+      "noaa20",
+      "gaofen3",
+      "rcm1",
+      "rcm2",
+      "terrasarx"
+    ],
+    "Acquired:": [
+      1664665200,
+      1665097200,
+      1672876800,
+      1674172800,
+      1675728000,
+      1678060800,
+      1678924800,
+      1678752000,
+      1678665600,
+      1678320000,
+      1677715200,
+      1678406400,
+      1683068400,
+      1676937600,
+      1677369600
+    ]
+  },
+  "734-flood-large-in-thailand-activation": {
+    "TypeofEvent:": [
+      "flood"
+    ],
+    "LocationofEvent:": [
+      "thail&"
+    ],
+    "DateofCharterActivation:": [
+      1632783600
+    ],
+    "TimeofCharterActivation:": [
+      "16:31"
+    ],
+    "CharterRequestor:": [
+      "unitaronbehalfofunitednationsofficeforthecoordinationofhumanitarianaffairs(ocha)"
+    ],
+    "ActivationID:": [
+      "734"
+    ],
+    "ProjectManagement:": [
+      "unitar",
+      "unosat"
+    ],
+    "Source:": [
+      "pleiades",
+      "sentinel1",
+      "gaofen1sentinel2",
+      "kanopusv",
+      "noaa"
+    ],
+    "Acquired:": [
+      1632956400,
+      1633820400,
+      1634684400,
+      1634770800,
+      1633734000,
+      1633388400,
+      1633129200,
+      1633042800,
+      1633215600,
+      1635548400,
+      1632870000,
+      1632438000
+    ]
+  },
+  "766-fire-in-tunisia-activation": {
+    "TypeofEvent:": [
+      "fires"
+    ],
+    "LocationofEvent:": [
+      "tunisia"
+    ],
+    "DateofCharterActivation:": [
+      1658876400
+    ],
+    "TimeofCharterActivation:": [
+      "19:00"
+    ],
+    "CharterRequestor:": [
+      "tunisianofficeofcivilprotectionofficenationaldelaprotectioncivile(onpc)"
+    ],
+    "ActivationID:": [
+      "766"
+    ],
+    "ProjectManagement:": [
+      "icube-sertit"
+    ],
+    "Source:": [
+      "pleiades",
+      "worldview2",
+      "kompsat3",
+      "l",
+      "sat9",
+      "sentinel2",
+      "sat8"
+    ],
+    "Acquired:": [
+      1658962800,
+      1659049200,
+      1659222000,
+      1658876400
+    ]
+  },
+  "696-flood-large-in-mozambique-activation": {
+    "TypeofEvent:": [
+      "cyclone"
+    ],
+    "LocationofEvent:": [
+      "mozambique"
+    ],
+    "DateofCharterActivation:": [
+      1611273600
+    ],
+    "TimeofCharterActivation:": [
+      "14:07"
+    ],
+    "CharterRequestor:": [
+      "unitaronbehalfofunitednationsofficeforthecoordinationofhumanitarianaffairs(ocha)/regionalofficeforsouthern&amp;easternafrica"
+    ],
+    "ActivationID:": [
+      "696"
+    ],
+    "ProjectManagement:": [
+      "unitar",
+      "unosat"
+    ],
+    "Source:": [
+      "sentinel1",
+      "pleiades",
+      "sentinel",
+      "terrasarx",
+      "suominpp"
+    ],
+    "Acquired:": [
+      1611619200,
+      1612051200,
+      1611532800,
+      1611446400,
+      1611273600
+    ]
+  },
+  "588-cyclone-in-united-states-activation": {
+    "TypeofEvent:": [
+      "oceanstorm-hurricane"
+    ],
+    "LocationofEvent:": [
+      "unitedstates"
+    ],
+    "DateofCharterActivation:": [
+      1539126000
+    ],
+    "TimeofCharterActivation:": [
+      "17:51"
+    ],
+    "CharterRequestor:": [
+      "usgsonbehalfoffederalemergencymanagementagency(fema)"
+    ],
+    "ActivationID:": [
+      "588"
+    ],
+    "ProjectManagement:": [
+      "universityoflouisianaatlafayetteregionalapplicationcenter(rac)"
+    ],
+    "Source:": [
+      "resursp"
+    ],
+    "Acquired:": [
+      1539644400
+    ]
+  },
+  "579-fire-in-greece-activation": {
+    "TypeofEvent:": [
+      "fires"
+    ],
+    "LocationofEvent:": [
+      "greece"
+    ],
+    "DateofCharterActivation:": [
+      1532386800
+    ],
+    "TimeofCharterActivation:": [
+      "16:33"
+    ],
+    "CharterRequestor:": [
+      "generalsecretariatforcivilprotectiononbehalfofhellenicspaceagency"
+    ],
+    "ActivationID:": [
+      "579"
+    ],
+    "ProjectManagement:": [
+      "esa"
+    ],
+    "Source:": [
+      "spot6",
+      "7",
+      "pleiades",
+      "ukdmc2"
+    ],
+    "Acquired:": [
+      1512518400,
+      1532646000,
+      1532473200
+    ]
+  },
+  "765-earthquake-in-philippines-activation": {
+    "TypeofEvent:": [
+      "earthquake"
+    ],
+    "LocationofEvent:": [
+      "philippines"
+    ],
+    "DateofCharterActivation:": [
+      1658876400
+    ],
+    "TimeofCharterActivation:": [
+      "12:44"
+    ],
+    "CharterRequestor:": [
+      "adrconbehalfofphivolcs"
+    ],
+    "ActivationID:": [
+      "765"
+    ],
+    "ProjectManagement:": [
+      "philippineinstituteofvolcanology",
+      "seismology(phivolcs)"
+    ],
+    "Source:": [
+      "sentinel1",
+      "pleiades"
+    ],
+    "Acquired:": [
+      1659394800,
+      1659049200
+    ]
+  },
+  "741-storm-hurricane-rural-in-philippines-activation": {
+    "TypeofEvent:": [
+      "oceanstorm-typhoon"
+    ],
+    "LocationofEvent:": [
+      "philippines"
+    ],
+    "DateofCharterActivation:": [
+      1639612800
+    ],
+    "TimeofCharterActivation:": [
+      "14:46"
+    ],
+    "CharterRequestor:": [
+      "unitaronbehalfofunitednationsofficeforthecoordinationofhumanitarianaffairs(ocha)|regionalofficeforasia&thepacific"
+    ],
+    "ActivationID:": [
+      "741"
+    ],
+    "ProjectManagement:": [
+      "unitar"
+    ],
+    "Source:": [
+      "pleiades",
+      "geoeye",
+      "worldview3",
+      "geoeye1",
+      "sentinel2",
+      "spot6",
+      "spot7"
+    ],
+    "Acquired:": [
+      1640217600,
+      1640044800,
+      1640131200,
+      1639958400,
+      1639699200,
+      1639872000,
+      1637366400,
+      1637539200,
+      1638057600,
+      1639785600
+    ]
+  },
+  "576-volcano-in-guatemala-activation": {
+    "TypeofEvent:": [
+      "volcano"
+    ],
+    "LocationofEvent:": [
+      "guatemala"
+    ],
+    "DateofCharterActivation:": [
+      1528153200
+    ],
+    "TimeofCharterActivation:": [
+      "09:12"
+    ],
+    "CharterRequestor:": [
+      "conred"
+    ],
+    "ActivationID:": [
+      "576"
+    ],
+    "ProjectManagement:": [
+      "dlr"
+    ],
+    "Source:": [
+      "sentinel2",
+      "pleiades",
+      "alos2",
+      "worldview3",
+      "worldview2",
+      "worldview4",
+      "tandemx",
+      "sentinel1",
+      "metop"
+    ],
+    "Acquired:": [
+      1484438400,
+      1527202800,
+      1528326000,
+      1528671600,
+      1528239600,
+      1517788800,
+      1528585200,
+      1528498800,
+      1465167600,
+      1337727600,
+      1465254000,
+      1495321200,
+      1496358000,
+      1528066800,
+      1528153200
+    ]
+  },
+  "755-landslide-in-south-africa-activation": {
+    "TypeofEvent:": [
+      "floods,l&slides"
+    ],
+    "LocationofEvent:": [
+      "southafrica"
+    ],
+    "DateofCharterActivation:": [
+      1649804400
+    ],
+    "TimeofCharterActivation:": [
+      "13:35"
+    ],
+    "CharterRequestor:": [
+      "nationaldisastermanagementcentre"
+    ],
+    "ActivationID:": [
+      "755"
+    ],
+    "ProjectManagement:": [
+      "sansa"
+    ],
+    "Source:": [
+      "pleiades",
+      "worldview3",
+      "kompsat3",
+      "newsat",
+      "worldview2",
+      "geoeye1",
+      "worldview1"
+    ],
+    "Acquired:": [
+      1649890800,
+      1650409200,
+      1650495600,
+      1649804400,
+      1649977200
+    ]
+  },
+  "560-earthquake-in-korea-republic-of-activation": {
+    "TypeofEvent:": [
+      "earthquake"
+    ],
+    "LocationofEvent:": [
+      "southkorea"
+    ],
+    "DateofCharterActivation:": [
+      1510704000
+    ],
+    "TimeofCharterActivation:": [
+      "18:02"
+    ],
+    "CharterRequestor:": [
+      "ndmi"
+    ],
+    "ActivationID:": [
+      "560"
+    ],
+    "ProjectManagement:": [
+      "kari"
+    ],
+    "Source:": [
+      "pleiades"
+    ],
+    "Acquired:": [
+      1510790400
+    ]
+  },
+  "772-flood-large-in-pakistan-activation": {
+    "TypeofEvent:": [
+      "floods"
+    ],
+    "LocationofEvent:": [
+      "pakistan"
+    ],
+    "DateofCharterActivation:": [
+      1661814000
+    ],
+    "TimeofCharterActivation:": [
+      "15:35"
+    ],
+    "CharterRequestor:": [
+      "unitaronbehalfofunitednationsofficeforthecoordinationofhumanitarianaffairs(ocha)|regionalofficeforasia&thepacific"
+    ],
+    "ActivationID:": [
+      "772"
+    ],
+    "ProjectManagement:": [
+      "unitar"
+    ],
+    "Source:": [
+      "suominpp",
+      "sentinel2",
+      "planetscope",
+      "spot6",
+      "worldview3",
+      "worldview2",
+      "geoeye",
+      "jilin01opticala",
+      "geoeye1",
+      "noaa"
+    ],
+    "Acquired:": [
+      1665442800,
+      1664665200,
+      1664146800,
+      1663714800,
+      1663887600,
+      1663110000,
+      1661900400,
+      1661986800,
+      1613347200,
+      1661727600,
+      1661554800,
+      1661641200
+    ]
+  },
+  "647-storm-hurricane-urban-in-vanuatu-activation": {
+    "TypeofEvent:": [
+      "cyclone"
+    ],
+    "LocationofEvent:": [
+      "vanuatu"
+    ],
+    "DateofCharterActivation:": [
+      1585868400
+    ],
+    "TimeofCharterActivation:": [
+      "15:58"
+    ],
+    "CharterRequestor:": [
+      "unitaronbehalfofunitednationsofficeforthecoordinationofhumanitarianaffairs(ocha)|regionalofficeforasia&thepacific(roap)"
+    ],
+    "ActivationID:": [
+      "647"
+    ],
+    "ProjectManagement:": [
+      "unitar",
+      "unosat"
+    ],
+    "Source:": [
+      "noaa",
+      "pleiades",
+      "worldview2",
+      "worldview1",
+      "resursp",
+      "worldview3"
+    ],
+    "Acquired:": [
+      1595804400,
+      1587423600,
+      1587942000,
+      1587078000,
+      1587250800,
+      1587337200,
+      1586732400,
+      1586214000,
+      1586300400,
+      1586386800,
+      1586473200,
+      1586646000,
+      1554246000,
+      1550966400
+    ]
+  },
+  "742-flood-large-in-brazil-activation": {
+    "TypeofEvent:": [],
+    "LocationofEvent:": [
+      "brazil"
+    ],
+    "DateofCharterActivation:": [
+      1640822400
+    ],
+    "TimeofCharterActivation:": [
+      "10:32"
+    ],
+    "CharterRequestor:": [
+      "cenad"
+    ],
+    "ActivationID:": [
+      "742"
+    ],
+    "ProjectManagement:": [
+      "inpe"
+    ],
+    "Source:": [
+      "pleiades",
+      "cbers4a",
+      "worldview3",
+      "worldview2"
+    ],
+    "Acquired:": [
+      1641168000,
+      1632956400,
+      1633561200,
+      1614988800,
+      1640908800,
+      1615075200,
+      1640995200,
+      1620860400
+    ]
+  },
+  "636-lost-aircraft-in-chile-activation": {
+    "TypeofEvent:": [
+      "other-missingaircraft"
+    ],
+    "LocationofEvent:": [
+      "chile"
+    ],
+    "DateofCharterActivation:": [
+      1575936000
+    ],
+    "TimeofCharterActivation:": [
+      "08:30"
+    ],
+    "CharterRequestor:": [
+      "ministryofinterior&publicsafety(onemi)"
+    ],
+    "ActivationID:": [
+      "636"
+    ],
+    "ProjectManagement:": [
+      "centrodeinformaciónderecursosnaturales(ciren)"
+    ],
+    "Source:": [
+      "sentinel1",
+      "alos2",
+      "terrasarx",
+      "radarsat2"
+    ],
+    "Acquired:": [
+      1576195200,
+      1576022400,
+      1576108800
+    ]
+  },
+  "761-volcano-in-philippines-activation": {
+    "TypeofEvent:": [],
+    "LocationofEvent:": [
+      "philippines"
+    ],
+    "DateofCharterActivation:": [
+      1655074800
+    ],
+    "TimeofCharterActivation:": [
+      "20:46"
+    ],
+    "CharterRequestor:": [
+      "adrconbehalfofphivolcs"
+    ],
+    "ActivationID:": [
+      "761"
+    ],
+    "ProjectManagement:": [
+      "phivolcs"
+    ],
+    "Source:": [
+      "spot6",
+      "sentinel2",
+      "planetscope",
+      "kompsat3a"
+    ],
+    "Acquired:": [
+      1655161200,
+      1655074800,
+      1654470000,
+      1654988400
+    ]
+  },
+  "593-cyclone-in-india-activation": {
+    "TypeofEvent:": [
+      "oceanstorm-cyclone"
+    ],
+    "LocationofEvent:": [
+      "india"
+    ],
+    "DateofCharterActivation:": [
+      1545004800
+    ],
+    "TimeofCharterActivation:": [
+      "12:38"
+    ],
+    "CharterRequestor:": [
+      "isro"
+    ],
+    "ActivationID:": [
+      "593"
+    ],
+    "ProjectManagement:": [
+      "nationalremotesensingcentre(nrsc)"
+    ],
+    "Source:": [
+      "resourcesat2",
+      "ukdmc2"
+    ],
+    "Acquired:": [
+      1521590400
+    ]
+  },
+  "693-flood-flash-in-bolivia-plurinational-state-of-activation": {
+    "TypeofEvent:": [
+      "flashflood"
+    ],
+    "LocationofEvent:": [
+      "bolivia,plurinationalstateof"
+    ],
+    "DateofCharterActivation:": [
+      1609718400
+    ],
+    "TimeofCharterActivation:": [
+      "23:22"
+    ],
+    "CharterRequestor:": [
+      "sinager-sat"
+    ],
+    "ActivationID:": [
+      "693"
+    ],
+    "ProjectManagement:": [
+      "sinager"
+    ],
+    "Source:": [
+      "cbers4a"
+    ],
+    "Acquired:": [
+      1599001200
+    ]
+  },
+  "712-earthquake-in-china-activation": {
+    "TypeofEvent:": [
+      "earthquake"
+    ],
+    "LocationofEvent:": [
+      "china"
+    ],
+    "DateofCharterActivation:": [
+      1621638000
+    ],
+    "TimeofCharterActivation:": [
+      "08:36"
+    ],
+    "CharterRequestor:": [
+      "nationaldisasterreductioncenterofchina(ndrcc)"
+    ],
+    "ActivationID:": [
+      "712"
+    ],
+    "ProjectManagement:": [
+      "cnsa"
+    ],
+    "Source:": [
+      "spot7",
+      "terrasarx"
+    ],
+    "Acquired:": [
+      1622242800,
+      1621724400
+    ]
+  },
+  "670-flood-large-in-russian-federation-activation": {
+    "TypeofEvent:": [
+      "flood"
+    ],
+    "LocationofEvent:": [
+      "russianfederation"
+    ],
+    "DateofCharterActivation:": [
+      1597791600
+    ],
+    "TimeofCharterActivation:": [
+      "15:20"
+    ],
+    "CharterRequestor:": [
+      "ministryoftherussianfederationforcivildefense,emergencies&eliminationofnaturaldisasters(emercom)"
+    ],
+    "ActivationID:": [
+      "670"
+    ],
+    "ProjectManagement:": [
+      "roscosmos"
+    ],
+    "Source:": [
+      "radarsat2",
+      "sentinel2",
+      "noaa20",
+      "kanopus_v",
+      "kanopusv_ik",
+      "noaa",
+      "kanopusv"
+    ],
+    "Acquired:": [
+      1600210800,
+      1601506800,
+      1600729200,
+      1597878000,
+      1597791600,
+      1597964400
+    ]
+  },
+  "623-flood-large-in-india-activation": {
+    "TypeofEvent:": [
+      "floods"
+    ],
+    "LocationofEvent:": [
+      "india"
+    ],
+    "DateofCharterActivation:": [
+      1569798000
+    ],
+    "TimeofCharterActivation:": [
+      "19:22"
+    ],
+    "CharterRequestor:": [
+      "isro"
+    ],
+    "ActivationID:": [
+      "623"
+    ],
+    "ProjectManagement:": [
+      "isro"
+    ],
+    "Source:": [
+      "worldview2",
+      "pleiades",
+      "worldview3",
+      "resourcesat2",
+      "kanopusv",
+      "cbers4",
+      "terrasarx",
+      "radarsat2",
+      "sentinel1",
+      "l",
+      "sat8",
+      "floodingatbhagalpurdistrict",
+      "biharstate",
+      "india"
+    ],
+    "Acquired:": [
+      1557270000,
+      1557097200,
+      1547337600,
+      1570489200,
+      1548547200,
+      1570316400,
+      1570230000,
+      1550016000,
+      1570143600,
+      1569970800,
+      1570057200
+    ]
+  },
+  "716-flood-large-in-sri-lanka-activation": {
+    "TypeofEvent:": [
+      "floods"
+    ],
+    "LocationofEvent:": [
+      "srilanka"
+    ],
+    "DateofCharterActivation:": [
+      1622847600
+    ],
+    "TimeofCharterActivation:": [
+      "17:49"
+    ],
+    "CharterRequestor:": [
+      "adrconbehalfofdisastermanagementcenter(srilanka)"
+    ],
+    "ActivationID:": [
+      "716"
+    ],
+    "ProjectManagement:": [
+      "cgiar"
+    ],
+    "Source:": [
+      "alos2",
+      "tandemx"
+    ],
+    "Acquired:": [
+      1615766400,
+      1623020400
+    ]
+  },
+  "656-landslide-in-myanmar-activation": {
+    "TypeofEvent:": [
+      "l&slide"
+    ],
+    "LocationofEvent:": [
+      "myanmar"
+    ],
+    "DateofCharterActivation:": [
+      1593730800
+    ],
+    "TimeofCharterActivation:": [
+      "13:40"
+    ],
+    "CharterRequestor:": [
+      "ddmministryofsocialwelfare,myanmar"
+    ],
+    "ActivationID:": [
+      "656"
+    ],
+    "ProjectManagement:": [
+      "icimod"
+    ],
+    "Source:": [
+      "t",
+      "emx"
+    ],
+    "Acquired:": [
+      1489622400
+    ]
+  },
+  "737-flood-large-in-sri-lanka-activation": {
+    "TypeofEvent:": [],
+    "LocationofEvent:": [
+      "srilanka"
+    ],
+    "DateofCharterActivation:": [
+      1636675200
+    ],
+    "TimeofCharterActivation:": [
+      "12:55"
+    ],
+    "CharterRequestor:": [
+      "adrconbehalfofdisastermanagementcenter(srilanka)"
+    ],
+    "ActivationID:": [
+      "737"
+    ],
+    "ProjectManagement:": [
+      "jaxa"
+    ],
+    "Source:": [
+      "worldview2",
+      "worldview3",
+      "sentinel2",
+      "alos2",
+      "terrasarx",
+      "rcm"
+    ],
+    "Acquired:": [
+      1637452800,
+      1638057600,
+      1636675200,
+      1637107200,
+      1636848000
+    ]
+  },
+  "680-flood-large-in-viet-nam-activation": {
+    "TypeofEvent:": [
+      "floods"
+    ],
+    "LocationofEvent:": [
+      "vietnam"
+    ],
+    "DateofCharterActivation:": [
+      1602716400
+    ],
+    "TimeofCharterActivation:": [
+      "17:12"
+    ],
+    "CharterRequestor:": [
+      "unitaronbehalfofunitednationsofficeforthecoordinationofhumanitarianaffairs(ocha)"
+    ],
+    "ActivationID:": [
+      "680"
+    ],
+    "ProjectManagement:": [
+      "unitar",
+      "unosat"
+    ],
+    "Source:": [
+      "sentinel1",
+      "pleiades",
+      "noaa",
+      "kompsat5",
+      "tandemx",
+      "rcm1"
+    ],
+    "Acquired:": [
+      1603494000,
+      1603407600,
+      1603321200,
+      1603148400,
+      1603062000,
+      1603234800,
+      1602975600,
+      1602889200,
+      1602716400
+    ]
+  },
+  "654-flood-large-in-el-salvador-activation": {
+    "TypeofEvent:": [
+      "floods"
+    ],
+    "LocationofEvent:": [
+      "elsalvador"
+    ],
+    "DateofCharterActivation:": [
+      1591052400
+    ],
+    "TimeofCharterActivation:": [
+      "12:59"
+    ],
+    "CharterRequestor:": [
+      "environmentalobservatoryofministryofenvironment&naturalresources"
+    ],
+    "ActivationID:": [
+      "654"
+    ],
+    "ProjectManagement:": [
+      "nationaldisasterreductioncentreofchina"
+    ],
+    "Source:": [
+      "gf3",
+      "sentinel_1a",
+      "gf1",
+      "sentinel1",
+      "gaofen1",
+      "terrasarx"
+    ],
+    "Acquired:": [
+      1591398000,
+      1576108800,
+      1590534000,
+      1591225200,
+      1583107200
+    ]
+  },
+  "677-flood-large-in-niger-activation": {
+    "TypeofEvent:": [
+      "floods"
+    ],
+    "LocationofEvent:": [
+      "niger"
+    ],
+    "DateofCharterActivation:": [
+      1600642800
+    ],
+    "TimeofCharterActivation:": [
+      "10:46"
+    ],
+    "CharterRequestor:": [
+      "unoosa/un-spideronbehalfofdirectiongénéraledelaprotectioncivile(dgpc)-niger"
+    ],
+    "ActivationID:": [
+      "677"
+    ],
+    "ProjectManagement:": [
+      "icubesertit"
+    ],
+    "Source:": [
+      "kompsat3",
+      "sentinel1",
+      "sentinel2",
+      "noaa20",
+      "pleiades",
+      "noaa_20"
+    ],
+    "Acquired:": [
+      1601161200,
+      1599865200,
+      1601593200,
+      1600988400,
+      1600815600,
+      1600124400,
+      1600729200,
+      1600642800
+    ]
+  },
+  "750-flood-large-in-madagascar-activation": {
+    "TypeofEvent:": [
+      "oceanstorm-cyclone"
+    ],
+    "LocationofEvent:": [
+      "madagascar"
+    ],
+    "DateofCharterActivation:": [
+      1643932800
+    ],
+    "TimeofCharterActivation:": [
+      "19:52"
+    ],
+    "CharterRequestor:": [
+      "unitaronbehalfofunitednationsofficeforthecoordinationofhumanitarianaffairs¦regionalofficeforsouthern&amp;easternafrica"
+    ],
+    "ActivationID:": [
+      "750"
+    ],
+    "ProjectManagement:": [
+      "unitar"
+    ],
+    "Source:": [
+      "sentinel2",
+      "pleiades",
+      "sentinel1",
+      "terrasarx",
+      "rcm"
+    ],
+    "Acquired:": [
+      1645056000,
+      1645228800,
+      1644969600,
+      1644883200,
+      1644278400,
+      1644192000
+    ]
+  },
+  "675-flood-large-in-sudan-activation": {
+    "TypeofEvent:": [
+      "floods"
+    ],
+    "LocationofEvent:": [
+      "sudan"
+    ],
+    "DateofCharterActivation:": [
+      1599433200
+    ],
+    "TimeofCharterActivation:": [
+      "10:52"
+    ],
+    "CharterRequestor:": [
+      "ministryofagriculture&naturalresourcesinsudan"
+    ],
+    "ActivationID:": [
+      "675"
+    ],
+    "ProjectManagement:": [
+      "dlr"
+    ],
+    "Source:": [
+      "suominpp",
+      "terrasarx",
+      "sentinel2",
+      "pleiades",
+      "noaa20",
+      "viirssnpp",
+      "viirs"
+    ],
+    "Acquired:": [
+      1600124400,
+      1599692400,
+      1599606000,
+      1599519600,
+      1599174000,
+      1599433200,
+      1599346800
+    ]
+  },
+  "711-earthquake-in-china-activation": {
+    "TypeofEvent:": [
+      "earthquake"
+    ],
+    "LocationofEvent:": [
+      "china"
+    ],
+    "DateofCharterActivation:": [
+      1621638000
+    ],
+    "TimeofCharterActivation:": [
+      "08:26"
+    ],
+    "CharterRequestor:": [
+      "nationaldisasterreductioncenterofchina(ndrcc)"
+    ],
+    "ActivationID:": [
+      "711"
+    ],
+    "ProjectManagement:": [
+      "cnsa"
+    ],
+    "Source:": [
+      "gf1",
+      "iceyex2"
+    ],
+    "Acquired:": [
+      1604707200
+    ]
+  },
+  "617-flood-large-in-sudan-activation": {
+    "TypeofEvent:": [
+      "flood"
+    ],
+    "LocationofEvent:": [
+      "sudan"
+    ],
+    "DateofCharterActivation:": [
+      1566774000
+    ],
+    "TimeofCharterActivation:": [
+      "12:33"
+    ],
+    "CharterRequestor:": [
+      "unitar/unosatonbehalfofunocha&amp;unicef"
+    ],
+    "ActivationID:": [
+      "617"
+    ],
+    "ProjectManagement:": [
+      "unitar",
+      "unosat"
+    ],
+    "Source:": [
+      "pleiades",
+      "spot6",
+      "sentinel2",
+      "radarsat2",
+      "suominpp"
+    ],
+    "Acquired:": [
+      1566946800,
+      1565910000,
+      1566860400
+    ]
+  },
+  "568-cyclone-in-new-caledonia-activation": {
+    "TypeofEvent:": [
+      "oceanstorm-cyclone"
+    ],
+    "LocationofEvent:": [
+      "newcaledonia"
+    ],
+    "DateofCharterActivation:": [
+      1520467200
+    ],
+    "TimeofCharterActivation:": [
+      "17:20"
+    ],
+    "CharterRequestor:": [
+      "directiondelasécuritécivileetdelagestiondesrisques"
+    ],
+    "ActivationID:": [
+      "568"
+    ],
+    "ProjectManagement:": [
+      "governmentofnewcaledonia"
+    ],
+    "Source:": [
+      "pleiades"
+    ],
+    "Acquired:": [
+      1520726400,
+      1520899200
+    ]
+  },
+  "793-oil-spill-in-mauritius-activation": {
+    "TypeofEvent:": [
+      "oilspill"
+    ],
+    "LocationofEvent:": [
+      "mauritius"
+    ],
+    "DateofCharterActivation:": [
+      1671494400
+    ],
+    "TimeofCharterActivation:": [
+      "12:13"
+    ],
+    "CharterRequestor:": [
+      "unitaronbehalfofunitednationsenvironmentprogramme"
+    ],
+    "ActivationID:": [
+      "793"
+    ],
+    "ProjectManagement:": [
+      "teodorohunger"
+    ],
+    "Source:": [
+      "terrasarx",
+      "worldview3",
+      "kompsat5",
+      "pleiades",
+      "radarsat2"
+    ],
+    "Acquired:": [
+      1671580800,
+      1671753600
+    ]
+  },
+  "798-earthquake-in-syrian-arab-republic-activation": {
+    "TypeofEvent:": [
+      "earthquake"
+    ],
+    "LocationofEvent:": [
+      "syrianarabrepublic"
+    ],
+    "DateofCharterActivation:": [
+      1675641600
+    ],
+    "TimeofCharterActivation:": [
+      "09:29"
+    ],
+    "CharterRequestor:": [
+      "unitaronbehalfofinternationalfederationofredcross&redcrescentsocieties."
+    ],
+    "ActivationID:": [
+      "798"
+    ],
+    "ProjectManagement:": [
+      "unitar",
+      "unosat"
+    ],
+    "Source:": [
+      "worldview3",
+      "pleiades",
+      "worldview2",
+      "sdgsat1",
+      "suominpp",
+      "yangwang1",
+      "geoeye1",
+      "sentinel2",
+      "worldview",
+      "kompsat3"
+    ],
+    "Acquired:": [
+      1676505600,
+      1676419200,
+      1674691200,
+      1666911600,
+      1661814000,
+      1676073600,
+      1658790000,
+      1675900800,
+      1661209200,
+      1665356400,
+      1670284800,
+      1675728000,
+      1674259200,
+      1655593200
+    ]
+  },
+  "634-storm-hurricane-urban-in-philippines-activation": {
+    "TypeofEvent:": [
+      "cyclone"
+    ],
+    "LocationofEvent:": [
+      "philippines"
+    ],
+    "DateofCharterActivation:": [
+      1575244800
+    ],
+    "TimeofCharterActivation:": [
+      "09:56"
+    ],
+    "CharterRequestor:": [
+      "unitaronbehalfofunitednationsofficeforthecoordinationofhumanitarianaffairs(ocha)-bangkok"
+    ],
+    "ActivationID:": [
+      "634"
+    ],
+    "ProjectManagement:": [
+      "argans"
+    ],
+    "Source:": [
+      "pleiades"
+    ],
+    "Acquired:": [
+      1576108800
+    ]
+  },
+  "643-flood-large-in-madagascar-activation": {
+    "TypeofEvent:": [
+      "flood"
+    ],
+    "LocationofEvent:": [
+      "madagascar"
+    ],
+    "DateofCharterActivation:": [
+      1580083200
+    ],
+    "TimeofCharterActivation:": [
+      "12:19"
+    ],
+    "CharterRequestor:": [
+      "bureaunationaldegestiondesrisquesetdescatastrophes(bngrc)généraldebrigadeelackolivierandriakaja"
+    ],
+    "ActivationID:": [
+      "643"
+    ],
+    "ProjectManagement:": [
+      "sertit"
+    ],
+    "Source:": [
+      "sentinel_2a",
+      "sentinel2",
+      "sentinel1",
+      "l",
+      "sat8",
+      "worldview3",
+      "resursp",
+      "kshmsa_vr",
+      "suominpp",
+      "kanopusv",
+      "bka",
+      "terrasarx",
+      "alos2"
+    ],
+    "Acquired:": [
+      1581120000,
+      1591570800,
+      1581033600,
+      1580860800,
+      1580428800,
+      1571612400,
+      1583712000,
+      1583107200,
+      1582848000,
+      1583280000,
+      1582070400,
+      1582243200,
+      1572307200,
+      1581465600,
+      1581206400,
+      1581292800,
+      1580947200,
+      1580688000,
+      1580515200,
+      1580256000,
+      1580601600,
+      1579392000,
+      1578960000,
+      1579996800,
+      1559257200,
+      1207263600,
+      1579737600,
+      1580083200
+    ]
+  },
+  "565-flood-in-bolivia-plurinational-state-of-activation": {
+    "TypeofEvent:": [
+      "flood"
+    ],
+    "LocationofEvent:": [
+      "bolivia"
+    ],
+    "DateofCharterActivation:": [
+      1518048000
+    ],
+    "TimeofCharterActivation:": [
+      "22:12"
+    ],
+    "CharterRequestor:": [
+      "uob/sinager/videci"
+    ],
+    "ActivationID:": [
+      "565"
+    ],
+    "ProjectManagement:": [
+      "abae"
+    ],
+    "Source:": [
+      "pleiades",
+      "terrasarx",
+      "radarsat2",
+      "sentinel1"
+    ],
+    "Acquired:": [
+      1518134400,
+      1518825600,
+      1519084800,
+      1518393600,
+      1518220800
+    ]
+  },
+  "562-volcano-in-philippines-activation": {
+    "TypeofEvent:": [
+      "volcano"
+    ],
+    "LocationofEvent:": [
+      "philippines"
+    ],
+    "DateofCharterActivation:": [
+      1516060800
+    ],
+    "TimeofCharterActivation:": [
+      "07:13"
+    ],
+    "CharterRequestor:": [
+      "adrc"
+    ],
+    "ActivationID:": [
+      "562"
+    ],
+    "ProjectManagement:": [
+      "jaxa"
+    ],
+    "Source:": [
+      "ukdmc2",
+      "rapideye"
+    ],
+    "Acquired:": [
+      1516665600,
+      1513900800
+    ]
+  },
+  "674-storm-hurricane-rural-in-japan-activation": {
+    "TypeofEvent:": [
+      "cyclone"
+    ],
+    "LocationofEvent:": [
+      "japan"
+    ],
+    "DateofCharterActivation:": [
+      1599174000
+    ],
+    "TimeofCharterActivation:": [
+      "21:35"
+    ],
+    "CharterRequestor:": [
+      "adrc"
+    ],
+    "ActivationID:": [
+      "674"
+    ],
+    "ProjectManagement:": [
+      "yamaguchiuniversity"
+    ],
+    "Source:": [
+      "kanopus_v",
+      "cbers4",
+      "sentinel1",
+      "terrasarx",
+      "rcm1",
+      "pleiades",
+      "sentinel2"
+    ],
+    "Acquired:": [
+      1599606000,
+      1599519600,
+      1599433200,
+      1594162800,
+      1599692400
+    ]
+  },
+  "561-find-and-rescue-of-submarine-at-sea-in-argentina-activation": {
+    "TypeofEvent:": [
+      "other-missingsubmarine"
+    ],
+    "LocationofEvent:": [
+      "argentina"
+    ],
+    "DateofCharterActivation:": [
+      1510876800
+    ],
+    "TimeofCharterActivation:": [
+      "19:49"
+    ],
+    "CharterRequestor:": [
+      "sifem–secretaríanacionaldeproteccióncivildeargentina"
+    ],
+    "ActivationID:": [
+      "561"
+    ],
+    "ProjectManagement:": [
+      "conae"
+    ],
+    "Source:": [
+      "radarsat2",
+      "amp",
+      "terrasarx"
+    ],
+    "Acquired:": [
+      1511136000,
+      1511481600
+    ]
+  },
+  "601-flood-in-iran-islamic-republic-of-activation": {
+    "TypeofEvent:": [
+      "floods"
+    ],
+    "LocationofEvent:": [
+      "iran,islamicrepublicof"
+    ],
+    "DateofCharterActivation:": [
+      1553990400
+    ],
+    "TimeofCharterActivation:": [
+      "09:58"
+    ],
+    "CharterRequestor:": [
+      "unoosaonbehalfofiranianspaceagency"
+    ],
+    "ActivationID:": [
+      "601"
+    ],
+    "ProjectManagement:": [
+      "islamicrepublicofiranun-spiderregionalsupportoffice"
+    ],
+    "Source:": [
+      "alos2",
+      "pleiades"
+    ],
+    "Acquired:": [
+      1554159600
+    ]
+  },
+  "774-flood-large-in-russian-federation-activation": {
+    "TypeofEvent:": [],
+    "LocationofEvent:": [
+      "russianfederation"
+    ],
+    "DateofCharterActivation:": [
+      1662246000
+    ],
+    "TimeofCharterActivation:": [
+      "20:16"
+    ],
+    "CharterRequestor:": [
+      "ministryoftherussianfederationforcivildefense,emergencies&eliminationofnaturaldisasters(emercom)"
+    ],
+    "ActivationID:": [
+      "774"
+    ],
+    "ProjectManagement:": [
+      "andreykuklin"
+    ],
+    "Source:": [],
+    "Acquired:": []
+  },
+  "650-flood-large-in-somalia-activation": {
+    "TypeofEvent:": [
+      "floods"
+    ],
+    "LocationofEvent:": [
+      "somalia"
+    ],
+    "DateofCharterActivation:": [
+      1588028400
+    ],
+    "TimeofCharterActivation:": [
+      "11:54"
+    ],
+    "CharterRequestor:": [
+      "unitaronbehalfoffood&agricultureorganizationoftheunitednations,fao-somalia"
+    ],
+    "ActivationID:": [
+      "650"
+    ],
+    "ProjectManagement:": [
+      "unitar",
+      "unosat"
+    ],
+    "Source:": [
+      "iceyex4",
+      "noaa20",
+      "worldview2",
+      "pleiades"
+    ],
+    "Acquired:": [
+      1589583600,
+      1589324400,
+      1588287600
+    ]
+  },
+  "672-flood-flash-in-cameroon-activation": {
+    "TypeofEvent:": [
+      "flood"
+    ],
+    "LocationofEvent:": [
+      "cameroon"
+    ],
+    "DateofCharterActivation:": [
+      1598223600
+    ],
+    "TimeofCharterActivation:": [
+      "15:37"
+    ],
+    "CharterRequestor:": [
+      "unitaronbehalfofocha-cameroonoffice"
+    ],
+    "ActivationID:": [
+      "672"
+    ],
+    "ProjectManagement:": [
+      "unitar"
+    ],
+    "Source:": [
+      "pleiades",
+      "geoeye"
+    ],
+    "Acquired:": [
+      1598742000,
+      1598482800,
+      1575244800
+    ]
+  },
+  "631-fire-in-australia-activation": {
+    "TypeofEvent:": [
+      "fire"
+    ],
+    "LocationofEvent:": [
+      "australia"
+    ],
+    "DateofCharterActivation:": [
+      1573603200
+    ],
+    "TimeofCharterActivation:": [
+      "15:05"
+    ],
+    "CharterRequestor:": [
+      "geoscienceaustraliaonbehalfofemergencymanagementaustraliacrisiscoordinationcentre(ccc)&newsouthwalesruralfireservice(nswrfs)"
+    ],
+    "ActivationID:": [
+      "631"
+    ],
+    "ProjectManagement:": [
+      "geoscienceaustralia"
+    ],
+    "Source:": [
+      "sentinel2",
+      "l",
+      "sat8"
+    ],
+    "Acquired:": [
+      1567378800,
+      1571698800
+    ]
+  },
+  "667-flood-large-in-sudan-activation": {
+    "TypeofEvent:": [
+      "flood"
+    ],
+    "LocationofEvent:": [
+      "sudan"
+    ],
+    "DateofCharterActivation:": [
+      1597273200
+    ],
+    "TimeofCharterActivation:": [
+      "15:49"
+    ],
+    "CharterRequestor:": [
+      "unoosa/un-spideronbehalfofministryofagriculture&naturalresourcesinsudan"
+    ],
+    "ActivationID:": [
+      "667"
+    ],
+    "ProjectManagement:": [
+      "ruhr-universitybochum"
+    ],
+    "Source:": [
+      "suominpp",
+      "noaaviirs",
+      "sentinel2",
+      "noaa20",
+      "pleiades",
+      "sentinel1",
+      "cbers4",
+      "kanopusv",
+      "noaa"
+    ],
+    "Acquired:": [
+      1598050800,
+      1592866800,
+      1596927600,
+      1597791600,
+      1597532400,
+      1596322800,
+      1597186800,
+      1597705200,
+      1597618800,
+      1594854000,
+      1597100400,
+      1597446000
+    ]
+  },
+  "633-landslide-in-kenya-activation": {
+    "TypeofEvent:": [
+      "l&slide"
+    ],
+    "LocationofEvent:": [
+      "kenya"
+    ],
+    "DateofCharterActivation:": [
+      1574640000
+    ],
+    "TimeofCharterActivation:": [
+      "02:37"
+    ],
+    "CharterRequestor:": [
+      "nadmoonbehalfofkenyadefenceforces"
+    ],
+    "ActivationID:": [
+      "633"
+    ],
+    "ProjectManagement:": [
+      "nadmo"
+    ],
+    "Source:": [
+      "pleiades",
+      "worldview3"
+    ],
+    "Acquired:": [
+      1574812800,
+      1574899200
+    ]
+  },
+  "578-flood-in-lao-people-s-democratic-republic-activation": {
+    "TypeofEvent:": [
+      "flood"
+    ],
+    "LocationofEvent:": [
+      "laos"
+    ],
+    "DateofCharterActivation:": [
+      1532386800
+    ],
+    "TimeofCharterActivation:": [
+      "14:31"
+    ],
+    "CharterRequestor:": [
+      "unitar-unosatonbehalfofworldfoodprogramme(wfp)&unoosaonbehalfoftheministryofscience&technology&departmentofdisastermanagement&climateoflaos"
+    ],
+    "ActivationID:": [
+      "578"
+    ],
+    "ProjectManagement:": [
+      "unitar",
+      "unosat"
+    ],
+    "Source:": [
+      "kompsat5",
+      "terrasarx",
+      "sentinel1",
+      "alos2",
+      "radarsat2"
+    ],
+    "Acquired:": [
+      1532905200,
+      1532646000,
+      1532473200,
+      1532818800,
+      1531436400,
+      1531177200,
+      1532386800
+    ]
+  },
+  "705-flood-large-in-russian-federation-activation": {
+    "TypeofEvent:": [
+      "flood"
+    ],
+    "LocationofEvent:": [
+      "russianfederation"
+    ],
+    "DateofCharterActivation:": [
+      1618354800
+    ],
+    "TimeofCharterActivation:": [
+      "13:44"
+    ],
+    "CharterRequestor:": [
+      "ministryoftherussianfederationforcivildefense,emergencies&eliminationofnaturaldisasters(emercom)"
+    ],
+    "ActivationID:": [
+      "705"
+    ],
+    "ProjectManagement:": [
+      "roscosmos"
+    ],
+    "Source:": [
+      "resursp"
+    ],
+    "Acquired:": [
+      1619132400
+    ]
+  },
+  "641-snow-hazard-in-pakistan-activation": {
+    "TypeofEvent:": [
+      "snowhazard"
+    ],
+    "LocationofEvent:": [
+      "pakistan"
+    ],
+    "DateofCharterActivation:": [
+      1579651200
+    ],
+    "TimeofCharterActivation:": [
+      "18:33"
+    ],
+    "CharterRequestor:": [
+      "unitaronbehalfofunochapakistan"
+    ],
+    "ActivationID:": [
+      "641"
+    ],
+    "ProjectManagement:": [
+      "unitar",
+      "unosat"
+    ],
+    "Source:": [
+      "sentinel2",
+      "modis"
+    ],
+    "Acquired:": [
+      1580169600,
+      1579910400,
+      1579478400,
+      1580083200
+    ]
+  },
+  "759-oil-spill-in-gambia-activation": {
+    "TypeofEvent:": [],
+    "LocationofEvent:": [
+      "gambia"
+    ],
+    "DateofCharterActivation:": [
+      1654297200
+    ],
+    "TimeofCharterActivation:": [
+      "19:41"
+    ],
+    "CharterRequestor:": [
+      "unitaronbehalfofunitednationsocharowca"
+    ],
+    "ActivationID:": [
+      "759"
+    ],
+    "ProjectManagement:": [
+      "unosat"
+    ],
+    "Source:": [
+      "pleiades",
+      "sentinel1"
+    ],
+    "Acquired:": [
+      1654642800,
+      1653778800
+    ]
+  },
+  "585-cyclone-in-united-states-activation": {
+    "TypeofEvent:": [
+      "oceanstorm-hurricane"
+    ],
+    "LocationofEvent:": [
+      "unitedstates"
+    ],
+    "DateofCharterActivation:": [
+      1536620400
+    ],
+    "TimeofCharterActivation:": [
+      "17:03"
+    ],
+    "CharterRequestor:": [
+      "usgeologicalsurveyonbehalfofusfederalemergencymanagementagency(fema)"
+    ],
+    "ActivationID:": [
+      "585"
+    ],
+    "ProjectManagement:": [
+      "universityoflouisianaatlafayetteregionalapplicationcenter(rac)"
+    ],
+    "Source:": [
+      "sentinel2",
+      "terrasarx"
+    ],
+    "Acquired:": [
+      1533769200
+    ]
+  },
+  "644-flood-large-in-bolivia-plurinational-state-of-activation": {
+    "TypeofEvent:": [
+      "floods"
+    ],
+    "LocationofEvent:": [
+      "bolivia,plurinationalstateof"
+    ],
+    "DateofCharterActivation:": [
+      1582588800
+    ],
+    "TimeofCharterActivation:": [
+      "20:57"
+    ],
+    "CharterRequestor:": [
+      "sinager-sat/videci"
+    ],
+    "ActivationID:": [
+      "644"
+    ],
+    "ProjectManagement:": [
+      "bolivianspaceagency"
+    ],
+    "Source:": [
+      "l",
+      "sat5",
+      "sat8",
+      "terrasarx",
+      "kanopusv",
+      "pleiades"
+    ],
+    "Acquired:": [
+      1582675200,
+      1582416000,
+      1582761600
+    ]
+  },
+  "800-flood-flash-in-eswatini-activation": {
+    "TypeofEvent:": [
+      "floods"
+    ],
+    "LocationofEvent:": [
+      "eswatini"
+    ],
+    "DateofCharterActivation:": [
+      1676073600
+    ],
+    "TimeofCharterActivation:": [
+      "00:15"
+    ],
+    "CharterRequestor:": [
+      "ndma"
+    ],
+    "ActivationID:": [
+      "800"
+    ],
+    "ProjectManagement:": [
+      "sibusisoginindza"
+    ],
+    "Source:": [],
+    "Acquired:": []
+  },
+  "780-storm-hurricane-rural-in-dominican-republic-activation": {
+    "TypeofEvent:": [
+      "floods"
+    ],
+    "LocationofEvent:": [
+      "dominicanrepublic"
+    ],
+    "DateofCharterActivation:": [
+      1663628400
+    ],
+    "TimeofCharterActivation:": [
+      "18:22"
+    ],
+    "CharterRequestor:": [
+      "unoosa/un-spideronbehalfofnationalemergencycommisionofthedominicanrepublic"
+    ],
+    "ActivationID:": [
+      "780"
+    ],
+    "ProjectManagement:": [
+      "rameshsivanpillai"
+    ],
+    "Source:": [
+      "sentinel2"
+    ],
+    "Acquired:": [
+      1663801200,
+      1663628400
+    ]
+  },
+  "614-flood-large-in-russian-federation-activation": {
+    "TypeofEvent:": [],
+    "LocationofEvent:": [
+      "russianfederation"
+    ],
+    "DateofCharterActivation:": [
+      1563922800
+    ],
+    "TimeofCharterActivation:": [
+      "15:54"
+    ],
+    "CharterRequestor:": [
+      "ministryoftherussianfederationforcivildefense,emergencies&eliminationofnaturaldisasters(emercom)"
+    ],
+    "ActivationID:": [
+      "614"
+    ],
+    "ProjectManagement:": [
+      "ntsomz"
+    ],
+    "Source:": [
+      "l",
+      "sat8",
+      "sentinel1"
+    ],
+    "Acquired:": [
+      1564354800,
+      1563922800
+    ]
+  },
+  "662-flood-flash-in-indonesia-activation": {
+    "TypeofEvent:": [
+      "flood"
+    ],
+    "LocationofEvent:": [
+      "indonesia"
+    ],
+    "DateofCharterActivation:": [
+      1594854000
+    ],
+    "TimeofCharterActivation:": [
+      "09:54"
+    ],
+    "CharterRequestor:": [
+      "adrconbehalfofindonesiannationalinstituteofaeronautics&space(lapan)"
+    ],
+    "ActivationID:": [
+      "662"
+    ],
+    "ProjectManagement:": [
+      "asianinstituteoftechnology(ait)"
+    ],
+    "Source:": [
+      "pleiades",
+      "pleaides",
+      "planetscope",
+      "worldview2",
+      "rcm1",
+      "tandemx",
+      "terrasarx",
+      "spot6"
+    ],
+    "Acquired:": [
+      1594940400,
+      1594422000,
+      1595026800,
+      1309993200,
+      1586991600
+    ]
+  },
+  "620-storm-hurricane-urban-in-bahamas-activation": {
+    "TypeofEvent:": [
+      "cyclone"
+    ],
+    "LocationofEvent:": [
+      "bahamas"
+    ],
+    "DateofCharterActivation:": [
+      1567551600
+    ],
+    "TimeofCharterActivation:": [
+      "14:08"
+    ],
+    "CharterRequestor:": [
+      "erosonbehalfofthebahamasnationalemergencymanagementadministration(nema)"
+    ],
+    "ActivationID:": [
+      "620"
+    ],
+    "ProjectManagement:": [
+      "universityoflouisianaatlafayette"
+    ],
+    "Source:": [
+      "planetscope",
+      "kanopusv",
+      "worldview3",
+      "sentinel1",
+      "suominpp",
+      "noaa20",
+      "amp",
+      "goes16",
+      "kompsat5",
+      "pleiades"
+    ],
+    "Acquired:": [
+      1568674800,
+      1567810800,
+      1568415600,
+      1568070000,
+      1567638000,
+      1567551600,
+      1563058800,
+      1560207600,
+      1565823600
+    ]
+  },
+  "707-flood-large-in-russian-federation-activation": {
+    "TypeofEvent:": [
+      "flood"
+    ],
+    "LocationofEvent:": [
+      "russianfederation"
+    ],
+    "DateofCharterActivation:": [
+      1620342000
+    ],
+    "TimeofCharterActivation:": [
+      "14:09"
+    ],
+    "CharterRequestor:": [
+      "ministryoftherussianfederationforcivildefense,emergencies&eliminationofnaturaldisasters(emercom)"
+    ],
+    "ActivationID:": [
+      "707"
+    ],
+    "ProjectManagement:": [
+      "roscosmos"
+    ],
+    "Source:": [
+      "resursp"
+    ],
+    "Acquired:": [
+      1621206000
+    ]
+  },
+  "703-volcano-in-saint-vincent-and-the-grenadines-activation": {
+    "TypeofEvent:": [
+      "volcano"
+    ],
+    "LocationofEvent:": [
+      "saintvincentandthegrenadines"
+    ],
+    "DateofCharterActivation:": [
+      1617922800
+    ],
+    "TimeofCharterActivation:": [
+      "19:44"
+    ],
+    "CharterRequestor:": [
+      "unitaronbehalfofwfp"
+    ],
+    "ActivationID:": [
+      "703"
+    ],
+    "ProjectManagement:": [
+      "unitar"
+    ],
+    "Source:": [
+      "worldview1",
+      "worldview3",
+      "rcm1",
+      "rcm3",
+      "sentinel2",
+      "rcm",
+      "saocom1a",
+      "pleiades",
+      "radarsat2",
+      "terrasarx"
+    ],
+    "Acquired:": [
+      1618441200,
+      1618354800,
+      1618700400,
+      1618527600,
+      1618614000,
+      1618095600,
+      1618268400,
+      1618182000,
+      1616198400
+    ]
+  },
+  "738-oil-spill-in-philippines-activation": {
+    "TypeofEvent:": [],
+    "LocationofEvent:": [
+      "philippines"
+    ],
+    "DateofCharterActivation:": [
+      1637712000
+    ],
+    "TimeofCharterActivation:": [
+      "21:24"
+    ],
+    "CharterRequestor:": [
+      "adrconbehalfofphivolcs"
+    ],
+    "ActivationID:": [
+      "738"
+    ],
+    "ProjectManagement:": [
+      "phivolcs"
+    ],
+    "Source:": [
+      "planetscope",
+      "sentinel2",
+      "pleiades"
+    ],
+    "Acquired:": [
+      1637539200,
+      1637452800,
+      1637366400,
+      1637193600,
+      1636329600,
+      1638403200
+    ]
+  },
+  "801-flood-large-in-mozambique-activation": {
+    "TypeofEvent:": [
+      "floods"
+    ],
+    "LocationofEvent:": [
+      "mozambique"
+    ],
+    "DateofCharterActivation:": [
+      1676505600
+    ],
+    "TimeofCharterActivation:": [
+      "14:29"
+    ],
+    "CharterRequestor:": [
+      "unoosa/un-spideronbehalfofnationaldisasterriskmanagementinstituteofmozambique(ingd)"
+    ],
+    "ActivationID:": [
+      "801"
+    ],
+    "ProjectManagement:": [
+      "girirajamarnath"
+    ],
+    "Source:": [
+      "noaa20",
+      "sentinel1",
+      "rcm",
+      "terrasarx"
+    ],
+    "Acquired:": [
+      1676505600,
+      1676851200,
+      1675900800,
+      1676246400,
+      1676937600,
+      1673827200,
+      1676678400,
+      1676764800
+    ]
+  },
+  "804-landslide-in-madagascar-activation": {
+    "TypeofEvent:": [
+      "cyclones"
+    ],
+    "LocationofEvent:": [
+      "madagascar"
+    ],
+    "DateofCharterActivation:": [
+      1676937600
+    ],
+    "TimeofCharterActivation:": [
+      "19:25"
+    ],
+    "CharterRequestor:": [
+      "bureaunationaldegestiondesrisquesetdescatastrophes(bngrc)"
+    ],
+    "ActivationID:": [
+      "804"
+    ],
+    "ProjectManagement:": [
+      "stephencl",
+      "illon"
+    ],
+    "Source:": [
+      "pleiades",
+      "sentinel2",
+      "terrasarx"
+    ],
+    "Acquired:": [
+      1677628800,
+      1677196800,
+      1677110400
+    ]
+  },
+  "690-storm-hurricane-rural-in-sri-lanka-activation": {
+    "TypeofEvent:": [
+      "oceanstorm-cyclone"
+    ],
+    "LocationofEvent:": [
+      "srilanka"
+    ],
+    "DateofCharterActivation:": [
+      1606867200
+    ],
+    "TimeofCharterActivation:": [
+      "09:48"
+    ],
+    "CharterRequestor:": [
+      "disastermanagementcenter–srilanka"
+    ],
+    "ActivationID:": [
+      "690"
+    ],
+    "ProjectManagement:": [
+      "internationalwatermanagementinstitute"
+    ],
+    "Source:": [
+      "terrasarx",
+      "rcm3",
+      "sentinel1"
+    ],
+    "Acquired:": [
+      1607126400,
+      1606521600,
+      1607040000,
+      1606953600,
+      1606867200
+    ]
+  },
+  "751-flood-flash-in-brazil-activation": {
+    "TypeofEvent:": [
+      "floods,l&slides"
+    ],
+    "LocationofEvent:": [
+      "brazil"
+    ],
+    "DateofCharterActivation:": [
+      1644969600
+    ],
+    "TimeofCharterActivation:": [
+      "16:24"
+    ],
+    "CharterRequestor:": [
+      "cenad(centronacionaldegerenciamentoderiscosedesastres)"
+    ],
+    "ActivationID:": [
+      "751"
+    ],
+    "ProjectManagement:": [
+      "cenad"
+    ],
+    "Source:": [
+      "pleiades",
+      "cbers4a"
+    ],
+    "Acquired:": [
+      1645056000,
+      1640563200
+    ]
+  },
+  "729-earthquake-in-haiti-activation": {
+    "TypeofEvent:": [
+      "earthquake"
+    ],
+    "LocationofEvent:": [
+      "haiti"
+    ],
+    "DateofCharterActivation:": [
+      1628895600
+    ],
+    "TimeofCharterActivation:": [
+      "22:20"
+    ],
+    "CharterRequestor:": [
+      "directiondelaprotectionciviledehaiti"
+    ],
+    "ActivationID:": [
+      "729"
+    ],
+    "ProjectManagement:": [
+      "icube-sertit"
+    ],
+    "Source:": [
+      "pleiades1",
+      "pleiades",
+      "kanopusv",
+      "worldview3",
+      "worldview2"
+    ],
+    "Acquired:": [
+      1629673200,
+      1629414000,
+      1629068400,
+      1629241200,
+      1628982000
+    ]
+  },
+  "808-storm-hurricane-urban-in-vanuatu-activation": {
+    "TypeofEvent:": [],
+    "LocationofEvent:": [
+      "vanuatu"
+    ],
+    "DateofCharterActivation:": [
+      1677801600
+    ],
+    "TimeofCharterActivation:": [
+      "13:46"
+    ],
+    "CharterRequestor:": [
+      "unitaronbehalfofunitednationsofficeforthecoordinationofhumanitarianaffairs(ocha)|regionalofficeforasia&thepacific"
+    ],
+    "ActivationID:": [
+      "808"
+    ],
+    "ProjectManagement:": [
+      "samirbelabbes"
+    ],
+    "Source:": [
+      "pleiades",
+      "worldview2"
+    ],
+    "Acquired:": [
+      1677888000,
+      1678060800,
+      1657494000
+    ]
+  },
+  "595-flood-in-brazil-activation": {
+    "TypeofEvent:": [
+      "flood"
+    ],
+    "LocationofEvent:": [
+      "brazil"
+    ],
+    "DateofCharterActivation:": [
+      1547337600
+    ],
+    "TimeofCharterActivation:": [
+      "19:11"
+    ],
+    "CharterRequestor:": [
+      "nationalcenterofrisk&disastermanagement–brazil(cenad)"
+    ],
+    "ActivationID:": [
+      "595"
+    ],
+    "ProjectManagement:": [
+      "ministériodaintegraçãonacional"
+    ],
+    "Source:": [
+      "cbers4",
+      "amp",
+      "sentinel1",
+      "radarsat2",
+      "pleiades"
+    ],
+    "Acquired:": [
+      1546387200,
+      1517702400,
+      1547424000
+    ]
+  },
+  "778-flood-large-in-honduras-activation": {
+    "TypeofEvent:": [
+      "floods"
+    ],
+    "LocationofEvent:": [
+      "honduras"
+    ],
+    "DateofCharterActivation:": [
+      1663542000
+    ],
+    "TimeofCharterActivation:": [
+      "17:08"
+    ],
+    "CharterRequestor:": [
+      "copeco"
+    ],
+    "ActivationID:": [
+      "778"
+    ],
+    "ProjectManagement:": [
+      "rafaelmachado"
+    ],
+    "Source:": [
+      "sentinel1",
+      "pleiades",
+      "kompsat3",
+      "sentinel2"
+    ],
+    "Acquired:": [
+      1664319600,
+      1663801200,
+      1663282800,
+      1663714800,
+      1664233200,
+      1663887600,
+      1663455600,
+      1663628400
+    ]
+  },
+  "796-flood-large-in-zambia-activation": {
+    "TypeofEvent:": [],
+    "LocationofEvent:": [
+      "zambia"
+    ],
+    "DateofCharterActivation:": [
+      1675036800
+    ],
+    "TimeofCharterActivation:": [
+      "10:39"
+    ],
+    "CharterRequestor:": [
+      "unoosa/un-spideronbehalfofdisastermanagement&mitigationunit(dmmu)oftheofficeofthevicepresidentofzambia"
+    ],
+    "ActivationID:": [
+      "796"
+    ],
+    "ProjectManagement:": [
+      "girirajamarnath"
+    ],
+    "Source:": [
+      "suominpp",
+      "noaa20",
+      "newsat",
+      "sentinel2",
+      "rcm"
+    ],
+    "Acquired:": [
+      1670025600,
+      1675123200,
+      1675209600,
+      1675036800,
+      1674950400
+    ]
+  },
+  "694-flood-flash-in-morocco-activation": {
+    "TypeofEvent:": [
+      "flashflood"
+    ],
+    "LocationofEvent:": [
+      "morocco"
+    ],
+    "DateofCharterActivation:": [
+      1610409600
+    ],
+    "TimeofCharterActivation:": [
+      "15:30"
+    ],
+    "CharterRequestor:": [
+      "unitaronbehalfofundp"
+    ],
+    "ActivationID:": [
+      "694"
+    ],
+    "ProjectManagement:": [
+      "unitar"
+    ],
+    "Source:": [
+      "pleiades"
+    ],
+    "Acquired:": [
+      1610496000
+    ]
+  },
+  "594-ocean-wave-in-indonesia-activation": {
+    "TypeofEvent:": [
+      "oceanwave"
+    ],
+    "LocationofEvent:": [
+      "indonesia"
+    ],
+    "DateofCharterActivation:": [
+      1545523200
+    ],
+    "TimeofCharterActivation:": [
+      "04:55"
+    ],
+    "CharterRequestor:": [
+      "unitednationsofficeforouterspaceaffairs(unoosa)onbehalfoflapan(un-spiderrso)"
+    ],
+    "ActivationID:": [
+      "594"
+    ],
+    "ProjectManagement:": [
+      "indonesiannationalinstituteofaeronautics",
+      "space(lapan)"
+    ],
+    "Source:": [
+      "terrasarx",
+      "sentinel1",
+      "geoeye",
+      "pleiades",
+      "worldview2"
+    ],
+    "Acquired:": [
+      1535583600,
+      1546041600,
+      1545782400,
+      1532473200,
+      1490569200,
+      1529276400,
+      1525388400,
+      1533510000
+    ]
+  },
+  "664-industrial-accident-in-lebanon-activation": {
+    "TypeofEvent:": [
+      "other-industrialaccident"
+    ],
+    "LocationofEvent:": [
+      "lebanon"
+    ],
+    "DateofCharterActivation:": [
+      1596582000
+    ],
+    "TimeofCharterActivation:": [
+      "16:28"
+    ],
+    "CharterRequestor:": [
+      "centreopérationneldegestioninterministérielledescrises(cogic)"
+    ],
+    "ActivationID:": [
+      "664"
+    ],
+    "ProjectManagement:": [
+      "icube-sertit"
+    ],
+    "Source:": [
+      "pleiades"
+    ],
+    "Acquired:": [
+      1596754800,
+      1596582000
+    ]
+  },
+  "655-oil-spill-in-russian-federation-activation": {
+    "TypeofEvent:": [
+      "oilspill"
+    ],
+    "LocationofEvent:": [
+      "russianfederation"
+    ],
+    "DateofCharterActivation:": [
+      1591225200
+    ],
+    "TimeofCharterActivation:": [
+      "08:54"
+    ],
+    "CharterRequestor:": [
+      "ministryoftherussianfederationforcivildefense,emergencies&eliminationofnaturaldisasters(emercom)"
+    ],
+    "ActivationID:": [
+      "655"
+    ],
+    "ProjectManagement:": [
+      "roscosmos"
+    ],
+    "Source:": [
+      "pleiades",
+      "resursp"
+    ],
+    "Acquired:": [
+      1591570800,
+      1591225200
+    ]
+  },
+  "592-flood-in-iraq-activation": {
+    "TypeofEvent:": [
+      "flood"
+    ],
+    "LocationofEvent:": [
+      "iraq"
+    ],
+    "DateofCharterActivation:": [
+      1543104000
+    ],
+    "TimeofCharterActivation:": [
+      "20:05"
+    ],
+    "CharterRequestor:": [
+      "disasterinformationmanagementcentre/ministryofscience&technology"
+    ],
+    "ActivationID:": [
+      "592"
+    ],
+    "ProjectManagement:": [
+      "zki",
+      "dlr"
+    ],
+    "Source:": [
+      "spot7",
+      "sentinel2",
+      "sentinel1"
+    ],
+    "Acquired:": [
+      1540944000,
+      1543104000,
+      1543190400
+    ]
+  },
+  "754-flood-large-in-brazil-activation": {
+    "TypeofEvent:": [
+      "flood&l&slide"
+    ],
+    "LocationofEvent:": [
+      "brazil"
+    ],
+    "DateofCharterActivation:": [
+      1649113200
+    ],
+    "TimeofCharterActivation:": [
+      "11:01"
+    ],
+    "CharterRequestor:": [
+      "cenad"
+    ],
+    "ActivationID:": [
+      "754"
+    ],
+    "ProjectManagement:": [
+      "cenad"
+    ],
+    "Source:": [
+      "cbers4a",
+      "pleiades",
+      "google",
+      "googlesatellite",
+      "l",
+      "sat9"
+    ],
+    "Acquired:": [
+      1649458800,
+      1629068400,
+      1649372400,
+      1645488000,
+      1648594800,
+      1649286000
+    ]
+  },
+  "795-storm-hurricane-urban-in-madagascar-activation": {
+    "TypeofEvent:": [
+      "tropicalstorm,floods,l&slide"
+    ],
+    "LocationofEvent:": [
+      "madagascar"
+    ],
+    "DateofCharterActivation:": [
+      1674518400
+    ],
+    "TimeofCharterActivation:": [
+      "10:55"
+    ],
+    "CharterRequestor:": [
+      "bureaunationaldegestiondesrisquesetdescatastrophes(bngrc)routedumausoléeantanimora101antananarivomadagascar(bngrc)"
+    ],
+    "ActivationID:": [
+      "795"
+    ],
+    "ProjectManagement:": [
+      "icube-sertit"
+    ],
+    "Source:": [
+      "spot6",
+      "sentinel2",
+      "rcm1",
+      "pleiades",
+      "worldview2",
+      "geoeye1",
+      "spot",
+      "rcm",
+      "sentinel1",
+      "saocom",
+      "terrasarx"
+    ],
+    "Acquired:": [
+      1674950400,
+      1646611200,
+      1675036800,
+      1674777600,
+      1660604400,
+      1674864000,
+      1674345600,
+      1660777200,
+      1672272000,
+      1673136000,
+      1674000000
+    ]
+  },
+  "563-volcano-in-papua-new-guinea-activation": {
+    "TypeofEvent:": [
+      "volcano"
+    ],
+    "LocationofEvent:": [
+      "papuanewguinea"
+    ],
+    "DateofCharterActivation:": [
+      1516579200
+    ],
+    "TimeofCharterActivation:": [
+      "07:22"
+    ],
+    "CharterRequestor:": [
+      "asiandisasterreductioncenter(adrc)onbehalfofnationaldisastercenter(ndc),png"
+    ],
+    "ActivationID:": [
+      "563"
+    ],
+    "ProjectManagement:": [
+      "ait"
+    ],
+    "Source:": [
+      "alos2"
+    ],
+    "Acquired:": [
+      1504652400
+    ]
+  },
+  "658-flood-large-in-nepal-activation": {
+    "TypeofEvent:": [
+      "floods&l&slides"
+    ],
+    "LocationofEvent:": [
+      "nepal"
+    ],
+    "DateofCharterActivation:": [
+      1594162800
+    ],
+    "TimeofCharterActivation:": [
+      "21:37"
+    ],
+    "CharterRequestor:": [
+      "unitaronbehalfofunresidentcoordinator'soffice-humanitarianinformationmanagementunit(himum)"
+    ],
+    "ActivationID:": [
+      "658"
+    ],
+    "ProjectManagement:": [
+      "unitar"
+    ],
+    "Source:": [
+      "sentinel1",
+      "terrasarx",
+      "radarsat2"
+    ],
+    "Acquired:": [
+      1595977200,
+      1594508400,
+      1593990000
+    ]
+  },
+  "603-flood-in-iraq-activation": {
+    "TypeofEvent:": [
+      "flood"
+    ],
+    "LocationofEvent:": [
+      "iraq"
+    ],
+    "DateofCharterActivation:": [
+      1555282800
+    ],
+    "TimeofCharterActivation:": [
+      "13:10"
+    ],
+    "CharterRequestor:": [
+      "ministryofscience&technology(most)"
+    ],
+    "ActivationID:": [
+      "603"
+    ],
+    "ProjectManagement:": [
+      "sertit"
+    ],
+    "Source:": [
+      "sentinel2",
+      "sentinel1",
+      "kompsat5",
+      "kanopusv",
+      "radarsat2",
+      "terrasarx"
+    ],
+    "Acquired:": [
+      1556665200,
+      1555801200,
+      1556060400,
+      1556233200,
+      1555974000,
+      1555628400,
+      1555455600,
+      1554246000,
+      1555196400
+    ]
+  },
+  "659-flood-large-in-colombia-activation": {
+    "TypeofEvent:": [
+      "floods"
+    ],
+    "LocationofEvent:": [
+      "colombia"
+    ],
+    "DateofCharterActivation:": [
+      1594594800
+    ],
+    "TimeofCharterActivation:": [
+      "22:31"
+    ],
+    "CharterRequestor:": [
+      "nationalunitfordisasterriskmanagement"
+    ],
+    "ActivationID:": [
+      "659"
+    ],
+    "ProjectManagement:": [
+      "beijinguniversity"
+    ],
+    "Source:": [
+      "worldview",
+      "geoeye",
+      "worldview_2",
+      "radarsat",
+      "radarsat2",
+      "quickbird2",
+      "sentinel1",
+      "terrasarx",
+      "noaa",
+      "suominpp",
+      "virs",
+      "noaa20"
+    ],
+    "Acquired:": [
+      1294099200,
+      1512950400,
+      1490742000,
+      1594854000,
+      1594767600,
+      1170374400
+    ]
+  },
+  "552-cyclone-in-dominica-activation": {
+    "TypeofEvent:": [
+      "oceanstorm-hurricane"
+    ],
+    "LocationofEvent:": [
+      "caribbean"
+    ],
+    "DateofCharterActivation:": [
+      1505775600
+    ],
+    "TimeofCharterActivation:": [
+      "00:30"
+    ],
+    "CharterRequestor:": [
+      "unitar-unosatonbehalfofunocha/fcss"
+    ],
+    "ActivationID:": [
+      "552"
+    ],
+    "ProjectManagement:": [
+      "unitar",
+      "unosat"
+    ],
+    "Source:": [
+      "pleiades",
+      "worldview2",
+      "kompsat3",
+      "worldview3",
+      "resursp"
+    ],
+    "Acquired:": [
+      1505689200,
+      1505862000,
+      1505948400,
+      1506121200,
+      1430780400,
+      1485302400
+    ]
+  },
+  "791-earthquake-in-indonesia-activation": {
+    "TypeofEvent:": [],
+    "LocationofEvent:": [
+      "indonesia"
+    ],
+    "DateofCharterActivation:": [
+      1669075200
+    ],
+    "TimeofCharterActivation:": [
+      "12:54"
+    ],
+    "CharterRequestor:": [
+      "adrconbehalfofbadanrisetdaninovasinasional(brin,indonesia)"
+    ],
+    "ActivationID:": [
+      "791"
+    ],
+    "ProjectManagement:": [
+      "jakrapongtawala"
+    ],
+    "Source:": [
+      "pleiades",
+      "sentinel1"
+    ],
+    "Acquired:": [
+      1669680000,
+      1669161600
+    ]
+  },
+  "660-flood-large-in-bangladesh-activation": {
+    "TypeofEvent:": [],
+    "LocationofEvent:": [
+      "bangladesh"
+    ],
+    "DateofCharterActivation:": [
+      1594594800
+    ],
+    "TimeofCharterActivation:": [
+      "15:24"
+    ],
+    "CharterRequestor:": [
+      "unitaronbehalfofunitednationsofficeforthecoordinationofhumanitarianaffairs(ocha)"
+    ],
+    "ActivationID:": [
+      "660"
+    ],
+    "ProjectManagement:": [
+      "unitar",
+      "unosat"
+    ],
+    "Source:": [
+      "worldview2",
+      "noaa",
+      "sentinel1a",
+      "sentinel1b",
+      "tandemx",
+      "tandem_x",
+      "noaa20",
+      "pleiades_1a"
+    ],
+    "Acquired:": [
+      1596409200,
+      1595804400,
+      1595286000,
+      1595199600,
+      1594594800,
+      1595026800,
+      1594940400,
+      1594767600
+    ]
+  },
+  "775-earthquake-in-china-activation": {
+    "TypeofEvent:": [
+      "earthquake"
+    ],
+    "LocationofEvent:": [
+      "china"
+    ],
+    "DateofCharterActivation:": [
+      1662418800
+    ],
+    "TimeofCharterActivation:": [
+      "14:51"
+    ],
+    "CharterRequestor:": [
+      "nationaldisasterreductioncenterofchina(ndrcc)"
+    ],
+    "ActivationID:": [
+      "775"
+    ],
+    "ProjectManagement:": [
+      "ndrcc"
+    ],
+    "Source:": [
+      "gf3"
+    ],
+    "Acquired:": [
+      1662332400
+    ]
+  },
+  "652-flood-large-in-bangladesh-activation": {
+    "TypeofEvent:": [
+      "oceanstorm-cyclone"
+    ],
+    "LocationofEvent:": [
+      "bangladesh"
+    ],
+    "DateofCharterActivation:": [
+      1589756400
+    ],
+    "TimeofCharterActivation:": [
+      "18:59"
+    ],
+    "CharterRequestor:": [
+      "adrc"
+    ],
+    "ActivationID:": [
+      "652"
+    ],
+    "ProjectManagement:": [
+      "internationalwatermanagementinstitute"
+    ],
+    "Source:": [
+      "sentinel1",
+      "noaa_20",
+      "sentinel2",
+      "pleiades",
+      "radarsat2",
+      "terrasarx",
+      "worldview2",
+      "alos2",
+      "landsat8"
+    ],
+    "Acquired:": [
+      1590102000,
+      1590879600,
+      1590361200,
+      1589583600,
+      1589842800,
+      1590274800,
+      1590188400,
+      1589929200
+    ]
+  },
+  "767-flood-flash-in-russian-federation-activation": {
+    "TypeofEvent:": [
+      "flood"
+    ],
+    "LocationofEvent:": [
+      "russianfederation"
+    ],
+    "DateofCharterActivation:": [
+      1659913200
+    ],
+    "TimeofCharterActivation:": [
+      "12:55"
+    ],
+    "CharterRequestor:": [
+      "ministryoftherussianfederationforcivildefense,emergencies&eliminationofnaturaldisasters(emercom)"
+    ],
+    "ActivationID:": [
+      "767"
+    ],
+    "ProjectManagement:": [
+      "roscosmos"
+    ],
+    "Source:": [
+      "pleiades",
+      "kanopusv",
+      "resursp"
+    ],
+    "Acquired:": [
+      1660172400
+    ]
+  },
+  "753-flood-large-in-mozambique-activation": {
+    "TypeofEvent:": [
+      "oceanstorm-cyclone"
+    ],
+    "LocationofEvent:": [
+      "mozambique"
+    ],
+    "DateofCharterActivation:": [
+      1647129600
+    ],
+    "TimeofCharterActivation:": [
+      "17:08"
+    ],
+    "CharterRequestor:": [
+      "unoosa/un-spideronbehalfofnationalinstitutefordisasterriskreductionofmozambique(ingd)"
+    ],
+    "ActivationID:": [
+      "753"
+    ],
+    "ProjectManagement:": [
+      "unitar",
+      "unosat"
+    ],
+    "Source:": [
+      "terrasarx",
+      "sentinel1",
+      "sentinel2",
+      "rcm"
+    ],
+    "Acquired:": [
+      1647907200,
+      1647475200,
+      1647388800,
+      1647129600,
+      1647302400
+    ]
+  },
+  "622-earthquake-in-pakistan-activation": {
+    "TypeofEvent:": [
+      "earthquake"
+    ],
+    "LocationofEvent:": [
+      "pakistan"
+    ],
+    "DateofCharterActivation:": [
+      1569452400
+    ],
+    "TimeofCharterActivation:": [
+      "11:15"
+    ],
+    "CharterRequestor:": [
+      "unitar/unosatonbehalfofunocha"
+    ],
+    "ActivationID:": [
+      "622"
+    ],
+    "ProjectManagement:": [
+      "unosat"
+    ],
+    "Source:": [
+      "pleiades",
+      "worldview2",
+      "sentinel1"
+    ],
+    "Acquired:": [
+      1569798000,
+      1569970800
+    ]
+  },
+  "728-fire-in-russian-federation-activation": {
+    "TypeofEvent:": [
+      "wildfires"
+    ],
+    "LocationofEvent:": [
+      "russianfederation"
+    ],
+    "DateofCharterActivation:": [
+      1628895600
+    ],
+    "TimeofCharterActivation:": [
+      "21:46"
+    ],
+    "CharterRequestor:": [
+      "ministryoftherussianfederationforcivildefense,emergencies&eliminationofnaturaldisasters(emercom)"
+    ],
+    "ActivationID:": [
+      "728"
+    ],
+    "ProjectManagement:": [
+      "roscosmos"
+    ],
+    "Source:": [
+      "sentinel2"
+    ],
+    "Acquired:": [
+      1628377200
+    ]
+  },
+  "806-storm-hurricane-rural-in-solomon-islands-activation": {
+    "TypeofEvent:": [
+      "cyclones"
+    ],
+    "LocationofEvent:": [
+      "solomonisl&s"
+    ],
+    "DateofCharterActivation:": [
+      1677456000
+    ],
+    "TimeofCharterActivation:": [
+      "14:02"
+    ],
+    "CharterRequestor:": [
+      "ndmo"
+    ],
+    "ActivationID:": [
+      "806"
+    ],
+    "ProjectManagement:": [
+      "wentingcao"
+    ],
+    "Source:": [
+      "pleiades",
+      "sentinel2"
+    ],
+    "Acquired:": [
+      1678060800
+    ]
+  },
+  "610-earthquake-in-peru-activation": {
+    "TypeofEvent:": [
+      "earthquake"
+    ],
+    "LocationofEvent:": [
+      "peru"
+    ],
+    "DateofCharterActivation:": [
+      1558825200
+    ],
+    "TimeofCharterActivation:": [
+      "20:54"
+    ],
+    "CharterRequestor:": [
+      "institutonacionaldedefensacivilindeci"
+    ],
+    "ActivationID:": [
+      "610"
+    ],
+    "ProjectManagement:": [
+      "conida"
+    ],
+    "Source:": [],
+    "Acquired:": []
+  },
+  "698-flood-flash-in-india-activation": {
+    "TypeofEvent:": [
+      "flood"
+    ],
+    "LocationofEvent:": [
+      "india"
+    ],
+    "DateofCharterActivation:": [
+      1612656000
+    ],
+    "TimeofCharterActivation:": [
+      "15:02"
+    ],
+    "CharterRequestor:": [
+      "isro"
+    ],
+    "ActivationID:": [
+      "698"
+    ],
+    "ProjectManagement:": [
+      "iirs"
+    ],
+    "Source:": [
+      "resourcesat2",
+      "pleiades",
+      "kompsat3",
+      "geoeye",
+      "worldview3",
+      "cartosat2",
+      "sentinel2",
+      "kanopus_v_ik",
+      "kanopusv"
+    ],
+    "Acquired:": [
+      1612656000,
+      1600210800,
+      1612915200,
+      1609977600,
+      1612828800
+    ]
+  },
+  "628-flood-large-in-kenya-activation": {
+    "TypeofEvent:": [
+      "flood"
+    ],
+    "LocationofEvent:": [
+      "kenya"
+    ],
+    "DateofCharterActivation:": [
+      1572480000
+    ],
+    "TimeofCharterActivation:": [
+      "21:48"
+    ],
+    "CharterRequestor:": [
+      "unitar-unosatonbehalfofunitednationsofficeforthecoordinationofhumanitarianaffairs(ocha),regionalofficeforsouthern&easternafrica(rosea)"
+    ],
+    "ActivationID:": [
+      "628"
+    ],
+    "ProjectManagement:": [
+      "unitar",
+      "unosat"
+    ],
+    "Source:": [
+      "sentinel2"
+    ],
+    "Acquired:": [
+      1572652800,
+      1572220800
+    ]
+  },
+  "564-flood-in-argentina-activation": {
+    "TypeofEvent:": [
+      "floods"
+    ],
+    "LocationofEvent:": [
+      "argentina"
+    ],
+    "DateofCharterActivation:": [
+      1517616000
+    ],
+    "TimeofCharterActivation:": [
+      "04:51"
+    ],
+    "CharterRequestor:": [
+      "sec.nacionaldeproteccióncivilargentina–ministeriodeseguridad–sifem-argentina"
+    ],
+    "ActivationID:": [
+      "564"
+    ],
+    "ProjectManagement:": [
+      "conae"
+    ],
+    "Source:": [
+      "spot6",
+      "spot7",
+      "worldview3",
+      "resursp",
+      "radarsat2",
+      "terrasarx"
+    ],
+    "Acquired:": [
+      1518998400,
+      1518739200,
+      1518480000,
+      1517875200,
+      1518307200,
+      1518220800,
+      1518393600,
+      1518134400,
+      1518048000,
+      1515369600,
+      1462143600,
+      1505602800,
+      1517702400
+    ]
+  },
+  "589-landslide-in-uganda-activation": {
+    "TypeofEvent:": [],
+    "LocationofEvent:": [
+      "ug&a"
+    ],
+    "DateofCharterActivation:": [
+      1539298800
+    ],
+    "TimeofCharterActivation:": [
+      "17:48"
+    ],
+    "CharterRequestor:": [
+      "unitar-unosatonbehalfofundp"
+    ],
+    "ActivationID:": [
+      "589"
+    ],
+    "ProjectManagement:": [
+      "unitednationsinstitutefortraining",
+      "research(unitar",
+      "unosat)"
+    ],
+    "Source:": [
+      "pleiades"
+    ],
+    "Acquired:": [
+      1539385200,
+      1538694000
+    ]
+  },
+  "651-fire-in-guatemala-activation": {
+    "TypeofEvent:": [
+      "fires"
+    ],
+    "LocationofEvent:": [
+      "guatemala"
+    ],
+    "DateofCharterActivation:": [
+      1588201200
+    ],
+    "TimeofCharterActivation:": [
+      "22:16"
+    ],
+    "CharterRequestor:": [
+      "cenadonbehalfofnationalcoordinatingagencyfordisasterreduction(conred)-guatemala"
+    ],
+    "ActivationID:": [
+      "651"
+    ],
+    "ProjectManagement:": [
+      "ministryofregionaldevelopment"
+    ],
+    "Source:": [
+      "spot7",
+      "spot6"
+    ],
+    "Acquired:": [
+      1588633200,
+      1588460400,
+      1588374000
+    ]
+  },
+  "807-oil-spill-in-philippines-activation": {
+    "TypeofEvent:": [
+      "oilspill"
+    ],
+    "LocationofEvent:": [
+      "philippines"
+    ],
+    "DateofCharterActivation:": [
+      1677715200
+    ],
+    "TimeofCharterActivation:": [
+      "15:56"
+    ],
+    "CharterRequestor:": [
+      "adrconbehalfofphilippinespaceagency(philsa)"
+    ],
+    "ActivationID:": [
+      "807"
+    ],
+    "ProjectManagement:": [
+      "jamaicapangasinan"
+    ],
+    "Source:": [
+      "radarsat2",
+      "sentinel1",
+      "rcm",
+      "tandemx",
+      "worldview3",
+      "skysat",
+      "terrasarx",
+      "iceye",
+      "terramodis",
+      "gaofen3",
+      "sentinel2"
+    ],
+    "Acquired:": [
+      1679184000,
+      1679097600,
+      1678838400,
+      1678752000,
+      1678579200,
+      1678147200,
+      1678492800,
+      1678320000,
+      1677974400,
+      1678060800,
+      1677801600,
+      1678233600,
+      1677888000,
+      1677628800
+    ]
+  },
+  "723-flood-large-in-india-activation": {
+    "TypeofEvent:": [
+      "floods"
+    ],
+    "LocationofEvent:": [
+      "india"
+    ],
+    "DateofCharterActivation:": [
+      1627254000
+    ],
+    "TimeofCharterActivation:": [
+      "19:45"
+    ],
+    "CharterRequestor:": [
+      "isro"
+    ],
+    "ActivationID:": [
+      "723"
+    ],
+    "ProjectManagement:": [
+      "isro"
+    ],
+    "Source:": [
+      "pleiades",
+      "kompsat3",
+      "sentinel1",
+      "saocom1a",
+      "terrasarx",
+      "resourcesat2",
+      "tandemx",
+      "rcm",
+      "radarsat2"
+    ],
+    "Acquired:": [
+      1628031600,
+      1626908400,
+      1627340400,
+      1627513200,
+      1617231600,
+      1585782000,
+      1627599600
+    ]
+  },
+  "577-flood-in-japan-activation": {
+    "TypeofEvent:": [
+      "flood"
+    ],
+    "LocationofEvent:": [
+      "japan"
+    ],
+    "DateofCharterActivation:": [
+      1530918000
+    ],
+    "TimeofCharterActivation:": [
+      "07:06"
+    ],
+    "CharterRequestor:": [
+      "cabinetofficegovermentofjapanonbehalfofcabinetofficegovermentofjapan"
+    ],
+    "ActivationID:": [
+      "577"
+    ],
+    "ProjectManagement:": [
+      "jaxa"
+    ],
+    "Source:": [
+      "pleiades",
+      "tandemx",
+      "alos2"
+    ],
+    "Acquired:": [
+      1531177200,
+      1531090800,
+      1523660400,
+      1530918000,
+      1531350000
+    ]
+  },
+  "776-flood-large-in-south-africa-activation": {
+    "TypeofEvent:": [
+      "floods"
+    ],
+    "LocationofEvent:": [
+      "southafrica"
+    ],
+    "DateofCharterActivation:": [
+      1662937200
+    ],
+    "TimeofCharterActivation:": [
+      "12:38"
+    ],
+    "CharterRequestor:": [
+      "nationaldisastermanagementcentre"
+    ],
+    "ActivationID:": [
+      "776"
+    ],
+    "ProjectManagement:": [
+      "sansa"
+    ],
+    "Source:": [
+      "sentinel2",
+      "pleiades"
+    ],
+    "Acquired:": [
+      1657666800,
+      1662850800,
+      1663023600
+    ]
+  },
+  "745-oil-spill-in-peru-activation": {
+    "TypeofEvent:": [],
+    "LocationofEvent:": [
+      "peru"
+    ],
+    "DateofCharterActivation:": [
+      1642636800
+    ],
+    "TimeofCharterActivation:": [
+      "13:53"
+    ],
+    "CharterRequestor:": [
+      "usgsonbehalfofcomisiónnacionaldeinvestigaciónydesarrolloaeroespacial(conida)"
+    ],
+    "ActivationID:": [
+      "745"
+    ],
+    "ProjectManagement:": [
+      "conida"
+    ],
+    "Source:": [
+      "perusat1",
+      "worldview2",
+      "worldview3",
+      "l",
+      "sat8",
+      "sentinel1",
+      "sentinel2",
+      "vision1",
+      "radarsat2",
+      "kompsat5",
+      "worldview_3"
+    ],
+    "Acquired:": [
+      1643241600,
+      1643068800,
+      1642896000,
+      1642550400,
+      1643760000,
+      1643414400,
+      1643328000,
+      1643155200
+    ]
+  },
+  "700-flood-large-in-philippines-activation": {
+    "TypeofEvent:": [],
+    "LocationofEvent:": [
+      "philippines"
+    ],
+    "DateofCharterActivation:": [
+      1613952000
+    ],
+    "TimeofCharterActivation:": [
+      "13:17"
+    ],
+    "CharterRequestor:": [
+      "adrconbehalfofmanilaobservatory"
+    ],
+    "ActivationID:": [
+      "700"
+    ],
+    "ProjectManagement:": [],
+    "Source:": [
+      "sentinel1",
+      "resourcesat2",
+      "alos2"
+    ],
+    "Acquired:": [
+      1554937200
+    ]
+  },
+  "790-flood-large-in-united-kingdom-activation": {
+    "TypeofEvent:": [
+      "floods"
+    ],
+    "LocationofEvent:": [
+      "unitedkingdom"
+    ],
+    "DateofCharterActivation:": [
+      1668729600
+    ],
+    "TimeofCharterActivation:": [
+      "11:55"
+    ],
+    "CharterRequestor:": [
+      "civilcontingenciessecretariat(ccs)onbehalfofscottishenvironmentprotectionagency"
+    ],
+    "ActivationID:": [
+      "790"
+    ],
+    "ProjectManagement:": [
+      "claireneil"
+    ],
+    "Source:": [
+      "rcm"
+    ],
+    "Acquired:": [
+      1668902400,
+      1668988800
+    ]
+  },
+  "580-earthquake-in-indonesia-activation": {
+    "TypeofEvent:": [],
+    "LocationofEvent:": [
+      "indonesia"
+    ],
+    "DateofCharterActivation:": [
+      1533510000
+    ],
+    "TimeofCharterActivation:": [
+      "14:06"
+    ],
+    "CharterRequestor:": [
+      "adrconbehalfoflapan,indonesia"
+    ],
+    "ActivationID:": [
+      "580"
+    ],
+    "ProjectManagement:": [
+      "ait"
+    ],
+    "Source:": [
+      "pleiades",
+      "worldview2",
+      "alos2",
+      "sentinel2"
+    ],
+    "Acquired:": [
+      1533682800,
+      1531263600,
+      1532905200,
+      1527980400,
+      1533596400,
+      1451347200
+    ]
+  },
+  "746-flood-large-in-sao-tome-and-principe-activation": {
+    "TypeofEvent:": [
+      "floods,l&slides"
+    ],
+    "LocationofEvent:": [
+      "saotomeandprincipe"
+    ],
+    "DateofCharterActivation:": [
+      1642636800
+    ],
+    "TimeofCharterActivation:": [
+      "21:02"
+    ],
+    "CharterRequestor:": [
+      "unitaronbehalfofunitednationsofficeforthecoordinationofhumanitarianaffairs:regionalofficewest&centralafrica(rowca)"
+    ],
+    "ActivationID:": [
+      "746"
+    ],
+    "ProjectManagement:": [
+      "unitar",
+      "unosat"
+    ],
+    "Source:": [
+      "pleiades",
+      "sentinel2"
+    ],
+    "Acquired:": [
+      1642982400,
+      1642896000,
+      1642550400
+    ]
+  },
+  "789-storm-hurricane-rural-in-philippines-activation": {
+    "TypeofEvent:": [
+      "oceanstorm"
+    ],
+    "LocationofEvent:": [
+      "philippines"
+    ],
+    "DateofCharterActivation:": [
+      1666998000
+    ],
+    "TimeofCharterActivation:": [
+      "22:22"
+    ],
+    "CharterRequestor:": [
+      "unoosa/un-spideronbehalfofphilippinesspaceagencyonbehalfofthenationaldisasterriskreduction&managmentcouncil(ndrrmc)"
+    ],
+    "ActivationID:": [
+      "789"
+    ],
+    "ProjectManagement:": [
+      "chathumalmadhuranga"
+    ],
+    "Source:": [
+      "pleiades",
+      "sentinel2",
+      "kanopusv",
+      "rcm3",
+      "terrasarx",
+      "worldview2",
+      "sentinel1",
+      "l",
+      "sat9"
+    ],
+    "Acquired:": [
+      1667865600,
+      1651359600,
+      1664406000,
+      1667433600,
+      1667606400,
+      1667347200,
+      1667260800,
+      1662937200,
+      1667084400,
+      1664751600,
+      1666825200
+    ]
+  },
+  "777-flood-large-in-nigeria-activation": {
+    "TypeofEvent:": [
+      "floods"
+    ],
+    "LocationofEvent:": [
+      "nigeria"
+    ],
+    "DateofCharterActivation:": [
+      1663196400
+    ],
+    "TimeofCharterActivation:": [
+      "17:48"
+    ],
+    "CharterRequestor:": [
+      "nema"
+    ],
+    "ActivationID:": [
+      "777"
+    ],
+    "ProjectManagement:": [
+      "oyewumiademuyiwa"
+    ],
+    "Source:": [
+      "rcm1",
+      "sentinel1",
+      "kompsat3",
+      "sentinel2",
+      "planetscope",
+      "pleiades",
+      "worldview2",
+      "noaa20"
+    ],
+    "Acquired:": [
+      1665529200,
+      1660690800,
+      1665356400,
+      1664838000,
+      1554850800,
+      1600988400,
+      1664060400,
+      1664146800,
+      1600556400,
+      1602284400,
+      1666738800,
+      1661382000,
+      1663974000,
+      1664492400,
+      1663110000,
+      1663542000,
+      1663714800,
+      1662505200,
+      1661468400,
+      1663023600
+    ]
+  },
+  "583-flood-in-viet-nam-activation": {
+    "TypeofEvent:": [
+      "flood"
+    ],
+    "LocationofEvent:": [
+      "vietnam"
+    ],
+    "DateofCharterActivation:": [
+      1534374000
+    ],
+    "TimeofCharterActivation:": [
+      "07:10"
+    ],
+    "CharterRequestor:": [
+      "unitednationsofficeforouterspaceaffairsonbehalfofvietnamdisastermanagementauthority"
+    ],
+    "ActivationID:": [
+      "583"
+    ],
+    "ProjectManagement:": [
+      "internationalwatermanagementinstitute(iwmi)"
+    ],
+    "Source:": [
+      "terrasarx",
+      "sentinel1"
+    ],
+    "Acquired:": [
+      1534633200,
+      1534546800
+    ]
+  },
+  "779-storm-hurricane-urban-in-turks-and-caicos-islands-activation": {
+    "TypeofEvent:": [
+      "floods"
+    ],
+    "LocationofEvent:": [
+      "turksandcaicosisl&s"
+    ],
+    "DateofCharterActivation:": [
+      1663628400
+    ],
+    "TimeofCharterActivation:": [
+      "11:52"
+    ],
+    "CharterRequestor:": [
+      "civilcontingenciessecretariat(ccs)onbehalfofdepartmentofdisastermanagement&amp;emergencies,turks&caicosisl&s"
+    ],
+    "ActivationID:": [
+      "779"
+    ],
+    "ProjectManagement:": [
+      "keverndebellot"
+    ],
+    "Source:": [],
+    "Acquired:": []
+  },
+  "730-flood-large-in-haiti-activation": {
+    "TypeofEvent:": [
+      "flood"
+    ],
+    "LocationofEvent:": [
+      "haiti"
+    ],
+    "DateofCharterActivation:": [
+      1629154800
+    ],
+    "TimeofCharterActivation:": [
+      "20:15"
+    ],
+    "CharterRequestor:": [
+      "directiondelaprotectionciviledehaiti"
+    ],
+    "ActivationID:": [
+      "730"
+    ],
+    "ProjectManagement:": [
+      "icube-sertit"
+    ],
+    "Source:": [
+      "sentinel2",
+      "rcm3",
+      "sentinel1",
+      "worldview1",
+      "worldview2",
+      "worldview3",
+      "pleiades",
+      "planetscope"
+    ],
+    "Acquired:": [
+      1629241200,
+      1628204400,
+      1600038000,
+      1629154800
+    ]
+  },
+  "758-landslide-in-brazil-activation": {
+    "TypeofEvent:": [],
+    "LocationofEvent:": [
+      "brazil"
+    ],
+    "DateofCharterActivation:": [
+      1653865200
+    ],
+    "TimeofCharterActivation:": [
+      "16:18"
+    ],
+    "CharterRequestor:": [
+      "cenad"
+    ],
+    "ActivationID:": [
+      "758"
+    ],
+    "ProjectManagement:": [
+      "cenad"
+    ],
+    "Source:": [
+      "pleiades",
+      "pleiades_1b"
+    ],
+    "Acquired:": [
+      1654642800,
+      1654038000,
+      1654124400
+    ]
+  },
+  "769-flood-large-in-sudan-activation": {
+    "TypeofEvent:": [
+      "floods"
+    ],
+    "LocationofEvent:": [
+      "sudan"
+    ],
+    "DateofCharterActivation:": [
+      1661036400
+    ],
+    "TimeofCharterActivation:": [
+      "10:02"
+    ],
+    "CharterRequestor:": [
+      "ministryofagriculture&naturalresourcesinsudan"
+    ],
+    "ActivationID:": [
+      "769"
+    ],
+    "ProjectManagement:": [
+      "unitar",
+      "unosat"
+    ],
+    "Source:": [
+      "pleiades",
+      "l",
+      "sat8",
+      "sat9",
+      "worldview3",
+      "rcm3",
+      "vrss2",
+      "sentinel2",
+      "worldview2",
+      "landsat8",
+      "landsat9",
+      "tandemx",
+      "terrasarx"
+    ],
+    "Acquired:": [
+      1661727600,
+      1663455600,
+      1663110000,
+      1662850800,
+      1662418800,
+      1659135600,
+      1661900400,
+      1662246000,
+      1657062000,
+      1662505200,
+      1660518000,
+      1661209200,
+      1661641200,
+      1270076400,
+      1658271600,
+      1661468400,
+      1660950000,
+      1661122800
+    ]
+  },
+  "609-flood-in-paraguay-activation": {
+    "TypeofEvent:": [],
+    "LocationofEvent:": [
+      "paraguay"
+    ],
+    "DateofCharterActivation:": [
+      1558047600
+    ],
+    "TimeofCharterActivation:": [
+      "17:06"
+    ],
+    "CharterRequestor:": [
+      "secretariadeemergencianacional(sen)"
+    ],
+    "ActivationID:": [
+      "609"
+    ],
+    "ProjectManagement:": [
+      "aep"
+    ],
+    "Source:": [
+      "cosmoskymed",
+      "kompsat5",
+      "sentinel2",
+      "sentinel1",
+      "worldview2",
+      "gaofen2",
+      "resursp",
+      "l",
+      "sat8",
+      "kompsat3",
+      "pleiades",
+      "worldview1",
+      "terrasarx",
+      "radarsat2",
+      "cbers4"
+    ],
+    "Acquired:": [
+      1559430000,
+      1559343600,
+      1559084400,
+      1548547200,
+      1558047600,
+      1547683200,
+      1557788400,
+      1558911600,
+      1548201600,
+      1558998000,
+      1452297600,
+      1558652400,
+      1558738800,
+      1558566000,
+      1558393200,
+      1558306800,
+      1553472000,
+      1521936000,
+      1528498800,
+      1558479600,
+      1558134000,
+      1551571200
+    ]
+  },
+  "572-flood-in-djibouti-activation": {
+    "TypeofEvent:": [
+      "flood&oceanstorm-cyclone"
+    ],
+    "LocationofEvent:": [
+      "djibouti"
+    ],
+    "DateofCharterActivation:": [
+      1526770800
+    ],
+    "TimeofCharterActivation:": [
+      "15:26"
+    ],
+    "CharterRequestor:": [
+      "unitar-unosatonbehalfofunocha"
+    ],
+    "ActivationID:": [
+      "572"
+    ],
+    "ProjectManagement:": [
+      "unosat"
+    ],
+    "Source:": [
+      "planet",
+      "worldview2",
+      "pleiades"
+    ],
+    "Acquired:": [
+      1524438000,
+      1526770800
+    ]
+  },
+  "571-volcano-in-united-states-activation": {
+    "TypeofEvent:": [
+      "volcano&earthquake"
+    ],
+    "LocationofEvent:": [
+      "unitedstatesofamerica"
+    ],
+    "DateofCharterActivation:": [
+      1525647600
+    ],
+    "TimeofCharterActivation:": [
+      "15:14"
+    ],
+    "CharterRequestor:": [
+      "usgeologicalsurveyonbehalfofusgshawaiivolcanoobservatory/cascadesvolcanoobservatory"
+    ],
+    "ActivationID:": [
+      "571"
+    ],
+    "ProjectManagement:": [
+      "usgs"
+    ],
+    "Source:": [
+      "radarsat2",
+      "amp",
+      "terrasarx",
+      "worldview3",
+      "sentinel1b",
+      "kompsat2",
+      "sentinel2",
+      "worldview2",
+      "l",
+      "sat8",
+      "ukdmc2",
+      "gaofen2",
+      "pleiades",
+      "kompsat5",
+      "terra",
+      "lissiii",
+      "alos2",
+      "sentinel1a"
+    ],
+    "Acquired:": [
+      1522623600,
+      1527980400,
+      1528066800,
+      1525820400,
+      1527548400,
+      1527894000,
+      1527721200,
+      1527807600,
+      1527634800,
+      1527462000,
+      1527030000,
+      1527202800,
+      1527116400,
+      1527375600,
+      1527289200,
+      1526684400,
+      1526943600,
+      1526770800,
+      1526252400,
+      1526166000,
+      1523314800,
+      1523660400,
+      1525561200,
+      1517529600,
+      1526598000,
+      1525734000
+    ]
+  },
+  "573-flood-in-sri-lanka-activation": {
+    "TypeofEvent:": [
+      "flood"
+    ],
+    "LocationofEvent:": [
+      "srilanka"
+    ],
+    "DateofCharterActivation:": [
+      1526857200
+    ],
+    "TimeofCharterActivation:": [
+      "20:49"
+    ],
+    "CharterRequestor:": [
+      "disastermanagementcentre,srilanka"
+    ],
+    "ActivationID:": [
+      "573"
+    ],
+    "ProjectManagement:": [
+      "disastermanagementcentre",
+      "srilanka"
+    ],
+    "Source:": [
+      "alos2",
+      "sentinel2",
+      "radarsat2",
+      "l",
+      "sat8",
+      "sentinel1",
+      "terrasarx"
+    ],
+    "Acquired:": [
+      1527030000
+    ]
+  },
+  "715-oil-spill-in-sri-lanka-activation": {
+    "TypeofEvent:": [
+      "oilspill"
+    ],
+    "LocationofEvent:": [
+      "srilanka"
+    ],
+    "DateofCharterActivation:": [
+      1622761200
+    ],
+    "TimeofCharterActivation:": [
+      "16:50"
+    ],
+    "CharterRequestor:": [
+      "adrconbehalfofdisastermanagementcenter"
+    ],
+    "ActivationID:": [
+      "715"
+    ],
+    "ProjectManagement:": [
+      "disastermanagementcentre",
+      "srilanka"
+    ],
+    "Source:": [
+      "worldview2",
+      "cbers4",
+      "rcm2",
+      "pleiades",
+      "sentinel1",
+      "rcm1",
+      "saocom1a",
+      "iceye",
+      "l",
+      "sat8"
+    ],
+    "Acquired:": [
+      1623538800,
+      1623279600,
+      1623020400,
+      1623106800,
+      1622847600,
+      1622761200,
+      1622502000
+    ]
+  },
+  "724-fire-in-tunisia-activation": {
+    "TypeofEvent:": [
+      "fires"
+    ],
+    "LocationofEvent:": [
+      "tunisia"
+    ],
+    "DateofCharterActivation:": [
+      1627426800
+    ],
+    "TimeofCharterActivation:": [
+      "18:32"
+    ],
+    "CharterRequestor:": [
+      "tunisianofficeofcivilprotection"
+    ],
+    "ActivationID:": [
+      "724"
+    ],
+    "ProjectManagement:": [
+      "unitar",
+      "unosat"
+    ],
+    "Source:": [
+      "planetscope",
+      "pleiades"
+    ],
+    "Acquired:": [
+      1627772400,
+      1627513200
+    ]
+  },
+  "717-flood-large-in-guyana-activation": {
+    "TypeofEvent:": [],
+    "LocationofEvent:": [
+      "guyana"
+    ],
+    "DateofCharterActivation:": [
+      1623020400
+    ],
+    "TimeofCharterActivation:": [
+      "12:16"
+    ],
+    "CharterRequestor:": [
+      "unitaronbehalfofwfp"
+    ],
+    "ActivationID:": [
+      "717"
+    ],
+    "ProjectManagement:": [
+      "unitar"
+    ],
+    "Source:": [
+      "suominpp",
+      "sentinel1",
+      "rcm",
+      "terrasarx",
+      "rcm2",
+      "noaa20"
+    ],
+    "Acquired:": [
+      1623106800,
+      1623452400,
+      1623193200,
+      1623020400,
+      1622588400
+    ]
+  },
+  "803-landslide-in-brazil-activation": {
+    "TypeofEvent:": [
+      "l&slide"
+    ],
+    "LocationofEvent:": [
+      "brazil"
+    ],
+    "DateofCharterActivation:": [
+      1676851200
+    ],
+    "TimeofCharterActivation:": [
+      "17:06"
+    ],
+    "CharterRequestor:": [
+      "cenadonbehalfofcenad"
+    ],
+    "ActivationID:": [
+      "803"
+    ],
+    "ProjectManagement:": [
+      "pedroyoussef"
+    ],
+    "Source:": [
+      "alos2",
+      "pleiades",
+      "worldview3",
+      "worldview2",
+      "sentinel2",
+      "planetscope"
+    ],
+    "Acquired:": [
+      1297123200,
+      1677456000,
+      1677283200,
+      1677369600,
+      1677110400,
+      1677024000,
+      1676851200
+    ]
+  },
+  "747-flood-large-in-madagascar-activation": {
+    "TypeofEvent:": [],
+    "LocationofEvent:": [
+      "madagascar"
+    ],
+    "DateofCharterActivation:": [
+      1642982400
+    ],
+    "TimeofCharterActivation:": [
+      "20:29"
+    ],
+    "CharterRequestor:": [
+      "bureaunationaldegestiondesrisquesetdescatastrophes(bngrc)"
+    ],
+    "ActivationID:": [
+      "747"
+    ],
+    "ProjectManagement:": [
+      "icube-sertit"
+    ],
+    "Source:": [
+      "pleiades",
+      "worldview2",
+      "sentinel",
+      "rcm3",
+      "rcm1",
+      "sentinel2",
+      "sentinel1",
+      "saocom1a"
+    ],
+    "Acquired:": [
+      1610236800,
+      1643414400,
+      1643241600,
+      1628982000,
+      1622156400,
+      1643328000,
+      1643068800
+    ]
+  },
+  "702-flood-flash-in-indonesia-activation": {
+    "TypeofEvent:": [
+      "cyclone"
+    ],
+    "LocationofEvent:": [
+      "indonesia"
+    ],
+    "DateofCharterActivation:": [
+      1617663600
+    ],
+    "TimeofCharterActivation:": [
+      "23:41"
+    ],
+    "CharterRequestor:": [
+      "adrconbehalfoflapan"
+    ],
+    "ActivationID:": [
+      "702"
+    ],
+    "ProjectManagement:": [
+      "lapan"
+    ],
+    "Source:": [
+      "vision1",
+      "worldview3",
+      "pleiades"
+    ],
+    "Acquired:": [
+      1618354800,
+      1618959600,
+      1619046000,
+      1617836400
+    ]
+  },
+  "709-storm-hurricane-urban-in-india-activation": {
+    "TypeofEvent:": [
+      "flood"
+    ],
+    "LocationofEvent:": [
+      "india"
+    ],
+    "DateofCharterActivation:": [
+      1621119600
+    ],
+    "TimeofCharterActivation:": [
+      "14:54"
+    ],
+    "CharterRequestor:": [
+      "isro"
+    ],
+    "ActivationID:": [
+      "709"
+    ],
+    "ProjectManagement:": [
+      "nrsc"
+    ],
+    "Source:": [
+      "pleiades",
+      "rcm1"
+    ],
+    "Acquired:": [
+      1621465200,
+      1621292400,
+      1621206000
+    ]
+  },
+  "718-flood-flash-in-russian-federation-activation": {
+    "TypeofEvent:": [],
+    "LocationofEvent:": [
+      "russianfederation"
+    ],
+    "DateofCharterActivation:": [
+      1624230000
+    ],
+    "TimeofCharterActivation:": [
+      "11:56"
+    ],
+    "CharterRequestor:": [
+      "ministryoftherussianfederationforcivildefense,emergencies&eliminationofnaturaldisasters(emercom)"
+    ],
+    "ActivationID:": [
+      "718"
+    ],
+    "ProjectManagement:": [
+      "roscosmos"
+    ],
+    "Source:": [
+      "kanopusv"
+    ],
+    "Acquired:": [
+      1624921200,
+      1624402800
+    ]
+  },
+  "559-earthquake-in-iran-islamic-republic-of-activation": {
+    "TypeofEvent:": [
+      "earthquake"
+    ],
+    "LocationofEvent:": [
+      "iran"
+    ],
+    "DateofCharterActivation:": [
+      1510531200
+    ],
+    "TimeofCharterActivation:": [
+      "00:05"
+    ],
+    "CharterRequestor:": [
+      "unitar/unosatonbehalfofunocha"
+    ],
+    "ActivationID:": [
+      "559"
+    ],
+    "ProjectManagement:": [
+      "unitar",
+      "unosat"
+    ],
+    "Source:": [
+      "pleiades",
+      "worldview3",
+      "sentinel1",
+      "resursp"
+    ],
+    "Acquired:": [
+      1510790400,
+      1500850800,
+      1510358400,
+      1510444800,
+      1510876800,
+      1510617600,
+      1510704000
+    ]
+  },
+  "558-earthquake-in-iraq-activation": {
+    "TypeofEvent:": [
+      "earthquake"
+    ],
+    "LocationofEvent:": [
+      "iraq"
+    ],
+    "DateofCharterActivation:": [
+      1510444800
+    ],
+    "TimeofCharterActivation:": [
+      "23:41"
+    ],
+    "CharterRequestor:": [
+      "unitar/unosatonbehalfofunocha"
+    ],
+    "ActivationID:": [
+      "558"
+    ],
+    "ProjectManagement:": [
+      "unitar",
+      "unosat"
+    ],
+    "Source:": [
+      "plediades",
+      "pleiades"
+    ],
+    "Acquired:": [
+      1510704000
+    ]
+  },
+  "768-flood-flash-in-gambia-activation": {
+    "TypeofEvent:": [
+      "flood"
+    ],
+    "LocationofEvent:": [
+      "gambia"
+    ],
+    "DateofCharterActivation:": [
+      1659999600
+    ],
+    "TimeofCharterActivation:": [
+      "17:05"
+    ],
+    "CharterRequestor:": [
+      "unitaronbehalfofunitednationsofficeforthecoordinationofhumanitarianaffairs(unocha)|regionalofficeforwest&centralafrica"
+    ],
+    "ActivationID:": [
+      "768"
+    ],
+    "ProjectManagement:": [
+      "suwanansatei",
+      "ee"
+    ],
+    "Source:": [
+      "sentinel2",
+      "worldview2",
+      "worldview3",
+      "pleiades",
+      "kanopusv"
+    ],
+    "Acquired:": [
+      1660950000,
+      1647302400,
+      1660518000,
+      1660345200,
+      1660172400,
+      1660086000
+    ]
+  },
+  "567-passenger-airplane-in-iran-in-iran-islamic-republic-of-activation": {
+    "TypeofEvent:": [
+      "other-aircraftcrash"
+    ],
+    "LocationofEvent:": [
+      "iran"
+    ],
+    "DateofCharterActivation:": [
+      1518912000
+    ],
+    "TimeofCharterActivation:": [
+      "20:04"
+    ],
+    "CharterRequestor:": [
+      "emercomofrussia"
+    ],
+    "ActivationID:": [
+      "567"
+    ],
+    "ProjectManagement:": [
+      "roscosmos"
+    ],
+    "Source:": [
+      "kompsat5"
+    ],
+    "Acquired:": [
+      1518998400
+    ]
+  },
+  "646-flood-large-in-zambia-activation": {
+    "TypeofEvent:": [
+      "floods"
+    ],
+    "LocationofEvent:": [
+      "zambia"
+    ],
+    "DateofCharterActivation:": [
+      1583452800
+    ],
+    "TimeofCharterActivation:": [
+      "15:25"
+    ],
+    "CharterRequestor:": [
+      "unitaronbehalfofocha/rcozambia"
+    ],
+    "ActivationID:": [
+      "646"
+    ],
+    "ProjectManagement:": [
+      "unitar",
+      "unosat"
+    ],
+    "Source:": [
+      "suominpp",
+      "noaa20",
+      "pleiades",
+      "sentinel1"
+    ],
+    "Acquired:": [
+      1583539200,
+      1583452800,
+      1583280000
+    ]
+  },
+  "635-landslide-in-uganda-activation": {
+    "TypeofEvent:": [
+      "l&slide"
+    ],
+    "LocationofEvent:": [
+      "ug&a"
+    ],
+    "DateofCharterActivation:": [
+      1575936000
+    ],
+    "TimeofCharterActivation:": [
+      "09:51"
+    ],
+    "CharterRequestor:": [
+      "unitar/unosatonbehalfofocha-regionalofficeforsouthern&amp;easternafrica"
+    ],
+    "ActivationID:": [
+      "635"
+    ],
+    "ProjectManagement:": [
+      "unitar",
+      "unosat"
+    ],
+    "Source:": [],
+    "Acquired:": []
+  },
+  "749-flood-flash-in-ecuador-activation": {
+    "TypeofEvent:": [
+      "floods,l&slides"
+    ],
+    "LocationofEvent:": [
+      "ecuador"
+    ],
+    "DateofCharterActivation:": [
+      1643587200
+    ],
+    "TimeofCharterActivation:": [
+      "20:27"
+    ],
+    "CharterRequestor:": [
+      "servicionacionaldegestiónderiesgosyemergencias(sngre)"
+    ],
+    "ActivationID:": [
+      "749"
+    ],
+    "ProjectManagement:": [
+      "sngre"
+    ],
+    "Source:": [
+      "sentinel1",
+      "rcm"
+    ],
+    "Acquired:": [
+      1635634800,
+      1643932800,
+      1643846400
+    ]
+  },
+  "657-flood-large-in-japan-activation": {
+    "TypeofEvent:": [
+      "floods"
+    ],
+    "LocationofEvent:": [
+      "japan"
+    ],
+    "DateofCharterActivation:": [
+      1593990000
+    ],
+    "TimeofCharterActivation:": [
+      "20:00"
+    ],
+    "CharterRequestor:": [
+      "adrc"
+    ],
+    "ActivationID:": [
+      "657"
+    ],
+    "ProjectManagement:": [
+      "yamaguchiuniversity"
+    ],
+    "Source:": [
+      "saocom1a",
+      "alos2",
+      "sentinel1",
+      "sentinel2"
+    ],
+    "Acquired:": [
+      1594076400,
+      1594249200,
+      1593817200,
+      1593990000
+    ]
+  },
+  "810-flood-large-in-ecuador-activation": {
+    "TypeofEvent:": [],
+    "LocationofEvent:": [
+      "ecuador"
+    ],
+    "DateofCharterActivation:": [
+      1678492800
+    ],
+    "TimeofCharterActivation:": [
+      "19:21"
+    ],
+    "CharterRequestor:": [
+      "servicionacionaldegestiónderiesgosyemergencias(sngre)"
+    ],
+    "ActivationID:": [
+      "810"
+    ],
+    "ProjectManagement:": [
+      "marthavillagomez"
+    ],
+    "Source:": [],
+    "Acquired:": []
+  },
+  "687-storm-hurricane-urban-in-colombia-activation": {
+    "TypeofEvent:": [
+      "cyclone"
+    ],
+    "LocationofEvent:": [
+      "colombia"
+    ],
+    "DateofCharterActivation:": [
+      1605571200
+    ],
+    "TimeofCharterActivation:": [
+      "17:42"
+    ],
+    "CharterRequestor:": [
+      "nationalunitfordisasterriskmanagement(ungrd)"
+    ],
+    "ActivationID:": [
+      "687"
+    ],
+    "ProjectManagement:": [
+      "ungrd"
+    ],
+    "Source:": [
+      "pleiades"
+    ],
+    "Acquired:": [
+      1605744000
+    ]
+  },
+  "706-flood-large-in-somalia-activation": {
+    "TypeofEvent:": [],
+    "LocationofEvent:": [
+      "somalia"
+    ],
+    "DateofCharterActivation:": [
+      1619996400
+    ],
+    "TimeofCharterActivation:": [
+      "09:38"
+    ],
+    "CharterRequestor:": [
+      "unitaronbehalfoffaosomalia"
+    ],
+    "ActivationID:": [
+      "706"
+    ],
+    "ProjectManagement:": [
+      "unitar",
+      "unosat"
+    ],
+    "Source:": [
+      "pleiades",
+      "kompsat5",
+      "tandem_x",
+      "rcm1",
+      "worldview3"
+    ],
+    "Acquired:": [
+      1620687600,
+      1620860400,
+      1515715200
+    ]
+  },
+  "699-flood-flash-in-chile-activation": {
+    "TypeofEvent:": [
+      "flood,l&slide"
+    ],
+    "LocationofEvent:": [
+      "chile"
+    ],
+    "DateofCharterActivation:": [
+      1612569600
+    ],
+    "TimeofCharterActivation:": [
+      "22:38"
+    ],
+    "CharterRequestor:": [
+      "ministryofinterior&publicsafety(onemi)"
+    ],
+    "ActivationID:": [
+      "699"
+    ],
+    "ProjectManagement:": [
+      "nationalgeology",
+      "miningserviceofchile"
+    ],
+    "Source:": [
+      "kanopusv",
+      "resursp",
+      "worldview3",
+      "pleiades",
+      "worldview2"
+    ],
+    "Acquired:": [
+      1612656000,
+      1612915200
+    ]
+  },
+  "616-fire-in-bolivia-plurinational-state-of-activation": {
+    "TypeofEvent:": [
+      "fire"
+    ],
+    "LocationofEvent:": [
+      "bolivia,plurinationalstateof"
+    ],
+    "DateofCharterActivation:": [
+      1566342000
+    ],
+    "TimeofCharterActivation:": [
+      "21:17"
+    ],
+    "CharterRequestor:": [
+      "sinager-sat/videci"
+    ],
+    "ActivationID:": [
+      "616"
+    ],
+    "ProjectManagement:": [
+      "sinager"
+    ],
+    "Source:": [
+      "l",
+      "sat8",
+      "pleiades"
+    ],
+    "Acquired:": [
+      1565910000,
+      1566601200
+    ]
+  },
+  "722-fire-in-russian-federation-activation": {
+    "TypeofEvent:": [
+      "fires"
+    ],
+    "LocationofEvent:": [
+      "russianfederation"
+    ],
+    "DateofCharterActivation:": [
+      1626735600
+    ],
+    "TimeofCharterActivation:": [
+      "09:33"
+    ],
+    "CharterRequestor:": [
+      "ministryoftherussianfederationforcivildefense,emergencies&eliminationofnaturaldisasters(emercom)"
+    ],
+    "ActivationID:": [
+      "722"
+    ],
+    "ProjectManagement:": [
+      "roscosmos"
+    ],
+    "Source:": [
+      "meteorm"
+    ],
+    "Acquired:": [
+      1626476400
+    ]
+  },
+  "739-volcano-in-indonesia-activation": {
+    "TypeofEvent:": [],
+    "LocationofEvent:": [
+      "indonesia"
+    ],
+    "DateofCharterActivation:": [
+      1638835200
+    ],
+    "TimeofCharterActivation:": [
+      "16:41"
+    ],
+    "CharterRequestor:": [
+      "adrconbehalfofjapaninternationalcooperationagency"
+    ],
+    "ActivationID:": [
+      "739"
+    ],
+    "ProjectManagement:": [
+      "asianinstituteoftechnology"
+    ],
+    "Source:": [
+      "pleiades",
+      "sentinel2",
+      "vision1",
+      "l",
+      "sat8",
+      "sentinel1"
+    ],
+    "Acquired:": [
+      1627254000,
+      1639180800,
+      1639094400,
+      1627081200,
+      1328400000,
+      1639008000,
+      1636761600,
+      1637798400,
+      1638835200,
+      1638921600
+    ]
+  },
+  "740-flood-large-in-micronesia-federated-states-of-activation": {
+    "TypeofEvent:": [
+      "flood"
+    ],
+    "LocationofEvent:": [
+      "micronesia,federatedstatesof"
+    ],
+    "DateofCharterActivation:": [
+      1638921600
+    ],
+    "TimeofCharterActivation:": [
+      "20:34"
+    ],
+    "CharterRequestor:": [
+      "usgs"
+    ],
+    "ActivationID:": [
+      "740"
+    ],
+    "ProjectManagement:": [
+      "usgs"
+    ],
+    "Source:": [
+      "worldview2",
+      "sentinel1",
+      "worldview3",
+      "pleiades"
+    ],
+    "Acquired:": [
+      1635984000,
+      1640217600,
+      1639526400,
+      1639440000,
+      1639267200,
+      1621551600,
+      1639094400
+    ]
+  },
+  "763-earthquake-in-afghanistan-activation": {
+    "TypeofEvent:": [
+      "earthquake"
+    ],
+    "LocationofEvent:": [
+      "afghanistan"
+    ],
+    "DateofCharterActivation:": [
+      1655852400
+    ],
+    "TimeofCharterActivation:": [
+      "10:46"
+    ],
+    "CharterRequestor:": [
+      "unitaronbehalfofunitednationsofficeforthecoordinationofhumanitarianaffairs(ocha)|regionalofficeforasia&thepacific"
+    ],
+    "ActivationID:": [
+      "763"
+    ],
+    "ProjectManagement:": [
+      "unosat"
+    ],
+    "Source:": [
+      "worldview2",
+      "newsat",
+      "jilin1",
+      "worldview3"
+    ],
+    "Acquired:": [
+      1623193200,
+      1656025200
+    ]
+  },
+  "606-cyclone-in-mozambique-activation": {
+    "TypeofEvent:": [
+      "oceanstorm-cyclone"
+    ],
+    "LocationofEvent:": [
+      "mozambique"
+    ],
+    "DateofCharterActivation:": [
+      1556146800
+    ],
+    "TimeofCharterActivation:": [
+      "18:58"
+    ],
+    "CharterRequestor:": [
+      "cenadonbehalfofingcmozambique"
+    ],
+    "ActivationID:": [
+      "606"
+    ],
+    "ProjectManagement:": [
+      "ministériodaintegraçãonacional"
+    ],
+    "Source:": [
+      "sentinel1",
+      "terrasarx"
+    ],
+    "Acquired:": [
+      1556406000
+    ]
+  },
+  "744-ocean-wave-in-tonga-activation": {
+    "TypeofEvent:": [],
+    "LocationofEvent:": [
+      "tonga"
+    ],
+    "DateofCharterActivation:": [
+      1642204800
+    ],
+    "TimeofCharterActivation:": [
+      "16:35"
+    ],
+    "CharterRequestor:": [
+      "unitaronbehalfofunitednationsofficeforthecoordinationofhumanitarianaffairs(ocha)|regionalofficeforasia&thepacific"
+    ],
+    "ActivationID:": [
+      "744"
+    ],
+    "ProjectManagement:": [
+      "unitar"
+    ],
+    "Source:": [
+      "planetscope",
+      "sentinel1",
+      "sentinel2",
+      "pleiades",
+      "worldview3",
+      "worldview2",
+      "kompsat3",
+      "kanopusv",
+      "jilin0103",
+      "gf1"
+    ],
+    "Acquired:": [
+      1642118400,
+      1642291200,
+      1640131200,
+      1641168000,
+      1642550400,
+      1642636800,
+      1636761600,
+      1637452800,
+      1642377600,
+      1642464000,
+      1589410800,
+      1638921600
+    ]
+  },
+  "613-volcano-in-peru-activation": {
+    "TypeofEvent:": [
+      "volcano"
+    ],
+    "LocationofEvent:": [
+      "peru"
+    ],
+    "DateofCharterActivation:": [
+      1563577200
+    ],
+    "TimeofCharterActivation:": [
+      "18:57"
+    ],
+    "CharterRequestor:": [
+      "indeci"
+    ],
+    "ActivationID:": [
+      "613"
+    ],
+    "ProjectManagement:": [
+      "conida"
+    ],
+    "Source:": [
+      "terrasarx",
+      "perusat1"
+    ],
+    "Acquired:": [
+      1563490800,
+      1563663600
+    ]
+  },
+  "682-flood-large-in-philippines-activation": {
+    "TypeofEvent:": [
+      "floods"
+    ],
+    "LocationofEvent:": [
+      "philippines"
+    ],
+    "DateofCharterActivation:": [
+      1604275200
+    ],
+    "TimeofCharterActivation:": [
+      "12:03"
+    ],
+    "CharterRequestor:": [
+      "adrconbehalfofphivolcsdost"
+    ],
+    "ActivationID:": [
+      "682"
+    ],
+    "ProjectManagement:": [
+      "philippineinstituteofvolcanology",
+      "seismology(phivolcs)"
+    ],
+    "Source:": [
+      "pleiades",
+      "worldview2",
+      "sentinel1"
+    ],
+    "Acquired:": [
+      1605225600,
+      1590447600,
+      1604534400,
+      1604188800
+    ]
+  },
+  "566-cyclone-in-tonga-activation": {
+    "TypeofEvent:": [
+      "oceanstorm-cyclone"
+    ],
+    "LocationofEvent:": [
+      "tonga"
+    ],
+    "DateofCharterActivation:": [
+      1518393600
+    ],
+    "TimeofCharterActivation:": [
+      "09:28"
+    ],
+    "CharterRequestor:": [
+      "unitar-unosatonbehalfofunitednationsofficeforthecoordinationofhumanitarianaffairs(ocha)|regionalofficeforasia&thepacific(roap)"
+    ],
+    "ActivationID:": [
+      "566"
+    ],
+    "ProjectManagement:": [
+      "unitar",
+      "unosat"
+    ],
+    "Source:": [
+      "pleiades",
+      "worldview2",
+      "worldview3",
+      "geoeye1"
+    ],
+    "Acquired:": [
+      1501887600,
+      1518652800,
+      1518566400,
+      1518739200,
+      1519171200,
+      1515715200,
+      1518480000,
+      1498604400
+    ]
+  },
+  "786-flood-large-in-honduras-activation": {
+    "TypeofEvent:": [],
+    "LocationofEvent:": [
+      "honduras"
+    ],
+    "DateofCharterActivation:": [
+      1665529200
+    ],
+    "TimeofCharterActivation:": [
+      "11:54"
+    ],
+    "CharterRequestor:": [
+      "copeco"
+    ],
+    "ActivationID:": [
+      "786"
+    ],
+    "ProjectManagement:": [
+      "alex",
+      "erariza"
+    ],
+    "Source:": [
+      "newsat",
+      "sentinel1",
+      "l",
+      "sat8",
+      "saocom1",
+      "sentinel2",
+      "kompsat3",
+      "rcm2",
+      "pleiades"
+    ],
+    "Acquired:": [
+      1665874800,
+      1665356400,
+      1665529200,
+      1663023600,
+      1665615600,
+      1665702000
+    ]
+  },
+  "719-fire-in-thailand-activation": {
+    "TypeofEvent:": [
+      "other-industrialaccident"
+    ],
+    "LocationofEvent:": [
+      "thail&"
+    ],
+    "DateofCharterActivation:": [
+      1625526000
+    ],
+    "TimeofCharterActivation:": [
+      "17:32"
+    ],
+    "CharterRequestor:": [
+      "unitaronbehalfofunocha"
+    ],
+    "ActivationID:": [
+      "719"
+    ],
+    "ProjectManagement:": [
+      "unitar"
+    ],
+    "Source:": [
+      "pleiades"
+    ],
+    "Acquired:": [
+      1625785200,
+      1625612400
+    ]
+  },
+  "720-flood-large-in-switzerland-activation": {
+    "TypeofEvent:": [
+      "flood"
+    ],
+    "LocationofEvent:": [
+      "switzerl&"
+    ],
+    "DateofCharterActivation:": [
+      1626303600
+    ],
+    "TimeofCharterActivation:": [
+      "20:23"
+    ],
+    "CharterRequestor:": [
+      "swisstopoonbehalfoffederalofficeforcivilprotectionfocp"
+    ],
+    "ActivationID:": [
+      "720"
+    ],
+    "ProjectManagement:": [
+      "swissfederalofficeoftopography"
+    ],
+    "Source:": [
+      "t",
+      "emx",
+      "rcm"
+    ],
+    "Acquired:": [
+      1626562800,
+      1626390000
+    ]
+  },
+  "630-storm-hurricane-urban-in-bangladesh-activation": {
+    "TypeofEvent:": [
+      "cyclone"
+    ],
+    "LocationofEvent:": [
+      "bangladesh"
+    ],
+    "DateofCharterActivation:": [
+      1573344000
+    ],
+    "TimeofCharterActivation:": [
+      "19:54"
+    ],
+    "CharterRequestor:": [
+      "unitaronbehalfofunresidentcoordinatorinbangladesh"
+    ],
+    "ActivationID:": [
+      "630"
+    ],
+    "ProjectManagement:": [
+      "unitar",
+      "unosat"
+    ],
+    "Source:": [],
+    "Acquired:": []
+  },
+  "669-earthquake-in-philippines-activation": {
+    "TypeofEvent:": [
+      "earthquake"
+    ],
+    "LocationofEvent:": [
+      "philippines"
+    ],
+    "DateofCharterActivation:": [
+      1597791600
+    ],
+    "TimeofCharterActivation:": [
+      "08:56"
+    ],
+    "CharterRequestor:": [
+      "adrconbehalfofphilippineinstituteofvolcanology&seismology(phivolcs)"
+    ],
+    "ActivationID:": [
+      "669"
+    ],
+    "ProjectManagement:": [
+      "philippineinstituteofvolcanology",
+      "seismology(phivolcs)"
+    ],
+    "Source:": [
+      "sentinel1"
+    ],
+    "Acquired:": [
+      1597878000
+    ]
+  },
+  "607-landslide-in-bolivia-plurinational-state-of-activation": {
+    "TypeofEvent:": [
+      "l&slide"
+    ],
+    "LocationofEvent:": [
+      "bolivia,plurinationalstateof"
+    ],
+    "DateofCharterActivation:": [
+      1556665200
+    ],
+    "TimeofCharterActivation:": [
+      "01:54"
+    ],
+    "CharterRequestor:": [
+      "sinager-sat/videci"
+    ],
+    "ActivationID:": [
+      "607"
+    ],
+    "ProjectManagement:": [
+      "sinager-bolivia"
+    ],
+    "Source:": [
+      "pleiades"
+    ],
+    "Acquired:": [
+      1556665200
+    ]
+  },
+  "794-landslide-in-colombia-activation": {
+    "TypeofEvent:": [
+      "l&slide"
+    ],
+    "LocationofEvent:": [
+      "colombia"
+    ],
+    "DateofCharterActivation:": [
+      1673827200
+    ],
+    "TimeofCharterActivation:": [
+      "08:51"
+    ],
+    "CharterRequestor:": [
+      "nationalunitfordisasterriskmanagement(ungrd)"
+    ],
+    "ActivationID:": [
+      "794"
+    ],
+    "ProjectManagement:": [
+      "carloslaverde"
+    ],
+    "Source:": [
+      "pleiades"
+    ],
+    "Acquired:": [
+      1675382400
+    ]
+  },
+  "650-storm-hurricane-urban-in-tonga-activation": {
+    "TypeofEvent:": [
+      "cyclone"
+    ],
+    "LocationofEvent:": [
+      "tonga"
+    ],
+    "DateofCharterActivation:": [
+      1586386800
+    ],
+    "TimeofCharterActivation:": [
+      "21:51"
+    ],
+    "CharterRequestor:": [
+      "unitaronbehalfofunitednationsofficeforthecoordinationofhumanitarianaffairs(ocha)|regionalofficeforasia&thepacific(roap))"
+    ],
+    "ActivationID:": [
+      "649"
+    ],
+    "ProjectManagement:": [
+      "unitar",
+      "unosat"
+    ],
+    "Source:": [
+      "pleiades"
+    ],
+    "Acquired:": [
+      1586473200,
+      1586646000
+    ]
+  },
+  "812-flood-large-in-madagascar-activation": {
+    "TypeofEvent:": [
+      "cyclone"
+    ],
+    "LocationofEvent:": [
+      "madagascar"
+    ],
+    "DateofCharterActivation:": [
+      1678406400
+    ],
+    "TimeofCharterActivation:": [
+      "16:24"
+    ],
+    "CharterRequestor:": [
+      "bureaunationaldegestiondesrisquesetdescatastrophes(bngrc)"
+    ],
+    "ActivationID:": [
+      "812"
+    ],
+    "ProjectManagement:": [
+      "teodorohunger"
+    ],
+    "Source:": [
+      "worldview3",
+      "kompsat3"
+    ],
+    "Acquired:": [
+      1668729600
+    ]
+  },
+  "811-flood-large-in-peru-activation": {
+    "TypeofEvent:": [],
+    "LocationofEvent:": [
+      "peru"
+    ],
+    "DateofCharterActivation:": [
+      1678665600
+    ],
+    "TimeofCharterActivation:": [
+      "21:31"
+    ],
+    "CharterRequestor:": [
+      "usgsonbehalfofinstitutonacionaldedefensacivil(indeci)&comisiónnacionaldeinvestigaciónydesarrolloaeroespacial(conida)"
+    ],
+    "ActivationID:": [
+      "811"
+    ],
+    "ProjectManagement:": [
+      "josépasapera"
+    ],
+    "Source:": [],
+    "Acquired:": []
+  },
+  "809-landslide-in-indonesia-activation": {
+    "TypeofEvent:": [],
+    "LocationofEvent:": [
+      "indonesia"
+    ],
+    "DateofCharterActivation:": [
+      1678147200
+    ],
+    "TimeofCharterActivation:": [
+      "17:42"
+    ],
+    "CharterRequestor:": [
+      "adrconbehalfofbrin"
+    ],
+    "ActivationID:": [
+      "809"
+    ],
+    "ProjectManagement:": [
+      "angsanachaksan"
+    ],
+    "Source:": [
+      "pleiades",
+      "worldview3"
+    ],
+    "Acquired:": [
+      1678924800,
+      1622070000
+    ]
+  },
+  "663-flood-large-in-india-activation": {
+    "TypeofEvent:": [
+      "floods"
+    ],
+    "LocationofEvent:": [
+      "india"
+    ],
+    "DateofCharterActivation:": [
+      1595372400
+    ],
+    "TimeofCharterActivation:": [
+      "16:49"
+    ],
+    "CharterRequestor:": [
+      "isro"
+    ],
+    "ActivationID:": [
+      "663"
+    ],
+    "ProjectManagement:": [
+      "nrsc"
+    ],
+    "Source:": [
+      "resourcesat2",
+      "sentinel1",
+      "t",
+      "emx",
+      "reesourcesat2",
+      "pleiades",
+      "kompsat3",
+      "kanopusv",
+      "worldview3",
+      "pleaides",
+      "terrasarx",
+      "rcm1",
+      "noaa20",
+      "saocom1a"
+    ],
+    "Acquired:": [
+      1583193600,
+      1598396400,
+      1550016000,
+      1597705200,
+      1584662400,
+      1547078400,
+      1546905600,
+      1596495600,
+      1596582000,
+      1585954800,
+      1586041200,
+      1585868400,
+      1596409200,
+      1596322800,
+      1596236400,
+      1595977200,
+      1595890800,
+      1578441600,
+      1595631600,
+      1594681200,
+      1595458800,
+      1590534000,
+      1594422000,
+      1594508400,
+      1594594800,
+      1594249200,
+      1594854000,
+      1595026800,
+      1595286000
+    ]
+  },
+  "668-landslide-in-korea-republic-of-activation": {
+    "TypeofEvent:": [
+      "flood,l&slide"
+    ],
+    "LocationofEvent:": [
+      "republicofsouthkorea"
+    ],
+    "DateofCharterActivation:": [
+      1597359600
+    ],
+    "TimeofCharterActivation:": [
+      "11:06"
+    ],
+    "CharterRequestor:": [
+      "nationaldisastermanagementinstitute(ndmi)"
+    ],
+    "ActivationID:": [
+      "668"
+    ],
+    "ProjectManagement:": [
+      "kari"
+    ],
+    "Source:": [
+      "kompsat5",
+      "sentinel1",
+      "pleaides",
+      "pleiades"
+    ],
+    "Acquired:": [
+      1596841200,
+      1598914800,
+      1597618800,
+      1597705200,
+      1597791600,
+      1598223600
+    ]
+  },
+  "732-flood-large-in-sudan-activation": {
+    "TypeofEvent:": [
+      "flood"
+    ],
+    "LocationofEvent:": [
+      "sudan"
+    ],
+    "DateofCharterActivation:": [
+      1631142000
+    ],
+    "TimeofCharterActivation:": [
+      "21:44"
+    ],
+    "CharterRequestor:": [
+      "unitaronbehalfofunhcr"
+    ],
+    "ActivationID:": [
+      "732"
+    ],
+    "ProjectManagement:": [
+      "unitar",
+      "unosat"
+    ],
+    "Source:": [
+      "kanopusv",
+      "sentinel2",
+      "pleiades"
+    ],
+    "Acquired:": [
+      1632265200,
+      1632006000,
+      1631574000,
+      1631401200,
+      1630710000,
+      1631228400
+    ]
+  },
+  "629-earthquake-in-philippines-activation": {
+    "TypeofEvent:": [],
+    "LocationofEvent:": [
+      "philippines"
+    ],
+    "DateofCharterActivation:": [
+      1572566400
+    ],
+    "TimeofCharterActivation:": [
+      "14:37"
+    ],
+    "CharterRequestor:": [
+      "asiandisasterreductioncenteradrc"
+    ],
+    "ActivationID:": [
+      "629"
+    ],
+    "ProjectManagement:": [
+      "philippineinstituteofvolcanology",
+      "seismology"
+    ],
+    "Source:": [
+      "worldview2",
+      "pleiades",
+      "sentinel1"
+    ],
+    "Acquired:": [
+      1564873200,
+      1572044400,
+      1573084800,
+      1571007600,
+      1571180400
+    ]
+  },
+  "653-storm-hurricane-urban-in-india-activation": {
+    "TypeofEvent:": [
+      "oceanstorm-cyclone"
+    ],
+    "LocationofEvent:": [
+      "india"
+    ],
+    "DateofCharterActivation:": [
+      1589842800
+    ],
+    "TimeofCharterActivation:": [
+      "14:58"
+    ],
+    "CharterRequestor:": [
+      "isro"
+    ],
+    "ActivationID:": [
+      "653"
+    ],
+    "ProjectManagement:": [
+      "isro"
+    ],
+    "Source:": [
+      "planetscope",
+      "sentinel2",
+      "kompsat3",
+      "pleiades",
+      "resourcesat2",
+      "kompsat5",
+      "pleaides",
+      "kanopusv",
+      "cbers4",
+      "radarsat2",
+      "terrasarx"
+    ],
+    "Acquired:": [
+      1591138800,
+      1590879600,
+      1583020800,
+      1590534000,
+      1590188400,
+      1590361200,
+      1590274800
+    ]
+  },
+  "556-flood-in-dominican-republic-activation": {
+    "TypeofEvent:": [
+      "oceanstorm-hurricane"
+    ],
+    "LocationofEvent:": [
+      "dominicanrepublic"
+    ],
+    "DateofCharterActivation:": [
+      1505775600
+    ],
+    "TimeofCharterActivation:": [
+      "11:00"
+    ],
+    "CharterRequestor:": [
+      "comisiónnacionaldeemergenciascne"
+    ],
+    "ActivationID:": [
+      "556"
+    ],
+    "ProjectManagement:": [
+      "equipointerinstitucionaldeinformacióngeoespacial(eigeo)"
+    ],
+    "Source:": [
+      "radarsat2",
+      "sentinel1"
+    ],
+    "Acquired:": [
+      1506380400,
+      1506207600,
+      1503702000
+    ]
+  },
+  "627-flood-flash-in-cameroon-activation": {
+    "TypeofEvent:": [
+      "floods"
+    ],
+    "LocationofEvent:": [
+      "cameroon"
+    ],
+    "DateofCharterActivation:": [
+      1571266800
+    ],
+    "TimeofCharterActivation:": [
+      "16:42"
+    ],
+    "CharterRequestor:": [
+      "unoosa/un-spideronbehalfofdepartmentofcivilprotectionofcameroon"
+    ],
+    "ActivationID:": [
+      "627"
+    ],
+    "ProjectManagement:": [
+      "sertit"
+    ],
+    "Source:": [
+      "pleiades",
+      "sentinel2",
+      "sentinel1"
+    ],
+    "Acquired:": [
+      1571353200,
+      1571180400,
+      1570748400
+    ]
+  },
+  "591-fire-in-united-states-activation": {
+    "TypeofEvent:": [
+      "fire"
+    ],
+    "LocationofEvent:": [
+      "unitedstates"
+    ],
+    "DateofCharterActivation:": [
+      1542153600
+    ],
+    "TimeofCharterActivation:": [
+      "11:22"
+    ],
+    "CharterRequestor:": [
+      "usgsonbehalfofnationalguardbureau-jointoperationalintelligencebranch"
+    ],
+    "ActivationID:": [
+      "591"
+    ],
+    "ProjectManagement:": [
+      "universityofwyoming"
+    ],
+    "Source:": [
+      "tet1",
+      "pleiades",
+      "sentinel2",
+      "suominpp",
+      "rapideye"
+    ],
+    "Acquired:": [
+      1542153600,
+      1542672000,
+      1542499200,
+      1542326400
+    ]
+  },
+  "714-storm-hurricane-rural-in-india-activation": {
+    "TypeofEvent:": [],
+    "LocationofEvent:": [
+      "india"
+    ],
+    "DateofCharterActivation:": [
+      1621897200
+    ],
+    "TimeofCharterActivation:": [
+      "14:17"
+    ],
+    "CharterRequestor:": [
+      "isro"
+    ],
+    "ActivationID:": [
+      "714"
+    ],
+    "ProjectManagement:": [
+      "nrsc"
+    ],
+    "Source:": [
+      "sentinel1",
+      "pleiades",
+      "t",
+      "emx",
+      "saocom1a",
+      "rcm2",
+      "rcm3",
+      "kanopusv",
+      "tandemx",
+      "rcm"
+    ],
+    "Acquired:": [
+      1622415600,
+      1622070000,
+      1622242800,
+      1622329200,
+      1621983600,
+      1622156400
+    ]
+  },
+  "784-flood-large-in-thailand-activation": {
+    "TypeofEvent:": [],
+    "LocationofEvent:": [
+      "thail&"
+    ],
+    "DateofCharterActivation:": [
+      1664665200
+    ],
+    "TimeofCharterActivation:": [
+      "17:23"
+    ],
+    "CharterRequestor:": [
+      "unitaronbehalfofunrcothail&"
+    ],
+    "ActivationID:": [
+      "784"
+    ],
+    "ProjectManagement:": [
+      "jakrapongtawala"
+    ],
+    "Source:": [
+      "geoeye1",
+      "sentinel2",
+      "worldview3",
+      "kompsat3",
+      "kanopusv6",
+      "pleiades",
+      "sentinel1",
+      "iceye",
+      "sentinel",
+      "rcm2"
+    ],
+    "Acquired:": [
+      1666220400,
+      1665961200,
+      1665442800,
+      1665529200,
+      1665356400,
+      1665010800,
+      1664924400,
+      1664751600,
+      1663974000,
+      1664319600,
+      1663887600,
+      1664578800
+    ]
+  },
+  "743-volcano-in-ecuador-activation": {
+    "TypeofEvent:": [
+      "volcano"
+    ],
+    "LocationofEvent:": [
+      "ecuador"
+    ],
+    "DateofCharterActivation:": [
+      1641513600
+    ],
+    "TimeofCharterActivation:": [
+      "09:13"
+    ],
+    "CharterRequestor:": [
+      "servicionacionaldegestiónderiesgosyemergencias(sngre)"
+    ],
+    "ActivationID:": [
+      "743"
+    ],
+    "ProjectManagement:": [
+      "sngre"
+    ],
+    "Source:": [
+      "sentinel2"
+    ],
+    "Acquired:": [
+      1644278400,
+      1643500800,
+      1645056000
+    ]
+  },
+  "684-flood-large-in-panama-activation": {
+    "TypeofEvent:": [
+      "floods"
+    ],
+    "LocationofEvent:": [
+      "panama"
+    ],
+    "DateofCharterActivation:": [
+      1604880000
+    ],
+    "TimeofCharterActivation:": [
+      "07:33"
+    ],
+    "CharterRequestor:": [
+      "erosonbehalfofministryofgovernment/panama&watercenterforthehumidtropicsoflatinamerica&thecaribbean(cathalac)"
+    ],
+    "ActivationID:": [
+      "684"
+    ],
+    "ProjectManagement:": [
+      "cathalac"
+    ],
+    "Source:": [
+      "sentinel1",
+      "kompsat5",
+      "terrasarx"
+    ],
+    "Acquired:": [
+      1603756800,
+      1604793600,
+      1605139200,
+      1604361600,
+      1605916800,
+      1606003200,
+      1602284400,
+      1605398400,
+      1604966400
+    ]
+  },
+  "752-landslide-in-madagascar-activation": {
+    "TypeofEvent:": [
+      "oceanstorm-cyclone,floods,l&slides"
+    ],
+    "LocationofEvent:": [
+      "madagascar"
+    ],
+    "DateofCharterActivation:": [
+      1645747200
+    ],
+    "TimeofCharterActivation:": [
+      "06:57"
+    ],
+    "CharterRequestor:": [
+      "bureaunationaldegestiondesrisquesetdescatastrophes(bngrc)"
+    ],
+    "ActivationID:": [
+      "752"
+    ],
+    "ProjectManagement:": [
+      "unitar",
+      "unosat"
+    ],
+    "Source:": [
+      "worldview2",
+      "worldview3",
+      "cartosat2",
+      "sentinel2",
+      "pleiades",
+      "rcm2",
+      "sentinel1",
+      "terrasarx"
+    ],
+    "Acquired:": [
+      1646352000,
+      1645660800,
+      1643500800,
+      1646092800,
+      1646006400,
+      1645920000,
+      1645833600,
+      1644796800,
+      1645228800
+    ]
+  },
+  "639-volcano-in-philippines-activation": {
+    "TypeofEvent:": [
+      "volcano"
+    ],
+    "LocationofEvent:": [
+      "philippines"
+    ],
+    "DateofCharterActivation:": [
+      1578873600
+    ],
+    "TimeofCharterActivation:": [
+      "10:15"
+    ],
+    "CharterRequestor:": [
+      "adrconbehalfofphilippineinstituteofvolcanology&seismology(phivolcs)"
+    ],
+    "ActivationID:": [
+      "639"
+    ],
+    "ProjectManagement:": [
+      "philippineinstituteofvolcanology",
+      "seismology"
+    ],
+    "Source:": [
+      "sentinel1a",
+      "sentinel1b",
+      "sentinel2a",
+      "worldview2",
+      "spot7",
+      "kompsat3a",
+      "dove",
+      "sentinel2",
+      "pleiades"
+    ],
+    "Acquired:": [
+      1578528000,
+      1578700800,
+      1579046400,
+      1579737600,
+      1551657600,
+      1570921200,
+      1579132800,
+      1556924400,
+      1562799600,
+      1577577600,
+      1556406000,
+      1578960000
+    ]
+  },
+  "618-flood-large-in-japan-activation": {
+    "TypeofEvent:": [
+      "flood,l&slide"
+    ],
+    "LocationofEvent:": [
+      "japan"
+    ],
+    "DateofCharterActivation:": [
+      1567033200
+    ],
+    "TimeofCharterActivation:": [
+      "11:29"
+    ],
+    "CharterRequestor:": [
+      "asiandisasterreductioncenter"
+    ],
+    "ActivationID:": [
+      "618"
+    ],
+    "ProjectManagement:": [
+      "yamaguchiuniversity"
+    ],
+    "Source:": [
+      "kompsat5",
+      "alos2"
+    ],
+    "Acquired:": [
+      1554418800
+    ]
+  },
+  "584-landslide-in-india-activation": {
+    "TypeofEvent:": [
+      "l&slide"
+    ],
+    "LocationofEvent:": [
+      "india"
+    ],
+    "DateofCharterActivation:": [
+      1534806000
+    ],
+    "TimeofCharterActivation:": [
+      "14:34"
+    ],
+    "CharterRequestor:": [
+      "isro"
+    ],
+    "ActivationID:": [
+      "584"
+    ],
+    "ProjectManagement:": [
+      "nationalremotesensingcentre"
+    ],
+    "Source:": [
+      "",
+      "pleiades",
+      "kompsat",
+      "spot7",
+      "worldview2",
+      "spot6",
+      "gaofen2",
+      "resourcesat2"
+    ],
+    "Acquired:": [
+      1520035200
+    ]
+  },
+  "619-fire-in-bolivia-plurinational-state-of-activation": {
+    "TypeofEvent:": [
+      "fire"
+    ],
+    "LocationofEvent:": [
+      "bolivia"
+    ],
+    "DateofCharterActivation:": [
+      1567378800
+    ],
+    "TimeofCharterActivation:": [
+      "12:30"
+    ],
+    "CharterRequestor:": [
+      "centreopérationneldegestioninterministérielledescrises(cogic)"
+    ],
+    "ActivationID:": [
+      "619"
+    ],
+    "ProjectManagement:": [
+      "sertit"
+    ],
+    "Source:": [
+      "spot6",
+      "pleiades",
+      "spot7",
+      "sentinel2"
+    ],
+    "Acquired:": [
+      1567638000,
+      1567551600,
+      1567465200,
+      1567378800,
+      1567206000
+    ]
+  },
+  "762-flood-large-in-bangladesh-activation": {
+    "TypeofEvent:": [],
+    "LocationofEvent:": [
+      "bangladesh"
+    ],
+    "DateofCharterActivation:": [
+      1655420400
+    ],
+    "TimeofCharterActivation:": [
+      "21:49"
+    ],
+    "CharterRequestor:": [
+      "unitaronbehalfofunitednationsofficeforthecoordinationofhumanitarianaffairs(ocha)|regionalofficeforasia&thepacific"
+    ],
+    "ActivationID:": [
+      "762"
+    ],
+    "ProjectManagement:": [
+      "unitar"
+    ],
+    "Source:": [
+      "sentinel1",
+      "pleiades",
+      "rcm1",
+      "rcm"
+    ],
+    "Acquired:": [
+      1658271600,
+      1657839600,
+      1661122800,
+      1656025200,
+      1655506800,
+      1655766000,
+      1655593200
+    ]
+  },
+  "626-fire-in-lebanon-syrian-arab-republic-activation": {
+    "TypeofEvent:": [
+      "fire"
+    ],
+    "LocationofEvent:": [
+      "lebanon&syria"
+    ],
+    "DateofCharterActivation:": [
+      1571180400
+    ],
+    "TimeofCharterActivation:": [
+      "22:43"
+    ],
+    "CharterRequestor:": [
+      "unitar/unosatonbehalfoficrc"
+    ],
+    "ActivationID:": [
+      "626"
+    ],
+    "ProjectManagement:": [
+      "unitar",
+      "unosat"
+    ],
+    "Source:": [
+      "spot6",
+      "viirs"
+    ],
+    "Acquired:": [
+      1571612400,
+      1571439600,
+      1571094000,
+      1571180400
+    ]
+  },
+  "557-cyclone-in-viet-nam-activation": {
+    "TypeofEvent:": [
+      "oceanstorm-typhoon"
+    ],
+    "LocationofEvent:": [
+      "vietnam"
+    ],
+    "DateofCharterActivation:": [
+      1509926400
+    ],
+    "TimeofCharterActivation:": [
+      "16:35"
+    ],
+    "CharterRequestor:": [
+      "unitar-unosatonbehalfofunocha"
+    ],
+    "ActivationID:": [
+      "557"
+    ],
+    "ProjectManagement:": [
+      "unitar",
+      "unosat"
+    ],
+    "Source:": [
+      "sentinel1",
+      "radarsat2"
+    ],
+    "Acquired:": [
+      1510272000,
+      1510012800
+    ]
+  },
+  "637-flood-large-in-fiji-activation": {
+    "TypeofEvent:": [
+      "oceanstorm(cyclone),flood"
+    ],
+    "LocationofEvent:": [
+      "fiji"
+    ],
+    "DateofCharterActivation:": [
+      1577750400
+    ],
+    "TimeofCharterActivation:": [
+      "06:00"
+    ],
+    "CharterRequestor:": [
+      "asiandisasterreductioncenter(adrc)onbehalfofnationaldisastermanagementoffice(ndmo)fiji"
+    ],
+    "ActivationID:": [
+      "637"
+    ],
+    "ProjectManagement:": [
+      "ait"
+    ],
+    "Source:": [],
+    "Acquired:": []
+  },
+  "581-flood-in-venezuela-bolivarian-republic-of-activation": {
+    "TypeofEvent:": [
+      "flood"
+    ],
+    "LocationofEvent:": [
+      "venezuela"
+    ],
+    "DateofCharterActivation:": [
+      1534287600
+    ],
+    "TimeofCharterActivation:": [
+      "23:51"
+    ],
+    "CharterRequestor:": [
+      "venezuelancivilprotectiondirectoradegestióndelriesgodirecciónnacionaldeproteccióncivilyadministracióndedesastres"
+    ],
+    "ActivationID:": [
+      "581"
+    ],
+    "ProjectManagement:": [
+      "abae"
+    ],
+    "Source:": [
+      "wordview2",
+      "vrss1",
+      "pleiades",
+      "kompsat3",
+      "worldview2",
+      "worldview3",
+      "l",
+      "sat8",
+      "kompsat2",
+      "cbers4",
+      "alos",
+      "sentinel1",
+      "tandemx"
+    ],
+    "Acquired:": [
+      1534978800,
+      1468018800,
+      1535238000,
+      1535065200,
+      1522537200,
+      1535410800,
+      1517270400,
+      1527462000,
+      1534633200,
+      1516320000,
+      1534806000,
+      1533855600,
+      1533423600,
+      1534374000,
+      1460415600,
+      1534546800,
+      1518825600
+    ]
+  },
+  "771-flood-large-in-philippines-activation": {
+    "TypeofEvent:": [
+      "floods"
+    ],
+    "LocationofEvent:": [
+      "philippines"
+    ],
+    "DateofCharterActivation:": [
+      1661209200
+    ],
+    "TimeofCharterActivation:": [
+      "14:50"
+    ],
+    "CharterRequestor:": [
+      "unoosa/un-spideronbehalfofphilippinesspaceagency(philsa)onbehalfofnationaldisasterriskmanagementcouncil(ndrrmc)"
+    ],
+    "ActivationID:": [
+      "771"
+    ],
+    "ProjectManagement:": [
+      "jakrapongtawala"
+    ],
+    "Source:": [
+      "terrasarx"
+    ],
+    "Acquired:": [
+      1661641200
+    ]
+  },
+  "604-flood-in-canada-activation": {
+    "TypeofEvent:": [],
+    "LocationofEvent:": [
+      "canada"
+    ],
+    "DateofCharterActivation:": [
+      1555628400
+    ],
+    "TimeofCharterActivation:": [
+      "12:42"
+    ],
+    "CharterRequestor:": [
+      "governmentoperationscentre"
+    ],
+    "ActivationID:": [
+      "604"
+    ],
+    "ProjectManagement:": [
+      "canadianspaceagency(csa)"
+    ],
+    "Source:": [
+      "terrasarx",
+      "rapideye",
+      "pleiades",
+      "planetscope",
+      "kompsat5",
+      "kompsat2",
+      "geoeye1",
+      "alos2",
+      "radarsat2"
+    ],
+    "Acquired:": [
+      1556492400,
+      1557010800,
+      1556406000,
+      1556233200,
+      1556146800,
+      1556319600,
+      1555974000,
+      1555801200
+    ]
+  },
+  "640-flood-large-in-zambia-activation": {
+    "TypeofEvent:": [
+      "flood"
+    ],
+    "LocationofEvent:": [
+      "zambia"
+    ],
+    "DateofCharterActivation:": [
+      1579651200
+    ],
+    "TimeofCharterActivation:": [
+      "14:16"
+    ],
+    "CharterRequestor:": [
+      "unitaronbehalfofunocharegionalofficeforsouthern&easternafrica&theunresidentcoordinatorofficeinzambia."
+    ],
+    "ActivationID:": [
+      "640"
+    ],
+    "ProjectManagement:": [
+      "unitar",
+      "unosat"
+    ],
+    "Source:": [
+      "pleiades"
+    ],
+    "Acquired:": [
+      1579737600
+    ]
+  },
+  "760-fire-in-afghanistan-activation": {
+    "TypeofEvent:": [],
+    "LocationofEvent:": [
+      "afghanistan"
+    ],
+    "DateofCharterActivation:": [
+      1654470000
+    ],
+    "TimeofCharterActivation:": [
+      "13:11"
+    ],
+    "CharterRequestor:": [
+      "unitaronbehalfoftheunitednationsdisasterassessment&coordination(undac)"
+    ],
+    "ActivationID:": [
+      "760"
+    ],
+    "ProjectManagement:": [
+      "unitar"
+    ],
+    "Source:": [
+      "spot6",
+      "sentinel2"
+    ],
+    "Acquired:": [
+      1654642800,
+      1654124400
+    ]
+  },
+  "710-flood-flash-in-russian-federation-activation": {
+    "TypeofEvent:": [],
+    "LocationofEvent:": [
+      "russianfederation"
+    ],
+    "DateofCharterActivation:": [
+      1621551600
+    ],
+    "TimeofCharterActivation:": [
+      "09:35"
+    ],
+    "CharterRequestor:": [
+      "ministryoftherussianfederationforcivildefense,emergencies&eliminationofnaturaldisasters(emercom)"
+    ],
+    "ActivationID:": [
+      "710"
+    ],
+    "ProjectManagement:": [
+      "roscosmos"
+    ],
+    "Source:": [
+      "resursp"
+    ],
+    "Acquired:": [
+      1622070000
+    ]
+  },
+  "692-ship-wreck-in-russian-federation-activation": {
+    "TypeofEvent:": [
+      "missingvessel"
+    ],
+    "LocationofEvent:": [
+      "russianfederation"
+    ],
+    "DateofCharterActivation:": [
+      1609113600
+    ],
+    "TimeofCharterActivation:": [
+      "09:08"
+    ],
+    "CharterRequestor:": [
+      "ministryoftherussianfederationforcivildefense,emergencies&eliminationofnaturaldisasters(emercom)"
+    ],
+    "ActivationID:": [
+      "692"
+    ],
+    "ProjectManagement:": [
+      "roscosmos"
+    ],
+    "Source:": [],
+    "Acquired:": []
+  },
+  "797-earthquake-in-turkey-activation": {
+    "TypeofEvent:": [
+      "earthquake"
+    ],
+    "LocationofEvent:": [
+      "turkey"
+    ],
+    "DateofCharterActivation:": [
+      1675641600
+    ],
+    "TimeofCharterActivation:": [
+      "07:04"
+    ],
+    "CharterRequestor:": [
+      "disaster&emergencymanagementauthorityofturkey(afad)."
+    ],
+    "ActivationID:": [
+      "797"
+    ],
+    "ProjectManagement:": [
+      "oktaygokce"
+    ],
+    "Source:": [
+      "pleiades",
+      "geoeye1",
+      "worldview1",
+      "gaofen2",
+      "planetscope",
+      "kompsat3",
+      "sentinel2",
+      "worldview3",
+      "cbers4",
+      "worldview2",
+      "yangwang1spacetelescope",
+      "viirs",
+      "sdgsat1",
+      "radarsat2"
+    ],
+    "Acquired:": [
+      1675900800,
+      1675728000,
+      1676851200,
+      1676332800,
+      1676073600,
+      1601334000,
+      1675814400,
+      1676160000,
+      1676419200,
+      1596927600,
+      1671667200,
+      1647734400,
+      1649026800
+    ]
+  },
+  "553-earthquake-in-mexico-activation": {
+    "TypeofEvent:": [
+      "earthquake"
+    ],
+    "LocationofEvent:": [
+      "mexico"
+    ],
+    "DateofCharterActivation:": [
+      1505862000
+    ],
+    "TimeofCharterActivation:": [
+      "03:00"
+    ],
+    "CharterRequestor:": [
+      "unitar-unosatonbehalfofunocha"
+    ],
+    "ActivationID:": [
+      "555"
+    ],
+    "ProjectManagement:": [
+      "unitar",
+      "unosat"
+    ],
+    "Source:": [
+      "worldview2",
+      "pleiades",
+      "worldview3"
+    ],
+    "Acquired:": [
+      1506380400,
+      1505862000,
+      1507158000,
+      1506121200,
+      1506985200,
+      1484611200,
+      1486944000,
+      1506034800,
+      1505948400
+    ]
+  }
+}

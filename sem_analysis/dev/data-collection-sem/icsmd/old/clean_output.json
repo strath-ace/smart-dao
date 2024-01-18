@@ -1,0 +1,2842 @@
+[
+  {
+    "activation_id": "808",
+    "date": "2023-03-03",
+    "producer_country": [
+      "france"
+    ],
+    "producer_hdi": 0.903,
+    "user_country": "vanuatu",
+    "user_hdi": 0.607
+  },
+  {
+    "activation_id": "807",
+    "date": "2023-03-02",
+    "producer_country": [
+      "canada",
+      "finland",
+      "usa",
+      "china",
+      "eu"
+    ],
+    "producer_hdi": 0.8995999999999998,
+    "user_country": "philippines",
+    "user_hdi": 0.699
+  },
+  {
+    "activation_id": "805",
+    "date": "2023-02-24",
+    "producer_country": [
+      "canada",
+      "china",
+      "eu",
+      "germany"
+    ],
+    "producer_hdi": 0.8900000000000001,
+    "user_country": "mozambique",
+    "user_hdi": 0.446
+  },
+  {
+    "activation_id": "804",
+    "date": "2023-02-21",
+    "producer_country": [
+      "france",
+      "eu",
+      "germany"
+    ],
+    "producer_hdi": 0.9196666666666667,
+    "user_country": "madagascar",
+    "user_hdi": 0.501
+  },
+  {
+    "activation_id": "803",
+    "date": "2023-02-20",
+    "producer_country": [
+      "japan",
+      "france",
+      "eu",
+      "usa"
+    ],
+    "producer_hdi": 0.914,
+    "user_country": "brazil",
+    "user_hdi": 0.754
+  },
+  {
+    "activation_id": "801",
+    "date": "2023-02-16",
+    "producer_country": [
+      "eu",
+      "canada",
+      "germany"
+    ],
+    "producer_hdi": 0.9306666666666666,
+    "user_country": "mozambique",
+    "user_hdi": 0.446
+  },
+  {
+    "activation_id": "799",
+    "date": "2023-02-10",
+    "producer_country": [
+      "eu"
+    ],
+    "producer_hdi": 0.914,
+    "user_country": "chile",
+    "user_hdi": 0.855
+  },
+  {
+    "activation_id": "798",
+    "date": "2023-02-06",
+    "producer_country": [
+      "france",
+      "china",
+      "usa",
+      "eu",
+      "korea"
+    ],
+    "producer_hdi": 0.8556000000000001,
+    "user_country": "syrian arab republic",
+    "user_hdi": 0.577
+  },
+  {
+    "activation_id": "796",
+    "date": "2023-01-30",
+    "producer_country": [
+      "usa",
+      "eu",
+      "canada"
+    ],
+    "producer_hdi": 0.9286666666666666,
+    "user_country": "zambia",
+    "user_hdi": 0.565
+  },
+  {
+    "activation_id": "795",
+    "date": "2023-01-24",
+    "producer_country": [
+      "eu",
+      "canada",
+      "france",
+      "usa",
+      "argentina",
+      "germany"
+    ],
+    "producer_hdi": 0.9066666666666667,
+    "user_country": "madagascar",
+    "user_hdi": 0.501
+  },
+  {
+    "activation_id": "794",
+    "date": "2023-01-16",
+    "producer_country": [
+      "france"
+    ],
+    "producer_hdi": 0.903,
+    "user_country": "colombia",
+    "user_hdi": 0.752
+  },
+  {
+    "activation_id": "792",
+    "date": "2022-12-05",
+    "producer_country": [
+      "venezuela",
+      "eu",
+      "germany",
+      "usa"
+    ],
+    "producer_hdi": 0.87225,
+    "user_country": "indonesia",
+    "user_hdi": 0.705
+  },
+  {
+    "activation_id": "791",
+    "date": "2022-11-22",
+    "producer_country": [
+      "france",
+      "eu"
+    ],
+    "producer_hdi": 0.9085000000000001,
+    "user_country": "indonesia",
+    "user_hdi": 0.705
+  },
+  {
+    "activation_id": "790",
+    "date": "2022-11-18",
+    "producer_country": [
+      "canada"
+    ],
+    "producer_hdi": 0.936,
+    "user_country": "united kingdom",
+    "user_hdi": 0.929
+  },
+  {
+    "activation_id": "789",
+    "date": "2022-10-29",
+    "producer_country": [
+      "france",
+      "eu",
+      "russia",
+      "canada",
+      "germany"
+    ],
+    "producer_hdi": 0.9218,
+    "user_country": "philippines",
+    "user_hdi": 0.699
+  },
+  {
+    "activation_id": "788",
+    "date": "2022-10-20",
+    "producer_country": [
+      "eu",
+      "russia",
+      "france",
+      "usa"
+    ],
+    "producer_hdi": 0.9085,
+    "user_country": "chad",
+    "user_hdi": 0.394
+  },
+  {
+    "activation_id": "787",
+    "date": "2022-10-19",
+    "producer_country": [
+      "germany",
+      "eu",
+      "japan"
+    ],
+    "producer_hdi": 0.9269999999999999,
+    "user_country": "thailand",
+    "user_hdi": 0.8
+  },
+  {
+    "activation_id": "786",
+    "date": "2022-10-12",
+    "producer_country": [
+      "eu",
+      "argentina",
+      "korea",
+      "canada",
+      "france"
+    ],
+    "producer_hdi": 0.9039999999999999,
+    "user_country": "honduras",
+    "user_hdi": 0.621
+  },
+  {
+    "activation_id": "784",
+    "date": "2022-10-02",
+    "producer_country": [
+      "usa",
+      "eu",
+      "korea",
+      "russia",
+      "france",
+      "finland",
+      "canada"
+    ],
+    "producer_hdi": 0.9224285714285713,
+    "user_country": "thailand",
+    "user_hdi": 0.8
+  },
+  {
+    "activation_id": "782",
+    "date": "2022-09-25",
+    "producer_country": [
+      "eu",
+      "canada"
+    ],
+    "producer_hdi": 0.925,
+    "user_country": "philippines",
+    "user_hdi": 0.699
+  },
+  {
+    "activation_id": "781",
+    "date": "2022-09-23",
+    "producer_country": [
+      "france"
+    ],
+    "producer_hdi": 0.903,
+    "user_country": "canada",
+    "user_hdi": 0.936
+  },
+  {
+    "activation_id": "780",
+    "date": "2022-09-20",
+    "producer_country": [
+      "eu"
+    ],
+    "producer_hdi": 0.914,
+    "user_country": "dominican republic",
+    "user_hdi": 0.767
+  },
+  {
+    "activation_id": "778",
+    "date": "2022-09-19",
+    "producer_country": [
+      "eu",
+      "france",
+      "korea"
+    ],
+    "producer_hdi": 0.914,
+    "user_country": "honduras",
+    "user_hdi": 0.621
+  },
+  {
+    "activation_id": "777",
+    "date": "2022-09-15",
+    "producer_country": [
+      "canada",
+      "eu",
+      "korea",
+      "usa",
+      "france"
+    ],
+    "producer_hdi": 0.9206,
+    "user_country": "nigeria",
+    "user_hdi": 0.535
+  },
+  {
+    "activation_id": "776",
+    "date": "2022-09-12",
+    "producer_country": [
+      "eu",
+      "france"
+    ],
+    "producer_hdi": 0.9085000000000001,
+    "user_country": "south africa",
+    "user_hdi": 0.713
+  },
+  {
+    "activation_id": "772",
+    "date": "2022-08-30",
+    "producer_country": [
+      "usa",
+      "eu",
+      "china"
+    ],
+    "producer_hdi": 0.8726666666666668,
+    "user_country": "pakistan",
+    "user_hdi": 0.544
+  },
+  {
+    "activation_id": "771",
+    "date": "2022-08-23",
+    "producer_country": [
+      "germany"
+    ],
+    "producer_hdi": 0.942,
+    "user_country": "philippines",
+    "user_hdi": 0.699
+  },
+  {
+    "activation_id": "769",
+    "date": "2022-08-21",
+    "producer_country": [
+      "france",
+      "canada",
+      "venezuela",
+      "eu",
+      "usa",
+      "germany"
+    ],
+    "producer_hdi": 0.8833333333333333,
+    "user_country": "sudan",
+    "user_hdi": 0.508
+  },
+  {
+    "activation_id": "768",
+    "date": "2022-08-09",
+    "producer_country": [
+      "eu",
+      "france",
+      "russia"
+    ],
+    "producer_hdi": 0.9066666666666667,
+    "user_country": "gambia",
+    "user_hdi": 0.5
+  },
+  {
+    "activation_id": "767",
+    "date": "2022-08-08",
+    "producer_country": [
+      "france",
+      "russia"
+    ],
+    "producer_hdi": 0.903,
+    "user_country": "russian federation",
+    "user_hdi": 0.822
+  },
+  {
+    "activation_id": "766",
+    "date": "2022-07-27",
+    "producer_country": [
+      "france",
+      "korea",
+      "eu"
+    ],
+    "producer_hdi": 0.914,
+    "user_country": "tunisia",
+    "user_hdi": 0.731
+  },
+  {
+    "activation_id": "765",
+    "date": "2022-07-27",
+    "producer_country": [
+      "eu",
+      "france"
+    ],
+    "producer_hdi": 0.9085000000000001,
+    "user_country": "philippines",
+    "user_hdi": 0.699
+  },
+  {
+    "activation_id": "764",
+    "date": "2022-07-14",
+    "producer_country": [
+      "france",
+      "eu",
+      "korea",
+      "usa",
+      "canada"
+    ],
+    "producer_hdi": 0.9206,
+    "user_country": "india",
+    "user_hdi": 0.633
+  },
+  {
+    "activation_id": "763",
+    "date": "2022-06-22",
+    "producer_country": [
+      "china"
+    ],
+    "producer_hdi": 0.768,
+    "user_country": "afghanistan",
+    "user_hdi": 0.478
+  },
+  {
+    "activation_id": "762",
+    "date": "2022-06-17",
+    "producer_country": [
+      "eu",
+      "france",
+      "canada"
+    ],
+    "producer_hdi": 0.9176666666666667,
+    "user_country": "bangladesh",
+    "user_hdi": 0.661
+  },
+  {
+    "activation_id": "761",
+    "date": "2022-06-13",
+    "producer_country": [
+      "eu",
+      "usa",
+      "korea"
+    ],
+    "producer_hdi": 0.9176666666666667,
+    "user_country": "philippines",
+    "user_hdi": 0.699
+  },
+  {
+    "activation_id": "760",
+    "date": "2022-06-06",
+    "producer_country": [
+      "eu"
+    ],
+    "producer_hdi": 0.914,
+    "user_country": "afghanistan",
+    "user_hdi": 0.478
+  },
+  {
+    "activation_id": "759",
+    "date": "2022-06-04",
+    "producer_country": [
+      "france",
+      "eu"
+    ],
+    "producer_hdi": 0.9085000000000001,
+    "user_country": "gambia",
+    "user_hdi": 0.5
+  },
+  {
+    "activation_id": "758",
+    "date": "2022-05-30",
+    "producer_country": [
+      "france"
+    ],
+    "producer_hdi": 0.903,
+    "user_country": "brazil",
+    "user_hdi": 0.754
+  },
+  {
+    "activation_id": "757",
+    "date": "2022-05-24",
+    "producer_country": [
+      "eu",
+      "france",
+      "korea"
+    ],
+    "producer_hdi": 0.914,
+    "user_country": "south africa",
+    "user_hdi": 0.713
+  },
+  {
+    "activation_id": "756",
+    "date": "2022-04-13",
+    "producer_country": [
+      "france",
+      "eu",
+      "canada",
+      "germany",
+      "korea"
+    ],
+    "producer_hdi": 0.924,
+    "user_country": "philippines",
+    "user_hdi": 0.699
+  },
+  {
+    "activation_id": "755",
+    "date": "2022-04-13",
+    "producer_country": [
+      "france",
+      "korea",
+      "usa"
+    ],
+    "producer_hdi": 0.9176666666666667,
+    "user_country": "south africa",
+    "user_hdi": 0.713
+  },
+  {
+    "activation_id": "754",
+    "date": "2022-04-05",
+    "producer_country": [
+      "france",
+      "usa"
+    ],
+    "producer_hdi": 0.903,
+    "user_country": "brazil",
+    "user_hdi": 0.754
+  },
+  {
+    "activation_id": "753",
+    "date": "2022-03-13",
+    "producer_country": [
+      "germany",
+      "eu",
+      "canada"
+    ],
+    "producer_hdi": 0.9306666666666666,
+    "user_country": "mozambique",
+    "user_hdi": 0.446
+  },
+  {
+    "activation_id": "752",
+    "date": "2022-02-25",
+    "producer_country": [
+      "india",
+      "eu",
+      "france",
+      "canada",
+      "germany"
+    ],
+    "producer_hdi": 0.8656,
+    "user_country": "madagascar",
+    "user_hdi": 0.501
+  },
+  {
+    "activation_id": "751",
+    "date": "2022-02-16",
+    "producer_country": [
+      "france"
+    ],
+    "producer_hdi": 0.903,
+    "user_country": "brazil",
+    "user_hdi": 0.754
+  },
+  {
+    "activation_id": "750",
+    "date": "2022-02-04",
+    "producer_country": [
+      "eu",
+      "france",
+      "germany",
+      "canada"
+    ],
+    "producer_hdi": 0.9237500000000001,
+    "user_country": "madagascar",
+    "user_hdi": 0.501
+  },
+  {
+    "activation_id": "749",
+    "date": "2022-01-31",
+    "producer_country": [
+      "eu",
+      "canada"
+    ],
+    "producer_hdi": 0.925,
+    "user_country": "ecuador",
+    "user_hdi": 0.74
+  },
+  {
+    "activation_id": "748",
+    "date": "2022-01-25",
+    "producer_country": [
+      "eu",
+      "venezuela",
+      "usa",
+      "germany",
+      "canada"
+    ],
+    "producer_hdi": 0.8347999999999999,
+    "user_country": "mozambique",
+    "user_hdi": 0.446
+  },
+  {
+    "activation_id": "747",
+    "date": "2022-01-24",
+    "producer_country": [
+      "france",
+      "eu",
+      "canada",
+      "argentina"
+    ],
+    "producer_hdi": 0.89875,
+    "user_country": "madagascar",
+    "user_hdi": 0.501
+  },
+  {
+    "activation_id": "745",
+    "date": "2022-01-20",
+    "producer_country": [
+      "peru",
+      "eu",
+      "canada",
+      "korea",
+      "usa"
+    ],
+    "producer_hdi": 0.8924,
+    "user_country": "peru",
+    "user_hdi": 0.762
+  },
+  {
+    "activation_id": "746",
+    "date": "2022-01-20",
+    "producer_country": [
+      "france",
+      "eu"
+    ],
+    "producer_hdi": 0.9085000000000001,
+    "user_country": "sao tome and principe",
+    "user_hdi": 0.618
+  },
+  {
+    "activation_id": "744",
+    "date": "2022-01-15",
+    "producer_country": [
+      "usa",
+      "eu",
+      "france",
+      "korea",
+      "russia",
+      "china"
+    ],
+    "producer_hdi": 0.8914999999999998,
+    "user_country": "tonga",
+    "user_hdi": 0.745
+  },
+  {
+    "activation_id": "743",
+    "date": "2022-01-07",
+    "producer_country": [
+      "eu"
+    ],
+    "producer_hdi": 0.914,
+    "user_country": "ecuador",
+    "user_hdi": 0.74
+  },
+  {
+    "activation_id": "742",
+    "date": "2021-12-30",
+    "producer_country": [
+      "france"
+    ],
+    "producer_hdi": 0.903,
+    "user_country": "brazil",
+    "user_hdi": 0.754
+  },
+  {
+    "activation_id": "741",
+    "date": "2021-12-16",
+    "producer_country": [
+      "france",
+      "usa",
+      "eu"
+    ],
+    "producer_hdi": 0.9066666666666667,
+    "user_country": "philippines",
+    "user_hdi": 0.699
+  },
+  {
+    "activation_id": "739",
+    "date": "2021-12-07",
+    "producer_country": [
+      "france",
+      "eu"
+    ],
+    "producer_hdi": 0.9085000000000001,
+    "user_country": "indonesia",
+    "user_hdi": 0.705
+  },
+  {
+    "activation_id": "738",
+    "date": "2021-11-24",
+    "producer_country": [
+      "usa",
+      "eu",
+      "france"
+    ],
+    "producer_hdi": 0.9103333333333333,
+    "user_country": "philippines",
+    "user_hdi": 0.699
+  },
+  {
+    "activation_id": "737",
+    "date": "2021-11-12",
+    "producer_country": [
+      "eu",
+      "japan",
+      "germany",
+      "canada"
+    ],
+    "producer_hdi": 0.9292499999999999,
+    "user_country": "sri lanka",
+    "user_hdi": 0.782
+  },
+  {
+    "activation_id": "734",
+    "date": "2021-09-28",
+    "producer_country": [
+      "france",
+      "eu",
+      "china",
+      "russia"
+    ],
+    "producer_hdi": 0.8382499999999999,
+    "user_country": "thailand",
+    "user_hdi": 0.8
+  },
+  {
+    "activation_id": "733",
+    "date": "2021-09-16",
+    "producer_country": [
+      "france"
+    ],
+    "producer_hdi": 0.903,
+    "user_country": "china",
+    "user_hdi": 0.768
+  },
+  {
+    "activation_id": "732",
+    "date": "2021-09-09",
+    "producer_country": [
+      "russia",
+      "eu",
+      "france"
+    ],
+    "producer_hdi": 0.9066666666666667,
+    "user_country": "sudan",
+    "user_hdi": 0.508
+  },
+  {
+    "activation_id": "731",
+    "date": "2021-09-06",
+    "producer_country": [
+      "eu",
+      "germany",
+      "canada"
+    ],
+    "producer_hdi": 0.9306666666666666,
+    "user_country": "togo",
+    "user_hdi": 0.539
+  },
+  {
+    "activation_id": "730",
+    "date": "2021-08-17",
+    "producer_country": [
+      "eu",
+      "canada",
+      "france",
+      "usa"
+    ],
+    "producer_hdi": 0.914,
+    "user_country": "haiti",
+    "user_hdi": 0.535
+  },
+  {
+    "activation_id": "729",
+    "date": "2021-08-14",
+    "producer_country": [
+      "france",
+      "russia"
+    ],
+    "producer_hdi": 0.903,
+    "user_country": "haiti",
+    "user_hdi": 0.535
+  },
+  {
+    "activation_id": "728",
+    "date": "2021-08-14",
+    "producer_country": [
+      "eu"
+    ],
+    "producer_hdi": 0.914,
+    "user_country": "russian federation",
+    "user_hdi": 0.822
+  },
+  {
+    "activation_id": "727",
+    "date": "2021-08-14",
+    "producer_country": [
+      "eu",
+      "germany"
+    ],
+    "producer_hdi": 0.9279999999999999,
+    "user_country": "japan",
+    "user_hdi": 0.925
+  },
+  {
+    "activation_id": "725",
+    "date": "2021-08-04",
+    "producer_country": [
+      "russia",
+      "eu",
+      "germany"
+    ],
+    "producer_hdi": 0.9326666666666666,
+    "user_country": "russian federation",
+    "user_hdi": 0.822
+  },
+  {
+    "activation_id": "724",
+    "date": "2021-07-28",
+    "producer_country": [
+      "usa",
+      "france"
+    ],
+    "producer_hdi": 0.9225,
+    "user_country": "tunisia",
+    "user_hdi": 0.731
+  },
+  {
+    "activation_id": "723",
+    "date": "2021-07-26",
+    "producer_country": [
+      "france",
+      "korea",
+      "eu",
+      "argentina",
+      "germany",
+      "india",
+      "canada"
+    ],
+    "producer_hdi": 0.8707142857142857,
+    "user_country": "india",
+    "user_hdi": 0.633
+  },
+  {
+    "activation_id": "722",
+    "date": "2021-07-20",
+    "producer_country": [
+      "russia"
+    ],
+    "producer_hdi": 0.936,
+    "user_country": "russian federation",
+    "user_hdi": 0.822
+  },
+  {
+    "activation_id": "720",
+    "date": "2021-07-15",
+    "producer_country": [
+      "canada"
+    ],
+    "producer_hdi": 0.936,
+    "user_country": "switzerland",
+    "user_hdi": 0.962
+  },
+  {
+    "activation_id": "721",
+    "date": "2021-07-15",
+    "producer_country": [
+      "france",
+      "germany",
+      "eu"
+    ],
+    "producer_hdi": 0.9196666666666666,
+    "user_country": "luxembourg",
+    "user_hdi": 0.93
+  },
+  {
+    "activation_id": "719",
+    "date": "2021-07-06",
+    "producer_country": [
+      "france"
+    ],
+    "producer_hdi": 0.903,
+    "user_country": "thailand",
+    "user_hdi": 0.8
+  },
+  {
+    "activation_id": "718",
+    "date": "2021-06-21",
+    "producer_country": [
+      "russia"
+    ],
+    "producer_hdi": 0.903,
+    "user_country": "russian federation",
+    "user_hdi": 0.822
+  },
+  {
+    "activation_id": "717",
+    "date": "2021-06-07",
+    "producer_country": [
+      "usa",
+      "eu",
+      "canada",
+      "germany"
+    ],
+    "producer_hdi": 0.9237500000000001,
+    "user_country": "guyana",
+    "user_hdi": 0.714
+  },
+  {
+    "activation_id": "716",
+    "date": "2021-06-05",
+    "producer_country": [
+      "japan",
+      "germany"
+    ],
+    "producer_hdi": 0.9335,
+    "user_country": "sri lanka",
+    "user_hdi": 0.782
+  },
+  {
+    "activation_id": "715",
+    "date": "2021-06-04",
+    "producer_country": [
+      "canada",
+      "france",
+      "eu",
+      "argentina",
+      "finland"
+    ],
+    "producer_hdi": 0.907,
+    "user_country": "sri lanka",
+    "user_hdi": 0.782
+  },
+  {
+    "activation_id": "714",
+    "date": "2021-05-25",
+    "producer_country": [
+      "eu",
+      "france",
+      "argentina",
+      "canada",
+      "russia",
+      "germany"
+    ],
+    "producer_hdi": 0.9121666666666668,
+    "user_country": "india",
+    "user_hdi": 0.633
+  },
+  {
+    "activation_id": "712",
+    "date": "2021-05-22",
+    "producer_country": [
+      "eu",
+      "germany"
+    ],
+    "producer_hdi": 0.9279999999999999,
+    "user_country": "china",
+    "user_hdi": 0.768
+  },
+  {
+    "activation_id": "711",
+    "date": "2021-05-22",
+    "producer_country": [
+      "finland"
+    ],
+    "producer_hdi": 0.94,
+    "user_country": "china",
+    "user_hdi": 0.768
+  },
+  {
+    "activation_id": "710",
+    "date": "2021-05-21",
+    "producer_country": [
+      "russia"
+    ],
+    "producer_hdi": 0.94,
+    "user_country": "russian federation",
+    "user_hdi": 0.822
+  },
+  {
+    "activation_id": "709",
+    "date": "2021-05-16",
+    "producer_country": [
+      "france",
+      "canada"
+    ],
+    "producer_hdi": 0.9195,
+    "user_country": "india",
+    "user_hdi": 0.633
+  },
+  {
+    "activation_id": "708",
+    "date": "2021-05-12",
+    "producer_country": [
+      "russia"
+    ],
+    "producer_hdi": 0.936,
+    "user_country": "russian federation",
+    "user_hdi": 0.822
+  },
+  {
+    "activation_id": "707",
+    "date": "2021-05-07",
+    "producer_country": [
+      "russia"
+    ],
+    "producer_hdi": 0.936,
+    "user_country": "russian federation",
+    "user_hdi": 0.822
+  },
+  {
+    "activation_id": "705",
+    "date": "2021-04-14",
+    "producer_country": [
+      "russia"
+    ],
+    "producer_hdi": 0.936,
+    "user_country": "russian federation",
+    "user_hdi": 0.822
+  },
+  {
+    "activation_id": "704",
+    "date": "2021-04-12",
+    "producer_country": [
+      "russia"
+    ],
+    "producer_hdi": 0.936,
+    "user_country": "russian federation",
+    "user_hdi": 0.822
+  },
+  {
+    "activation_id": "703",
+    "date": "2021-04-09",
+    "producer_country": [
+      "canada",
+      "eu",
+      "argentina",
+      "france",
+      "germany"
+    ],
+    "producer_hdi": 0.9074,
+    "user_country": "saint vincent and the grenadines",
+    "user_hdi": 0.751
+  },
+  {
+    "activation_id": "701",
+    "date": "2021-04-07",
+    "producer_country": [
+      "france",
+      "usa",
+      "eu"
+    ],
+    "producer_hdi": 0.9066666666666667,
+    "user_country": "timor-leste",
+    "user_hdi": 0.607
+  },
+  {
+    "activation_id": "702",
+    "date": "2021-04-06",
+    "producer_country": [
+      "france"
+    ],
+    "producer_hdi": 0.903,
+    "user_country": "indonesia",
+    "user_hdi": 0.705
+  },
+  {
+    "activation_id": "700",
+    "date": "2021-02-22",
+    "producer_country": [
+      "eu",
+      "india",
+      "japan"
+    ],
+    "producer_hdi": 0.8240000000000002,
+    "user_country": "philippines",
+    "user_hdi": 0.699
+  },
+  {
+    "activation_id": "698",
+    "date": "2021-02-07",
+    "producer_country": [
+      "india",
+      "france",
+      "korea",
+      "usa",
+      "eu",
+      "russia"
+    ],
+    "producer_hdi": 0.8689999999999999,
+    "user_country": "india",
+    "user_hdi": 0.633
+  },
+  {
+    "activation_id": "697",
+    "date": "2021-01-27",
+    "producer_country": [
+      "france",
+      "eu"
+    ],
+    "producer_hdi": 0.9085000000000001,
+    "user_country": "eswatini",
+    "user_hdi": 0.597
+  },
+  {
+    "activation_id": "696",
+    "date": "2021-01-22",
+    "producer_country": [
+      "eu",
+      "france",
+      "germany",
+      "usa"
+    ],
+    "producer_hdi": 0.9252500000000001,
+    "user_country": "mozambique",
+    "user_hdi": 0.446
+  },
+  {
+    "activation_id": "695",
+    "date": "2021-01-15",
+    "producer_country": [
+      "korea",
+      "france",
+      "japan",
+      "eu"
+    ],
+    "producer_hdi": 0.9167500000000001,
+    "user_country": "indonesia",
+    "user_hdi": 0.705
+  },
+  {
+    "activation_id": "694",
+    "date": "2021-01-12",
+    "producer_country": [
+      "france"
+    ],
+    "producer_hdi": 0.903,
+    "user_country": "morocco",
+    "user_hdi": 0.683
+  },
+  {
+    "activation_id": "691",
+    "date": "2020-12-15",
+    "producer_country": [
+      "france",
+      "canada",
+      "eu"
+    ],
+    "producer_hdi": 0.9176666666666667,
+    "user_country": "fiji",
+    "user_hdi": 0.73
+  },
+  {
+    "activation_id": "690",
+    "date": "2020-12-02",
+    "producer_country": [
+      "germany",
+      "canada",
+      "eu"
+    ],
+    "producer_hdi": 0.9306666666666668,
+    "user_country": "sri lanka",
+    "user_hdi": 0.782
+  },
+  {
+    "activation_id": "689",
+    "date": "2020-12-01",
+    "producer_country": [
+      "germany",
+      "france"
+    ],
+    "producer_hdi": 0.9225,
+    "user_country": "mexico",
+    "user_hdi": 0.758
+  },
+  {
+    "activation_id": "688",
+    "date": "2020-11-24",
+    "producer_country": [
+      "eu",
+      "canada",
+      "argentina",
+      "korea",
+      "germany",
+      "india",
+      "japan",
+      "france",
+      "russia"
+    ],
+    "producer_hdi": 0.8803333333333333,
+    "user_country": "india",
+    "user_hdi": 0.633
+  },
+  {
+    "activation_id": "687",
+    "date": "2020-11-17",
+    "producer_country": [
+      "france"
+    ],
+    "producer_hdi": 0.903,
+    "user_country": "colombia",
+    "user_hdi": 0.752
+  },
+  {
+    "activation_id": "686",
+    "date": "2020-11-15",
+    "producer_country": [
+      "eu",
+      "canada"
+    ],
+    "producer_hdi": 0.925,
+    "user_country": "philippines",
+    "user_hdi": 0.699
+  },
+  {
+    "activation_id": "685",
+    "date": "2020-11-10",
+    "producer_country": [
+      "germany",
+      "canada",
+      "italy",
+      "eu",
+      "venezuela",
+      "korea",
+      "finland"
+    ],
+    "producer_hdi": 0.8918571428571429,
+    "user_country": "indonesia",
+    "user_hdi": 0.705
+  },
+  {
+    "activation_id": "684",
+    "date": "2020-11-09",
+    "producer_country": [
+      "eu",
+      "korea",
+      "germany"
+    ],
+    "producer_hdi": 0.9269999999999999,
+    "user_country": "panama",
+    "user_hdi": 0.805
+  },
+  {
+    "activation_id": "683",
+    "date": "2020-11-06",
+    "producer_country": [
+      "eu",
+      "finland",
+      "france",
+      "germany"
+    ],
+    "producer_hdi": 0.92475,
+    "user_country": "mexico",
+    "user_hdi": 0.758
+  },
+  {
+    "activation_id": "682",
+    "date": "2020-11-02",
+    "producer_country": [
+      "france",
+      "eu"
+    ],
+    "producer_hdi": 0.9085000000000001,
+    "user_country": "philippines",
+    "user_hdi": 0.699
+  },
+  {
+    "activation_id": "681",
+    "date": "2020-10-28",
+    "producer_country": [
+      "eu",
+      "argentina",
+      "france"
+    ],
+    "producer_hdi": 0.8863333333333333,
+    "user_country": "vietnam",
+    "user_hdi": 0.703
+  },
+  {
+    "activation_id": "680",
+    "date": "2020-10-15",
+    "producer_country": [
+      "eu",
+      "france",
+      "korea",
+      "germany",
+      "canada"
+    ],
+    "producer_hdi": 0.924,
+    "user_country": "vietnam",
+    "user_hdi": 0.703
+  },
+  {
+    "activation_id": "679",
+    "date": "2020-10-12",
+    "producer_country": [
+      "france",
+      "eu"
+    ],
+    "producer_hdi": 0.9085000000000001,
+    "user_country": "togo",
+    "user_hdi": 0.539
+  },
+  {
+    "activation_id": "678",
+    "date": "2020-09-28",
+    "producer_country": [
+      "korea",
+      "eu",
+      "india",
+      "russia"
+    ],
+    "producer_hdi": 0.77625,
+    "user_country": "argentina",
+    "user_hdi": 0.842
+  },
+  {
+    "activation_id": "677",
+    "date": "2020-09-21",
+    "producer_country": [
+      "korea",
+      "eu",
+      "france"
+    ],
+    "producer_hdi": 0.914,
+    "user_country": "niger",
+    "user_hdi": 0.4
+  },
+  {
+    "activation_id": "675",
+    "date": "2020-09-07",
+    "producer_country": [
+      "usa",
+      "germany",
+      "eu",
+      "france"
+    ],
+    "producer_hdi": 0.91825,
+    "user_country": "sudan",
+    "user_hdi": 0.508
+  },
+  {
+    "activation_id": "674",
+    "date": "2020-09-04",
+    "producer_country": [
+      "russia",
+      "eu",
+      "germany",
+      "canada",
+      "france"
+    ],
+    "producer_hdi": 0.9196000000000002,
+    "user_country": "japan",
+    "user_hdi": 0.925
+  },
+  {
+    "activation_id": "672",
+    "date": "2020-08-24",
+    "producer_country": [
+      "france",
+      "usa"
+    ],
+    "producer_hdi": 0.903,
+    "user_country": "cameroon",
+    "user_hdi": 0.576
+  },
+  {
+    "activation_id": "670",
+    "date": "2020-08-19",
+    "producer_country": [
+      "canada",
+      "eu",
+      "russia"
+    ],
+    "producer_hdi": 0.9213333333333334,
+    "user_country": "russian federation",
+    "user_hdi": 0.822
+  },
+  {
+    "activation_id": "669",
+    "date": "2020-08-19",
+    "producer_country": [
+      "eu"
+    ],
+    "producer_hdi": 0.914,
+    "user_country": "philippines",
+    "user_hdi": 0.699
+  },
+  {
+    "activation_id": "667",
+    "date": "2020-08-13",
+    "producer_country": [
+      "usa",
+      "eu",
+      "france",
+      "russia"
+    ],
+    "producer_hdi": 0.90575,
+    "user_country": "sudan",
+    "user_hdi": 0.508
+  },
+  {
+    "activation_id": "666",
+    "date": "2020-08-08",
+    "producer_country": [
+      "france",
+      "eu",
+      "japan",
+      "usa",
+      "germany"
+    ],
+    "producer_hdi": 0.9218,
+    "user_country": "mauritius",
+    "user_hdi": 0.802
+  },
+  {
+    "activation_id": "665",
+    "date": "2020-08-08",
+    "producer_country": [
+      "india",
+      "france",
+      "germany",
+      "canada"
+    ],
+    "producer_hdi": 0.8534999999999999,
+    "user_country": "india",
+    "user_hdi": 0.633
+  },
+  {
+    "activation_id": "664",
+    "date": "2020-08-05",
+    "producer_country": [
+      "france"
+    ],
+    "producer_hdi": 0.903,
+    "user_country": "lebanon",
+    "user_hdi": 0.706
+  },
+  {
+    "activation_id": "663",
+    "date": "2020-07-22",
+    "producer_country": [
+      "india",
+      "eu",
+      "france",
+      "korea",
+      "russia",
+      "germany",
+      "canada",
+      "argentina",
+      "japan"
+    ],
+    "producer_hdi": 0.8827777777777777,
+    "user_country": "india",
+    "user_hdi": 0.633
+  },
+  {
+    "activation_id": "662",
+    "date": "2020-07-16",
+    "producer_country": [
+      "france",
+      "usa",
+      "canada",
+      "germany",
+      "eu"
+    ],
+    "producer_hdi": 0.9196,
+    "user_country": "indonesia",
+    "user_hdi": 0.705
+  },
+  {
+    "activation_id": "661",
+    "date": "2020-07-15",
+    "producer_country": [
+      "eu",
+      "korea",
+      "argentina",
+      "germany",
+      "india",
+      "japan",
+      "canada"
+    ],
+    "producer_hdi": 0.8738571428571429,
+    "user_country": "india",
+    "user_hdi": 0.633
+  },
+  {
+    "activation_id": "660",
+    "date": "2020-07-13",
+    "producer_country": [
+      "eu",
+      "germany",
+      "france"
+    ],
+    "producer_hdi": 0.9196666666666666,
+    "user_country": "bangladesh",
+    "user_hdi": 0.661
+  },
+  {
+    "activation_id": "659",
+    "date": "2020-07-13",
+    "producer_country": [
+      "usa",
+      "canada",
+      "eu",
+      "germany"
+    ],
+    "producer_hdi": 0.9237500000000001,
+    "user_country": "colombia",
+    "user_hdi": 0.752
+  },
+  {
+    "activation_id": "658",
+    "date": "2020-07-08",
+    "producer_country": [
+      "eu",
+      "germany",
+      "canada"
+    ],
+    "producer_hdi": 0.9306666666666666,
+    "user_country": "nepal",
+    "user_hdi": 0.602
+  },
+  {
+    "activation_id": "657",
+    "date": "2020-07-06",
+    "producer_country": [
+      "argentina",
+      "japan",
+      "eu"
+    ],
+    "producer_hdi": 0.8936666666666667,
+    "user_country": "japan",
+    "user_hdi": 0.925
+  },
+  {
+    "activation_id": "656",
+    "date": "2020-07-03",
+    "producer_country": [
+      "germany"
+    ],
+    "producer_hdi": 0.942,
+    "user_country": "myanmar",
+    "user_hdi": 0.585
+  },
+  {
+    "activation_id": "655",
+    "date": "2020-06-04",
+    "producer_country": [
+      "france",
+      "russia"
+    ],
+    "producer_hdi": 0.903,
+    "user_country": "russian federation",
+    "user_hdi": 0.822
+  },
+  {
+    "activation_id": "654",
+    "date": "2020-06-02",
+    "producer_country": [
+      "eu",
+      "china",
+      "germany"
+    ],
+    "producer_hdi": 0.8746666666666666,
+    "user_country": "el salvador",
+    "user_hdi": 0.675
+  },
+  {
+    "activation_id": "653",
+    "date": "2020-05-19",
+    "producer_country": [
+      "usa",
+      "eu",
+      "korea",
+      "france",
+      "india",
+      "russia",
+      "canada",
+      "germany"
+    ],
+    "producer_hdi": 0.8535,
+    "user_country": "india",
+    "user_hdi": 0.633
+  },
+  {
+    "activation_id": "652",
+    "date": "2020-05-18",
+    "producer_country": [
+      "eu",
+      "france",
+      "canada",
+      "germany",
+      "japan",
+      "usa"
+    ],
+    "producer_hdi": 0.9241666666666667,
+    "user_country": "bangladesh",
+    "user_hdi": 0.661
+  },
+  {
+    "activation_id": "651",
+    "date": "2020-04-30",
+    "producer_country": [
+      "eu"
+    ],
+    "producer_hdi": 0.914,
+    "user_country": "guatemala",
+    "user_hdi": 0.627
+  },
+  {
+    "activation_id": "648",
+    "date": "2020-04-08",
+    "producer_country": [
+      "france"
+    ],
+    "producer_hdi": 0.903,
+    "user_country": "fiji",
+    "user_hdi": 0.73
+  },
+  {
+    "activation_id": "647",
+    "date": "2020-04-03",
+    "producer_country": [
+      "france",
+      "russia"
+    ],
+    "producer_hdi": 0.903,
+    "user_country": "vanuatu",
+    "user_hdi": 0.607
+  },
+  {
+    "activation_id": "646",
+    "date": "2020-03-06",
+    "producer_country": [
+      "usa",
+      "france",
+      "eu"
+    ],
+    "producer_hdi": 0.9066666666666667,
+    "user_country": "zambia",
+    "user_hdi": 0.565
+  },
+  {
+    "activation_id": "645",
+    "date": "2020-03-02",
+    "producer_country": [
+      "eu"
+    ],
+    "producer_hdi": 0.914,
+    "user_country": "united arab emirates",
+    "user_hdi": 0.911
+  },
+  {
+    "activation_id": "643",
+    "date": "2020-01-27",
+    "producer_country": [
+      "eu",
+      "russia",
+      "usa",
+      "germany",
+      "japan"
+    ],
+    "producer_hdi": 0.9218,
+    "user_country": "madagascar",
+    "user_hdi": 0.501
+  },
+  {
+    "activation_id": "642",
+    "date": "2020-01-23",
+    "producer_country": [
+      "france",
+      "canada",
+      "germany",
+      "eu"
+    ],
+    "producer_hdi": 0.92375,
+    "user_country": "brazil",
+    "user_hdi": 0.754
+  },
+  {
+    "activation_id": "640",
+    "date": "2020-01-22",
+    "producer_country": [
+      "france"
+    ],
+    "producer_hdi": 0.903,
+    "user_country": "zambia",
+    "user_hdi": 0.565
+  },
+  {
+    "activation_id": "641",
+    "date": "2020-01-22",
+    "producer_country": [
+      "eu"
+    ],
+    "producer_hdi": 0.914,
+    "user_country": "pakistan",
+    "user_hdi": 0.544
+  },
+  {
+    "activation_id": "639",
+    "date": "2020-01-13",
+    "producer_country": [
+      "eu",
+      "usa",
+      "korea",
+      "france"
+    ],
+    "producer_hdi": 0.914,
+    "user_country": "philippines",
+    "user_hdi": 0.699
+  },
+  {
+    "activation_id": "638",
+    "date": "2020-01-07",
+    "producer_country": [
+      "france",
+      "canada"
+    ],
+    "producer_hdi": 0.9195,
+    "user_country": "indonesia",
+    "user_hdi": 0.705
+  },
+  {
+    "activation_id": "636",
+    "date": "2019-12-10",
+    "producer_country": [
+      "eu",
+      "japan",
+      "germany",
+      "canada"
+    ],
+    "producer_hdi": 0.9292499999999999,
+    "user_country": "chile",
+    "user_hdi": 0.855
+  },
+  {
+    "activation_id": "634",
+    "date": "2019-12-02",
+    "producer_country": [
+      "france"
+    ],
+    "producer_hdi": 0.903,
+    "user_country": "philippines",
+    "user_hdi": 0.699
+  },
+  {
+    "activation_id": "633",
+    "date": "2019-11-25",
+    "producer_country": [
+      "france"
+    ],
+    "producer_hdi": 0.903,
+    "user_country": "kenya",
+    "user_hdi": 0.575
+  },
+  {
+    "activation_id": "632",
+    "date": "2019-11-16",
+    "producer_country": [
+      "germany",
+      "eu"
+    ],
+    "producer_hdi": 0.9279999999999999,
+    "user_country": "central african republic",
+    "user_hdi": 0.404
+  },
+  {
+    "activation_id": "631",
+    "date": "2019-11-13",
+    "producer_country": [
+      "eu"
+    ],
+    "producer_hdi": 0.914,
+    "user_country": "australia",
+    "user_hdi": 0.951
+  },
+  {
+    "activation_id": "629",
+    "date": "2019-11-01",
+    "producer_country": [
+      "france",
+      "eu"
+    ],
+    "producer_hdi": 0.9085000000000001,
+    "user_country": "philippines",
+    "user_hdi": 0.699
+  },
+  {
+    "activation_id": "628",
+    "date": "2019-10-31",
+    "producer_country": [
+      "eu"
+    ],
+    "producer_hdi": 0.914,
+    "user_country": "kenya",
+    "user_hdi": 0.575
+  },
+  {
+    "activation_id": "627",
+    "date": "2019-10-17",
+    "producer_country": [
+      "france",
+      "eu"
+    ],
+    "producer_hdi": 0.9085000000000001,
+    "user_country": "cameroon",
+    "user_hdi": 0.576
+  },
+  {
+    "activation_id": "625",
+    "date": "2019-10-11",
+    "producer_country": [
+      "eu",
+      "russia",
+      "germany",
+      "japan"
+    ],
+    "producer_hdi": 0.9237500000000001,
+    "user_country": "japan",
+    "user_hdi": 0.925
+  },
+  {
+    "activation_id": "624",
+    "date": "2019-09-30",
+    "producer_country": [
+      "france"
+    ],
+    "producer_hdi": 0.903,
+    "user_country": "indonesia",
+    "user_hdi": 0.705
+  },
+  {
+    "activation_id": "623",
+    "date": "2019-09-30",
+    "producer_country": [
+      "france",
+      "india",
+      "russia",
+      "germany",
+      "canada",
+      "eu"
+    ],
+    "producer_hdi": 0.8268333333333332,
+    "user_country": "india",
+    "user_hdi": 0.633
+  },
+  {
+    "activation_id": "622",
+    "date": "2019-09-26",
+    "producer_country": [
+      "france",
+      "eu"
+    ],
+    "producer_hdi": 0.9085000000000001,
+    "user_country": "pakistan",
+    "user_hdi": 0.544
+  },
+  {
+    "activation_id": "621",
+    "date": "2019-09-20",
+    "producer_country": [
+      "russia",
+      "china",
+      "eu"
+    ],
+    "producer_hdi": 0.8653333333333334,
+    "user_country": "paraguay",
+    "user_hdi": 0.717
+  },
+  {
+    "activation_id": "620",
+    "date": "2019-09-04",
+    "producer_country": [
+      "usa",
+      "russia",
+      "eu",
+      "korea",
+      "france"
+    ],
+    "producer_hdi": 0.914,
+    "user_country": "bahamas",
+    "user_hdi": 0.812
+  },
+  {
+    "activation_id": "619",
+    "date": "2019-09-02",
+    "producer_country": [
+      "eu",
+      "france"
+    ],
+    "producer_hdi": 0.9085000000000001,
+    "user_country": "bolivia",
+    "user_hdi": 0.692
+  },
+  {
+    "activation_id": "618",
+    "date": "2019-08-29",
+    "producer_country": [
+      "korea",
+      "japan"
+    ],
+    "producer_hdi": 0.925,
+    "user_country": "japan",
+    "user_hdi": 0.925
+  },
+  {
+    "activation_id": "617",
+    "date": "2019-08-26",
+    "producer_country": [
+      "france",
+      "eu",
+      "canada",
+      "usa"
+    ],
+    "producer_hdi": 0.92225,
+    "user_country": "sudan",
+    "user_hdi": 0.508
+  },
+  {
+    "activation_id": "615",
+    "date": "2019-08-15",
+    "producer_country": [
+      "canada",
+      "russia"
+    ],
+    "producer_hdi": 0.936,
+    "user_country": "russian federation",
+    "user_hdi": 0.822
+  },
+  {
+    "activation_id": "614",
+    "date": "2019-07-24",
+    "producer_country": [
+      "eu"
+    ],
+    "producer_hdi": 0.914,
+    "user_country": "russian federation",
+    "user_hdi": 0.822
+  },
+  {
+    "activation_id": "613",
+    "date": "2019-07-20",
+    "producer_country": [
+      "germany",
+      "peru"
+    ],
+    "producer_hdi": 0.852,
+    "user_country": "peru",
+    "user_hdi": 0.762
+  },
+  {
+    "activation_id": "612",
+    "date": "2019-07-17",
+    "producer_country": [
+      "india",
+      "eu",
+      "canada",
+      "japan",
+      "germany",
+      "russia",
+      "france",
+      "china",
+      "korea"
+    ],
+    "producer_hdi": 0.8764444444444445,
+    "user_country": "india",
+    "user_hdi": 0.633
+  },
+  {
+    "activation_id": "609",
+    "date": "2019-05-17",
+    "producer_country": [
+      "italy",
+      "korea",
+      "eu",
+      "china",
+      "russia",
+      "france",
+      "germany",
+      "canada"
+    ],
+    "producer_hdi": 0.881375,
+    "user_country": "paraguay",
+    "user_hdi": 0.717
+  },
+  {
+    "activation_id": "608",
+    "date": "2019-05-03",
+    "producer_country": [
+      "india",
+      "france",
+      "russia",
+      "germany",
+      "canada",
+      "japan",
+      "eu"
+    ],
+    "producer_hdi": 0.8794285714285713,
+    "user_country": "india",
+    "user_hdi": 0.633
+  },
+  {
+    "activation_id": "606",
+    "date": "2019-04-25",
+    "producer_country": [
+      "eu",
+      "germany"
+    ],
+    "producer_hdi": 0.9279999999999999,
+    "user_country": "mozambique",
+    "user_hdi": 0.446
+  },
+  {
+    "activation_id": "605",
+    "date": "2019-04-25",
+    "producer_country": [
+      "france"
+    ],
+    "producer_hdi": 0.903,
+    "user_country": "south africa",
+    "user_hdi": 0.713
+  },
+  {
+    "activation_id": "604",
+    "date": "2019-04-19",
+    "producer_country": [
+      "germany",
+      "usa",
+      "france",
+      "korea",
+      "japan",
+      "canada"
+    ],
+    "producer_hdi": 0.9288333333333333,
+    "user_country": "canada",
+    "user_hdi": 0.936
+  },
+  {
+    "activation_id": "603",
+    "date": "2019-04-15",
+    "producer_country": [
+      "eu",
+      "korea",
+      "russia",
+      "canada",
+      "germany"
+    ],
+    "producer_hdi": 0.9284000000000001,
+    "user_country": "iraq",
+    "user_hdi": 0.686
+  },
+  {
+    "activation_id": "600",
+    "date": "2019-03-19",
+    "producer_country": [
+      "france",
+      "japan",
+      "canada"
+    ],
+    "producer_hdi": 0.9213333333333334,
+    "user_country": "indonesia",
+    "user_hdi": 0.705
+  },
+  {
+    "activation_id": "599",
+    "date": "2019-03-16",
+    "producer_country": [
+      "france",
+      "eu"
+    ],
+    "producer_hdi": 0.9085000000000001,
+    "user_country": "zimbabwe",
+    "user_hdi": 0.593
+  },
+  {
+    "activation_id": "598",
+    "date": "2019-03-14",
+    "producer_country": [
+      "eu",
+      "japan",
+      "france",
+      "germany",
+      "canada"
+    ],
+    "producer_hdi": 0.924,
+    "user_country": "mozambique",
+    "user_hdi": 0.446
+  },
+  {
+    "activation_id": "596",
+    "date": "2019-01-25",
+    "producer_country": [
+      "eu",
+      "usa",
+      "canada"
+    ],
+    "producer_hdi": 0.9213333333333334,
+    "user_country": "brazil",
+    "user_hdi": 0.754
+  },
+  {
+    "activation_id": "595",
+    "date": "2019-01-13",
+    "producer_country": [
+      "eu",
+      "canada",
+      "france"
+    ],
+    "producer_hdi": 0.9176666666666667,
+    "user_country": "brazil",
+    "user_hdi": 0.754
+  },
+  {
+    "activation_id": "594",
+    "date": "2018-12-23",
+    "producer_country": [
+      "germany",
+      "eu",
+      "usa",
+      "france"
+    ],
+    "producer_hdi": 0.91825,
+    "user_country": "indonesia",
+    "user_hdi": 0.705
+  },
+  {
+    "activation_id": "593",
+    "date": "2018-12-17",
+    "producer_country": [
+      "india",
+      "uk"
+    ],
+    "producer_hdi": 0.633,
+    "user_country": "india",
+    "user_hdi": 0.633
+  },
+  {
+    "activation_id": "592",
+    "date": "2018-11-25",
+    "producer_country": [
+      "eu"
+    ],
+    "producer_hdi": 0.914,
+    "user_country": "iraq",
+    "user_hdi": 0.686
+  },
+  {
+    "activation_id": "591",
+    "date": "2018-11-14",
+    "producer_country": [
+      "france",
+      "eu",
+      "usa"
+    ],
+    "producer_hdi": 0.9103333333333334,
+    "user_country": "united states",
+    "user_hdi": 0.921
+  },
+  {
+    "activation_id": "590",
+    "date": "2018-10-25",
+    "producer_country": [
+      "france",
+      "russia",
+      "korea"
+    ],
+    "producer_hdi": 0.9103333333333333,
+    "user_country": "russian federation",
+    "user_hdi": 0.822
+  },
+  {
+    "activation_id": "589",
+    "date": "2018-10-12",
+    "producer_country": [
+      "france"
+    ],
+    "producer_hdi": 0.903,
+    "user_country": "uganda",
+    "user_hdi": 0.525
+  },
+  {
+    "activation_id": "588",
+    "date": "2018-10-10",
+    "producer_country": [
+      "russia"
+    ],
+    "producer_hdi": 0.903,
+    "user_country": "united states",
+    "user_hdi": 0.921
+  },
+  {
+    "activation_id": "587",
+    "date": "2018-09-29",
+    "producer_country": [
+      "russia",
+      "france",
+      "usa",
+      "eu"
+    ],
+    "producer_hdi": 0.90575,
+    "user_country": "indonesia",
+    "user_hdi": 0.705
+  },
+  {
+    "activation_id": "586",
+    "date": "2018-09-18",
+    "producer_country": [
+      "japan",
+      "france"
+    ],
+    "producer_hdi": 0.914,
+    "user_country": "philippines",
+    "user_hdi": 0.699
+  },
+  {
+    "activation_id": "585",
+    "date": "2018-09-11",
+    "producer_country": [
+      "eu",
+      "germany"
+    ],
+    "producer_hdi": 0.9279999999999999,
+    "user_country": "united states",
+    "user_hdi": 0.921
+  },
+  {
+    "activation_id": "584",
+    "date": "2018-08-21",
+    "producer_country": [
+      "france",
+      "korea",
+      "eu",
+      "china",
+      "india"
+    ],
+    "producer_hdi": 0.8286,
+    "user_country": "india",
+    "user_hdi": 0.633
+  },
+  {
+    "activation_id": "583",
+    "date": "2018-08-16",
+    "producer_country": [
+      "germany",
+      "eu"
+    ],
+    "producer_hdi": 0.9279999999999999,
+    "user_country": "vietnam",
+    "user_hdi": 0.703
+  },
+  {
+    "activation_id": "582",
+    "date": "2018-08-16",
+    "producer_country": [
+      "india",
+      "eu",
+      "france",
+      "russia",
+      "germany",
+      "canada",
+      "japan"
+    ],
+    "producer_hdi": 0.8794285714285713,
+    "user_country": "india",
+    "user_hdi": 0.633
+  },
+  {
+    "activation_id": "581",
+    "date": "2018-08-15",
+    "producer_country": [
+      "usa",
+      "venezuela",
+      "france",
+      "korea",
+      "japan",
+      "eu",
+      "germany"
+    ],
+    "producer_hdi": 0.8892857142857142,
+    "user_country": "venezuela",
+    "user_hdi": 0.691
+  },
+  {
+    "activation_id": "580",
+    "date": "2018-08-06",
+    "producer_country": [
+      "france",
+      "japan",
+      "eu"
+    ],
+    "producer_hdi": 0.914,
+    "user_country": "indonesia",
+    "user_hdi": 0.705
+  },
+  {
+    "activation_id": "579",
+    "date": "2018-07-24",
+    "producer_country": [
+      "eu",
+      "france",
+      "uk"
+    ],
+    "producer_hdi": 0.9066666666666667,
+    "user_country": "greece",
+    "user_hdi": 0.887
+  },
+  {
+    "activation_id": "577",
+    "date": "2018-07-07",
+    "producer_country": [
+      "france",
+      "germany",
+      "japan"
+    ],
+    "producer_hdi": 0.9233333333333333,
+    "user_country": "japan",
+    "user_hdi": 0.925
+  },
+  {
+    "activation_id": "576",
+    "date": "2018-06-05",
+    "producer_country": [
+      "eu",
+      "france",
+      "japan",
+      "germany"
+    ],
+    "producer_hdi": 0.921,
+    "user_country": "guatemala",
+    "user_hdi": 0.627
+  },
+  {
+    "activation_id": "575",
+    "date": "2018-06-04",
+    "producer_country": [
+      "russia",
+      "usa",
+      "eu",
+      "korea"
+    ],
+    "producer_hdi": 0.93075,
+    "user_country": "china",
+    "user_hdi": 0.768
+  },
+  {
+    "activation_id": "573",
+    "date": "2018-05-21",
+    "producer_country": [
+      "japan",
+      "eu",
+      "canada",
+      "germany"
+    ],
+    "producer_hdi": 0.9292499999999999,
+    "user_country": "sri lanka",
+    "user_hdi": 0.782
+  },
+  {
+    "activation_id": "572",
+    "date": "2018-05-20",
+    "producer_country": [
+      "france"
+    ],
+    "producer_hdi": 0.903,
+    "user_country": "djibouti",
+    "user_hdi": 0.509
+  },
+  {
+    "activation_id": "569",
+    "date": "2018-04-04",
+    "producer_country": [
+      "france",
+      "germany"
+    ],
+    "producer_hdi": 0.9225,
+    "user_country": "russian federation",
+    "user_hdi": 0.822
+  },
+  {
+    "activation_id": "567",
+    "date": "2018-02-18",
+    "producer_country": [
+      "korea"
+    ],
+    "producer_hdi": 0.925,
+    "user_country": "iran",
+    "user_hdi": 0.774
+  },
+  {
+    "activation_id": "566",
+    "date": "2018-02-12",
+    "producer_country": [
+      "france",
+      "usa"
+    ],
+    "producer_hdi": 0.903,
+    "user_country": "tonga",
+    "user_hdi": 0.745
+  },
+  {
+    "activation_id": "565",
+    "date": "2018-02-08",
+    "producer_country": [
+      "france",
+      "germany",
+      "canada",
+      "eu"
+    ],
+    "producer_hdi": 0.9237500000000001,
+    "user_country": "bolivia",
+    "user_hdi": 0.692
+  },
+  {
+    "activation_id": "564",
+    "date": "2018-02-03",
+    "producer_country": [
+      "eu",
+      "russia",
+      "canada",
+      "germany"
+    ],
+    "producer_hdi": 0.9265000000000001,
+    "user_country": "argentina",
+    "user_hdi": 0.842
+  },
+  {
+    "activation_id": "563",
+    "date": "2018-01-22",
+    "producer_country": [
+      "japan"
+    ],
+    "producer_hdi": 0.925,
+    "user_country": "papua new guinea",
+    "user_hdi": 0.558
+  },
+  {
+    "activation_id": "562",
+    "date": "2018-01-16",
+    "producer_country": [
+      "uk",
+      "usa"
+    ],
+    "producer_hdi": 0.925,
+    "user_country": "philippines",
+    "user_hdi": 0.699
+  },
+  {
+    "activation_id": "561",
+    "date": "2017-11-17",
+    "producer_country": [
+      "canada",
+      "germany"
+    ],
+    "producer_hdi": 0.9390000000000001,
+    "user_country": "argentina",
+    "user_hdi": 0.842
+  },
+  {
+    "activation_id": "559",
+    "date": "2017-11-13",
+    "producer_country": [
+      "france",
+      "eu",
+      "russia"
+    ],
+    "producer_hdi": 0.9103333333333334,
+    "user_country": "iran",
+    "user_hdi": 0.774
+  },
+  {
+    "activation_id": "558",
+    "date": "2017-11-12",
+    "producer_country": [
+      "france"
+    ],
+    "producer_hdi": 0.903,
+    "user_country": "iraq",
+    "user_hdi": 0.686
+  },
+  {
+    "activation_id": "557",
+    "date": "2017-11-06",
+    "producer_country": [
+      "eu",
+      "canada"
+    ],
+    "producer_hdi": 0.925,
+    "user_country": "vietnam",
+    "user_hdi": 0.703
+  },
+  {
+    "activation_id": "555",
+    "date": "2017-09-20",
+    "producer_country": [
+      "france"
+    ],
+    "producer_hdi": 0.903,
+    "user_country": "mexico",
+    "user_hdi": 0.758
+  },
+  {
+    "activation_id": "556",
+    "date": "2017-09-19",
+    "producer_country": [
+      "canada",
+      "eu"
+    ],
+    "producer_hdi": 0.925,
+    "user_country": "dominican republic",
+    "user_hdi": 0.767
+  },
+  {
+    "activation_id": "549",
+    "date": "5 September 2017",
+    "producer_country": [
+      "usa",
+      "eu"
+    ],
+    "producer_hdi": 0.9085000000000001,
+    "user_country": "dominican republic",
+    "user_hdi": 0.767
+  },
+  {
+    "activation_id": "547",
+    "date": "24 August 2017",
+    "producer_country": [
+      "germany"
+    ],
+    "producer_hdi": 0.942,
+    "user_country": "united states",
+    "user_hdi": 0.921
+  },
+  {
+    "activation_id": "545",
+    "date": "15 August 2017",
+    "producer_country": [
+      "eu",
+      "germany",
+      "usa"
+    ],
+    "producer_hdi": 0.9326666666666666,
+    "user_country": "bangladesh",
+    "user_hdi": 0.661
+  },
+  {
+    "activation_id": "546",
+    "date": "15 August 2017",
+    "producer_country": [
+      "usa"
+    ],
+    "producer_hdi": 0.942,
+    "user_country": "sierra leone",
+    "user_hdi": 0.477
+  },
+  {
+    "activation_id": "544",
+    "date": "15 August 2017",
+    "producer_country": [
+      "eu",
+      "canada",
+      "germany",
+      "france",
+      "japan"
+    ],
+    "producer_hdi": 0.924,
+    "user_country": "nepal",
+    "user_hdi": 0.602
+  },
+  {
+    "activation_id": "540",
+    "date": "7 August 2017",
+    "producer_country": [
+      "france"
+    ],
+    "producer_hdi": 0.903,
+    "user_country": "vietnam",
+    "user_hdi": 0.703
+  },
+  {
+    "activation_id": "541",
+    "date": "6 August 2017",
+    "producer_country": [
+      "eu",
+      "canada",
+      "venezuela",
+      "france",
+      "germany",
+      "usa"
+    ],
+    "producer_hdi": 0.888,
+    "user_country": "venezuela",
+    "user_hdi": 0.691
+  },
+  {
+    "activation_id": "538",
+    "date": "24 June 2017",
+    "producer_country": [
+      "germany",
+      "france",
+      "usa",
+      "japan",
+      "korea",
+      "eu"
+    ],
+    "producer_hdi": 0.9186666666666666,
+    "user_country": "china",
+    "user_hdi": 0.768
+  },
+  {
+    "activation_id": "536",
+    "date": "12 June 2017",
+    "producer_country": [
+      "eu"
+    ],
+    "producer_hdi": 0.914,
+    "user_country": "south africa",
+    "user_hdi": 0.713
+  },
+  {
+    "activation_id": "535",
+    "date": "6 June 2017",
+    "producer_country": [
+      "india",
+      "canada",
+      "eu",
+      "japan",
+      "germany"
+    ],
+    "producer_hdi": 0.8700000000000001,
+    "user_country": "uruguay",
+    "user_hdi": 0.809
+  },
+  {
+    "activation_id": "534",
+    "date": "30 May 2017",
+    "producer_country": [
+      "canada",
+      "france",
+      "germany",
+      "eu"
+    ],
+    "producer_hdi": 0.92375,
+    "user_country": "bangladesh",
+    "user_hdi": 0.661
+  },
+  {
+    "activation_id": "533",
+    "date": "26 May 2017",
+    "producer_country": [
+      "germany",
+      "india",
+      "canada",
+      "eu",
+      "japan",
+      "korea"
+    ],
+    "producer_hdi": 0.8791666666666668,
+    "user_country": "sri lanka",
+    "user_hdi": 0.782
+  },
+  {
+    "activation_id": "532",
+    "date": "26 May 2017",
+    "producer_country": [
+      "france"
+    ],
+    "producer_hdi": 0.903,
+    "user_country": "russian federation",
+    "user_hdi": 0.822
+  },
+  {
+    "activation_id": "531",
+    "date": "25 May 2017",
+    "producer_country": [
+      "usa",
+      "eu",
+      "russia"
+    ],
+    "producer_hdi": 0.9103333333333334,
+    "user_country": "russian federation",
+    "user_hdi": 0.822
+  },
+  {
+    "activation_id": "530",
+    "date": "13 May 2017",
+    "producer_country": [
+      "france",
+      "korea"
+    ],
+    "producer_hdi": 0.914,
+    "user_country": "chile",
+    "user_hdi": 0.855
+  },
+  {
+    "activation_id": "529",
+    "date": "6 May 2017",
+    "producer_country": [
+      "canada",
+      "eu",
+      "france",
+      "germany"
+    ],
+    "producer_hdi": 0.9237500000000001,
+    "user_country": "canada",
+    "user_hdi": 0.936
+  },
+  {
+    "activation_id": "527",
+    "date": "25 April 2017",
+    "producer_country": [
+      "canada",
+      "eu"
+    ],
+    "producer_hdi": 0.925,
+    "user_country": "haiti",
+    "user_hdi": 0.535
+  },
+  {
+    "activation_id": "526",
+    "date": "24 April 2017",
+    "producer_country": [
+      "eu"
+    ],
+    "producer_hdi": 0.914,
+    "user_country": "dominican republic",
+    "user_hdi": 0.767
+  },
+  {
+    "activation_id": "525",
+    "date": "12 April 2017",
+    "producer_country": [
+      "germany",
+      "india",
+      "usa",
+      "canada",
+      "japan",
+      "france"
+    ],
+    "producer_hdi": 0.8286666666666666,
+    "user_country": "argentina",
+    "user_hdi": 0.842
+  },
+  {
+    "activation_id": "524",
+    "date": "01 April 2017",
+    "producer_country": [
+      "usa",
+      "france",
+      "india"
+    ],
+    "producer_hdi": 0.8130000000000001,
+    "user_country": "colombia",
+    "user_hdi": 0.752
+  },
+  {
+    "activation_id": "523",
+    "date": "31 March 2017",
+    "producer_country": [
+      "eu",
+      "canada",
+      "korea",
+      "russia",
+      "peru",
+      "germany"
+    ],
+    "producer_hdi": 0.9006666666666666,
+    "user_country": "peru",
+    "user_hdi": 0.762
+  },
+  {
+    "activation_id": "522",
+    "date": "29 March 2017",
+    "producer_country": [
+      "germany",
+      "canada",
+      "italy",
+      "russia",
+      "eu",
+      "india"
+    ],
+    "producer_hdi": 0.8691666666666666,
+    "user_country": "australia",
+    "user_hdi": 0.951
+  },
+  {
+    "activation_id": "521",
+    "date": "6 March 2017",
+    "producer_country": [
+      "germany",
+      "canada"
+    ],
+    "producer_hdi": 0.9390000000000001,
+    "user_country": "madagascar",
+    "user_hdi": 0.501
+  },
+  {
+    "activation_id": "518",
+    "date": "5 January 2017",
+    "producer_country": [
+      "china",
+      "russia"
+    ],
+    "producer_hdi": 0.768,
+    "user_country": "argentina",
+    "user_hdi": 0.842
+  },
+  {
+    "activation_id": "517",
+    "date": "12 December 2016",
+    "producer_country": [
+      "france"
+    ],
+    "producer_hdi": 0.903,
+    "user_country": "india",
+    "user_hdi": 0.633
+  },
+  {
+    "activation_id": "515",
+    "date": "28 November 2016",
+    "producer_country": [
+      "canada",
+      "eu"
+    ],
+    "producer_hdi": 0.925,
+    "user_country": "costa rica",
+    "user_hdi": 0.809
+  },
+  {
+    "activation_id": "514",
+    "date": "24 November 2016",
+    "producer_country": [
+      "usa",
+      "eu"
+    ],
+    "producer_hdi": 0.914,
+    "user_country": "israel",
+    "user_hdi": 0.919
+  }
+]

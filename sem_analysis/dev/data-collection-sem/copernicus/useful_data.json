@@ -1,0 +1,2981 @@
+{
+  "149": {
+    "event_date": 1451433600,
+    "activation_date": 1451606400,
+    "sat_data_date": 1452211200,
+    "publish_date": 1452297600,
+    "country_of_activation": {
+      "location": [
+        ""
+      ],
+      "hdi": 0
+    },
+    "country_of_sat": {
+      "location": [
+        "italy",
+        "eu",
+        "germany",
+        "canada"
+      ],
+      "hdi": 0.9217500000000001
+    },
+    "country_of_manager": {
+      "location": [],
+      "hdi": 0
+    }
+  },
+  "159": {
+    "event_date": 1460761200,
+    "activation_date": 1460934000,
+    "sat_data_date": 1461884400,
+    "publish_date": 1461970800,
+    "country_of_activation": {
+      "location": [
+        "ecuador"
+      ],
+      "hdi": 0.74
+    },
+    "country_of_sat": {
+      "location": [
+        "portugal",
+        "france"
+      ],
+      "hdi": 0.8845000000000001
+    },
+    "country_of_manager": {
+      "location": [],
+      "hdi": 0
+    }
+  },
+  "164": {
+    "event_date": 1463785200,
+    "activation_date": 1463958000,
+    "sat_data_date": 1464303600,
+    "publish_date": 1464390000,
+    "country_of_activation": {
+      "location": [
+        ""
+      ],
+      "hdi": 0
+    },
+    "country_of_sat": {
+      "location": [
+        "eu"
+      ],
+      "hdi": 0.914
+    },
+    "country_of_manager": {
+      "location": [],
+      "hdi": 0
+    }
+  },
+  "165": {
+    "event_date": 1464562800,
+    "activation_date": 1464649200,
+    "sat_data_date": 1464735600,
+    "publish_date": 1464822000,
+    "country_of_activation": {
+      "location": [
+        ""
+      ],
+      "hdi": 0
+    },
+    "country_of_sat": {
+      "location": [
+        "italy",
+        "portugal",
+        "france",
+        "eu"
+      ],
+      "hdi": 0.8945000000000001
+    },
+    "country_of_manager": {
+      "location": [],
+      "hdi": 0
+    }
+  },
+  "174": {
+    "event_date": 1470438000,
+    "activation_date": 1470524400,
+    "sat_data_date": 1470610800,
+    "publish_date": 1470697200,
+    "country_of_activation": {
+      "location": [
+        ""
+      ],
+      "hdi": 0
+    },
+    "country_of_sat": {
+      "location": [
+        "france",
+        "eu"
+      ],
+      "hdi": 0.9085000000000001
+    },
+    "country_of_manager": {
+      "location": [],
+      "hdi": 0
+    }
+  },
+  "184": {
+    "event_date": 1474671600,
+    "activation_date": 1474758000,
+    "sat_data_date": 1474844400,
+    "publish_date": 1474930800,
+    "country_of_activation": {
+      "location": [
+        ""
+      ],
+      "hdi": 0
+    },
+    "country_of_sat": {
+      "location": [
+        "eu",
+        "france",
+        "italy"
+      ],
+      "hdi": 0.904
+    },
+    "country_of_manager": {
+      "location": [],
+      "hdi": 0
+    }
+  },
+  "213": {
+    "event_date": 1499727600,
+    "activation_date": 1500246000,
+    "sat_data_date": 1502060400,
+    "publish_date": 1502146800,
+    "country_of_activation": {
+      "location": [
+        ""
+      ],
+      "hdi": 0
+    },
+    "country_of_sat": {
+      "location": [
+        "france",
+        "us",
+        "portugal"
+      ],
+      "hdi": 0.8966666666666666
+    },
+    "country_of_manager": {
+      "location": [],
+      "hdi": 0
+    }
+  },
+  "227": {
+    "event_date": 1500678000,
+    "activation_date": 1503442800,
+    "sat_data_date": 1503615600,
+    "publish_date": 1503702000,
+    "country_of_activation": {
+      "location": [
+        ""
+      ],
+      "hdi": 0
+    },
+    "country_of_sat": {
+      "location": [
+        "france",
+        "eu"
+      ],
+      "hdi": 0.9085000000000001
+    },
+    "country_of_manager": {
+      "location": [],
+      "hdi": 0
+    }
+  },
+  "230": {
+    "event_date": 1501714800,
+    "activation_date": 1502233200,
+    "sat_data_date": 1503874800,
+    "publish_date": 1504047600,
+    "country_of_activation": {
+      "location": [
+        ""
+      ],
+      "hdi": 0
+    },
+    "country_of_sat": {
+      "location": [
+        "france"
+      ],
+      "hdi": 0.903
+    },
+    "country_of_manager": {
+      "location": [],
+      "hdi": 0
+    }
+  },
+  "231": {
+    "event_date": 1503356400,
+    "activation_date": 1503442800,
+    "sat_data_date": 1504479600,
+    "publish_date": 1504566000,
+    "country_of_activation": {
+      "location": [
+        ""
+      ],
+      "hdi": 0
+    },
+    "country_of_sat": {
+      "location": [
+        "eu"
+      ],
+      "hdi": 0.914
+    },
+    "country_of_manager": {
+      "location": [],
+      "hdi": 0
+    }
+  },
+  "248": {
+    "event_date": 1501282800,
+    "activation_date": 1502146800,
+    "sat_data_date": 1506380400,
+    "publish_date": 1506466800,
+    "country_of_activation": {
+      "location": [
+        ""
+      ],
+      "hdi": 0
+    },
+    "country_of_sat": {
+      "location": [
+        "eu"
+      ],
+      "hdi": 0.914
+    },
+    "country_of_manager": {
+      "location": [],
+      "hdi": 0
+    }
+  },
+  "265": {
+    "event_date": 1516579200,
+    "activation_date": 1516665600,
+    "sat_data_date": 1517097600,
+    "publish_date": 1517184000,
+    "country_of_activation": {
+      "location": [
+        ""
+      ],
+      "hdi": 0
+    },
+    "country_of_sat": {
+      "location": [
+        "eu",
+        "italy",
+        "germany"
+      ],
+      "hdi": 0.9170000000000001
+    },
+    "country_of_manager": {
+      "location": [],
+      "hdi": 0
+    }
+  },
+  "273": {
+    "event_date": 1520726400,
+    "activation_date": 1520812800,
+    "sat_data_date": 1520899200,
+    "publish_date": 1520985600,
+    "country_of_activation": {
+      "location": [
+        ""
+      ],
+      "hdi": 0
+    },
+    "country_of_sat": {
+      "location": [
+        "eu",
+        "italy"
+      ],
+      "hdi": 0.9045000000000001
+    },
+    "country_of_manager": {
+      "location": [],
+      "hdi": 0
+    }
+  },
+  "294": {
+    "event_date": 1530054000,
+    "activation_date": 1530226800,
+    "sat_data_date": 1530572400,
+    "publish_date": 1530658800,
+    "country_of_activation": {
+      "location": [
+        ""
+      ],
+      "hdi": 0
+    },
+    "country_of_sat": {
+      "location": [
+        "us"
+      ],
+      "hdi": 0.921
+    },
+    "country_of_manager": {
+      "location": [],
+      "hdi": 0
+    }
+  },
+  "296": {
+    "event_date": 1529017200,
+    "activation_date": 1529535600,
+    "sat_data_date": 1531436400,
+    "publish_date": 1531522800,
+    "country_of_activation": {
+      "location": [
+        ""
+      ],
+      "hdi": 0
+    },
+    "country_of_sat": {
+      "location": [
+        "france",
+        "us"
+      ],
+      "hdi": 0.912
+    },
+    "country_of_manager": {
+      "location": [],
+      "hdi": 0
+    }
+  },
+  "318": {
+    "event_date": 1529017200,
+    "activation_date": 1538348400,
+    "sat_data_date": 1541808000,
+    "publish_date": 1542067200,
+    "country_of_activation": {
+      "location": [
+        ""
+      ],
+      "hdi": 0
+    },
+    "country_of_sat": {
+      "location": [
+        "us",
+        "france"
+      ],
+      "hdi": 0.912
+    },
+    "country_of_manager": {
+      "location": [],
+      "hdi": 0
+    }
+  },
+  "321": {
+    "event_date": 1538780400,
+    "activation_date": 1538866800,
+    "sat_data_date": 1539039600,
+    "publish_date": 1539126000,
+    "country_of_activation": {
+      "location": [
+        ""
+      ],
+      "hdi": 0
+    },
+    "country_of_sat": {
+      "location": [
+        "eu"
+      ],
+      "hdi": 0.914
+    },
+    "country_of_manager": {
+      "location": [],
+      "hdi": 0
+    }
+  },
+  "340": {
+    "event_date": 1540681200,
+    "activation_date": 1542412800,
+    "sat_data_date": 1548374400,
+    "publish_date": 1548720000,
+    "country_of_activation": {
+      "location": [
+        ""
+      ],
+      "hdi": 0
+    },
+    "country_of_sat": {
+      "location": [
+        "france",
+        "us"
+      ],
+      "hdi": 0.912
+    },
+    "country_of_manager": {
+      "location": [],
+      "hdi": 0
+    }
+  },
+  "352": {
+    "event_date": 1553472000,
+    "activation_date": 1554687900,
+    "sat_data_date": 1554814800,
+    "publish_date": 1554850800,
+    "country_of_activation": {
+      "location": [
+        "iran"
+      ],
+      "hdi": 0.774
+    },
+    "country_of_sat": {
+      "location": [
+        "france",
+        "us",
+        "germany",
+        "eu",
+        "portugal"
+      ],
+      "hdi": 0.9092
+    },
+    "country_of_manager": {
+      "location": [],
+      "hdi": 0
+    }
+  },
+  "353": {
+    "event_date": 1555923600,
+    "activation_date": 1555923780,
+    "sat_data_date": 1556020140,
+    "publish_date": 1556060400,
+    "country_of_activation": {
+      "location": [
+        "germany"
+      ],
+      "hdi": 0.942
+    },
+    "country_of_sat": {
+      "location": [
+        "us",
+        "france"
+      ],
+      "hdi": 0.912
+    },
+    "country_of_manager": {
+      "location": [],
+      "hdi": 0
+    }
+  },
+  "363": {
+    "event_date": 1559516400,
+    "activation_date": 1559638740,
+    "sat_data_date": 1559641320,
+    "publish_date": 1560207600,
+    "country_of_activation": {
+      "location": [
+        "germany"
+      ],
+      "hdi": 0.942
+    },
+    "country_of_sat": {
+      "location": [
+        "france",
+        "us"
+      ],
+      "hdi": 0.912
+    },
+    "country_of_manager": {
+      "location": [],
+      "hdi": 0
+    }
+  },
+  "365": {
+    "event_date": 1561555860,
+    "activation_date": 1561625160,
+    "sat_data_date": 1561638120,
+    "publish_date": 1561676400,
+    "country_of_activation": {
+      "location": [
+        "spain"
+      ],
+      "hdi": 0.905
+    },
+    "country_of_sat": {
+      "location": [
+        "france",
+        "eu"
+      ],
+      "hdi": 0.9085000000000001
+    },
+    "country_of_manager": {
+      "location": [],
+      "hdi": 0
+    }
+  },
+  "366": {
+    "event_date": 1561915800,
+    "activation_date": 1561972800,
+    "sat_data_date": 1561997640,
+    "publish_date": 1562108400,
+    "country_of_activation": {
+      "location": [
+        "germany"
+      ],
+      "hdi": 0.942
+    },
+    "country_of_sat": {
+      "location": [
+        "eu"
+      ],
+      "hdi": 0.914
+    },
+    "country_of_manager": {
+      "location": [],
+      "hdi": 0
+    }
+  },
+  "368": {
+    "event_date": 1561716900,
+    "activation_date": 1561975560,
+    "sat_data_date": 1562068020,
+    "publish_date": 1562281200,
+    "country_of_activation": {
+      "location": [
+        "spain"
+      ],
+      "hdi": 0.905
+    },
+    "country_of_sat": {
+      "location": [
+        "eu"
+      ],
+      "hdi": 0.914
+    },
+    "country_of_manager": {
+      "location": [],
+      "hdi": 0
+    }
+  },
+  "369": {
+    "event_date": 1562235600,
+    "activation_date": 1562313540,
+    "sat_data_date": 1562314020,
+    "publish_date": 1562540400,
+    "country_of_activation": {
+      "location": [
+        "greece"
+      ],
+      "hdi": 0.887
+    },
+    "country_of_sat": {
+      "location": [
+        "eu",
+        "france"
+      ],
+      "hdi": 0.9085000000000001
+    },
+    "country_of_manager": {
+      "location": [],
+      "hdi": 0
+    }
+  },
+  "373": {
+    "event_date": 1563883200,
+    "activation_date": 1563960660,
+    "sat_data_date": 1563970740,
+    "publish_date": 1564009200,
+    "country_of_activation": {
+      "location": [
+        "spain"
+      ],
+      "hdi": 0.905
+    },
+    "country_of_sat": {
+      "location": [
+        "us",
+        "france"
+      ],
+      "hdi": 0.912
+    },
+    "country_of_manager": {
+      "location": [],
+      "hdi": 0
+    }
+  },
+  "379": {
+    "event_date": 1565439360,
+    "activation_date": 1565601720,
+    "sat_data_date": 1565695860,
+    "publish_date": 1565737200,
+    "country_of_activation": {
+      "location": [
+        "spain"
+      ],
+      "hdi": 0.905
+    },
+    "country_of_sat": {
+      "location": [
+        "us",
+        "france"
+      ],
+      "hdi": 0.912
+    },
+    "country_of_manager": {
+      "location": [],
+      "hdi": 0
+    }
+  },
+  "380": {
+    "event_date": 1565662500,
+    "activation_date": 1565678220,
+    "sat_data_date": 1565705160,
+    "publish_date": 1565737200,
+    "country_of_activation": {
+      "location": [
+        "greece"
+      ],
+      "hdi": 0.887
+    },
+    "country_of_sat": {
+      "location": [
+        "us",
+        "france"
+      ],
+      "hdi": 0.912
+    },
+    "country_of_manager": {
+      "location": [],
+      "hdi": 0
+    }
+  },
+  "383": {
+    "event_date": 1564650000,
+    "activation_date": 1566481020,
+    "sat_data_date": 1566675960,
+    "publish_date": 1566687600,
+    "country_of_activation": {
+      "location": [
+        "bolivia"
+      ],
+      "hdi": 0.692
+    },
+    "country_of_sat": {
+      "location": [
+        "eu"
+      ],
+      "hdi": 0.914
+    },
+    "country_of_manager": {
+      "location": [],
+      "hdi": 0
+    }
+  },
+  "385": {
+    "event_date": 1567357200,
+    "activation_date": 1567462260,
+    "sat_data_date": 1569163380,
+    "publish_date": 1569798000,
+    "country_of_activation": {
+      "location": [
+        "bahamas"
+      ],
+      "hdi": 0.812
+    },
+    "country_of_sat": {
+      "location": [
+        "eu",
+        "france",
+        "us"
+      ],
+      "hdi": 0.9126666666666668
+    },
+    "country_of_manager": {
+      "location": [],
+      "hdi": 0
+    }
+  },
+  "386": {
+    "event_date": 1567679280,
+    "activation_date": 1567847940,
+    "sat_data_date": 1567859400,
+    "publish_date": 1567983600,
+    "country_of_activation": {
+      "location": [
+        "portugal"
+      ],
+      "hdi": 0.866
+    },
+    "country_of_sat": {
+      "location": [
+        "eu",
+        "france"
+      ],
+      "hdi": 0.9085000000000001
+    },
+    "country_of_manager": {
+      "location": [],
+      "hdi": 0
+    }
+  },
+  "387": {
+    "event_date": 1566543600,
+    "activation_date": 1567860960,
+    "sat_data_date": 1567918800,
+    "publish_date": 1567983600,
+    "country_of_activation": {
+      "location": [
+        "bolivia"
+      ],
+      "hdi": 0.692
+    },
+    "country_of_sat": {
+      "location": [
+        "france",
+        "eu",
+        "us"
+      ],
+      "hdi": 0.9126666666666668
+    },
+    "country_of_manager": {
+      "location": [],
+      "hdi": 0
+    }
+  },
+  "389": {
+    "event_date": 1568473200,
+    "activation_date": 1568622000,
+    "sat_data_date": 1568797500,
+    "publish_date": 1568934000,
+    "country_of_activation": {
+      "location": [
+        "greece"
+      ],
+      "hdi": 0.887
+    },
+    "country_of_sat": {
+      "location": [
+        "eu",
+        "us"
+      ],
+      "hdi": 0.9175
+    },
+    "country_of_manager": {
+      "location": [],
+      "hdi": 0
+    }
+  },
+  "390": {
+    "event_date": 1568502000,
+    "activation_date": 1568588400,
+    "sat_data_date": 1568797500,
+    "publish_date": 1569366000,
+    "country_of_activation": {
+      "location": [
+        "greece"
+      ],
+      "hdi": 0.887
+    },
+    "country_of_sat": {
+      "location": [
+        "eu"
+      ],
+      "hdi": 0.914
+    },
+    "country_of_manager": {
+      "location": [],
+      "hdi": 0
+    }
+  },
+  "401": {
+    "event_date": 1571752800,
+    "activation_date": 1572081000,
+    "sat_data_date": 1572469980,
+    "publish_date": 1572480000,
+    "country_of_activation": {
+      "location": [
+        "italy"
+      ],
+      "hdi": 0.895
+    },
+    "country_of_sat": {
+      "location": [
+        "eu"
+      ],
+      "hdi": 0.914
+    },
+    "country_of_manager": {
+      "location": [],
+      "hdi": 0
+    }
+  },
+  "403": {
+    "event_date": 1572130800,
+    "activation_date": 1572341460,
+    "sat_data_date": 1572520320,
+    "publish_date": 1572566400,
+    "country_of_activation": {
+      "location": [
+        "serbia"
+      ],
+      "hdi": 0.802
+    },
+    "country_of_sat": {
+      "location": [
+        "eu",
+        "us"
+      ],
+      "hdi": 0.9175
+    },
+    "country_of_manager": {
+      "location": [],
+      "hdi": 0
+    }
+  },
+  "408": {
+    "event_date": 1572998400,
+    "activation_date": 1573602720,
+    "sat_data_date": 1573628100,
+    "publish_date": 1573689600,
+    "country_of_activation": {
+      "location": [
+        "australia"
+      ],
+      "hdi": 0.951
+    },
+    "country_of_sat": {
+      "location": [
+        "eu",
+        "france",
+        "us",
+        "russia",
+        "china"
+      ],
+      "hdi": 0.8656
+    },
+    "country_of_manager": {
+      "location": [],
+      "hdi": 0
+    }
+  },
+  "413": {
+    "event_date": 1574650800,
+    "activation_date": 1574674140,
+    "sat_data_date": 1574771640,
+    "publish_date": 1574899200,
+    "country_of_activation": {
+      "location": [
+        "greece"
+      ],
+      "hdi": 0.887
+    },
+    "country_of_sat": {
+      "location": [
+        "portugal",
+        "us",
+        "eu"
+      ],
+      "hdi": 0.9003333333333333
+    },
+    "country_of_manager": {
+      "location": [],
+      "hdi": 0
+    }
+  },
+  "417": {
+    "event_date": 1576717200,
+    "activation_date": 1577083380,
+    "sat_data_date": 1577110920,
+    "publish_date": 1577145600,
+    "country_of_activation": {
+      "location": [
+        "portugal"
+      ],
+      "hdi": 0.866
+    },
+    "country_of_sat": {
+      "location": [
+        "eu"
+      ],
+      "hdi": 0.914
+    },
+    "country_of_manager": {
+      "location": [],
+      "hdi": 0
+    }
+  },
+  "419": {
+    "event_date": 1578873600,
+    "activation_date": 1578897120,
+    "sat_data_date": 1578935700,
+    "publish_date": 1578960000,
+    "country_of_activation": {
+      "location": [
+        "iran"
+      ],
+      "hdi": 0.774
+    },
+    "country_of_sat": {
+      "location": [
+        "france",
+        "us",
+        "eu"
+      ],
+      "hdi": 0.9126666666666666
+    },
+    "country_of_manager": {
+      "location": [],
+      "hdi": 0
+    }
+  },
+  "424": {
+    "event_date": 1580198400,
+    "activation_date": 1580285820,
+    "sat_data_date": 1580387700,
+    "publish_date": 1580428800,
+    "country_of_activation": {
+      "location": [
+        "madagascar"
+      ],
+      "hdi": 0.501
+    },
+    "country_of_sat": {
+      "location": [
+        "eu",
+        "japan"
+      ],
+      "hdi": 0.9195
+    },
+    "country_of_manager": {
+      "location": [],
+      "hdi": 0
+    }
+  },
+  "426": {
+    "event_date": 1581145200,
+    "activation_date": 1581156660,
+    "sat_data_date": 1581435660,
+    "publish_date": 1581465600,
+    "country_of_activation": {
+      "location": [
+        "france"
+      ],
+      "hdi": 0.903
+    },
+    "country_of_sat": {
+      "location": [
+        "france",
+        "eu"
+      ],
+      "hdi": 0.9085000000000001
+    },
+    "country_of_manager": {
+      "location": [],
+      "hdi": 0
+    }
+  },
+  "429": {
+    "event_date": 1582218000,
+    "activation_date": 1582482000,
+    "sat_data_date": 1582570560,
+    "publish_date": 1582588800,
+    "country_of_activation": {
+      "location": [
+        "ireland"
+      ],
+      "hdi": 0.945
+    },
+    "country_of_sat": {
+      "location": [
+        "us",
+        "eu",
+        "italy"
+      ],
+      "hdi": 0.91
+    },
+    "country_of_manager": {
+      "location": [],
+      "hdi": 0
+    }
+  },
+  "435": {
+    "event_date": 1586559600,
+    "activation_date": 1586678100,
+    "sat_data_date": 1586862000,
+    "publish_date": 1586905200,
+    "country_of_activation": {
+      "location": [
+        "ukraine"
+      ],
+      "hdi": 0.773
+    },
+    "country_of_sat": {
+      "location": [
+        "france",
+        "eu"
+      ],
+      "hdi": 0.9085000000000001
+    },
+    "country_of_manager": {
+      "location": [],
+      "hdi": 0
+    }
+  },
+  "436": {
+    "event_date": 1587308460,
+    "activation_date": 1587543780,
+    "sat_data_date": 1587561960,
+    "publish_date": 1587596400,
+    "country_of_activation": {
+      "location": [
+        ""
+      ],
+      "hdi": 0
+    },
+    "country_of_sat": {
+      "location": [
+        "france",
+        "eu"
+      ],
+      "hdi": 0.9085000000000001
+    },
+    "country_of_manager": {
+      "location": [],
+      "hdi": 0
+    }
+  },
+  "438": {
+    "event_date": 1588978800,
+    "activation_date": 1589179560,
+    "sat_data_date": 1589542920,
+    "publish_date": 1589583600,
+    "country_of_activation": {
+      "location": [
+        "tanzania"
+      ],
+      "hdi": 0.549
+    },
+    "country_of_sat": {
+      "location": [
+        "eu"
+      ],
+      "hdi": 0.914
+    },
+    "country_of_manager": {
+      "location": [],
+      "hdi": 0
+    }
+  },
+  "444": {
+    "event_date": 1592823600,
+    "activation_date": 1593053580,
+    "sat_data_date": 1593099240,
+    "publish_date": 1593126000,
+    "country_of_activation": {
+      "location": [
+        "ukraine"
+      ],
+      "hdi": 0.773
+    },
+    "country_of_sat": {
+      "location": [
+        "france",
+        "us",
+        "eu",
+        "italy"
+      ],
+      "hdi": 0.90825
+    },
+    "country_of_manager": {
+      "location": [],
+      "hdi": 0
+    }
+  },
+  "449": {
+    "event_date": 1596106800,
+    "activation_date": 1596184380,
+    "sat_data_date": 1596191340,
+    "publish_date": 1596236400,
+    "country_of_activation": {
+      "location": [
+        "italy"
+      ],
+      "hdi": 0.895
+    },
+    "country_of_sat": {
+      "location": [
+        "france",
+        "eu"
+      ],
+      "hdi": 0.9085000000000001
+    },
+    "country_of_manager": {
+      "location": [],
+      "hdi": 0
+    }
+  },
+  "453": {
+    "event_date": 1596279600,
+    "activation_date": 1597050420,
+    "sat_data_date": 1597160760,
+    "publish_date": 1597273200,
+    "country_of_activation": {
+      "location": [
+        "italy"
+      ],
+      "hdi": 0.895
+    },
+    "country_of_sat": {
+      "location": [
+        "france"
+      ],
+      "hdi": 0.903
+    },
+    "country_of_manager": {
+      "location": [],
+      "hdi": 0
+    }
+  },
+  "456": {
+    "event_date": 1597050000,
+    "activation_date": 1597100400,
+    "sat_data_date": 1598292000,
+    "publish_date": 1598310000,
+    "country_of_activation": {
+      "location": [
+        "nicaragua"
+      ],
+      "hdi": 0.667
+    },
+    "country_of_sat": {
+      "location": [
+        "eu"
+      ],
+      "hdi": 0.914
+    },
+    "country_of_manager": {
+      "location": [],
+      "hdi": 0
+    }
+  },
+  "457": {
+    "event_date": 1598533800,
+    "activation_date": 1598606160,
+    "sat_data_date": 1598617440,
+    "publish_date": 1598914800,
+    "country_of_activation": {
+      "location": [
+        "spain"
+      ],
+      "hdi": 0.905
+    },
+    "country_of_sat": {
+      "location": [
+        "france",
+        "eu"
+      ],
+      "hdi": 0.9085000000000001
+    },
+    "country_of_manager": {
+      "location": [],
+      "hdi": 0
+    }
+  },
+  "458": {
+    "event_date": 1598549400,
+    "activation_date": 1598608260,
+    "sat_data_date": 1598640360,
+    "publish_date": 1598655600,
+    "country_of_activation": {
+      "location": [
+        "spain"
+      ],
+      "hdi": 0.905
+    },
+    "country_of_sat": {
+      "location": [
+        "france",
+        "eu"
+      ],
+      "hdi": 0.9085000000000001
+    },
+    "country_of_manager": {
+      "location": [],
+      "hdi": 0
+    }
+  },
+  "459": {
+    "event_date": 1598317200,
+    "activation_date": 1598592120,
+    "sat_data_date": 1599050340,
+    "publish_date": 1599519600,
+    "country_of_activation": {
+      "location": [
+        "afghanistan"
+      ],
+      "hdi": 0.478
+    },
+    "country_of_sat": {
+      "location": [
+        "us"
+      ],
+      "hdi": 0.921
+    },
+    "country_of_manager": {
+      "location": [],
+      "hdi": 0
+    }
+  },
+  "466": {
+    "event_date": 1599692400,
+    "activation_date": 1599901200,
+    "sat_data_date": 1601724780,
+    "publish_date": 1601938800,
+    "country_of_activation": {
+      "location": [
+        "niger"
+      ],
+      "hdi": 0.4
+    },
+    "country_of_sat": {
+      "location": [
+        "eu"
+      ],
+      "hdi": 0.914
+    },
+    "country_of_manager": {
+      "location": [],
+      "hdi": 0
+    }
+  },
+  "467": {
+    "event_date": 1601679600,
+    "activation_date": 1601716620,
+    "sat_data_date": 1601725380,
+    "publish_date": 1601766000,
+    "country_of_activation": {
+      "location": [
+        "france"
+      ],
+      "hdi": 0.903
+    },
+    "country_of_sat": {
+      "location": [
+        "france",
+        "us",
+        "eu"
+      ],
+      "hdi": 0.9126666666666666
+    },
+    "country_of_manager": {
+      "location": [],
+      "hdi": 0
+    }
+  },
+  "471": {
+    "event_date": 1602572400,
+    "activation_date": 1602647040,
+    "sat_data_date": 1602690780,
+    "publish_date": 1602716400,
+    "country_of_activation": {
+      "location": [
+        "slovakia"
+      ],
+      "hdi": 0.848
+    },
+    "country_of_sat": {
+      "location": [
+        "eu",
+        "italy"
+      ],
+      "hdi": 0.9045000000000001
+    },
+    "country_of_manager": {
+      "location": [],
+      "hdi": 0
+    }
+  },
+  "472": {
+    "event_date": 1602518400,
+    "activation_date": 1602582960,
+    "sat_data_date": 1602753360,
+    "publish_date": 1602889200,
+    "country_of_activation": {
+      "location": [
+        "vietnam"
+      ],
+      "hdi": 0.703
+    },
+    "country_of_sat": {
+      "location": [
+        "eu",
+        "italy",
+        "germany"
+      ],
+      "hdi": 0.9170000000000001
+    },
+    "country_of_manager": {
+      "location": [],
+      "hdi": 0
+    }
+  },
+  "481": {
+    "event_date": 1604656800,
+    "activation_date": 1604662620,
+    "sat_data_date": 1605096840,
+    "publish_date": 1605139200,
+    "country_of_activation": {
+      "location": [
+        "honduras"
+      ],
+      "hdi": 0.621
+    },
+    "country_of_sat": {
+      "location": [
+        "eu"
+      ],
+      "hdi": 0.914
+    },
+    "country_of_manager": {
+      "location": [],
+      "hdi": 0
+    }
+  },
+  "496": {
+    "event_date": 1611640800,
+    "activation_date": 1611724320,
+    "sat_data_date": 1611768660,
+    "publish_date": 1611792000,
+    "country_of_activation": {
+      "location": [
+        "italy"
+      ],
+      "hdi": 0.895
+    },
+    "country_of_sat": {
+      "location": [
+        "eu"
+      ],
+      "hdi": 0.914
+    },
+    "country_of_manager": {
+      "location": [],
+      "hdi": 0
+    }
+  },
+  "500": {
+    "event_date": 1612483200,
+    "activation_date": 1612491180,
+    "sat_data_date": 1612503120,
+    "publish_date": 1613001600,
+    "country_of_activation": {
+      "location": [
+        "australia"
+      ],
+      "hdi": 0.951
+    },
+    "country_of_sat": {
+      "location": [
+        "france",
+        "eu"
+      ],
+      "hdi": 0.9085000000000001
+    },
+    "country_of_manager": {
+      "location": [],
+      "hdi": 0
+    }
+  },
+  "501": {
+    "event_date": 1609891200,
+    "activation_date": 1613147520,
+    "sat_data_date": 1613148600,
+    "publish_date": 1613174400,
+    "country_of_activation": {
+      "location": [
+        "albania"
+      ],
+      "hdi": 0.796
+    },
+    "country_of_sat": {
+      "location": [
+        "eu"
+      ],
+      "hdi": 0.914
+    },
+    "country_of_manager": {
+      "location": [],
+      "hdi": 0
+    }
+  },
+  "508": {
+    "event_date": 1617778800,
+    "activation_date": 1617784440,
+    "sat_data_date": 1617876120,
+    "publish_date": 1619046000,
+    "country_of_activation": {
+      "location": [
+        "italy"
+      ],
+      "hdi": 0.895
+    },
+    "country_of_sat": {
+      "location": [
+        "france",
+        "us"
+      ],
+      "hdi": 0.912
+    },
+    "country_of_manager": {
+      "location": [],
+      "hdi": 0
+    }
+  },
+  "511": {
+    "event_date": 1621517400,
+    "activation_date": 1621569840,
+    "sat_data_date": 1621578060,
+    "publish_date": 1621897200,
+    "country_of_activation": {
+      "location": [
+        "finland"
+      ],
+      "hdi": 0.94
+    },
+    "country_of_sat": {
+      "location": [
+        "eu"
+      ],
+      "hdi": 0.914
+    },
+    "country_of_manager": {
+      "location": [],
+      "hdi": 0
+    }
+  },
+  "513": {
+    "event_date": 1621706400,
+    "activation_date": 1621738980,
+    "sat_data_date": 1621808820,
+    "publish_date": 1622070000,
+    "country_of_activation": {
+      "location": [
+        ""
+      ],
+      "hdi": 0
+    },
+    "country_of_sat": {
+      "location": [
+        "italy",
+        "us",
+        "eu"
+      ],
+      "hdi": 0.91
+    },
+    "country_of_manager": {
+      "location": [],
+      "hdi": 0
+    }
+  },
+  "514": {
+    "event_date": 1623067200,
+    "activation_date": 1623446160,
+    "sat_data_date": 1623634440,
+    "publish_date": 1623711600,
+    "country_of_activation": {
+      "location": [
+        "guyana"
+      ],
+      "hdi": 0.714
+    },
+    "country_of_sat": {
+      "location": [
+        "eu"
+      ],
+      "hdi": 0.914
+    },
+    "country_of_manager": {
+      "location": [],
+      "hdi": 0
+    }
+  },
+  "523": {
+    "event_date": 1627117200,
+    "activation_date": 1627204800,
+    "sat_data_date": 1627294380,
+    "publish_date": 1627340400,
+    "country_of_activation": {
+      "location": [
+        "italy"
+      ],
+      "hdi": 0.895
+    },
+    "country_of_sat": {
+      "location": [
+        "france",
+        "us",
+        "eu",
+        "portugal"
+      ],
+      "hdi": 0.901
+    },
+    "country_of_manager": {
+      "location": [],
+      "hdi": 0
+    }
+  },
+  "526": {
+    "event_date": 1627828680,
+    "activation_date": 1627888800,
+    "sat_data_date": 1627908120,
+    "publish_date": 1627945200,
+    "country_of_activation": {
+      "location": [
+        "greece"
+      ],
+      "hdi": 0.887
+    },
+    "country_of_sat": {
+      "location": [
+        "france",
+        "eu"
+      ],
+      "hdi": 0.9085000000000001
+    },
+    "country_of_manager": {
+      "location": [],
+      "hdi": 0
+    }
+  },
+  "528": {
+    "event_date": 1628067780,
+    "activation_date": 1628149320,
+    "sat_data_date": 1628159880,
+    "publish_date": 1628290800,
+    "country_of_activation": {
+      "location": [
+        "greece"
+      ],
+      "hdi": 0.887
+    },
+    "country_of_sat": {
+      "location": [
+        "france"
+      ],
+      "hdi": 0.903
+    },
+    "country_of_manager": {
+      "location": [],
+      "hdi": 0
+    }
+  },
+  "537": {
+    "event_date": 1628967600,
+    "activation_date": 1629104340,
+    "sat_data_date": 1629108660,
+    "publish_date": 1629154800,
+    "country_of_activation": {
+      "location": [
+        "spain"
+      ],
+      "hdi": 0.905
+    },
+    "country_of_sat": {
+      "location": [
+        "france",
+        "eu"
+      ],
+      "hdi": 0.9085000000000001
+    },
+    "country_of_manager": {
+      "location": [],
+      "hdi": 0
+    }
+  },
+  "538": {
+    "event_date": 1628927040,
+    "activation_date": 1629106680,
+    "sat_data_date": 1629108780,
+    "publish_date": 1629154800,
+    "country_of_activation": {
+      "location": [
+        "spain"
+      ],
+      "hdi": 0.905
+    },
+    "country_of_sat": {
+      "location": [
+        "france"
+      ],
+      "hdi": 0.903
+    },
+    "country_of_manager": {
+      "location": [],
+      "hdi": 0
+    }
+  },
+  "539": {
+    "event_date": 1628978400,
+    "activation_date": 1629106680,
+    "sat_data_date": 1629144060,
+    "publish_date": 1629154800,
+    "country_of_activation": {
+      "location": [
+        "portugal"
+      ],
+      "hdi": 0.866
+    },
+    "country_of_sat": {
+      "location": [
+        "france",
+        "eu"
+      ],
+      "hdi": 0.9085000000000001
+    },
+    "country_of_manager": {
+      "location": [],
+      "hdi": 0
+    }
+  },
+  "541": {
+    "event_date": 1629136800,
+    "activation_date": 1629145140,
+    "sat_data_date": 1629190800,
+    "publish_date": 1629241200,
+    "country_of_activation": {
+      "location": [
+        "france"
+      ],
+      "hdi": 0.903
+    },
+    "country_of_sat": {
+      "location": [
+        "france",
+        "eu"
+      ],
+      "hdi": 0.9085000000000001
+    },
+    "country_of_manager": {
+      "location": [],
+      "hdi": 0
+    }
+  },
+  "545": {
+    "event_date": 1631136600,
+    "activation_date": 1631178960,
+    "sat_data_date": 1631181180,
+    "publish_date": 1631228400,
+    "country_of_activation": {
+      "location": [
+        "spain"
+      ],
+      "hdi": 0.905
+    },
+    "country_of_sat": {
+      "location": [
+        "france",
+        "eu"
+      ],
+      "hdi": 0.9085000000000001
+    },
+    "country_of_manager": {
+      "location": [],
+      "hdi": 0
+    }
+  },
+  "548": {
+    "event_date": 1635030000,
+    "activation_date": 1635134700,
+    "sat_data_date": 1635330660,
+    "publish_date": 1635375600,
+    "country_of_activation": {
+      "location": [
+        "italy"
+      ],
+      "hdi": 0.895
+    },
+    "country_of_sat": {
+      "location": [
+        "italy",
+        "france",
+        "eu"
+      ],
+      "hdi": 0.904
+    },
+    "country_of_manager": {
+      "location": [],
+      "hdi": 0
+    }
+  },
+  "551": {
+    "event_date": 1637366400,
+    "activation_date": 1637420400,
+    "sat_data_date": 1637537400,
+    "publish_date": 1637539200,
+    "country_of_activation": {
+      "location": [
+        "iraq"
+      ],
+      "hdi": 0.686
+    },
+    "country_of_sat": {
+      "location": [
+        "eu"
+      ],
+      "hdi": 0.914
+    },
+    "country_of_manager": {
+      "location": [],
+      "hdi": 0
+    }
+  },
+  "556": {
+    "event_date": 1639414800,
+    "activation_date": 1639949460,
+    "sat_data_date": 1640219520,
+    "publish_date": 1640304000,
+    "country_of_activation": {
+      "location": [
+        "philippines"
+      ],
+      "hdi": 0.699
+    },
+    "country_of_sat": {
+      "location": [
+        "eu",
+        "italy",
+        "us",
+        "france"
+      ],
+      "hdi": 0.9082500000000001
+    },
+    "country_of_manager": {
+      "location": [],
+      "hdi": 0
+    }
+  },
+  "559": {
+    "event_date": 1642464000,
+    "activation_date": 1643116620,
+    "sat_data_date": 1643135820,
+    "publish_date": 1643241600,
+    "country_of_activation": {
+      "location": [
+        "madagascar"
+      ],
+      "hdi": 0.501
+    },
+    "country_of_sat": {
+      "location": [
+        "eu",
+        "canada",
+        "france",
+        "argentina"
+      ],
+      "hdi": 0.89875
+    },
+    "country_of_manager": {
+      "location": [],
+      "hdi": 0
+    }
+  },
+  "560": {
+    "event_date": 1642776300,
+    "activation_date": 1642859160,
+    "sat_data_date": 1643146260,
+    "publish_date": 1643155200,
+    "country_of_activation": {
+      "location": [
+        ""
+      ],
+      "hdi": 0
+    },
+    "country_of_sat": {
+      "location": [
+        "france",
+        "eu"
+      ],
+      "hdi": 0.9085000000000001
+    },
+    "country_of_manager": {
+      "location": [],
+      "hdi": 0
+    }
+  },
+  "561": {
+    "event_date": 1643025600,
+    "activation_date": 1643166960,
+    "sat_data_date": 1643298120,
+    "publish_date": 1643328000,
+    "country_of_activation": {
+      "location": [
+        "malawi"
+      ],
+      "hdi": 0.512
+    },
+    "country_of_sat": {
+      "location": [
+        "france",
+        "eu",
+        "italy"
+      ],
+      "hdi": 0.904
+    },
+    "country_of_manager": {
+      "location": [],
+      "hdi": 0
+    }
+  },
+  "571": {
+    "event_date": 1648238400,
+    "activation_date": 1648397820,
+    "sat_data_date": 1648556460,
+    "publish_date": 1648681200,
+    "country_of_activation": {
+      "location": [
+        "mexico"
+      ],
+      "hdi": 0.758
+    },
+    "country_of_sat": {
+      "location": [
+        "france",
+        "eu"
+      ],
+      "hdi": 0.9085000000000001
+    },
+    "country_of_manager": {
+      "location": [],
+      "hdi": 0
+    }
+  },
+  "576": {
+    "event_date": 1654343400,
+    "activation_date": 1654413360,
+    "sat_data_date": 1654421160,
+    "publish_date": 1654470000,
+    "country_of_activation": {
+      "location": [
+        "greece"
+      ],
+      "hdi": 0.887
+    },
+    "country_of_sat": {
+      "location": [
+        "us",
+        "eu"
+      ],
+      "hdi": 0.9175
+    },
+    "country_of_manager": {
+      "location": [],
+      "hdi": 0
+    }
+  },
+  "579": {
+    "event_date": 1655334000,
+    "activation_date": 1655370900,
+    "sat_data_date": 1655386380,
+    "publish_date": 1655420400,
+    "country_of_activation": {
+      "location": [
+        "spain"
+      ],
+      "hdi": 0.905
+    },
+    "country_of_sat": {
+      "location": [
+        "france",
+        "us",
+        "eu"
+      ],
+      "hdi": 0.9126666666666666
+    },
+    "country_of_manager": {
+      "location": [],
+      "hdi": 0
+    }
+  },
+  "581": {
+    "event_date": 1655386800,
+    "activation_date": 1655458080,
+    "sat_data_date": 1655460240,
+    "publish_date": 1655593200,
+    "country_of_activation": {
+      "location": [
+        "spain"
+      ],
+      "hdi": 0.905
+    },
+    "country_of_sat": {
+      "location": [
+        "france",
+        "eu"
+      ],
+      "hdi": 0.9085000000000001
+    },
+    "country_of_manager": {
+      "location": [],
+      "hdi": 0
+    }
+  },
+  "583": {
+    "event_date": 1655733600,
+    "activation_date": 1655803440,
+    "sat_data_date": 1655806560,
+    "publish_date": 1655852400,
+    "country_of_activation": {
+      "location": [
+        "spain"
+      ],
+      "hdi": 0.905
+    },
+    "country_of_sat": {
+      "location": [
+        "france",
+        "eu"
+      ],
+      "hdi": 0.9085000000000001
+    },
+    "country_of_manager": {
+      "location": [],
+      "hdi": 0
+    }
+  },
+  "587": {
+    "event_date": 1656849600,
+    "activation_date": 1656922200,
+    "sat_data_date": 1657001880,
+    "publish_date": 1657148400,
+    "country_of_activation": {
+      "location": [
+        "greece"
+      ],
+      "hdi": 0.887
+    },
+    "country_of_sat": {
+      "location": [
+        "france",
+        "eu"
+      ],
+      "hdi": 0.9085000000000001
+    },
+    "country_of_manager": {
+      "location": [],
+      "hdi": 0
+    }
+  },
+  "589": {
+    "event_date": 1657208220,
+    "activation_date": 1657275660,
+    "sat_data_date": 1657309680,
+    "publish_date": 1657494000,
+    "country_of_activation": {
+      "location": [
+        "portugal"
+      ],
+      "hdi": 0.866
+    },
+    "country_of_sat": {
+      "location": [
+        "france",
+        "us",
+        "eu"
+      ],
+      "hdi": 0.9126666666666666
+    },
+    "country_of_manager": {
+      "location": [],
+      "hdi": 0
+    }
+  },
+  "590": {
+    "event_date": 1657551600,
+    "activation_date": 1657619040,
+    "sat_data_date": 1657703400,
+    "publish_date": 1657753200,
+    "country_of_activation": {
+      "location": [
+        "spain"
+      ],
+      "hdi": 0.905
+    },
+    "country_of_sat": {
+      "location": [
+        "france",
+        "eu"
+      ],
+      "hdi": 0.9085000000000001
+    },
+    "country_of_manager": {
+      "location": [],
+      "hdi": 0
+    }
+  },
+  "592": {
+    "event_date": 1657630800,
+    "activation_date": 1657964400,
+    "sat_data_date": 1657980360,
+    "publish_date": 1658012400,
+    "country_of_activation": {
+      "location": [
+        "france"
+      ],
+      "hdi": 0.903
+    },
+    "country_of_sat": {
+      "location": [
+        "france",
+        "eu"
+      ],
+      "hdi": 0.9085000000000001
+    },
+    "country_of_manager": {
+      "location": [],
+      "hdi": 0
+    }
+  },
+  "593": {
+    "event_date": 1657890000,
+    "activation_date": 1657958160,
+    "sat_data_date": 1658045820,
+    "publish_date": 1658098800,
+    "country_of_activation": {
+      "location": [
+        "greece"
+      ],
+      "hdi": 0.887
+    },
+    "country_of_sat": {
+      "location": [
+        "france"
+      ],
+      "hdi": 0.903
+    },
+    "country_of_manager": {
+      "location": [],
+      "hdi": 0
+    }
+  },
+  "597": {
+    "event_date": 1658143800,
+    "activation_date": 1658221260,
+    "sat_data_date": 1658250060,
+    "publish_date": 1658358000,
+    "country_of_activation": {
+      "location": [
+        "spain"
+      ],
+      "hdi": 0.905
+    },
+    "country_of_sat": {
+      "location": [
+        "france"
+      ],
+      "hdi": 0.903
+    },
+    "country_of_manager": {
+      "location": [],
+      "hdi": 0
+    }
+  },
+  "598": {
+    "event_date": 1658280000,
+    "activation_date": 1658303700,
+    "sat_data_date": 1658303820,
+    "publish_date": 1658444400,
+    "country_of_activation": {
+      "location": [
+        "greece"
+      ],
+      "hdi": 0.887
+    },
+    "country_of_sat": {
+      "location": [
+        "france",
+        "eu"
+      ],
+      "hdi": 0.9085000000000001
+    },
+    "country_of_manager": {
+      "location": [],
+      "hdi": 0
+    }
+  },
+  "600": {
+    "event_date": 1658142000,
+    "activation_date": 1658305920,
+    "sat_data_date": 1658314440,
+    "publish_date": 1658358000,
+    "country_of_activation": {
+      "location": [
+        "italy"
+      ],
+      "hdi": 0.895
+    },
+    "country_of_sat": {
+      "location": [
+        "france",
+        "eu"
+      ],
+      "hdi": 0.9085000000000001
+    },
+    "country_of_manager": {
+      "location": [],
+      "hdi": 0
+    }
+  },
+  "602": {
+    "event_date": 1658077200,
+    "activation_date": 1658311560,
+    "sat_data_date": 1658329860,
+    "publish_date": 1658358000,
+    "country_of_activation": {
+      "location": [
+        "spain"
+      ],
+      "hdi": 0.905
+    },
+    "country_of_sat": {
+      "location": [
+        "france",
+        "eu"
+      ],
+      "hdi": 0.9085000000000001
+    },
+    "country_of_manager": {
+      "location": [],
+      "hdi": 0
+    }
+  },
+  "603": {
+    "event_date": 1657623600,
+    "activation_date": 1658311560,
+    "sat_data_date": 1658326860,
+    "publish_date": 1658530800,
+    "country_of_activation": {
+      "location": [
+        "spain"
+      ],
+      "hdi": 0.905
+    },
+    "country_of_sat": {
+      "location": [
+        "eu",
+        "france"
+      ],
+      "hdi": 0.9085000000000001
+    },
+    "country_of_manager": {
+      "location": [],
+      "hdi": 0
+    }
+  },
+  "607": {
+    "event_date": 1658556000,
+    "activation_date": 1658649120,
+    "sat_data_date": 1658649840,
+    "publish_date": 1658790000,
+    "country_of_activation": {
+      "location": [
+        "greece"
+      ],
+      "hdi": 0.887
+    },
+    "country_of_sat": {
+      "location": [
+        "france",
+        "eu"
+      ],
+      "hdi": 0.9085000000000001
+    },
+    "country_of_manager": {
+      "location": [],
+      "hdi": 0
+    }
+  },
+  "610": {
+    "event_date": 1658703600,
+    "activation_date": 1658777160,
+    "sat_data_date": 1658824560,
+    "publish_date": 1658962800,
+    "country_of_activation": {
+      "location": [
+        "germany"
+      ],
+      "hdi": 0.942
+    },
+    "country_of_sat": {
+      "location": [
+        "france",
+        "eu"
+      ],
+      "hdi": 0.9085000000000001
+    },
+    "country_of_manager": {
+      "location": [],
+      "hdi": 0
+    }
+  },
+  "611": {
+    "event_date": 1658703600,
+    "activation_date": 1658777160,
+    "sat_data_date": 1658831640,
+    "publish_date": 1658962800,
+    "country_of_activation": {
+      "location": [
+        ""
+      ],
+      "hdi": 0
+    },
+    "country_of_sat": {
+      "location": [
+        "france",
+        "eu"
+      ],
+      "hdi": 0.9085000000000001
+    },
+    "country_of_manager": {
+      "location": [],
+      "hdi": 0
+    }
+  },
+  "614": {
+    "event_date": 1658938440,
+    "activation_date": 1659003660,
+    "sat_data_date": 1659033600,
+    "publish_date": 1659049200,
+    "country_of_activation": {
+      "location": [
+        "portugal"
+      ],
+      "hdi": 0.866
+    },
+    "country_of_sat": {
+      "location": [
+        "france",
+        "eu"
+      ],
+      "hdi": 0.9085000000000001
+    },
+    "country_of_manager": {
+      "location": [],
+      "hdi": 0
+    }
+  },
+  "615": {
+    "event_date": 1659564000,
+    "activation_date": 1659624360,
+    "sat_data_date": 1659685140,
+    "publish_date": 1659740400,
+    "country_of_activation": {
+      "location": [
+        "germany"
+      ],
+      "hdi": 0.942
+    },
+    "country_of_sat": {
+      "location": [
+        "france",
+        "us"
+      ],
+      "hdi": 0.912
+    },
+    "country_of_manager": {
+      "location": [],
+      "hdi": 0
+    }
+  },
+  "617": {
+    "event_date": 1659712680,
+    "activation_date": 1659865560,
+    "sat_data_date": 1659950820,
+    "publish_date": 1660172400,
+    "country_of_activation": {
+      "location": [
+        "spain"
+      ],
+      "hdi": 0.905
+    },
+    "country_of_sat": {
+      "location": [
+        "us",
+        "france"
+      ],
+      "hdi": 0.912
+    },
+    "country_of_manager": {
+      "location": [],
+      "hdi": 0
+    }
+  },
+  "620": {
+    "event_date": 1659826800,
+    "activation_date": 1660038840,
+    "sat_data_date": 1660120920,
+    "publish_date": 1660172400,
+    "country_of_activation": {
+      "location": [
+        "spain"
+      ],
+      "hdi": 0.905
+    },
+    "country_of_sat": {
+      "location": [
+        "france",
+        "eu"
+      ],
+      "hdi": 0.9085000000000001
+    },
+    "country_of_manager": {
+      "location": [],
+      "hdi": 0
+    }
+  },
+  "629": {
+    "event_date": 1661450400,
+    "activation_date": 1661662560,
+    "sat_data_date": 1661766600,
+    "publish_date": 1661814000,
+    "country_of_activation": {
+      "location": [
+        "pakistan"
+      ],
+      "hdi": 0.544
+    },
+    "country_of_sat": {
+      "location": [
+        "france",
+        "us"
+      ],
+      "hdi": 0.912
+    },
+    "country_of_manager": {
+      "location": [],
+      "hdi": 0
+    }
+  },
+  "632": {
+    "event_date": 1662591600,
+    "activation_date": 1662803760,
+    "sat_data_date": 1662828300,
+    "publish_date": 1662850800,
+    "country_of_activation": {
+      "location": [
+        "spain"
+      ],
+      "hdi": 0.905
+    },
+    "country_of_sat": {
+      "location": [
+        "france",
+        "eu"
+      ],
+      "hdi": 0.9085000000000001
+    },
+    "country_of_manager": {
+      "location": [],
+      "hdi": 0
+    }
+  },
+  "633": {
+    "event_date": 1662937200,
+    "activation_date": 1663062480,
+    "sat_data_date": 1663145460,
+    "publish_date": 1663282800,
+    "country_of_activation": {
+      "location": [
+        "france"
+      ],
+      "hdi": 0.903
+    },
+    "country_of_sat": {
+      "location": [
+        "france",
+        "us",
+        "eu"
+      ],
+      "hdi": 0.9126666666666666
+    },
+    "country_of_manager": {
+      "location": [],
+      "hdi": 0
+    }
+  },
+  "634": {
+    "event_date": 1663250400,
+    "activation_date": 1663301040,
+    "sat_data_date": 1663318080,
+    "publish_date": 1663455600,
+    "country_of_activation": {
+      "location": [
+        "italy"
+      ],
+      "hdi": 0.895
+    },
+    "country_of_sat": {
+      "location": [
+        "france",
+        "us",
+        "italy"
+      ],
+      "hdi": 0.9063333333333334
+    },
+    "country_of_manager": {
+      "location": [],
+      "hdi": 0
+    }
+  },
+  "638": {
+    "event_date": 1666431000,
+    "activation_date": 1667293800,
+    "sat_data_date": 1667473980,
+    "publish_date": 1667520000,
+    "country_of_activation": {
+      "location": [
+        "greece"
+      ],
+      "hdi": 0.887
+    },
+    "country_of_sat": {
+      "location": [
+        "france",
+        "eu",
+        "us"
+      ],
+      "hdi": 0.9126666666666668
+    },
+    "country_of_manager": {
+      "location": [],
+      "hdi": 0
+    }
+  },
+  "639": {
+    "event_date": 1667358000,
+    "activation_date": 1667519880,
+    "sat_data_date": 1667598420,
+    "publish_date": 1667606400,
+    "country_of_activation": {
+      "location": [
+        "belize"
+      ],
+      "hdi": 0.683
+    },
+    "country_of_sat": {
+      "location": [
+        "us",
+        "france",
+        "eu"
+      ],
+      "hdi": 0.9126666666666666
+    },
+    "country_of_manager": {
+      "location": [],
+      "hdi": 0
+    }
+  },
+  "640": {
+    "event_date": 1668765600,
+    "activation_date": 1668794340,
+    "sat_data_date": 1668807960,
+    "publish_date": 1668816000,
+    "country_of_activation": {
+      "location": [
+        "unitedkingdom"
+      ],
+      "hdi": 0.929
+    },
+    "country_of_sat": {
+      "location": [
+        "eu",
+        "italy"
+      ],
+      "hdi": 0.9045000000000001
+    },
+    "country_of_manager": {
+      "location": [],
+      "hdi": 0
+    }
+  },
+  "641": {
+    "event_date": 1669011660,
+    "activation_date": 1669086480,
+    "sat_data_date": 1669109160,
+    "publish_date": 1669161600,
+    "country_of_activation": {
+      "location": [
+        "indonesia"
+      ],
+      "hdi": 0.705
+    },
+    "country_of_sat": {
+      "location": [
+        "us",
+        "france",
+        "eu"
+      ],
+      "hdi": 0.9126666666666666
+    },
+    "country_of_manager": {
+      "location": [],
+      "hdi": 0
+    }
+  },
+  "645": {
+    "event_date": 1674090000,
+    "activation_date": 1674353820,
+    "sat_data_date": 1674383940,
+    "publish_date": 1674604800,
+    "country_of_activation": {
+      "location": [
+        ""
+      ],
+      "hdi": 0
+    },
+    "country_of_sat": {
+      "location": [
+        "us",
+        "france",
+        "eu",
+        "italy",
+        "argentina",
+        "canada",
+        "germany"
+      ],
+      "hdi": 0.9075714285714286
+    },
+    "country_of_manager": {
+      "location": [],
+      "hdi": 0
+    }
+  },
+  "647": {
+    "event_date": 1675555200,
+    "activation_date": 1675608420,
+    "sat_data_date": 1675628880,
+    "publish_date": 1675641600,
+    "country_of_activation": {
+      "location": [
+        "chile"
+      ],
+      "hdi": 0.855
+    },
+    "country_of_sat": {
+      "location": [
+        "france",
+        "eu"
+      ],
+      "hdi": 0.9085000000000001
+    },
+    "country_of_manager": {
+      "location": [],
+      "hdi": 0
+    }
+  },
+  "all_activations": [
+    "147",
+    "148",
+    "149",
+    "150",
+    "151",
+    "153",
+    "154",
+    "156",
+    "159",
+    "162",
+    "164",
+    "165",
+    "167",
+    "169",
+    "171",
+    "174",
+    "176",
+    "177",
+    "180",
+    "182",
+    "184",
+    "185",
+    "186",
+    "187",
+    "188",
+    "190",
+    "192",
+    "194",
+    "195",
+    "197",
+    "198",
+    "200",
+    "203",
+    "207",
+    "209",
+    "210",
+    "211",
+    "212",
+    "213",
+    "217",
+    "218",
+    "219",
+    "220",
+    "221",
+    "223",
+    "224",
+    "225",
+    "226",
+    "227",
+    "228",
+    "230",
+    "231",
+    "232",
+    "233",
+    "234",
+    "235",
+    "236",
+    "237",
+    "238",
+    "239",
+    "241",
+    "243",
+    "244",
+    "245",
+    "246",
+    "247",
+    "248",
+    "249",
+    "251",
+    "252",
+    "253",
+    "254",
+    "255",
+    "257",
+    "259",
+    "260",
+    "264",
+    "265",
+    "266",
+    "267",
+    "268",
+    "270",
+    "271",
+    "272",
+    "273",
+    "274",
+    "275",
+    "276",
+    "277",
+    "278",
+    "279",
+    "281",
+    "283",
+    "285",
+    "286",
+    "287",
+    "288",
+    "289",
+    "290",
+    "291",
+    "292",
+    "294",
+    "295",
+    "296",
+    "297",
+    "298",
+    "299",
+    "300",
+    "301",
+    "302",
+    "304",
+    "305",
+    "306",
+    "307",
+    "308",
+    "310",
+    "311",
+    "312",
+    "314",
+    "315",
+    "317",
+    "318",
+    "319",
+    "320",
+    "321",
+    "322",
+    "323",
+    "324",
+    "325",
+    "326",
+    "328",
+    "330",
+    "331",
+    "334",
+    "336",
+    "337",
+    "339",
+    "340",
+    "341",
+    "344",
+    "345",
+    "346",
+    "347",
+    "348",
+    "349",
+    "350",
+    "352",
+    "353",
+    "354",
+    "355",
+    "357",
+    "358",
+    "360",
+    "361",
+    "362",
+    "363",
+    "365",
+    "366",
+    "367",
+    "368",
+    "369",
+    "370",
+    "371",
+    "372",
+    "373",
+    "374",
+    "375",
+    "376",
+    "377",
+    "379",
+    "380",
+    "381",
+    "382",
+    "383",
+    "385",
+    "386",
+    "387",
+    "388",
+    "389",
+    "390",
+    "392",
+    "393",
+    "394",
+    "395",
+    "396",
+    "397",
+    "399",
+    "401",
+    "402",
+    "403",
+    "404",
+    "405",
+    "406",
+    "407",
+    "408",
+    "410",
+    "411",
+    "412",
+    "413",
+    "416",
+    "417",
+    "418",
+    "419",
+    "421",
+    "422",
+    "424",
+    "425",
+    "426",
+    "427",
+    "428",
+    "429",
+    "431",
+    "433",
+    "434",
+    "435",
+    "436",
+    "437",
+    "438",
+    "439",
+    "440",
+    "441",
+    "442",
+    "443",
+    "444",
+    "445",
+    "447",
+    "448",
+    "449",
+    "450",
+    "452",
+    "453",
+    "454",
+    "455",
+    "456",
+    "457",
+    "458",
+    "459",
+    "460",
+    "462",
+    "463",
+    "465",
+    "466",
+    "467",
+    "468",
+    "469",
+    "470",
+    "471",
+    "472",
+    "475",
+    "476",
+    "477",
+    "478",
+    "479",
+    "481",
+    "482",
+    "483",
+    "484",
+    "485",
+    "486",
+    "487",
+    "488",
+    "489",
+    "491",
+    "492",
+    "493",
+    "494",
+    "495",
+    "496",
+    "497",
+    "498",
+    "500",
+    "501",
+    "502",
+    "504",
+    "505",
+    "506",
+    "508",
+    "509",
+    "510",
+    "511",
+    "512",
+    "513",
+    "514",
+    "515",
+    "516",
+    "517",
+    "518",
+    "520",
+    "521",
+    "522",
+    "523",
+    "524",
+    "525",
+    "526",
+    "527",
+    "528",
+    "529",
+    "530",
+    "531",
+    "532",
+    "533",
+    "534",
+    "535",
+    "536",
+    "537",
+    "538",
+    "539",
+    "540",
+    "541",
+    "542",
+    "543",
+    "544",
+    "545",
+    "546",
+    "547",
+    "548",
+    "549",
+    "551",
+    "552",
+    "554",
+    "555",
+    "556",
+    "558",
+    "559",
+    "560",
+    "561",
+    "562",
+    "564",
+    "565",
+    "567",
+    "568",
+    "570",
+    "571",
+    "572",
+    "573",
+    "574",
+    "575",
+    "576",
+    "578",
+    "579",
+    "580",
+    "581",
+    "582",
+    "583",
+    "584",
+    "585",
+    "586",
+    "587",
+    "588",
+    "589",
+    "590",
+    "591",
+    "592",
+    "593",
+    "594",
+    "595",
+    "596",
+    "597",
+    "598",
+    "599",
+    "600",
+    "601",
+    "602",
+    "603",
+    "604",
+    "605",
+    "606",
+    "607",
+    "608",
+    "609",
+    "610",
+    "611",
+    "612",
+    "613",
+    "614",
+    "615",
+    "616",
+    "617",
+    "618",
+    "619",
+    "620",
+    "621",
+    "622",
+    "623",
+    "624",
+    "625",
+    "626",
+    "627",
+    "628",
+    "629",
+    "631",
+    "632",
+    "633",
+    "634",
+    "637",
+    "638",
+    "639",
+    "640",
+    "641",
+    "643",
+    "644",
+    "645",
+    "646",
+    "647",
+    "648",
+    "650",
+    "652",
+    "653"
+  ]
+}

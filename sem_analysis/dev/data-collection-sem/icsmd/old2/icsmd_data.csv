@@ -1,0 +1,228 @@
+event_id,event_date,activation_date,sat_data_date,publish_data,country_of_activation_location,country_of_activation_hdi,country_of_sat_location,country_of_sat_hdi,country_of_manager_location,country_of_manager_hdi
+552,na,1505775600,1505862000,na,['caribbean'],0.754,"['france', 'us', 'korea', 'russia']",0.89275,['un'],0.732
+553,na,1505689200,1505862000,na,['antillesisl&s'],0.754,['france'],0.903,['france'],0.903
+555,na,1505862000,1505948400,na,['mexico'],0.758,"['us', 'france']",0.912,['un'],0.732
+556,na,1505775600,1506207600,na,['dominicanrepublic'],0.767,"['canada', 'eu']",0.925,[],0
+557,na,1509926400,1510012800,na,['vietnam'],0.703,"['eu', 'canada']",0.925,['un'],0.732
+558,na,1510444800,1510704000,na,['iraq'],0.686,['france'],0.903,['un'],0.732
+559,na,1510531200,1510617600,na,['iran'],0.774,"['france', 'us', 'eu', 'russia']",0.89,['un'],0.732
+560,na,1510704000,1510790400,na,['southkorea'],0.925,['france'],0.903,['korea'],0.925
+561,na,1510876800,1511136000,na,['argentina'],0.842,"['canada', 'germany']",0.9390000000000001,['argentina'],0.842
+562,na,1516060800,1516665600,na,['philippines'],0.699,"['uk', 'us']",0.925,['japan'],0.925
+564,na,1517616000,1517702400,na,['argentina'],0.842,"['france', 'us', 'russia', 'canada', 'germany']",0.9048,['argentina'],0.842
+565,na,1518048000,1518134400,na,['bolivia'],0.692,"['france', 'germany', 'canada', 'eu']",0.9237500000000001,['venezuala'],0.691
+566,na,1518393600,1518480000,na,['tonga'],0.745,"['france', 'us']",0.912,['un'],0.732
+567,na,1518912000,1518998400,na,['iran'],0.774,['korea'],0.925,['russia'],0.822
+568,na,1520467200,1520726400,na,['newcaledonia'],0.903,['france'],0.903,['new caledonia'],0.903
+569,na,1522796400,1522882800,na,['russianfederation'],0.822,"['france', 'germany']",0.9225,['russia'],0.822
+570,na,1525647600,1525820400,na,['somalia'],0.361,"['france', 'canada']",0.9195,['un'],0.732
+571,na,1525647600,1525734000,na,['unitedstatesofamerica'],0.921,"['canada', 'germany', 'us', 'eu', 'korea', 'uk', 'china', 'france', 'india', 'japan']",0.8796000000000002,['us'],0.921
+573,na,1526857200,1527030000,na,['srilanka'],0.782,"['japan', 'eu', 'canada', 'germany']",0.9292499999999999,"['un', 'sri lanka']",0.757
+574,na,1527894000,1528066800,na,['yemen'],0.455,"['france', 'eu']",0.9085000000000001,['un'],0.732
+575,na,1528066800,1530486000,na,['china'],0.768,"['russia', 'us', 'france', 'korea']",0.8927499999999999,['china'],0.768
+576,na,1528153200,1528239600,na,['guatemala'],0.627,"['eu', 'france', 'japan', 'us', 'germany']",0.921,['germany'],0.942
+577,na,1530918000,1531090800,na,['japan'],0.925,"['france', 'germany', 'japan']",0.9233333333333333,['japan'],0.925
+578,na,1532386800,1532473200,na,['laos'],0.607,"['korea', 'germany', 'eu', 'japan', 'canada']",0.9284000000000001,['un'],0.732
+579,na,1532386800,1532473200,na,['greece'],0.887,"['france', 'uk']",0.916,['eu'],0.914
+580,na,1533510000,1533596400,na,['indonesia'],0.705,"['france', 'us', 'japan', 'eu']",0.9157500000000001,['eu'],0.914
+581,na,1534287600,1534374000,na,['venezuela'],0.691,"['us', 'venezuela', 'france', 'korea', 'china', 'brazil', 'japan', 'eu', 'germany']",0.8603333333333333,['venezuala'],0.691
+582,na,1534374000,1534546800,na,['india'],0.633,"['india', 'eu', 'france', 'russia', 'germany', 'canada', 'japan']",0.8678571428571429,['india'],0.633
+583,na,1534374000,1534546800,na,['vietnam'],0.703,"['germany', 'eu']",0.9279999999999999,['sri lanka'],0.782
+586,na,1537225200,1537398000,na,['philippines'],0.699,"['japan', 'france']",0.914,['philippines'],0.699
+587,na,1538175600,1538262000,na,['indonesia'],0.705,"['russia', 'france', 'us', 'eu']",0.89,['eu'],0.914
+588,na,1539126000,1539644400,na,['unitedstates'],0.921,['russia'],0.822,['us'],0.921
+589,na,1539298800,1539385200,na,['ug&a'],0.525,['france'],0.903,['un'],0.732
+590,na,1540422000,1540681200,na,['russianfederation'],0.822,"['france', 'russia', 'korea']",0.8833333333333334,['russia'],0.822
+591,na,1542153600,1542326400,na,['unitedstates'],0.921,"['germany', 'france', 'eu', 'us']",0.9199999999999999,['us'],0.921
+592,na,1543104000,1543190400,na,['iraq'],0.686,"['france', 'eu']",0.9085000000000001,['germany'],0.942
+594,na,1545523200,1545782400,na,['indonesia'],0.705,"['germany', 'eu', 'us', 'france']",0.92,['indonesia'],0.705
+595,na,1547337600,1547424000,na,['brazil'],0.754,"['china', 'brazil', 'eu', 'canada', 'france']",0.8550000000000001,['brazil'],0.754
+596,na,1548374400,1548547200,na,['brazil'],0.754,"['eu', 'us', 'china', 'brazil', 'canada']",0.8586,['poland'],0.876
+597,na,1549584000,1549929600,na,['plurinationalstateofbolivia'],0.692,"['us', 'eu', 'france']",0.9126666666666666,['bolivia'],0.692
+598,na,1552521600,1552780800,na,['mozambique'],0.446,"['eu', 'japan', 'france', 'germany', 'us', 'canada', 'uk']",0.9242857142857144,['brazil'],0.754
+599,na,1552694400,1552867200,na,['zimbabwe'],0.593,['france'],0.903,['france'],0.903
+600,na,1552953600,1553126400,na,['indonesia'],0.705,"['france', 'japan', 'canada']",0.9213333333333334,['eu'],0.914
+601,na,1553990400,1554159600,na,"['iran,islamicrepublicof']",0.774,"['japan', 'france']",0.914,['iran'],0.774
+602,na,1554418800,1554591600,na,['southkorea'],0.925,['france'],0.903,['korea'],0.925
+603,na,1555282800,1555455600,na,['iraq'],0.686,"['eu', 'korea', 'russia', 'canada', 'germany']",0.9077999999999999,['france'],0.903
+604,na,1555628400,1555801200,na,['canada'],0.936,"['germany', 'us', 'france', 'korea', 'japan', 'canada']",0.9253333333333332,['canada'],0.936
+605,na,1556146800,1556233200,na,['southafrica'],0.713,['france'],0.903,['germany'],0.942
+606,na,1556146800,1556406000,na,['mozambique'],0.446,"['eu', 'germany']",0.9279999999999999,['brazil'],0.754
+608,na,1556838000,1556924400,na,['india'],0.633,"['india', 'china', 'brazil', 'france', 'russia', 'germany', 'canada', 'japan', 'eu']",0.844111111111111,['us'],0.921
+609,na,1558047600,1558134000,na,['paraguay'],0.717,"['italy', 'korea', 'eu', 'us', 'china', 'russia', 'france', 'germany', 'canada', 'brazil']",0.8779999999999999,['paraguay'],0.717
+611,na,1561590000,1561676400,na,['russia'],0.822,"['russia', 'germany', 'china', 'brazil', 'france']",0.8378,['russia'],0.822
+612,na,1563318000,1563404400,na,['india'],0.633,"['india', 'eu', 'canada', 'japan', 'germany', 'russia', 'france', 'china', 'korea', 'us']",0.8689,['us'],0.921
+613,na,1563577200,1563663600,na,['peru'],0.762,"['germany', 'france', 'peru']",0.8690000000000001,[],0
+614,na,1563922800,1564354800,na,['russianfederation'],0.822,['eu'],0.914,['russia'],0.822
+615,na,1565823600,1566082800,na,['russianfederation'],0.822,"['canada', 'russia']",0.879,['russia'],0.822
+616,na,1566342000,1566601200,na,"['bolivia,plurinationalstateof']",0.692,['france'],0.903,['honduras'],0.621
+617,na,1566774000,1566860400,na,['sudan'],0.508,"['france', 'eu', 'canada', 'us']",0.9185000000000001,['un'],0.732
+619,na,1567378800,1567465200,na,['bolivia'],0.692,"['france', 'eu']",0.9085000000000001,['france'],0.903
+620,na,1567551600,1567638000,na,['bahamas'],0.812,"['us', 'russia', 'eu', 'korea', 'france']",0.8969999999999999,['us'],0.921
+621,na,1568934000,1569106800,na,['paraguay'],0.717,"['us', 'russia', 'china', 'eu', 'france', 'brazil']",0.8470000000000001,['paraguay'],0.717
+622,na,1569452400,1569798000,na,['pakistan'],0.544,"['france', 'us', 'eu']",0.9126666666666666,['un'],0.732
+623,na,1569798000,1569970800,na,['india'],0.633,"['us', 'france', 'india', 'russia', 'china', 'brazil', 'germany', 'canada', 'eu']",0.8436666666666667,['india'],0.633
+624,na,1569798000,1570143600,na,['indonesia'],0.705,"['us', 'france']",0.912,['un'],0.732
+625,na,1570748400,1570834800,na,['japan'],0.925,"['eu', 'china', 'brazil', 'russia', 'france', 'germany', 'japan']",0.8611428571428571,['japan'],0.925
+626,na,1571180400,1571439600,na,['lebanon&syria'],0.642,['france'],0.903,['un'],0.732
+627,na,1571266800,1571353200,na,['cameroon'],0.576,"['france', 'eu']",0.9085000000000001,['france'],0.903
+628,na,1572480000,1572652800,na,['kenya'],0.575,['eu'],0.914,['un'],0.732
+629,na,1572566400,1573084800,na,['philippines'],0.699,"['us', 'france', 'eu']",0.9126666666666666,['philippines'],0.699
+632,na,1573862400,1574035200,na,['centralafricanrepublic'],0.404,"['germany', 'eu']",0.9279999999999999,['ghana'],0.632
+633,na,1574640000,1574812800,na,['kenya'],0.575,"['france', 'us']",0.912,['ghana'],0.632
+634,na,1575244800,1576108800,na,['philippines'],0.699,['france'],0.903,['uk'],0.929
+636,na,1575936000,1576022400,na,['chile'],0.855,"['eu', 'japan', 'germany', 'canada']",0.9292499999999999,['chile'],0.855
+638,na,1578355200,1578614400,na,['indonesia'],0.705,"['us', 'france', 'canada']",0.92,['eu'],0.914
+639,na,1578873600,1578960000,na,['philippines'],0.699,"['eu', 'us', 'france', 'korea']",0.9157500000000001,['philippines'],0.699
+640,na,1579651200,1579737600,na,['zambia'],0.565,['france'],0.903,['un'],0.732
+641,na,1579651200,1579910400,na,['pakistan'],0.544,['eu'],0.914,['un'],0.732
+642,na,1579737600,1579910400,na,['brazil'],0.754,"['france', 'canada', 'germany', 'eu']",0.92375,['brazil'],0.754
+643,na,1580083200,1580256000,na,['madagascar'],0.501,"['eu', 'us', 'russia', 'germany', 'japan']",0.9048,['france'],0.903
+644,na,1582588800,1582675200,na,"['bolivia,plurinationalstateof']",0.692,"['germany', 'russia', 'france']",0.8889999999999999,['bolivia'],0.692
+646,na,1583452800,1583539200,na,['zambia'],0.565,"['us', 'france', 'eu']",0.9126666666666666,['un'],0.732
+647,na,1585868400,1586214000,na,['vanuatu'],0.607,"['us', 'france', 'russia']",0.882,['un'],0.732
+648,na,1586300400,1586646000,na,['fiji'],0.73,"['france', 'us']",0.912,['un'],0.732
+649,na,1586386800,1586473200,na,['tonga'],0.745,['france'],0.903,['un'],0.732
+650,na,1588028400,1588287600,na,['somalia'],0.361,"['finland', 'us', 'france']",0.9213333333333334,['un'],0.732
+651,na,1588201200,1588374000,na,['guatemala'],0.627,['france'],0.903,['poland'],0.876
+652,na,1589756400,1589842800,na,['bangladesh'],0.661,"['eu', 'us', 'france', 'canada', 'germany', 'japan']",0.9234999999999999,['sri lanka'],0.782
+653,na,1589842800,1590188400,na,['india'],0.633,"['us', 'eu', 'korea', 'france', 'india', 'russia', 'china', 'brazil', 'canada', 'germany']",0.8517999999999999,['india'],0.633
+654,na,1591052400,1591225200,na,['elsalvador'],0.675,"['eu', 'china', 'germany']",0.8746666666666666,['china'],0.768
+655,na,1591225200,1591570800,na,['russianfederation'],0.822,"['france', 'russia']",0.8625,['russia'],0.822
+657,na,1593990000,1594076400,na,['japan'],0.925,"['argentina', 'japan', 'eu']",0.8936666666666667,['japan'],0.925
+658,na,1594162800,1594508400,na,['nepal'],0.602,"['eu', 'germany', 'canada']",0.9306666666666666,['un'],0.732
+659,na,1594594800,1594767600,na,['colombia'],0.752,"['us', 'canada', 'eu', 'germany']",0.92825,['china'],0.768
+660,na,1594594800,1594767600,na,['bangladesh'],0.661,"['us', 'eu', 'germany', 'france']",0.92,['un'],0.732
+661,na,1594767600,1594854000,na,['india'],0.633,"['france', 'eu', 'korea', 'argentina', 'germany', 'india', 'japan', 'canada']",0.8775,['us'],0.921
+662,na,1594854000,1594940400,na,['indonesia'],0.705,"['france', 'us', 'canada', 'germany']",0.9255,['thailand'],0.8
+663,na,1595372400,1595458800,na,['india'],0.633,"['india', 'eu', 'france', 'korea', 'russia', 'us', 'germany', 'canada', 'argentina']",0.8708888888888889,['us'],0.921
+664,na,1596582000,1596754800,na,['lebanon'],0.706,['france'],0.903,['france'],0.903
+665,na,1596841200,1596927600,na,['india'],0.633,"['india', 'france', 'germany', 'canada']",0.8534999999999999,"['us', 'india']",0.777
+666,na,1596841200,1597014000,na,['mauritius'],0.802,"['france', 'us', 'eu', 'japan', 'germany']",0.921,['un'],0.732
+667,na,1597273200,1597446000,na,['sudan'],0.508,"['us', 'eu', 'france', 'china', 'brazil', 'russia']",0.847,['germany'],0.942
+668,na,1597359600,1597618800,na,['republicofsouthkorea'],0.925,"['korea', 'eu', 'france']",0.914,['korea'],0.925
+669,na,1597791600,1597878000,na,['philippines'],0.699,['eu'],0.914,['philippines'],0.699
+670,na,1597791600,1597878000,na,['russianfederation'],0.822,"['canada', 'eu', 'us', 'russia']",0.89825,['russia'],0.822
+671,na,1598310000,1598396400,na,['republicofkorea'],0.925,['eu'],0.914,['korea'],0.925
+672,na,1598223600,1598482800,na,['cameroon'],0.576,"['france', 'us']",0.912,['un'],0.732
+674,na,1599174000,1599433200,na,['japan'],0.925,"['russia', 'china', 'brazil', 'eu', 'germany', 'canada', 'france']",0.8627142857142857,['japan'],0.925
+675,na,1599433200,1599519600,na,['sudan'],0.508,"['us', 'germany', 'eu', 'france']",0.92,['germany'],0.942
+676,na,1600124400,1600902000,na,"['bolivia,plurinationalstate']",0.692,"['eu', 'china', 'brazil']",0.8119999999999999,['bolivia'],0.692
+677,na,1600642800,1600729200,na,['niger'],0.4,"['korea', 'eu', 'us', 'france']",0.91575,['france'],0.903
+678,na,1601247600,1601334000,na,['argentina'],0.842,"['korea', 'china', 'brazil', 'uk', 'algeria', 'eu', 'india', 'us', 'russia', 'france']",0.8314,['argentina'],0.842
+679,na,1602457200,1602543600,na,['togo'],0.539,"['france', 'us', 'eu']",0.9126666666666666,['canada'],0.936
+680,na,1602716400,1602889200,na,['vietnam'],0.703,"['eu', 'france', 'us', 'korea', 'germany', 'canada']",0.9235000000000001,['un'],0.732
+681,na,1603843200,1603929600,na,['vietnam'],0.703,"['eu', 'argentina', 'france']",0.8863333333333333,['un'],0.732
+682,na,1604275200,1604534400,na,['philippines'],0.699,"['france', 'us', 'eu']",0.9126666666666666,['philippines'],0.699
+683,na,1604620800,1604707200,na,['mexico'],0.758,"['eu', 'finland', 'france', 'germany', 'us']",0.924,['mexico'],0.758
+684,na,1604880000,1604966400,na,['panama'],0.805,"['eu', 'korea', 'germany']",0.9269999999999999,['latin america'],0.754
+685,na,1604966400,1605052800,na,['indonesia'],0.705,"['germany', 'spain', 'canada', 'italy', 'uk', 'algeria', 'france', 'venezuela', 'korea', 'finland']",0.8811,[],0
+686,na,1605398400,1605657600,na,['philippines'],0.699,"['france', 'eu', 'canada']",0.9176666666666667,['thailand'],0.8
+687,na,1605571200,1605744000,na,['colombia'],0.752,['france'],0.903,['colombia'],0.752
+688,na,1606176000,1606262400,na,['india'],0.633,"['eu', 'canada', 'argentina', 'korea', 'germany', 'india', 'japan', 'uk', 'france', 'us', 'russia']",0.8810909090909089,['us'],0.921
+689,na,1606780800,1606867200,na,['mexico'],0.758,"['germany', 'france', 'us']",0.922,['mexico'],0.758
+690,na,1606867200,1606953600,na,['srilanka'],0.782,"['germany', 'canada', 'eu']",0.9306666666666668,['sri lanka'],0.782
+691,na,1607990400,1608249600,na,['fiji'],0.73,"['us', 'france', 'canada', 'eu']",0.9185000000000001,['un'],0.732
+694,na,1610409600,1610496000,na,['morocco'],0.683,['france'],0.903,['un'],0.732
+695,na,1610668800,1611014400,na,['indonesia'],0.705,"['korea', 'france', 'japan', 'eu']",0.9167500000000001,['indonesia'],0.705
+696,na,1611273600,1611446400,na,['mozambique'],0.446,"['eu', 'france', 'germany', 'us']",0.9200000000000002,['un'],0.732
+697,na,1611705600,1611878400,na,['eswatini'],0.597,"['us', 'france', 'eu']",0.9126666666666666,['germany'],0.942
+698,na,1612656000,1612828800,na,['india'],0.633,"['india', 'france', 'korea', 'us', 'eu', 'russia']",0.8530000000000001,['india'],0.633
+699,na,1612569600,1612656000,na,['chile'],0.855,"['russia', 'us', 'france']",0.882,['chile'],0.855
+701,na,1617750000,1617836400,na,['timor-leste'],0.607,"['france', 'us', 'eu']",0.9126666666666666,['un'],0.732
+702,na,1617663600,1617836400,na,['indonesia'],0.705,"['france', 'us']",0.912,['indonesia'],0.705
+703,na,1617922800,1618095600,na,['saintvincentandthegrenadines'],0.751,"['us', 'canada', 'eu', 'argentina', 'france', 'germany']",0.9096666666666667,['un'],0.732
+704,na,1618182000,1618786800,na,['russianfederation'],0.822,['russia'],0.822,['russia'],0.822
+705,na,1618354800,1619132400,na,['russianfederation'],0.822,['russia'],0.822,['russia'],0.822
+706,na,1619996400,1620687600,na,['somalia'],0.361,"['france', 'korea', 'germany', 'canada', 'us']",0.9254,['un'],0.732
+707,na,1620342000,1621206000,na,['russianfederation'],0.822,['russia'],0.822,['russia'],0.822
+708,na,1620774000,1621465200,na,['russianfederation'],0.822,['russia'],0.822,['russia'],0.822
+709,na,1621119600,1621206000,na,['india'],0.633,"['france', 'canada']",0.9195,['us'],0.921
+710,na,1621551600,1622070000,na,['russianfederation'],0.822,['russia'],0.822,['russia'],0.822
+712,na,1621638000,1621724400,na,['china'],0.768,"['france', 'germany']",0.9225,['china'],0.768
+713,na,1621724400,1621810800,na,['thedemocraticrepublicofthecongo'],0.479,"['eu', 'japan', 'italy', 'france', 'argentina', 'us', 'germany']",0.906,['un'],0.732
+714,na,1621897200,1621983600,na,['india'],0.633,"['eu', 'france', 'argentina', 'canada', 'russia', 'germany']",0.8931666666666667,['us'],0.921
+715,na,1622761200,1622847600,na,['srilanka'],0.782,"['us', 'china', 'brazil', 'canada', 'france', 'eu', 'argentina', 'finland']",0.87225,"['un', 'sri lanka']",0.757
+716,na,1622847600,1623020400,na,['srilanka'],0.782,"['japan', 'germany']",0.9335,['un'],0.732
+717,na,1623020400,1623106800,na,['guyana'],0.714,"['us', 'eu', 'canada', 'germany']",0.92825,['un'],0.732
+718,na,1624230000,1624402800,na,['russianfederation'],0.822,['russia'],0.822,['russia'],0.822
+719,na,1625526000,1625612400,na,['thail&'],0.8,['france'],0.903,['un'],0.732
+720,na,1626303600,1626390000,na,['switzerl&'],0.962,['canada'],0.936,['switzerland'],0.962
+721,na,1626303600,1626390000,na,['luxembourg'],0.93,"['france', 'germany', 'eu']",0.9196666666666666,['un'],0.732
+723,na,1627254000,1627340400,na,['india'],0.633,"['france', 'korea', 'eu', 'argentina', 'germany', 'india', 'canada']",0.8707142857142857,['india'],0.633
+724,na,1627426800,1627513200,na,['tunisia'],0.731,"['us', 'france']",0.912,['un'],0.732
+725,na,1628031600,1628982000,na,['russianfederation'],0.822,"['russia', 'eu', 'germany']",0.8926666666666666,['russia'],0.822
+727,na,1628895600,1628982000,na,['japan'],0.925,"['eu', 'germany']",0.9279999999999999,['japan'],0.925
+729,na,1628895600,1628982000,na,['haiti'],0.535,"['france', 'russia', 'us']",0.882,['france'],0.903
+730,na,1629154800,1629241200,na,['haiti'],0.535,"['eu', 'canada', 'us', 'france']",0.9185,['france'],0.903
+731,na,1630882800,1631142000,na,['togo'],0.539,"['eu', 'germany', 'canada']",0.9306666666666666,['france'],0.903
+732,na,1631142000,1631228400,na,['sudan'],0.508,"['russia', 'eu', 'france']",0.8796666666666667,['un'],0.732
+733,na,1631746800,1632092400,na,['china'],0.768,['france'],0.903,['china'],0.768
+734,na,1632783600,1632870000,na,['thail&'],0.8,"['france', 'eu', 'china', 'russia', 'us']",0.8656,['un'],0.732
+737,na,1636675200,1636848000,na,['srilanka'],0.782,"['us', 'eu', 'japan', 'germany', 'canada']",0.9276,['japan'],0.925
+738,na,1637712000,1638403200,na,['philippines'],0.699,"['us', 'eu', 'france']",0.9126666666666666,['philippines'],0.699
+739,na,1638835200,1638921600,na,['indonesia'],0.705,"['france', 'eu']",0.9085000000000001,['thailand'],0.8
+740,na,1638921600,1639094400,na,"['micronesia,federatedstatesof']",0.628,"['us', 'eu', 'france']",0.9126666666666666,['us'],0.921
+741,na,1639612800,1639699200,na,['philippines'],0.699,"['france', 'us', 'eu']",0.9126666666666666,['un'],0.732
+742,na,1640822400,1640908800,na,['brazil'],0.754,"['france', 'china', 'brazil', 'us']",0.8365,['brazil'],0.754
+743,na,1641513600,1643500800,na,['ecuador'],0.74,['eu'],0.914,['ecuador'],0.74
+744,na,1642204800,1642291200,na,['tonga'],0.745,"['us', 'eu', 'france', 'korea', 'russia', 'china']",0.8755000000000001,['un'],0.732
+745,na,1642636800,1642896000,na,['peru'],0.762,"['france', 'peru', 'us', 'eu', 'canada', 'korea']",0.8935000000000001,[],0
+746,na,1642636800,1642896000,na,['saotomeandprincipe'],0.618,"['france', 'eu']",0.9085000000000001,['un'],0.732
+747,na,1642982400,1643068800,na,['madagascar'],0.501,"['france', 'us', 'eu', 'canada', 'argentina']",0.9032,['france'],0.903
+748,na,1643068800,1643155200,na,['mozambique'],0.446,"['eu', 'us', 'china', 'brazil', 'venezuela', 'germany', 'france', 'canada']",0.8536250000000001,['brazil'],0.754
+749,na,1643587200,1643846400,na,['ecuador'],0.74,"['eu', 'canada']",0.925,['ecuador'],0.74
+750,na,1643932800,1644192000,na,['madagascar'],0.501,"['eu', 'france', 'germany', 'canada']",0.9237500000000001,['un'],0.732
+751,na,1644969600,1645056000,na,['brazil'],0.754,"['france', 'china', 'brazil']",0.8083333333333332,[],0
+752,na,1645747200,1645833600,na,['madagascar'],0.501,"['us', 'india', 'eu', 'france', 'canada', 'germany']",0.8748333333333335,['un'],0.732
+753,na,1647129600,1647302400,na,['mozambique'],0.446,"['germany', 'eu', 'canada']",0.9306666666666666,['un'],0.732
+754,na,1649113200,1649286000,na,['brazil'],0.754,"['china', 'brazil', 'france', 'us']",0.8365,[],0
+755,na,1649804400,1649890800,na,['southafrica'],0.713,"['france', 'us', 'korea']",0.9163333333333333,['south africa'],0.713
+756,na,1649804400,1649890800,na,['philippines'],0.699,"['france', 'eu', 'canada', 'germany', 'us', 'korea']",0.9235000000000001,['un'],0.732
+757,na,1653346800,1653692400,na,['southafrica'],0.713,"['eu', 'us', 'france', 'korea']",0.9157500000000001,['south africa'],0.713
+758,na,1653865200,1654038000,na,['brazil'],0.754,['france'],0.903,[],0
+759,na,1654297200,1654642800,na,['gambia'],0.5,"['france', 'eu']",0.9085000000000001,['un'],0.732
+760,na,1654470000,1654642800,na,['afghanistan'],0.478,"['france', 'eu']",0.9085000000000001,['un'],0.732
+761,na,1655074800,1655161200,na,['philippines'],0.699,"['france', 'eu', 'us', 'korea']",0.9157500000000001,['philippines'],0.699
+762,na,1655420400,1655506800,na,['bangladesh'],0.661,"['eu', 'france', 'canada']",0.9176666666666667,['un'],0.732
+763,na,1655852400,1656025200,na,['afghanistan'],0.478,"['us', 'china']",0.8445,['un'],0.732
+764,na,1657753200,1657926000,na,['india'],0.633,"['france', 'eu', 'korea', 'us', 'canada']",0.9198000000000001,['us'],0.921
+765,na,1658876400,1659049200,na,['philippines'],0.699,"['eu', 'france']",0.9085000000000001,['philippines'],0.699
+766,na,1658876400,1658962800,na,['tunisia'],0.731,"['france', 'us', 'korea', 'eu']",0.9157500000000001,['france'],0.903
+767,na,1659913200,1660172400,na,['russianfederation'],0.822,"['france', 'russia']",0.8625,['russia'],0.822
+768,na,1659999600,1660086000,na,['gambia'],0.5,"['eu', 'us', 'france', 'russia']",0.89,[],0
+769,na,1661036400,1661122800,na,['sudan'],0.508,"['france', 'us', 'canada', 'venezuela', 'eu', 'germany']",0.8845000000000001,['un'],0.732
+770,na,1661209200,1661814000,na,['russianfederation'],0.822,['us'],0.921,['russia'],0.822
+771,na,1661209200,1661641200,na,['philippines'],0.699,['germany'],0.942,['un'],0.732
+772,na,1661814000,1661900400,na,['pakistan'],0.544,"['us', 'eu', 'france', 'china']",0.8765000000000001,['un'],0.732
+773,na,1662073200,1662332400,na,['republicofkorea'],0.925,"['argentina', 'eu', 'canada']",0.8973333333333334,['korea'],0.925
+776,na,1662937200,1663023600,na,['southafrica'],0.713,"['eu', 'france']",0.9085000000000001,['south africa'],0.713
+777,na,1663196400,1663542000,na,['nigeria'],0.535,"['canada', 'eu', 'korea', 'us', 'france']",0.9198000000000001,['nigeria'],0.535
+778,na,1663542000,1663628400,na,['honduras'],0.621,"['eu', 'france', 'korea']",0.914,[],0
+780,na,1663628400,1663801200,na,['dominicanrepublic'],0.767,['eu'],0.914,['us'],0.921
+781,na,1663887600,1664492400,na,['canada'],0.936,['france'],0.903,['canada'],0.936
+782,na,1664060400,1664146800,na,['philippines'],0.699,"['eu', 'canada']",0.925,[],0
+783,na,1664319600,1664492400,na,['laos'],0.607,"['eu', 'france']",0.9085000000000001,[],0
+784,na,1664665200,1664751600,na,['thail&'],0.8,"['us', 'eu', 'korea', 'russia', 'france', 'finland', 'canada']",0.9087142857142856,['un'],0.732
+785,na,1665356400,1665442800,na,"['venezuela,bolivarianrepublicof']",0.691,"['france', 'germany', 'venezuela', 'eu']",0.8625,['venezuela'],0.691
+786,na,1665529200,1665615600,na,['honduras'],0.621,"['eu', 'argentina', 'korea', 'canada', 'france']",0.9039999999999999,[],0
+787,na,1666134000,1666220400,na,['thail&'],0.8,"['germany', 'eu', 'us', 'japan']",0.9255,['thailand'],0.8
+788,na,1666220400,1666306800,na,['chad'],0.394,"['us', 'eu', 'russia', 'france']",0.89,['un'],0.732
+789,na,1666998000,1667084400,na,['philippines'],0.699,"['france', 'eu', 'russia', 'canada', 'germany', 'us']",0.9063333333333334,['thailand'],0.8
+790,na,1668729600,1668902400,na,['unitedkingdom'],0.929,['canada'],0.936,[],0
+791,na,1669075200,1669161600,na,['indonesia'],0.705,"['france', 'eu']",0.9085000000000001,['un'],0.732
+792,na,1670198400,1670716800,na,['indonesia'],0.705,"['us', 'venezuela', 'france', 'eu', 'germany']",0.8742000000000001,['thailand'],0.8
+793,na,1671494400,1671580800,na,['mauritius'],0.802,"['germany', 'us', 'korea', 'france', 'canada']",0.9254000000000001,['un'],0.732
+794,na,1673827200,1675382400,na,['colombia'],0.752,['france'],0.903,[],0
+795,na,1674518400,1674777600,na,['madagascar'],0.501,"['france', 'eu', 'canada', 'us', 'argentina', 'germany']",0.9096666666666667,['france'],0.903
+796,na,1675036800,1675123200,na,['zambia'],0.565,"['us', 'eu', 'canada']",0.9236666666666666,[],0
+797,na,1675641600,1675728000,na,['turkey'],0.838,"['france', 'us', 'china', 'korea', 'eu', 'brazil', 'canada']",0.8744285714285714,[],0
+798,na,1675641600,1675728000,na,['syrianarabrepublic'],0.577,"['us', 'france', 'china', 'eu', 'korea']",0.8862,['un'],0.732
+801,na,1676505600,1676678400,na,['mozambique'],0.446,"['us', 'eu', 'canada', 'germany']",0.92825,[],0
+803,na,1676851200,1677024000,na,['brazil'],0.754,"['japan', 'france', 'us', 'eu']",0.9157500000000001,[],0
+804,na,1676937600,1677110400,na,['madagascar'],0.501,"['france', 'eu', 'germany']",0.9196666666666667,[],0
+805,na,1677196800,1677369600,na,['mozambique'],0.446,"['eu', 'canada', 'us', 'france', 'china', 'germany']",0.8973333333333334,['un'],0.732
+806,na,1677456000,1678060800,na,['solomonisl&s'],0.564,"['france', 'eu']",0.9085000000000001,['china'],0.768
+807,na,1677715200,1677801600,na,['philippines'],0.699,"['canada', 'eu', 'germany', 'us', 'finland', 'china']",0.9035000000000001,['jamaica'],0.709
+808,na,1677801600,1677888000,na,['vanuatu'],0.607,"['france', 'us']",0.912,['un'],0.732
+809,na,1678147200,1678924800,na,['indonesia'],0.705,"['france', 'us']",0.912,[],0
