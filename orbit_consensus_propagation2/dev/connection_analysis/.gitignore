@@ -1,0 +1,11 @@
+*.png
+*.svg
+*.exe
+
+*.so
+*.h
+
+data
+active.txt
+venv
+ref

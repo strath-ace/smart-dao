@@ -1,0 +1,24 @@
+Cannot find 
+MERSI
+BEIJING-2
+Only found ZHUHAI-1 OHS-02 for OHS-2A,2B,2C,2D
+No OVS-1A,1B
+in active.txt from CNSA so not included
+
+ESA missing:
+Sentinel-1B as satellite is no longer active
+
+EUMETSAT missing:
+Metop-A
+Meteosat-8, but now has meteosat-12?
+
+Planet missing:
+PlanetScope
+
+ROSCOSMOS missing:
+Meteor-M 1
+Resurs P3, but has Resurs P2?
+
+UK Space Agency missing:
+Vision-1
+

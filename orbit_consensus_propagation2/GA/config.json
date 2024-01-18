@@ -1,0 +1,14 @@
+{
+    "MAX_GENE": [81],
+    "RANDOMNESS": [0.5],
+    "POP_SIZE": [300],
+    "ITERATIONS": [75],
+    "PAR_RATIO": [0.4],
+    "ELITISM": [0.1],
+    "GENE_LENGTHS": [16,17,18,19,20],
+    "ITERITER": [3],
+    "STEP_SIZE": [60],
+    "DIS": [500],
+    "LAG_TIME": [0],
+    "NUM_ITERATIONS": [14400]
+}

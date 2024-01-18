@@ -1,0 +1,13 @@
+data
+data_all
+data_icsmd
+venv
+
+sorted_sats.json
+
+*.exe
+GA_monte_carlo
+
+__pycache__
+
+*.pngs

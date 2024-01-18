@@ -1,0 +1,10 @@
+*.png
+*.svg
+*.exe
+
+*.so
+*.h
+
+venv
+
+DATA
