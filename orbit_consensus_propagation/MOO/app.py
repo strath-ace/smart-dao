@@ -1,3 +1,7 @@
+# ---------- Copyright (C) 2024 University of Strathclyde and Author ---------
+# ------------------------- Author: Robert Cowlishaw -------------------------
+# -------------- e-mail: robert.cowlishaw.2017@uni.strath.ac.uk --------------
+
 from pymoo.optimize import minimize
 from pymoo.problems.functional import FunctionalProblem
 from pymoo.operators.mutation.bitflip import BitflipMutation
