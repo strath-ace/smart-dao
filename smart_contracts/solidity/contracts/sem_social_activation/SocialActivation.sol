@@ -1,4 +1,7 @@
-// SPDX-License-Identifier: UNLICENSED
+// ---------- Copyright (C) 2024 University of Strathclyde and Author ---------
+// ------------------------- Author: Robert Cowlishaw -------------------------
+// -------------- e-mail: robert.cowlishaw.2017@uni.strath.ac.uk --------------
+
 pragma solidity ^0.8.9;
 
 // console.log command
