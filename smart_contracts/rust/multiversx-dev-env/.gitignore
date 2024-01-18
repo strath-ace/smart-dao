@@ -1,0 +1,29 @@
+mxpy
+erdpy-activate
+mxpy-venv
+mxpy.json
+
+# Testnet Files
+testnet.toml
+testnet
+golang*
+mx_chain_go*
+mx_chain_proxy_go*
+testwallets*
+
+# Template Files
+default_cargo_target/
+mx-sdk-rs.zip
+rustup.sh
+sc-examples.zip
+templates
+vendor-rust
+
+# Ignore all apps except templates
+apps/*
+!apps/contract-sdk
+!apps/contract-template
+!apps/README.md
+!apps/get_transaction.sh
+!apps/transaction-test
+

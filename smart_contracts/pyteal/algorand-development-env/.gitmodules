@@ -1,0 +1,6 @@
+[submodule "sandbox"]
+	path = sandbox
+	url = https://github.com/algorand/sandbox
+[submodule "apps/spacedao-app-drm"]
+	path = apps/spacedao-app-drm
+	url = https://gitlab.com/parametry-ai/space-dao/spacedao-app-drm

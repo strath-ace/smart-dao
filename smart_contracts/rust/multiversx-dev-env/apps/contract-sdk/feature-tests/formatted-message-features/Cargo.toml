@@ -1,0 +1,17 @@
+[package]
+name = "formatted-message-features"
+version = "0.0.0"
+authors = [ "you",]
+edition = "2021"
+publish = false
+
+[lib]
+path = "src/formatted_message_features.rs"
+
+[dependencies.multiversx-sc]
+version = "0.39.0"
+path = "../../../framework/base"
+
+[dev-dependencies.multiversx-sc-scenario]
+version = "0.39.0"
+path = "../../../framework/scenario"

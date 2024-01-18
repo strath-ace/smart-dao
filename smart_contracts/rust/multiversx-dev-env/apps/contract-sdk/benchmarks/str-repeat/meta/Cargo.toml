@@ -1,0 +1,12 @@
+[package]
+name = "str-repeat-meta"
+version = "0.0.0"
+edition = "2021"
+publish = false
+
+[dependencies.str-repeat]
+path = ".."
+
+[dependencies.multiversx-sc-meta]
+version = "0.39.0"
+path = "../../../../framework/meta"

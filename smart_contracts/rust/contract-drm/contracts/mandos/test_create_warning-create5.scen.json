@@ -1,0 +1,216 @@
+{
+    "name": "Run method create_warning",
+    "steps": [
+        {
+            "step": "externalSteps",
+            "path": "test_deploy_contract.scen.json"
+        },
+
+
+
+        {
+            "step": "scCall",
+            "txId": "create-warning-1",
+            "tx": {
+                "from": "address:owner",
+                "to": "sc:drm_contract",
+                "egldValue": "0",
+                "function": "create_warning",
+                "arguments": ["2", "7", "7"],
+                "gasLimit": "100,000,000",
+                "gasPrice": "0"
+            },
+            "expect": {
+                "out": [],
+                "status": "",
+                "message": "",
+                "gas": "*",
+                "refund": "*"
+            }
+        },
+        {
+            "step": "checkState",
+            "accounts": {
+                "address:owner": {
+                    "nonce": "2",
+                    "balance": "100,000,000"
+                },
+                "sc:drm_contract": {
+                    "nonce": "0",
+                    "balance": "0",
+                    "storage": {
+                        "str:warningNumber": "0x01",
+                        "+": ""
+                    },
+                    "code": "file:../output/contracts.wasm"
+                }
+            }
+        },
+
+
+
+        {
+            "step": "scCall",
+            "txId": "create-warning-2",
+            "tx": {
+                "from": "address:owner",
+                "to": "sc:drm_contract",
+                "egldValue": "0",
+                "function": "create_warning",
+                "arguments": ["4", "162000", "194000"],
+                "gasLimit": "100,000,000",
+                "gasPrice": "0"
+            },
+            "expect": {
+                "out": [],
+                "status": "",
+                "message": "",
+                "gas": "*",
+                "refund": "*"
+            }
+        },
+        {
+            "step": "checkState",
+            "accounts": {
+                "address:owner": {
+                    "nonce": "3",
+                    "balance": "100,000,000"
+                },
+                "sc:drm_contract": {
+                    "nonce": "0",
+                    "balance": "0",
+                    "storage": {
+                        "str:warningNumber": "0x02",
+                        "+": ""
+                    },
+                    "code": "file:../output/contracts.wasm"
+                }
+            }
+        },
+
+
+
+        {
+            "step": "scCall",
+            "txId": "create-warning-3",
+            "tx": {
+                "from": "address:owner",
+                "to": "sc:drm_contract",
+                "egldValue": "0",
+                "function": "create_warning",
+                "arguments": ["0", "127000", "42000"],
+                "gasLimit": "100,000,000",
+                "gasPrice": "0"
+            },
+            "expect": {
+                "out": [],
+                "status": "",
+                "message": "",
+                "gas": "*",
+                "refund": "*"
+            }
+        },
+        {
+            "step": "checkState",
+            "accounts": {
+                "address:owner": {
+                    "nonce": "4",
+                    "balance": "100,000,000"
+                },
+                "sc:drm_contract": {
+                    "nonce": "0",
+                    "balance": "0",
+                    "storage": {
+                        "str:warningNumber": "0x03",
+                        "+": ""
+                    },
+                    "code": "file:../output/contracts.wasm"
+                }
+            }
+        },
+
+
+
+        {
+            "step": "scCall",
+            "txId": "create-warning-4",
+            "tx": {
+                "from": "address:owner",
+                "to": "sc:drm_contract",
+                "egldValue": "0",
+                "function": "create_warning",
+                "arguments": ["1", "12000", "42000"],
+                "gasLimit": "100,000,000",
+                "gasPrice": "0"
+            },
+            "expect": {
+                "out": [],
+                "status": "",
+                "message": "",
+                "gas": "*",
+                "refund": "*"
+            }
+        },
+        {
+            "step": "checkState",
+            "accounts": {
+                "address:owner": {
+                    "nonce": "5",
+                    "balance": "100,000,000"
+                },
+                "sc:drm_contract": {
+                    "nonce": "0",
+                    "balance": "0",
+                    "storage": {
+                        "str:warningNumber": "0x04",
+                        "+": ""
+                    },
+                    "code": "file:../output/contracts.wasm"
+                }
+            }
+        },
+
+
+
+        {
+            "step": "scCall",
+            "txId": "create-warning-5",
+            "tx": {
+                "from": "address:owner",
+                "to": "sc:drm_contract",
+                "egldValue": "0",
+                "function": "create_warning",
+                "arguments": ["2", "7000", "7000"],
+                "gasLimit": "100,000,000",
+                "gasPrice": "0"
+            },
+            "expect": {
+                "out": [],
+                "status": "",
+                "message": "",
+                "gas": "*",
+                "refund": "*"
+            }
+        },
+        {
+            "step": "checkState",
+            "accounts": {
+                "address:owner": {
+                    "nonce": "6",
+                    "balance": "100,000,000"
+                },
+                "sc:drm_contract": {
+                    "nonce": "0",
+                    "balance": "0",
+                    "storage": {
+                        "str:warningNumber": "0x05",
+                        "+": ""
+                    },
+                    "code": "file:../output/contracts.wasm"
+                }
+            }
+        }
+        
+        
+    ]
+}

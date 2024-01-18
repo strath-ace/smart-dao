@@ -1,0 +1,14 @@
+[package]
+name = "contracts-meta"
+version = "0.0.1"
+edition = "2021"
+publish = false
+authors = [ "Robert Cowlishaw",]
+
+[dev-dependencies]
+
+[dependencies.contracts]
+path = ".."
+
+[dependencies.multiversx-sc-meta]
+version = "0.39.0"

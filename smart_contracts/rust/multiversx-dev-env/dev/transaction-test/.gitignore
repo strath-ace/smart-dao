@@ -1,0 +1,5 @@
+# Lock Files
+*.lock
+
+# Key files
+*.pem

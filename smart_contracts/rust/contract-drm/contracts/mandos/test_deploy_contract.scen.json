@@ -1,0 +1,57 @@
+{
+    "name": "Deploy Contract Test",
+    "steps": [
+        {
+            "step": "setState",
+            "accounts": {
+                "address:owner": {
+                    "nonce": "0",
+                    "balance": "100,000,000"
+                }
+            },
+            "newAddresses": [
+                {
+                    "creatorAddress": "address:owner",
+                    "creatorNonce": "0",
+                    "newAddress": "sc:drm_contract"
+                }
+            ]
+        },
+        {
+            "step": "scDeploy",
+            "id": "deploy",
+            "tx": {
+                "from": "address:owner",
+                "contractCode": "file:../output/contracts.wasm",
+                "arguments": [""],
+                "gasLimit": "5,000,000",
+                "gasPrice": "0"
+            },
+            "expect": {
+                "out": [],
+                "status": "",
+                "logs": [],
+                "gas": "*",
+                "refund": "*"
+            }
+        },
+        {
+            "step": "checkState",
+            "accounts": {
+              "address:owner": {
+                "nonce": "1",
+                "balance": "100,000,000",
+                "storage": {}
+              },
+              "sc:drm_contract": {
+                "nonce": "0",
+                "balance": "0",
+                "storage": {
+                    "str:warningNumber": "0"
+                },
+                "code": "file:../output/contracts.wasm"
+              }
+            }
+          }
+    ]
+}

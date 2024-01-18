@@ -1,0 +1,51 @@
+{
+    "name": "Run method create_warning",
+    "steps": [
+        {
+            "step": "externalSteps",
+            "path": "test_create_warning-create5.scen.json"
+        },
+
+
+
+        {
+            "step": "scCall",
+            "txId": "get-first-active-warning",
+            "tx": {
+                "from": "address:owner",
+                "to": "sc:drm_contract",
+                "egldValue": "0",
+                "function": "getFirstActiveWarning",
+                "arguments": [],
+                "gasLimit": "100,000,000",
+                "gasPrice": "0"
+            },
+            "expect": {
+                "out": ["0x01"],
+                "status": "",
+                "message": "",
+                "gas": "*",
+                "refund": "*"
+            }
+        },
+        {
+            "step": "checkState",
+            "accounts": {
+                "address:owner": {
+                    "nonce": "7",
+                    "balance": "100,000,000"
+                },
+                "sc:drm_contract": {
+                    "nonce": "0",
+                    "balance": "0",
+                    "storage": {
+                        "str:warningNumber": "0x05",
+                        "+": ""
+                    },
+                    "code": "file:../output/contracts.wasm"
+                }
+            }
+        }        
+        
+    ]
+}

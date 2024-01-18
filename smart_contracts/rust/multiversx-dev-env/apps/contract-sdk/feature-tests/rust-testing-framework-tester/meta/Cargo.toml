@@ -1,0 +1,12 @@
+[package]
+name = "rust-testing-framework-tester-meta"
+version = "0.0.0"
+edition = "2021"
+publish = false
+
+[dependencies.rust-testing-framework-tester]
+path = ".."
+
+[dependencies.multiversx-sc-meta]
+version = "0.39.0"
+path = "../../../../framework/meta"

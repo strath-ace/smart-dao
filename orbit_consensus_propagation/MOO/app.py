@@ -28,7 +28,7 @@ from commons import *
 
 ##### PROBLEM PARAMS #####
 # Number of satellites to include
-n_var = 20
+n_var = 82
 # Max number of satellites in subset (Must be less than n_var)
 max_sat = 20
 
@@ -40,7 +40,7 @@ num_gens = 400
 # Probability of Crossover (0 - 1)
 cross_prob = 0.1
 # Probability of random mutation (0 - 1)
-mut_prob = 0.05
+mut_prob = 0.1
 
 ######################### BUILD/FIND DIRECTORIES FOR DATA #########################
 

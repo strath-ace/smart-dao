@@ -1,0 +1,12 @@
+[package]
+name = "local-esdt-and-nft-meta"
+version = "0.0.0"
+edition = "2021"
+publish = false
+
+[dependencies.local-esdt-and-nft]
+path = ".."
+
+[dependencies.multiversx-sc-meta]
+version = "0.39.0"
+path = "../../../../../framework/meta"

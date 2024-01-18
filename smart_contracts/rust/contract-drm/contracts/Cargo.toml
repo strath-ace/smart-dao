@@ -1,0 +1,18 @@
+[package]
+name = "contracts"
+version = "0.0.1"
+authors = [ "Robert Cowlishaw",]
+edition = "2021"
+publish = false
+
+[lib]
+path = "src/drm_main.rs"
+
+[dev-dependencies]
+num-bigint = "0.4.2"
+
+[dependencies.multiversx-sc]
+version = "0.39.0"
+
+[dev-dependencies.multiversx-sc-scenario]
+version = "0.39.0"

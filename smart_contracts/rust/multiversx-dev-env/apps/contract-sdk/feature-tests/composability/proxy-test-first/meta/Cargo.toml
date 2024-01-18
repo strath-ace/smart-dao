@@ -1,0 +1,12 @@
+[package]
+name = "proxy-test-first-meta"
+version = "0.0.0"
+edition = "2021"
+publish = false
+
+[dependencies.proxy-test-first]
+path = ".."
+
+[dependencies.multiversx-sc-meta]
+version = "0.39.0"
+path = "../../../../../framework/meta"

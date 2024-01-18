@@ -1,0 +1,24 @@
+[package]
+name = "basic-features"
+version = "0.0.0"
+authors = ["Andrei Marinica <andrei.marinica@multiversx.com>"]
+edition = "2021"
+publish = false
+
+[lib]
+path = "src/basic_features_main.rs"
+
+[dependencies.multiversx-sc]
+version = "0.39.0"
+path = "../../../framework/base"
+
+[dev-dependencies.multiversx-sc-scenario]
+version = "0.39.0"
+path = "../../../framework/scenario"
+
+[dependencies.multiversx-sc-modules]
+version = "0.39.0"
+path = "../../../contracts/modules"
+
+[dev-dependencies.esdt-system-sc-mock]
+path = "../esdt-system-sc-mock"

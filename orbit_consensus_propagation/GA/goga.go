@@ -16,6 +16,9 @@ import (
 	"github.com/schollz/progressbar/v3"
 )
 
+const START_TIME = 1705065424
+const DATA_LOCATION = "../DATA/data_icsmd_1day_1sec"
+const BIG_DATA = DATA_LOCATION+"/close_times"
 
 func get_config() map[string][]float64 {
 	jsonFile, err := os.Open("config.json")
@@ -88,9 +91,7 @@ func mate(genes1, genes2 []int, MAX_GENE int, RANDOMNESS float64) (child_genes [
 	return child_genes
 }
 
-const START_TIME = 1705065319
-const DATA_LOCATION = "../data_icsmd_100day"
-const BIG_DATA = DATA_LOCATION+"/close_times"
+
 
 func main() {
 	fmt.Println("-------------------")

@@ -1,0 +1,3 @@
+[submodule "mx-chain-es-indexer-go"]
+	path = mx-chain-es-indexer-go
+	url = https://github.com/multiversx/mx-chain-es-indexer-go

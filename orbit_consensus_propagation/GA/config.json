@@ -5,7 +5,7 @@
     "ITERATIONS": [75],
     "PAR_RATIO": [0.4],
     "ELITISM": [0.1],
-    "GENE_LENGTHS": [16,17,18,19,20],
+    "GENE_LENGTHS": [4,5,6],
     "ITERITER": [3],
     "STEP_SIZE": [60],
     "DIS": [500],
