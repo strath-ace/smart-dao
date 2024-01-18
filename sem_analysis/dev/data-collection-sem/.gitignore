@@ -1,0 +1,7 @@
+*.html
+*.png
+*.jpg
+
+*.pdf
+
+__pycache__
