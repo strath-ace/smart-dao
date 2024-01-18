@@ -1,0 +1,40 @@
+[
+  {
+    "name": "collapsed",
+    "color": "rgba(0, 204, 20, .5)",
+    "data": [
+      {
+        "x": -8,
+        "y": 1,
+        "label": "collapsed: 1 tweet before -8 minutes"
+      }
+    ]
+  },
+  {
+    "name": "killed",
+    "color": "rgba(9, 74, 185, .5)",
+    "data": [
+      {
+        "x": 19,
+        "y": 1,
+        "label": "killed: 1 tweet after 19 minutes"
+      }
+    ]
+  },
+  {
+    "name": "nuclear",
+    "color": "rgba(185, 44, 9, .5)",
+    "data": [
+      {
+        "x": 63,
+        "y": 1,
+        "label": "nuclear: 1 tweet after 63 minutes"
+      },
+      {
+        "x": 180,
+        "y": 1,
+        "label": "nuclear: 1 tweet after 180 minutes"
+      }
+    ]
+  }
+]

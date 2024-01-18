@@ -1,0 +1,311 @@
+[
+  {
+    "name": "killed",
+    "color": "rgba(0, 204, 20, .5)",
+    "data": [
+      {
+        "x": 177,
+        "y": 1,
+        "label": "killed: 1 tweet after 177 minutes"
+      },
+      {
+        "x": 211,
+        "y": 1,
+        "label": "killed: 1 tweet after 211 minutes"
+      },
+      {
+        "x": 125,
+        "y": 1,
+        "label": "killed: 1 tweet after 125 minutes"
+      },
+      {
+        "x": -10,
+        "y": 1,
+        "label": "killed: 1 tweet before -10 minutes"
+      },
+      {
+        "x": 179,
+        "y": 1,
+        "label": "killed: 1 tweet after 179 minutes"
+      },
+      {
+        "x": 88,
+        "y": 1,
+        "label": "killed: 1 tweet after 88 minutes"
+      },
+      {
+        "x": 163,
+        "y": 1,
+        "label": "killed: 1 tweet after 163 minutes"
+      },
+      {
+        "x": 164,
+        "y": 1,
+        "label": "killed: 1 tweet after 164 minutes"
+      },
+      {
+        "x": 29,
+        "y": 1,
+        "label": "killed: 1 tweet after 29 minutes"
+      },
+      {
+        "x": 228,
+        "y": 1,
+        "label": "killed: 1 tweet after 228 minutes"
+      },
+      {
+        "x": 50,
+        "y": 1,
+        "label": "killed: 1 tweet after 50 minutes"
+      },
+      {
+        "x": 199,
+        "y": 1,
+        "label": "killed: 1 tweet after 199 minutes"
+      },
+      {
+        "x": 32,
+        "y": 2,
+        "label": "killed: 2 tweet after 32 minutes"
+      },
+      {
+        "x": 52,
+        "y": 2,
+        "label": "killed: 2 tweet after 52 minutes"
+      },
+      {
+        "x": 75,
+        "y": 1,
+        "label": "killed: 1 tweet after 75 minutes"
+      },
+      {
+        "x": 166,
+        "y": 1,
+        "label": "killed: 1 tweet after 166 minutes"
+      },
+      {
+        "x": 100,
+        "y": 1,
+        "label": "killed: 1 tweet after 100 minutes"
+      },
+      {
+        "x": 222,
+        "y": 1,
+        "label": "killed: 1 tweet after 222 minutes"
+      },
+      {
+        "x": 37,
+        "y": 1,
+        "label": "killed: 1 tweet after 37 minutes"
+      },
+      {
+        "x": 101,
+        "y": 1,
+        "label": "killed: 1 tweet after 101 minutes"
+      },
+      {
+        "x": 152,
+        "y": 1,
+        "label": "killed: 1 tweet after 152 minutes"
+      },
+      {
+        "x": 38,
+        "y": 1,
+        "label": "killed: 1 tweet after 38 minutes"
+      },
+      {
+        "x": 117,
+        "y": 1,
+        "label": "killed: 1 tweet after 117 minutes"
+      },
+      {
+        "x": 223,
+        "y": 1,
+        "label": "killed: 1 tweet after 223 minutes"
+      },
+      {
+        "x": 224,
+        "y": 1,
+        "label": "killed: 1 tweet after 224 minutes"
+      },
+      {
+        "x": 82,
+        "y": 1,
+        "label": "killed: 1 tweet after 82 minutes"
+      },
+      {
+        "x": 192,
+        "y": 1,
+        "label": "killed: 1 tweet after 192 minutes"
+      },
+      {
+        "x": 84,
+        "y": 1,
+        "label": "killed: 1 tweet after 84 minutes"
+      }
+    ]
+  },
+  {
+    "name": "collapsed",
+    "color": "rgba(9, 74, 185, .5)",
+    "data": [
+      {
+        "x": 86,
+        "y": 1,
+        "label": "collapsed: 1 tweet after 86 minutes"
+      },
+      {
+        "x": 44,
+        "y": 1,
+        "label": "collapsed: 1 tweet after 44 minutes"
+      },
+      {
+        "x": 45,
+        "y": 3,
+        "label": "collapsed: 3 tweet after 45 minutes"
+      },
+      {
+        "x": 162,
+        "y": 1,
+        "label": "collapsed: 1 tweet after 162 minutes"
+      },
+      {
+        "x": 68,
+        "y": 2,
+        "label": "collapsed: 2 tweet after 68 minutes"
+      },
+      {
+        "x": 88,
+        "y": 1,
+        "label": "collapsed: 1 tweet after 88 minutes"
+      },
+      {
+        "x": 196,
+        "y": 1,
+        "label": "collapsed: 1 tweet after 196 minutes"
+      },
+      {
+        "x": 215,
+        "y": 1,
+        "label": "collapsed: 1 tweet after 215 minutes"
+      },
+      {
+        "x": 128,
+        "y": 1,
+        "label": "collapsed: 1 tweet after 128 minutes"
+      },
+      {
+        "x": 145,
+        "y": 1,
+        "label": "collapsed: 1 tweet after 145 minutes"
+      },
+      {
+        "x": 229,
+        "y": 1,
+        "label": "collapsed: 1 tweet after 229 minutes"
+      },
+      {
+        "x": 219,
+        "y": 3,
+        "label": "collapsed: 3 tweet after 219 minutes"
+      },
+      {
+        "x": 131,
+        "y": 1,
+        "label": "collapsed: 1 tweet after 131 minutes"
+      },
+      {
+        "x": 221,
+        "y": 2,
+        "label": "collapsed: 2 tweet after 221 minutes"
+      },
+      {
+        "x": 36,
+        "y": 1,
+        "label": "collapsed: 1 tweet after 36 minutes"
+      },
+      {
+        "x": 222,
+        "y": 1,
+        "label": "collapsed: 1 tweet after 222 minutes"
+      },
+      {
+        "x": 37,
+        "y": 2,
+        "label": "collapsed: 2 tweet after 37 minutes"
+      },
+      {
+        "x": 135,
+        "y": 1,
+        "label": "collapsed: 1 tweet after 135 minutes"
+      },
+      {
+        "x": 39,
+        "y": 2,
+        "label": "collapsed: 2 tweet after 39 minutes"
+      },
+      {
+        "x": 223,
+        "y": 1,
+        "label": "collapsed: 1 tweet after 223 minutes"
+      },
+      {
+        "x": 40,
+        "y": 2,
+        "label": "collapsed: 2 tweet after 40 minutes"
+      },
+      {
+        "x": 41,
+        "y": 1,
+        "label": "collapsed: 1 tweet after 41 minutes"
+      },
+      {
+        "x": 157,
+        "y": 1,
+        "label": "collapsed: 1 tweet after 157 minutes"
+      },
+      {
+        "x": 57,
+        "y": 1,
+        "label": "collapsed: 1 tweet after 57 minutes"
+      },
+      {
+        "x": 58,
+        "y": 1,
+        "label": "collapsed: 1 tweet after 58 minutes"
+      },
+      {
+        "x": 228,
+        "y": 1,
+        "label": "collapsed: 1 tweet after 228 minutes"
+      }
+    ]
+  },
+  {
+    "name": "nuclear",
+    "color": "rgba(185, 44, 9, .5)",
+    "data": [
+      {
+        "x": -4,
+        "y": 1,
+        "label": "nuclear: 1 tweet before -4 minutes"
+      },
+      {
+        "x": 15,
+        "y": 1,
+        "label": "nuclear: 1 tweet after 15 minutes"
+      }
+    ]
+  },
+  {
+    "name": "landslide",
+    "color": "rgba(185, 9, 185, .5)",
+    "data": [
+      {
+        "x": 207,
+        "y": 1,
+        "label": "landslide: 1 tweet after 207 minutes"
+      }
+    ]
+  }
+]

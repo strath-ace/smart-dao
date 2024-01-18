@@ -11,8 +11,6 @@ With an increasing number of satellites in orbit consensus across a heterogeneou
 
 ## Setup and Run
 
-The complex setup is for users with pyenv installed
-
 ### Requirements
 
 - Linux Operating System (Some functions may work on Windows)
