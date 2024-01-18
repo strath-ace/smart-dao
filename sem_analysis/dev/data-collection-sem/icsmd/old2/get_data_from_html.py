@@ -1,3 +1,7 @@
+# ---------- Copyright (C) 2024 University of Strathclyde and Author ---------
+# ------------------------- Author: Robert Cowlishaw -------------------------
+# -------------- e-mail: robert.cowlishaw.2017@uni.strath.ac.uk --------------
+
 from bs4 import BeautifulSoup
 import os
 import json

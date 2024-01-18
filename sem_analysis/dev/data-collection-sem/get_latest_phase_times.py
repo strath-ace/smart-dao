@@ -1,6 +1,9 @@
+# ---------- Copyright (C) 2024 University of Strathclyde and Author ---------
+# ------------------------- Author: Robert Cowlishaw -------------------------
+# -------------- e-mail: robert.cowlishaw.2017@uni.strath.ac.uk --------------
+
 import os
 import json
-import os
 import json
 import time
 import datetime

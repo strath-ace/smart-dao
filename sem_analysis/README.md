@@ -14,7 +14,7 @@
 ##### (OPTION 1) Make new pyenv virtualenv with specific name
 Requirements: [pyenv](https://github.com/pyenv/pyenv)
 ```
-pyenv virtualenv 3.10 sem_analysis_venv
+pyenv virtualenv 3.10 venv_sem_analysis
 cd $THIS_REPO$
 pip install -r requirements.txt
 ```
