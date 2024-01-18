@@ -1,0 +1,3 @@
+smart_contracts/frontend/** linguist-vendored
+smart_contracts/solidity/test/* linguist-vendored
+orbit_consensus_propagation/dev/** linguist-vendored
