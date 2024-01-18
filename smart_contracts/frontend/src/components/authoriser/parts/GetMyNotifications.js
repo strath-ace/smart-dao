@@ -1,4 +1,6 @@
-//import React from "react";
+// ---------- Copyright (C) 2024 University of Strathclyde and Author ---------
+// ------------------------- Author: Robert Cowlishaw -------------------------
+// -------------- e-mail: robert.cowlishaw.2017@uni.strath.ac.uk --------------
 
 export function GetMyNotifications({notifications}) {
     if (notifications !== undefined) {
