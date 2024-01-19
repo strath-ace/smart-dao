@@ -5,20 +5,20 @@
 import numpy as np
 import matplotlib.pyplot as plt
 import os
-from py_lib.generic import *
+from commons import *
 
 ########################## PARAMATERS #########################
 
-OPEN_FILE = "run_f_big.npz"
+OPEN_FILE = "run_5597413_f.npz"
 
-SAVE_DIR = "data_icsmd_100day"
+SAVE_DIR = "data_icsmd_10day"
 
 ######################### BUILD/FIND DIRECTORIES FOR DATA #########################
 
 save_location = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "DATA", SAVE_DIR)
 if not os.path.exists(save_location):
     raise Exception("DATA FILE DOES NOT EXIST")
-opt_location = os.path.join(save_location, "moo")
+opt_location = os.path.join(save_location, "moo2")
 if not os.path.exists(opt_location):
     raise Exception("NO DATA EXISTS TO PLOT")
 opt_data = os.path.join(opt_location, "data")

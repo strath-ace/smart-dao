@@ -67,7 +67,7 @@ def reduce_sats(USED_SATS_FILE, SAVE_DIR):
     except:
         save_json(save_location+"/sorted_sats.json", all_sats)
     
-    return datetime.now().timestamp()
+    return round(datetime.now().timestamp())
 
 
 save_location = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..","DATA")

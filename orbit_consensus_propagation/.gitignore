@@ -6,5 +6,6 @@
 *.h
 
 venv
+*__pycache__
 
 DATA

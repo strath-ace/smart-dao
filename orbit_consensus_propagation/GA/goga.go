@@ -16,9 +16,11 @@ import (
 	"github.com/schollz/progressbar/v3"
 )
 
-const START_TIME = 1705065424
-const DATA_LOCATION = "../DATA/data_icsmd_1day_1sec"
-const BIG_DATA = DATA_LOCATION+"/close_times"
+const START_TIME = 1705065319
+const DATA_LOCATION = "../DATA/data_dupes"
+const BIG_DATA = DATA_LOCATION+"/item_0"
+
+const SAVE_FILE = DATA_LOCATION+"/ga_0.csv"
 
 func get_config() map[string][]float64 {
 	jsonFile, err := os.Open("config.json")
@@ -37,8 +39,8 @@ func get_config() map[string][]float64 {
 }
 
 
-func fitness(genetics []int, LAG_TIME int, DIS float64) (float64) {
-	_, check := consensus_time3(genetics, LAG_TIME, DIS)
+func fitness(genetics []int, LAG_TIME int) (float64) {
+	_, check := consensus_time3(genetics, LAG_TIME)
 	if check == 0 {
 		return -999999999999
 	} else {
@@ -57,9 +59,9 @@ func initial_pop(num_genes int, POP_SIZE int, MAX_GENE int) (pop [][]int) {
 	return pop
 }
 
-func get_fit(pop [][]int, LAG_TIME int, DIS float64) (fit_res []float64) {
+func get_fit(pop [][]int, LAG_TIME int) (fit_res []float64) {
 	for i:=0;i<len(pop);i++{
-		fit_res = append(fit_res, fitness(pop[i], LAG_TIME, DIS))
+		fit_res = append(fit_res, fitness(pop[i], LAG_TIME))
 	}
 	return fit_res
 }
@@ -98,8 +100,6 @@ func main() {
 
 	config_data := get_config()
 
-	var SAVE_FILE = DATA_LOCATION+"/ga_results.csv"
-
 	var MAX_GENE = int(config_data["MAX_GENE"][0])
 	var RANDOMNESS = config_data["RANDOMNESS"][0]
 	var POP_SIZE = int(config_data["POP_SIZE"][0])
@@ -112,7 +112,6 @@ func main() {
 
 	// Data for consensus fitness
 	// var STEP_SIZE = config_data["STEP_SIZE"][0]   // Just for visual
-	var DIS = config_data["DIS"][0]
 	var LAG_TIME = int(config_data["LAG_TIME"][0])
 
 	var best_pop_li [][]int
@@ -124,7 +123,7 @@ func main() {
 
 		num_genes := int(GENE_LENGTHS[u])
 		pop := initial_pop(num_genes, POP_SIZE, MAX_GENE)
-		fit_res := get_fit(pop, LAG_TIME, DIS)
+		fit_res := get_fit(pop, LAG_TIME)
 		best_res := fit_res[0]
 		best_best_pop := pop[0]
 		
@@ -133,7 +132,7 @@ func main() {
 			// Generate initial population
 			pop := initial_pop(num_genes, POP_SIZE, MAX_GENE)
 			// Get initial fitness
-			fit_res := get_fit(pop, LAG_TIME, DIS)
+			fit_res := get_fit(pop, LAG_TIME)
 
 			// Set initial top results
 			min_res := fit_res[0]
@@ -156,7 +155,7 @@ func main() {
 						}
 						pop[i] = genetics
 						// set = true
-						fit_res[i] = fitness(pop[i], LAG_TIME, DIS)
+						fit_res[i] = fitness(pop[i], LAG_TIME)
 					}
 				}
 				
@@ -177,7 +176,7 @@ func main() {
 
 				// Calculate fitness
 				pop = new_pop
-				fit_res = get_fit(pop, LAG_TIME, DIS)
+				fit_res = get_fit(pop, LAG_TIME)
 
 				// If better overall fitness found
 				if fit_res[0] > min_res && fit_res[0] != -1 {

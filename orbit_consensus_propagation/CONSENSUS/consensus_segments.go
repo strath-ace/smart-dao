@@ -161,7 +161,7 @@ func consensus_reply(t_local []int, sat_data_big [][][]int, num_sats int, primar
 // Find next valid connection in sat_data
 func find_next_conn(t_0 int, sat_data []int) int {
 	for t:=0;t<len(sat_data);t++{
-		if sat_data[t] > t_0 {
+		if sat_data[t] >= t_0 {
 			return sat_data[t]
 		}
 	}

@@ -13,7 +13,7 @@ from commons import *
 TIMESTEP = 30
 NUM_ITERATIONS = 2*1440
 
-SAVE_DIR = "data_icsmd_1day"
+SAVE_DIR = "data_all"
 
 DIS = 500
 
@@ -53,7 +53,7 @@ for order1, sat1 in enumerate(all_sats):
         sat1.compute(timestep)
         pos1.append(compute_pos(sat1.sublong, sat1.sublat, sat1.elevation))
     for order2, sat2 in enumerate(all_sats):
-        if order1 != order2:
+        if order1 != order2 and not os.path.isfile(big_data+"/"+str(order1)+"_"+str(order2)+".csv"):
             dis = []
             pos2 = []
             for i in iterations:
@@ -62,7 +62,7 @@ for order1, sat1 in enumerate(all_sats):
                 pos2.append(compute_pos(sat2.sublong, sat2.sublat, sat2.elevation))
             norm = np.sum(np.square(np.array(pos1)-np.array(pos2)), axis=1)
             # print(np.shape(norm))
-            csv_output(dis_data+"/"+str(order1)+"_"+str(order2)+".csv", [np.sqrt(norm)])
+            # csv_output(dis_data+"/"+str(order1)+"_"+str(order2)+".csv", [np.sqrt(norm)])
             exist = norm <= DIS*DIS
             # print(exist)
             output = iterations[exist]

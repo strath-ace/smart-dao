@@ -17,7 +17,7 @@ from pymoo.optimize import minimize
 
 import ctypes as ctypes
 import matplotlib.pyplot as plt
-import numpy as np
+import numpy as nps
 import json
 import os
 import time
@@ -30,7 +30,7 @@ from commons import *
 # Number of satellites to include
 n_var = 82
 # Max number of satellites in subset (Must be less than n_var)
-max_sat = 20
+max_sat = 82
 
 ##### OPTIMISER PARAMS #####
 # Size of the population for each generation
@@ -67,7 +67,7 @@ with open(this_location+"/config.yml", "w") as f:
     yaml.dump(config, f)
 
 
-opt_location = os.path.join(save_location, "moo")
+opt_location = os.path.join(save_location, "moo2")
 if not os.path.exists(opt_location):
     os.makedirs(opt_location)
 opt_data = os.path.join(opt_location, "data")
@@ -78,7 +78,6 @@ consensus_core = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", 
 if not os.path.exists(consensus_core):
     raise Exception("Consensus Core does not exist (../consensus/.)")
 
-START_TIME = load_json(save_location+"/dataset.json")["timestamp"]
 MAX_TIME = load_json(save_location+"/dataset.json")["max_time"]
 
 ######################### BUILD GO FUNCTIONS FOR CONSENSUS #########################
@@ -127,26 +126,26 @@ def convert_to_json(x):
 def fit1(x):
     out = conn1(json.dumps(convert_to_json(x)).encode('utf-8'))
     if out in [1,2,3,4]:
-        return MAX_TIME
-    return out-START_TIME
+        return 1
+    return (out-START_TIME)/MAX_TIME
 
 def fit2(x):
     out = conn2(json.dumps(convert_to_json(x)).encode('utf-8'))
     if out in [1,2,3,4]:
-        return MAX_TIME
-    return out-START_TIME
+        return 1
+    return (out-START_TIME)/MAX_TIME
 
 def fit3(x):
     out = conn3(json.dumps(convert_to_json(x)).encode('utf-8'))
     if out in [1,2,3,4]:
-        return MAX_TIME
-    return out-START_TIME
+        return 1
+    return (out-START_TIME)/MAX_TIME
 
 def fit4(x):
     out = conn4(json.dumps(convert_to_json(x)).encode('utf-8'))
     if out in [1,2,3,4]:
-        return MAX_TIME
-    return out-START_TIME
+        return 1
+    return (out-START_TIME)/MAX_TIME
 
 def completeness_abs(x):
     out = completer_abs(json.dumps(convert_to_json(x)).encode('utf-8'))
@@ -159,14 +158,15 @@ def completeness_per(x):
 ######################### OPTIMISATION STRATEGY #########################
 
 objs = [
-    lambda x: -completeness_per(x),
-    lambda x: fit4(x)/MAX_TIME,
+    # lambda x: -completeness_per(x),
+    lambda x: fit4(x),
     lambda x: -(np.sum(x))
 ]
 
 constr_ieq = [
     lambda x: 4 - np.sum(x),    # Make sure num satellites is >=  4
-    lambda x: np.sum(x) - max_sat    # Only calculate for num satellites up to 40 in subset
+    lambda x: np.sum(x) - max_sat,    # Only calculate for num satellites up to 40 in subset
+    lambda x: 1 - completeness_per(x)
 ]
 # num_sats >= 4
 # 0 >= 4 - num_sats
@@ -200,3 +200,8 @@ for i in range(len(res.history)):
 
 np.savez(opt_data+"/run_"+str(round(time.time()))[3:]+"_x", *output_X)    
 np.savez(opt_data+"/run_"+str(round(time.time()))[3:]+"_f", *output_F)
+
+try:
+    print("Result:", res.F[res.F[:,0] != MAX_TIME])
+except:
+    print("No results")

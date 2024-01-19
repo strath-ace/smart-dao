@@ -11,7 +11,7 @@ import (
    "strconv"
 )
 
-func consensus_time3(bin_li []int, LAG_TIME int, DIS float64) (bool, int) {
+func consensus_time3(bin_li []int, LAG_TIME int) (bool, int) {
 
 	// ################# Check input is okay
 
