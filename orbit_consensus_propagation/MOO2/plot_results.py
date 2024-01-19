@@ -9,7 +9,7 @@ from commons import *
 
 ########################## PARAMATERS #########################
 
-OPEN_FILE = "run_5681880_f.npz"
+OPEN_FILE = "run_5683238_f.npz"
 
 SAVE_DIR = "data_icsmd_10day"
 

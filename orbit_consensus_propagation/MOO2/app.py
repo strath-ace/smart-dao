@@ -17,7 +17,7 @@ from pymoo.optimize import minimize
 
 import ctypes as ctypes
 import matplotlib.pyplot as plt
-import numpy as nps
+import numpy as np
 import json
 import os
 import time
