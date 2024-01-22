@@ -16,9 +16,10 @@ import (
 	"github.com/schollz/progressbar/v3"
 )
 
-const START_TIME = 1705065319
-const DATA_LOCATION = "../DATA/data_dupes"
-const BIG_DATA = DATA_LOCATION+"/item_0"
+const START_TIME = 1705576078
+const DATA_LOCATION = "../DATA/data_icsmd_1day"
+const BIG_DATA = DATA_LOCATION+"/close_times"
+const MAX_TIME = 86400
 
 const SAVE_FILE = DATA_LOCATION+"/ga_0.csv"
 
@@ -40,11 +41,11 @@ func get_config() map[string][]float64 {
 
 
 func fitness(genetics []int, LAG_TIME int) (float64) {
-	_, check := consensus_time3(genetics, LAG_TIME)
-	if check == 0 {
-		return -999999999999
-	} else {
+	check := consensus_time3(genetics, LAG_TIME)
+	if check > 4 {
 		return -float64(check-START_TIME)
+	} else {
+		return -MAX_TIME
 	}
 }
 
@@ -96,6 +97,9 @@ func mate(genes1, genes2 []int, MAX_GENE int, RANDOMNESS float64) (child_genes [
 
 
 func main() {
+
+	var eval int
+	eval = 0
 	fmt.Println("-------------------")
 
 	config_data := get_config()
@@ -124,6 +128,7 @@ func main() {
 		num_genes := int(GENE_LENGTHS[u])
 		pop := initial_pop(num_genes, POP_SIZE, MAX_GENE)
 		fit_res := get_fit(pop, LAG_TIME)
+		eval += len(pop)
 		best_res := fit_res[0]
 		best_best_pop := pop[0]
 		
@@ -133,7 +138,7 @@ func main() {
 			pop := initial_pop(num_genes, POP_SIZE, MAX_GENE)
 			// Get initial fitness
 			fit_res := get_fit(pop, LAG_TIME)
-
+			eval += len(pop)
 			// Set initial top results
 			min_res := fit_res[0]
 			best_pop := pop[0]
@@ -148,7 +153,7 @@ func main() {
 				// set = false
 				for i:=0;i<len(pop);i++{
 					// for fit_res[i] == -1 {
-					if -fit_res[i] == -999999999999 {
+					if -fit_res[i] == -MAX_TIME {
 						var genetics []int
 						for i:=0;i<num_genes;i++{
 							genetics = append(genetics, rand.Intn(MAX_GENE+1))
@@ -156,6 +161,7 @@ func main() {
 						pop[i] = genetics
 						// set = true
 						fit_res[i] = fitness(pop[i], LAG_TIME)
+						eval += 1
 					}
 				}
 				
@@ -177,7 +183,7 @@ func main() {
 				// Calculate fitness
 				pop = new_pop
 				fit_res = get_fit(pop, LAG_TIME)
-
+				eval += len(pop)
 				// If better overall fitness found
 				if fit_res[0] > min_res && fit_res[0] != -1 {
 					best_pop = pop[0]
@@ -199,6 +205,7 @@ func main() {
 		best_res_li = append(best_res_li, best_res)
 	}
 	save_timelines(SAVE_FILE, GENE_LENGTHS, best_pop_li, best_res_li)
+	fmt.Println("Evaluations: ",eval)
 }
 
 

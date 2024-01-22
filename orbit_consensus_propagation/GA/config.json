@@ -1,7 +1,7 @@
 {
-    "MAX_GENE": [150],
+    "MAX_GENE": [81],
     "RANDOMNESS": [0.25],
-    "POP_SIZE": [1000],
+    "POP_SIZE": [400],
     "ITERATIONS": [100],
     "PAR_RATIO": [0.4],
     "ELITISM": [0.1],

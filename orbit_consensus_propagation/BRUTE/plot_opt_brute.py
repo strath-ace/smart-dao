@@ -7,7 +7,7 @@ import numpy as np
 import os
 from commons import *
 
-SAVE_DIR = "data_icsmd_1day"
+SAVE_DIR = "data_icsmd_10day"
 
 save_location = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "DATA", SAVE_DIR)
 if not os.path.exists(save_location):
@@ -40,16 +40,20 @@ fig, axs = plt.subplots(figsize=(10,15))
 max_val = 0
 min_val = 99999999999999999999
 for i in range(len(rest)):
-    this_arr = (np.array(rest[i])-START_TIME)/TIME_DIVIDER
-    violin = plt.violinplot(this_arr, [i+4], points=100, widths=0.8,
-        showmeans=False, showextrema=False, showmedians=False)
+    this_arr = (np.array(rest[i]))/TIME_DIVIDER
+    violin = plt.violinplot(this_arr, [i+4], points=1000, widths=0.8,
+        showmeans=True, showextrema=True, showmedians=False)
     if max_val < np.amax(this_arr):
         max_val = np.amax(this_arr)
     if min_val > np.amin(this_arr):
         min_val = np.amin(this_arr)
 
-print(min_val, "hrs => ", min_val*TIME_DIVIDER, "seconds")
-print(max_val, "hrs => ", max_val*TIME_DIVIDER, "seconds")
+for i in range(len(rest)):
+    this_arr = (np.array(rest[i]))/TIME_DIVIDER
+    print("##################")
+    print(i+4, "satellites")
+    print("MIN:", np.amin(this_arr), "hrs => ", np.amin(this_arr)*TIME_DIVIDER, "seconds")
+    # print("MAX:", np.amax(this_arr), "hrs => ", np.amax(this_arr)*TIME_DIVIDER, "seconds")
 
 plt.ylim([0, max_val*1.1])
 plt.ylabel("Consensus Time (Hours)")

@@ -9,9 +9,9 @@ from commons import *
 
 ########################## PARAMATERS #########################
 
-OPEN_FILE = "run_5683238_f.npz"
+OPEN_FILE = "run_5923795_f.npz"
 
-SAVE_DIR = "data_icsmd_10day"
+SAVE_DIR = "data_icsmd_1day"
 
 ######################### BUILD/FIND DIRECTORIES FOR DATA #########################
 
@@ -57,6 +57,11 @@ num_sats = []
 for i in range(int(np.amin(F[:,1])), int(np.amax(F[:,1]))+1):
     min_times.append(np.amin(F[F[:,1] == i][:,0]))
     num_sats.append(i)
+
+print("#################")
+for i in range(len(min_times)):
+    print(num_sats[i], min_times[i])
+print("#################")
 
 fig, ax1 = plt.subplots(figsize=(6,4))
 

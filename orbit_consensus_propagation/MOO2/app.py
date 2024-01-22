@@ -63,6 +63,7 @@ START_TIME = load_json(save_location+"/dataset.json")["timestamp"]
 # Update config file with start time
 config["START_TIME"] = round(START_TIME)
 
+# Comment these lines to run in parallel
 with open(this_location+"/config.yml", "w") as f:
     yaml.dump(config, f)
 

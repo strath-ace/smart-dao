@@ -1,0 +1,13 @@
+data
+venv
+
+*.npz
+*.npy
+
+sorted_sats.json
+
+GA_monte_carlo
+
+__pycache__
+
+*.pngs
