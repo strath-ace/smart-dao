@@ -11,7 +11,7 @@ from os.path import isfile, join
 
 ########################## PARAMATERS #########################
 
-SAVE_DIR = "data_icsmd_1day_v0"
+SAVE_DIR = "data_icsmd_10day"
 
 ######################### BUILD/FIND DIRECTORIES FOR DATA #########################
 

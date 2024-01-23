@@ -18,9 +18,9 @@ const LAG_TIME = 0
 
 const MAX_VAL = 82
 
-const START_TIME = 1705065251
+const START_TIME = 1705065319
 
-const DATA_FILE = "../DATA/data_icsmd_10day"
+const DATA_FILE = "../DATA/data_icsmd_10day_synced"
 
 const BIG_DATA = DATA_FILE+"/close_times"
 
@@ -39,21 +39,21 @@ type OutStuff struct {
 func main () {
 
    fmt.Println("Building initial combinations")
-   bar := progressbar.Default(int64(MAX_VAL*MAX_VAL*MAX_VAL*MAX_VAL))
+   bar := progressbar.Default(int64(MAX_VAL))
    // Generate first set
    var future_set [][]int
    for i1:=0;i1<MAX_VAL;i1++ {
       for i2:=0;i2<MAX_VAL;i2++ {
-         for i3:=0;i3<MAX_VAL;i3++ {
-            for i4:=0;i4<MAX_VAL;i4++ {
+         for i3:=i2+1;i3<MAX_VAL;i3++ {
+            for i4:=i3+1;i4<MAX_VAL;i4++ {
             	//if STARTING_SAT != i1 && STARTING_SAT != i2 && STARTING_SAT != i3 && i1 != i2 && i1 != i3 && i2 != i3 {
             	if i4 != i1 && i4 != i2 && i4 != i3 && i1 != i2 && i1 != i3 && i2 != i3 {
-               		future_set = append(future_set, []int{i1, i2, i3, i4})
-       		}
+                  future_set = append(future_set, []int{i1, i2, i3, i4})
+       		   }
             }
          }
       }  
-      bar.Add(MAX_VAL*MAX_VAL*MAX_VAL)
+      bar.Add(1)
    }
    fmt.Println(" ")
 

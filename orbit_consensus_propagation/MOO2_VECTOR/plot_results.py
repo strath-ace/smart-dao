@@ -9,9 +9,9 @@ from commons import *
 
 ########################## PARAMATERS #########################
 
-OPEN_FILE = "run_5923795_f.npz"
+OPEN_FILE = "run_6005774_f.npz"
 
-SAVE_DIR = "data_icsmd_1day"
+SAVE_DIR = "data_icsmd_1day_v0"
 
 ######################### BUILD/FIND DIRECTORIES FOR DATA #########################
 
