@@ -8,6 +8,7 @@ import (
    "C"
    "encoding/json"
    "unsafe"
+//    "fmt"
 )
 
 func main() {}
@@ -35,13 +36,15 @@ func consensus_combined_fit(documentPtr *C.char, out_fit_ptr *float64,  out_comp
 	var completeness_divider float64
 
 	for spl:=0;spl<len(bin_li);spl++{
-		
+
+		// fmt.Println(bin_li[spl])
+
 		completeness = 1
 
 		pass, t_local, num_sats, sat_data_big = get_initial(bin_li[spl])
 		if ! pass {
 			out_fit[spl] = 1
-			out_comp[spl] = float64(1)
+			out_comp[spl] = float64(0)
 			continue
 		}
 
@@ -52,6 +55,8 @@ func consensus_combined_fit(documentPtr *C.char, out_fit_ptr *float64,  out_comp
 		if ! pass {
 			out_fit[spl] = 1
 			out_comp[spl] = float64(completeness)/completeness_divider
+			// fmt.Println(completeness_divider)
+			// fmt.Println(float64(completeness)/completeness_divider)
 			continue
 		}
 		// Decision Lag
@@ -73,11 +78,13 @@ func consensus_combined_fit(documentPtr *C.char, out_fit_ptr *float64,  out_comp
 		pass, max_time, completeness = consensus_reply(t_local, sat_data_big, num_sats, primary, completeness)
 		if pass {
 			out_fit[spl] = float64(max_time)
-			out_comp[spl] = float64(10000)
+			out_comp[spl] = float64(1)
 		} else {
 			out_fit[spl] = 4
 			out_comp[spl] = float64(completeness)/completeness_divider
 		}
+
+		
 		
 	}
 }

@@ -15,6 +15,13 @@ from pymoo.operators.crossover.pntx import TwoPointCrossover
 from pymoo.operators.mutation.bitflip import BitflipMutation
 from pymoo.operators.sampling.rnd import BinaryRandomSampling
 from pymoo.optimize import minimize
+from pymoo.algorithms.soo.nonconvex.ga import GA
+from pymoo.core.problem import Problem
+from pymoo.operators.crossover.sbx import SBX
+from pymoo.operators.mutation.pm import PM
+from pymoo.operators.repair.rounding import RoundingRepair
+from pymoo.operators.sampling.rnd import IntegerRandomSampling
+from pymoo.optimize import minimize
 
 import ctypes as ctypes
 import matplotlib.pyplot as plt
@@ -40,7 +47,7 @@ cross_prob = 0.1
 # Probability of random mutation (0 - 1)
 mut_prob = 0.1
 
-NUM_TIMES = 30
+NUM_TIMES = 200
 
 NO_DISPLAY = True
 
@@ -118,12 +125,6 @@ counter_array = np.asanyarray(temp, dtype=int)
 
 ######################### CONSENSUS FUNCTION CALLS #########################
 
-def convert_to_json(x):
-    genetics = []
-    for y in x:
-        genetics.append(counter_array[y.astype(bool)].tolist())
-    return genetics
-
 def json_og(x):
     genetics = []
     for y in x:
@@ -133,12 +134,22 @@ def json_og(x):
     }
     return document
 
+# def json_2(x):
+#     genetics = []
+#     for y in x:
+#         genetics.append((y[y>0]-1).tolist())
+#     document = {
+#         "ids": genetics
+#     }
+#     return document
+
 def combined_stuff(x):
     out_fit = array('d', np.zeros(population_size))
     out_fit_ptr = (ctypes.c_double * len(out_fit)).from_buffer(out_fit)
     out_comp = array('d', np.zeros(population_size))
     out_comp_ptr = (ctypes.c_double * len(out_comp)).from_buffer(out_comp)
     combined_fit(json.dumps(json_og(x)).encode('utf-8'), out_fit_ptr, out_comp_ptr, len(out_fit))
+    # combined_fit(json.dumps(json_2(x)).encode('utf-8'), out_fit_ptr, out_comp_ptr, len(out_fit))
 
     stuff = np.array(list(out_fit))
     indx = stuff <= 4
@@ -146,71 +157,84 @@ def combined_stuff(x):
     stuff[indx] = 1
 
     stuff2 = np.array(list(out_comp))
+
     return stuff, stuff2
 
 ######################### OPTIMISATION STRATEGY #########################
 
 for STEPPER in range(NUM_TIMES):
-    try:
-        class MyProblem(Problem):
-            def __init__(self):
-                super().__init__(n_var=n_vars, n_obj=2, n_ieq_constr=2)
-                
-            def _evaluate(self, x, out):
-                fitness, completeness = combined_stuff(x)
-                summer = np.sum(x, axis=1)
-                f1 = fitness
-                f2 = -summer
-                c1 = 4 - summer
-                c2 = 1 - completeness
-                out["F"] = np.column_stack([f1, f2])
-                out["G"] = np.column_stack([c1, c2])
+    # try:
+    class MyProblem(Problem):
+        def __init__(self):
+            # super().__init__(n_var=n_vars, n_obj=2, n_ieq_constr=2, xl=0, xu=82, vtype=int)
+            super().__init__(n_var=n_vars, n_obj=2, n_ieq_constr=2)
+            
+        def _evaluate(self, x, out):
+            fitness, completeness = combined_stuff(x)
+            # summer = np.sum(x > 0, axis=1)
+            summer = np.sum(x, axis=1)
+            f1 = fitness
+            f2 = -summer
+            c1 = 4 - summer
+            c2 = 1 - completeness
+            out["F"] = np.column_stack([f1, f2])
+            out["G"] = np.column_stack([c1, c2])
 
-        problem = MyProblem()
+    problem = MyProblem()
 
-        algorithm = NSGA2(pop_size=population_size,
-                        sampling=BinaryRandomSampling(),
-                        crossover=TwoPointCrossover(prob=cross_prob),
-                        mutation=BitflipMutation(prob=mut_prob),
-                        eliminate_duplicates=True,
-                        save_history=all_display)
-
-        from pymoo.termination.ftol import MultiObjectiveSpaceTermination
-        from pymoo.termination.robust import RobustTermination
-
-
-        termination = RobustTermination(MultiObjectiveSpaceTermination(tol=0.0001, n_skip=50), period=20)
-
-        ticer2 = TicToc()
-        ticer2.tic()
-        res = minimize(problem,
-                    algorithm,
-                    termination,
-                    verbose=True,
+    algorithm = NSGA2(pop_size=population_size,
+                    sampling=BinaryRandomSampling(),
+                    crossover=TwoPointCrossover(prob=cross_prob),
+                    mutation=BitflipMutation(prob=mut_prob),
+                    eliminate_duplicates=True,
                     save_history=all_display)
-        print("FINAL TIME:")
-        ticer2.toc()
-        ######################### SAVE OUTPUT #########################
 
-        if NO_DISPLAY:
-            print("#####################")
-            print("RESULTS:")
-            for x in res.opt:
-                print(x.get("F"), "from", counter_array[x.get("X")])
-            np.savez(opt_data+"/"+str(round(time.time()))[3:], X=res.opt.get("X"), F=res.opt.get("F"))   
-        else:
-            output_X = []
-            output_F = []
-            for i in range(len(res.history)):
-                output_X.append(res.history[i].pop.get("X").tolist())
-                output_F.append(res.history[i].pop.get("F").tolist())
+    
 
-            np.savez(opt_data+"/run_"+str(round(time.time()))[3:]+"_x", *output_X)    
-            np.savez(opt_data+"/run_"+str(round(time.time()))[3:]+"_f", *output_F)
+    # algorithm = NSGA2(pop_size=population_size,
+    #                 sampling=IntegerRandomSampling(),
+    #                 crossover=SBX(prob=cross_prob, eta=3.0, vtype=float, repair=RoundingRepair()),
+    #                 mutation=PM(prob=mut_prob, eta=3.0, vtype=float, repair=RoundingRepair()),
+    #                 eliminate_duplicates=True,
+    #                 save_history=all_display)
+    
 
-            try:
-                print("Result:", res.F[res.F[:,0] != MAX_TIME])
-            except:
-                print("No results")
-    except:
-        pass
+    from pymoo.termination.ftol import MultiObjectiveSpaceTermination
+    from pymoo.termination.robust import RobustTermination
+
+
+    termination = RobustTermination(MultiObjectiveSpaceTermination(tol=0.0001, n_skip=50), period=20)
+
+    ticer2 = TicToc()
+    ticer2.tic()
+    res = minimize(problem,
+                algorithm,
+                termination,
+                verbose=True,
+                save_history=all_display)
+    print("FINAL TIME:")
+    ticer2.toc()
+    ######################### SAVE OUTPUT #########################
+
+    if NO_DISPLAY:
+        print("#####################")
+        print("RESULTS:")
+        for x in res.opt:
+            print(x.get("F"), "from", counter_array[x.get("X")])
+        np.savez(opt_data+"/"+str(round(time.time()))[3:], X=res.opt.get("X"), F=res.opt.get("F"))   
+    else:
+        output_X = []
+        output_F = []
+        for i in range(len(res.history)):
+            output_X.append(res.history[i].pop.get("X").tolist())
+            output_F.append(res.history[i].pop.get("F").tolist())
+
+        np.savez(opt_data+"/run_"+str(round(time.time()))[3:]+"_x", *output_X)    
+        np.savez(opt_data+"/run_"+str(round(time.time()))[3:]+"_f", *output_F)
+
+        try:
+            print("Result:", res.F[res.F[:,0] != MAX_TIME])
+        except:
+            print("No results")
+    # except:
+    #     pass
