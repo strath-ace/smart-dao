@@ -205,6 +205,9 @@ for STEPPER in range(NUM_TIMES):
 
     termination = RobustTermination(MultiObjectiveSpaceTermination(tol=0.0001, n_skip=50), period=20)
 
+    # 0.0001
+    # 50
+
     ticer2 = TicToc()
     ticer2.tic()
     res = minimize(problem,

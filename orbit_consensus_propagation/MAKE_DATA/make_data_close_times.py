@@ -11,9 +11,9 @@ from commons import *
 ######### INPUT PARAMS
 
 TIMESTEP = 30
-NUM_ITERATIONS = 2*1440*10
+NUM_ITERATIONS = 2*1440
 
-SAVE_DIR = "data_icsmd_10day_synced"
+SAVE_DIR = "data_icsmd_1day"
 
 DIS = 500
 
