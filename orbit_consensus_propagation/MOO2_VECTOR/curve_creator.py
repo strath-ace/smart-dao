@@ -66,8 +66,8 @@ for i in range(len(F[0])-1, 0, -1):
     
 fig, axs = plt.subplots(figsize=(10,10), tight_layout=True)
 
-for x in F:
-    plt.scatter(range(4,4+len(x)), x*MAX_TIME, c="black", alpha=0.2)
+for x in F[:100]:
+    plt.scatter(range(4,4+len(x)), x*MAX_TIME, c="black", alpha=0.1)
 
 mean = np.nanmean(F, axis=0)
 # plt.plot(range(4,4+len(mean)), mean, label="Average", c="green")
@@ -155,7 +155,7 @@ plt.plot(nF[:,0], nF[:,1], c="red")
 plt.scatter(nF[:,0], nF[:,1], c="red")
 
 all_metrics = []
-for i, x in enumerate(F2):
+for i, x in enumerate(F2[:100]):
     x2 = x[np.logical_not(np.isnan(x[:,1]))]
     # x2[:,0] = -x2[:,0]
     x2 = (x2 - approx_ideal) / (approx_nadir - approx_ideal)

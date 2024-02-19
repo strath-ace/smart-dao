@@ -54,10 +54,13 @@
     # param t1g1 = max (t1s121, t1s131, t1s141);      # This should be 2f+1 rather than max
 
     # Group 2
+    param t1s132 {j in 1..combs_num} = min {i in (t0s13[j]+ADD)..timestep_max} conns[c[j,3],c[j,2],i];
+    param t1s142 {j in 1..combs_num} = min {i in (t0s14[j]+ADD)..timestep_max} conns[c[j,4],c[j,2],i];
+    param t1g2 {j in 1..combs_num} = max (t0s12[j], t1s132[j], t1s142[j]);
     # param t0s12
-    param t1s132 = min {i in (t0s13[1]+ADD)..timestep_max} conns[3,2,i];
-    param t1s142 = min {i in (t0s14[1]+ADD)..timestep_max} conns[4,2,i];
-    param t1g2 = max (t0s12[1], t1s132, t1s142);     # This should be 2f+1 rather than max
+    #param t1s132 = min {i in (t0s13[1]+ADD)..timestep_max} conns[3,2,i];
+    #param t1s142 = min {i in (t0s14[1]+ADD)..timestep_max} conns[4,2,i];
+    #param t1g2 = max (t0s12[1], t1s132, t1s142);     # This should be 2f+1 rather than max
 
     # Group 3
     # param t0s13
@@ -74,7 +77,7 @@
     # ------------
 
     # Set 1
-    param t2s21 = min {i in (t1g2+ADD)..timestep_max} conns[2,1,i];
+    param t2s21 = min {i in (t1g2[1]+ADD)..timestep_max} conns[2,1,i];
     param t2s31 = min {i in (t1g3+ADD)..timestep_max} conns[3,1,i];
     param t2s41 = min {i in (t1g4+ADD)..timestep_max} conns[4,1,i];
 
@@ -85,12 +88,12 @@
 
     # Set 3
     param t2s13 = min {i in (t1g1[1]+ADD)..timestep_max} conns[1,3,i];
-    param t2s23 = min {i in (t1g2+ADD)..timestep_max} conns[2,3,i];
+    param t2s23 = min {i in (t1g2[1]+ADD)..timestep_max} conns[2,3,i];
     param t2s43 = min {i in (t1g4+ADD)..timestep_max} conns[4,3,i];
  
     # Set 4
     param t2s14 = min {i in (t1g1[1]+ADD)..timestep_max} conns[1,4,i];
-    param t2s24 = min {i in (t1g2+ADD)..timestep_max} conns[2,4,i];
+    param t2s24 = min {i in (t1g2[1]+ADD)..timestep_max} conns[2,4,i];
     param t2s34 = min {i in (t1g3+ADD)..timestep_max} conns[3,4,i];
     
     # ------------
@@ -111,7 +114,7 @@
     # -------------
 
     maximize Total_Cost:
-    sats[1] * consensus_time1234_1[1]
+    sats[1] * consensus_time1234_1[1] + sats[2] + sats[3] + sats[4] + sats[5] + sats[6]
     ;
 
     # -------------
@@ -124,8 +127,8 @@
     s.t. c5 {j in 1..combs_num}:  t1s131[j] + ADD <= timestep_max;
     s.t. c6 {j in 1..combs_num}:  t1s141[j] + ADD <= timestep_max;
     
-    s.t. c7:  t1s132 + ADD <= timestep_max;
-    s.t. c8:  t1s142 + ADD <= timestep_max;
+    s.t. c7 {j in 1..combs_num}:  t1s132[j] + ADD <= timestep_max;
+    s.t. c8 {j in 1..combs_num}:  t1s142[j] + ADD <= timestep_max;
     
     s.t. c9:  t1s123 + ADD <= timestep_max;
     s.t. c10:  t1s143 + ADD <= timestep_max;
@@ -156,6 +159,6 @@
     # ------------
 
 
-    # s.t. min_4_sats: sum {i in 1..sat_max} sats[i] >= 4;
+    s.t. min_4_sats: sum {i in 1..sat_max} sats[i] >= 4;
 
-    s.t. more_than_zero: consensus_time1234_1[1] >= 1;
+    s.t. more_than_zero: consensus_time1234_1[1] >= 4;
