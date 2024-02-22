@@ -5,15 +5,41 @@ from gurobipy import *
 import matplotlib.pyplot as plt
 import numpy as np
 from pytictoc import TicToc
+import os
 
 
 
 
 
-n = 82
+n = 10
 
 # Should be at least 4
 min_sat = 4
+
+
+
+
+
+T = np.load("./data/binary_1d.npy")
+
+T = np.array(T, dtype=int)
+# T[i,j,t]
+
+indx = np.argsort(np.argsort(np.sum(np.sum(T,axis=2), axis=0)))
+indx = indx[:n-4]
+
+indx = np.append([6,9,14,54],indx)
+
+T = np.load("./data/binary_10d.npy")
+T = np.array(T, dtype=int)
+
+T = T[indx][:,indx]
+
+for t in range(np.shape(T)[2]):
+    T[:,:,t][T[:,:,t] == 1] = t
+
+T[T == 0] = 999999
+
 
 
 
@@ -23,6 +49,7 @@ print(" ")
 
 # Create Clock
 ticcer = TicToc()
+
 
 ##################### Generate Decision Variable X #####################
 
@@ -124,6 +151,104 @@ ticcer.toc()
 
 ##################### TIME CONSTRAINTS #####################
 
+# T0 = np.empty(np.shape(T)).tolist()
+# for j in range(n):
+#     for i in range(n):
+#         for t in range(np.shape(T)[2]):
+#             print([i,j,t])
+#             T0[i][j][t] = m.addVar()
+#             bar1 = m.addVar()
+#             m.addGenConstrOr(bar1, [T0[i][j][t] == T[i,j,t],  T0[i][j][t] == 999999])
+#             m.addConstr(bar1 == 1)
+
+# Phase 1
+
+# t_list = []
+
+H1 = []
+for j in range(n):
+    temp = []
+    for i in range(n):
+        t_send = m.addVar()
+        t_required = m.addVar()
+        m.addGenConstrMin(t_send, T[i,j])
+        # t_list.append([i,j, t_send])
+        m.addConstr(t_required == t_send * X[i,j,0])
+        temp.append(t_required)
+
+    t_final = m.addVar()
+    m.addGenConstrMax(t_final, temp)
+    H1.append(t_final)
+H1 = np.array(H1)
+
+# Phase 2
+
+H2 = []
+for j in range(n):
+    temp = []
+    for i in range(n):
+        t_send = m.addVar()
+        t_required = m.addVar()
+
+        m.addConstr(t_send >= H1[i])
+        m.addGenConstrMin(t_send, T[i,j])  # I think this executes before solve starts
+        # t_list.append([i,j, t_send])
+        m.addConstr(t_required == t_send * X[i,j,1])
+
+        temp.append(t_required)
+
+    t_final = m.addVar()
+    m.addGenConstrMax(t_final, temp)
+    H2.append(t_final)
+H2 = np.array(H2)
+
+m.update()
+
+# t_list = np.array(t_list)
+# for t in range(len(t_list)):
+#     m.addGenConstrMin(t_list[t,2], T[t_list[t,0],t_list[t,1]])
+
+
+# Phase 3
+
+# H3 = []
+# for j in range(n):
+#     temp = []
+#     for i in range(n):
+#         new_var = m.addVar()
+#         step_var = m.addVar()
+
+#         m.addConstr(new_var >= H2[i])
+#         m.addGenConstrMin(new_var, T[i,j])
+#         m.addConstr(step_var == new_var * X[i,j,2])
+
+#         temp.append(step_var)
+#     h_var = m.addVar()
+#     m.addGenConstrMax(h_var, temp, 0)
+#     H3.append(h_var)
+# H3 = np.array(H3)
+
+# # Phase 4
+
+# H4 = []
+# for j in range(n):
+#     temp = []
+#     for i in range(n):
+#         new_var = m.addVar()
+#         step_var = m.addVar()
+#         m.addGenConstrMin(new_var, T[i,j])
+#         m.addConstr(step_var == new_var * X[i,j,3])
+#         m.addConstr(step_var >= H3[j]*X[i,j,3])
+#         temp.append(step_var)
+#     h_var = m.addVar()
+#     m.addGenConstrMax(h_var, temp, 0)
+#     H4.append(h_var)
+# H4 = np.array(H4)
+
+
+consensus_time = m.addVar()
+m.addGenConstrMax(consensus_time, H2, 0)
+
 ##################### OBJECTIVE AND SOLVE #####################
 
 print("######## Solving")
@@ -131,18 +256,35 @@ ticcer.tic()
 
 m.update()
 m.write("model.lp")
-m.setObjective(np.sum(X), GRB.MINIMIZE)
+m.setObjective(consensus_time, GRB.MINIMIZE)
 m.params.outputflag = 0
 # m.params.SolutionLimit = 1
 # m.params.SolFiles("test.sol")
 # m.params.Threads = 1
 # m.params.Method = 0
 m.params.MemLimit = 8
+m.params.NodefileStart = 0.1
+m.params.ResultFile = "results.sol"
+
+
 m.optimize()
 
 ticcer.toc()
 
 ##################### DISPLAY #####################
+
+obj = m.getObjective()
+print("H1")
+# for i in range(n):
+print(*[round(H1[i].getAttr("x")) for i in range(n)])
+print("H2")
+print(*[round(H2[i].getAttr("x")) for i in range(n)])
+
+print()
+print()
+print("Objective:", obj.getValue())
+print("Time:", obj.getValue()*30, "seconds")
+
 
 X_view = np.zeros((4,n,n), dtype=int)
 for i in range(n):
@@ -150,8 +292,13 @@ for i in range(n):
         for k in range(4):
             X_view[k,i,j] = X[i][j][k].getAttr("x")
 
+for i in range(np.shape(X_view)[1]):
+    if np.sum(X_view[0,i,:]) > 0:
+        print("Satellites Chosen:", i, *(np.arange(n)[X_view[0,i,:]==1]))
 
-print(X_view)
+print()
+print("Output X:")
+print(X_view[0])
 
 
 
