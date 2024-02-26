@@ -1,3 +1,7 @@
 venv
 *.png
 data
+*.npy
+
+results.sol
+model.lp
