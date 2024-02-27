@@ -11,7 +11,7 @@ import os
 
 
 
-n = 15
+n = 10
 
 # Should be at least 4
 min_sat = 4
@@ -25,7 +25,7 @@ T = np.load("./data/binary_1d.npy")
 T = np.array(T, dtype=int)
 # T[i,j,t]
 
-indx = np.argsort(np.argsort(np.sum(np.sum(T,axis=2), axis=0)))
+indx = np.argsort(np.sum(np.sum(T,axis=2), axis=0))
 indx = indx[:n-4]
 
 # 6,9,14,54 give 4050 secs

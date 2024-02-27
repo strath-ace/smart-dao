@@ -7,8 +7,16 @@ np.set_printoptions(threshold = np.inf)
 T = np.load("./binary.npy")
 T = np.array(T, dtype=int)
 
-sh = np.shape(T)
+# more_than_zero = np.sum(np.sum(T,axis=2), axis=0) > 0
 
+# T = T[more_than_zero][:,more_than_zero]
+
+indx1 = np.argsort(np.argsort(np.sum(np.sum(T,axis=2), axis=0)))
+print(np.sum(np.sum(T[indx1][:,indx1],axis=2), axis=0))
+
+
+sh = np.shape(T)
+print(sh)
 flat = []
 special = []
 c = 0
@@ -28,6 +36,15 @@ indx = np.argsort(np.sum(flat, axis=1))
 
 fig = plt.figure(figsize=(15,15), dpi=500)
 fig.tight_layout()
-plt.imshow(flat[indx,:c], interpolation='none', aspect='auto')
+plt.imshow(flat[:], interpolation='none', aspect='auto') # Replace : with indx to sort by density
 # plt.imshow(special[:,:200], interpolation='none', aspect='auto')
 plt.savefig("test.png")
+
+
+plt.clf()
+
+summer = np.sum(T, axis=2)
+fig = plt.figure(figsize=(15,15), dpi=500)
+fig.tight_layout()
+plt.imshow(np.log10(summer), interpolation='none', aspect='auto')
+plt.savefig("test2.png")
