@@ -22,7 +22,8 @@ ALL_DIRS = [["data_all", ""],
             ["data_icsmd_1day_v8", "icsmd_sats.txt"],
             ["data_icsmd_1day_v9", "icsmd_sats.txt"],
             ["data_icsmd_1day_1sec", "icsmd_sats.txt"], 
-            ["data_icsmd_10day", "icsmd_sats.txt"], 
+            ["data_icsmd_10day", "icsmd_sats.txt"],
+            ["data_orbital", "icsmd_sats.txt"],  
             ["data_icsmd_100day", "icsmd_sats.txt"]]
 
 

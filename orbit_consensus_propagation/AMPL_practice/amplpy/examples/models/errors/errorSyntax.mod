@@ -1,2 +1,0 @@
-param f;
-parram g;
