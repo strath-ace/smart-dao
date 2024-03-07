@@ -28,11 +28,6 @@ if not os.path.exists(save_location):
 sim_data = os.path.join(save_location, "sim")
 if not os.path.exists(sim_data):
     os.makedirs(sim_data)
-# sim_data = os.path.join(save_location, "simulated")
-# if not os.path.exists(sim_data):
-#     os.makedirs(sim_data)
-
-# data_real_sats = load_json(save_location+"/sorted_sats.json")
 
 iterations = np.linspace(START_TIME, START_TIME+(NUM_ITERATIONS*TIMESTEP), NUM_ITERATIONS)
 

@@ -24,13 +24,6 @@ if not os.path.exists(save_location):
 
 data_all_sats = load_json(save_location+"/sorted_sats.json")
 
-dataset = load_json(save_location+"/dataset.json")
-START_TIME = dataset["timestamp"]
-
-dataset.update({"max_time":TIMESTEP*NUM_ITERATIONS})
-
-save_json(save_location+"/dataset.json", dataset)
-
 iterations = np.round(np.linspace(START_TIME, START_TIME+(NUM_ITERATIONS*TIMESTEP), NUM_ITERATIONS))
 
 ######### GET POSITIONS OF SATELLITES IN DATASET
