@@ -6,4 +6,5 @@ data
 grbnodes0
 
 results.sol
-model.lp
+*.lp
+*.mps

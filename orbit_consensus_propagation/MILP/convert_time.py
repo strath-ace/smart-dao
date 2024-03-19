@@ -1,7 +1,8 @@
 import numpy as np
 from pytictoc import TicToc
 
-T = np.load("data/binary_1d.npy")[:,:,:1000]
+T = np.load("data/binary_1d.npy")[:,:,1:1001]
+# WIP CHANGED :1000 to 1:1001
 
 ticcer = TicToc()
 ticcer2 = TicToc()

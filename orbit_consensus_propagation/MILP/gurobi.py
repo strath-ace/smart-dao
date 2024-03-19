@@ -12,10 +12,10 @@ ticcer = TicToc()
 
 # subset_size = 
 
-spots = [6,9,14,54,12]
+spots = [6,9,14,54,12]#, 1,2,3,4,5,7,8,10,11,12,13]
 # spots = 10:20
 
-T = np.load("data/converted/big.npz")["t"]
+T = np.load("data/converted/big_og.npz")["t"]
 
 T = T[:,spots][:,:,spots]
 
@@ -41,8 +41,8 @@ for i in range(1,max_time+1):
         if j+i <= max_time:
             grid[j,j+i] = c
             c += 1
-        if c > 500500:
-            print(c)
+        else:
+            break
 print(c)
 # print(grid)
 # print(specific_perm[:1020])
@@ -75,27 +75,19 @@ m.addConstr(np.sum(prim) == 1)
 for i in ran(sh[1]):
     m.addConstr(prim[i] + y[i] <= 1)
 
-# Select based on y
-# for i in combs:
-    # m.addConstr(x[i[0],i[1],i[2]] <= prim[i[0]] + y[i[0]])
 
-# Only 1 per phase per satellite
+# Only 1 per phase per satellite except last phase where only primary has 1
 for i in ran(sh[1]):
-    for p in ran(4):
+    for p in ran(3):
         m.addConstr(np.sum(x[i,p,:]) == y[i]+prim[i])
+    m.addConstr(np.sum(x[i,3,:]) == prim[i])
 
-# The next phase change has to be in a later timestep
-# for i in ran(sh[1]):
-#     for p in ran(4-1):
-#         for t in ran(max_time):
-#             m.addConstr(np.sum(x[i,p,:t]) >= x[i,p+1,t])
-#     for t in ran(max_time):
-#         m.addConstr(x[i,0,t]+x[i,1,t]+x[i,2,t]+x[i,3,t] <= 1)
 
+# Change here if you dont want to communicate many on single timestep
 for i in ran(sh[1]):
     for p in ran(4):
-        for t in ran(1,max_time+1):
-            m.addConstr(x2[i,p,t-1] == np.sum(x[i,p,:t]))
+        for t in ran(max_time):
+            m.addConstr(x2[i,p,t] == np.sum(x[i,p,:t+1]))
 
 # ########################### Set Primary ###########################
 for s in ran(sh[1]):
@@ -104,17 +96,16 @@ for s in ran(sh[1]):
 # ########################### Phase 0 ###########################
 print("Start phase 0")
 ticcer.tic()
-ts = 0
-for t in ran(1,max_time):
-    ta = grid[ts,t]
+for t2 in ran(1,max_time): 
     for r in ran(sh[1]):
         adder = 0
         for s in ran(sh[1]):
             if s != r:
-                adder += prim[s]*T[ta,s,r]
-        m.addConstr(adder >= x[r,0,t]*y[r])
-
-ticcer.toc()
+                ta = grid[0,t2+1]
+                adder = T[ta,s,r]*prim[s]
+                # m.addConstr(x[r,0,t2]*prim[s] <= adder)     # Working
+                m.addConstr(x[r,0,t2] <= adder + (1-prim[s]))     # Tester
+ticcer.toc()                
                 
 # ########################### Phase 1 ###########################
 print("Start phase 1")
@@ -124,10 +115,11 @@ for t2 in ran(1,max_time):
         for s in ran(sh[1]):
             if s != r:
                 adder = 0
-                for t1 in ran(1,t2):
-                    ta = grid[t1,t2]
+                for t1 in ran(t2+1):
+                    ta = grid[t1,t2+1]
                     adder += T[ta,s,r]*x2[s,0,t1]
-                m.addConstr(x[r,1,t2]*y[s] <= adder)
+                # m.addConstr(x[r,1,t2]*y[s] <= adder)    # Working
+                m.addConstr(x[r,1,t2] <= adder + (1-y[s]))    # Tester
 ticcer.toc()                
 
 # ########################### Phase 2 ###########################
@@ -138,10 +130,11 @@ for t2 in ran(1,max_time):
         for s in ran(sh[1]):
             if s != r:
                 adder = 0
-                for t1 in ran(1,t2):
-                    ta = grid[t1,t2]
+                for t1 in ran(t2+1):
+                    ta = grid[t1,t2+1]
                     adder += T[ta,s,r]*x2[s,1,t1]
-                m.addConstr(x[r,2,t2]*(y[s]+prim[s]) <= adder)
+                # m.addConstr(x[r,2,t2]*(y[s]+prim[s]) <= adder)    # Working
+                m.addConstr(x[r,2,t2] <= adder + (1-(y[s]+prim[s])))    # Tester
 ticcer.toc()
 
 # ########################### Phase 3 ###########################
@@ -152,42 +145,46 @@ for t2 in ran(1,max_time):
         for s in ran(sh[1]):
             if s != r:
                 adder = 0
-                for t1 in ran(1,t2):
-                    ta = grid[t1,t2]
+                for t1 in ran(t2+1):
+                    ta = grid[t1,t2+1]
                     adder += T[ta,s,r]*x2[s,2,t1]
-                m.addConstr(x[r,3,t2]*y[s] <= adder)
+                # m.addConstr(x[r,3,t2]*y[s] <= adder)    # Working
+                m.addConstr(x[r,3,t2] <= adder+(1-y[s]))    # Tester
 ticcer.toc()
-
 
 
 
 # Correct people speak back
 for t in ran(max_time):
     for r in ran(sh[1]):
-        # Itself must be 1 in x2
+        # Must complete previous phase before finishing next
         m.addConstr(x2[r,0,t] >= x[r,1,t])
         m.addConstr(x2[r,1,t] >= x[r,2,t])
         m.addConstr(x2[r,2,t] >= x[r,3,t])
-        # Recieve from others must be 1 in x2
+        # The senders must have completed previous phase before sending
         for s in ran(sh[1]):
-            m.addConstr(x2[s,0,t] >= x[r,1,t]*y[s])
-            m.addConstr(x2[s,1,t] >= x[r,2,t]*(y[s]+prim[s]))
-            m.addConstr(x2[s,2,t] >= x[r,3,t]*y[s])
-                
+            # if s != r: # TESTER MIGHT REMOVE
+            m.addConstr(x2[s,0,t]+(1-y[s]) >= x[r,1,t])
+            m.addConstr(x2[s,1,t]+(1-(y[s]+prim[s])) >= x[r,2,t])
+            m.addConstr(x2[s,2,t]+(1-y[s]) >= x[r,3,t])
 
 
-outputs = np.empty(np.shape(x2)[1],dtype=object)
-for i in range(np.shape(x2)[1]):
-    outputs[i] = m.addVar(vtype=GRB.INTEGER)
-    m.addConstr(outputs[i] == np.sum(x2[i,3,:]*prim[i]))
+# ########################### Objective and Execute Solver ###########################
 
-
-consensus_time = m.addVar()
-m.addGenConstrMax(consensus_time, outputs.tolist())
-
-m.params.SolutionLimit = 1
-m.setObjective(consensus_time, GRB.MAXIMIZE)
+# outputs = np.empty(np.shape(x2)[1],dtype=object)
+# for i in range(np.shape(x2)[1]):
+#     outputs[i] = np.sum(x2[i,3,:])*prim[i]
+m.write("model.lp")
+# m.params.SolutionLimit = 1
+m.setObjective(np.sum(x2[:,3,:]), GRB.MAXIMIZE)
+m.params.Threads = 0
+ticcer.tic()
 m.optimize()
+print("##############")
+print("Optimiser Solved")
+ticcer.toc()
+
+# ########################### Return Outputs ###########################
 
 x_view = np.empty(np.shape(x), dtype=int)
 for i in combs:
@@ -205,23 +202,38 @@ prim_view = np.empty(np.shape(prim), dtype=int)
 for i in ran(len(prim_view)):
     prim_view[i] = prim[i].getAttr("x")
 
-obj = consensus_time.getAttr("x")
-print()
+obj = m.getObjective()
+obj = obj.getValue()
+
+# ########################### Display Outputs ###########################
+
+x_view = x_view.swapaxes(0,1)
+x2_view = x2_view.swapaxes(0,1)
+
+np.save("data/temp/x", x_view)
+np.save("data/temp/x2", x2_view)
+
 print("#############")
 print("Objective:", max_time-obj)
+
 print("#############")
 print("Primary \t", prim_view)
 print("Chosen sats \t", y_view)
 
-x_view = x_view.swapaxes(0,1)
-x2_view = x2_view.swapaxes(0,1)
+
 print("#############")
-# print("Phase", 0)
-# print(x_view[0,np.array(y_view+prim_view,dtype=bool),:])
-for i in range(0,4):
-    print("Phase", i)
-    print(x_view[i,:,:])
-    print(x2_view[i,:,:])
+print("Phase", 0)
+print(x_view[0,:,:])
+print(x2_view[0,:,:])
+print("Phase", 1)
+print(x_view[1,:,:])
+print(x2_view[1,:,:])
+print("Phase", 2)
+print(x_view[2,:,:])
+print(x2_view[2,:,:])
+print("Phase", 3)
+print(x_view[3,:,:])
+print(x2_view[3,:,:])
 
 print("#############")
 print("Summed together")
