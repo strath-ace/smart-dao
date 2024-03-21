@@ -1,7 +1,7 @@
 import numpy as np
 from pytictoc import TicToc
 
-T = np.load("data/binary_1d.npy")[:,:,1:1001]
+T = np.load("data/binary_1d.npy")[:,:,:400]
 # WIP CHANGED :1000 to 1:1001
 
 ticcer = TicToc()
@@ -21,5 +21,5 @@ for x in range(1,sh[2]+1):
     print(str(x)+"/"+str(sh[2]))
 ticcer.toc()
 print("Saving to file")
-np.savez_compressed("data/converted/big", t=all_data)
+np.savez_compressed("data/converted/big_400", t=all_data)
 print("Done")

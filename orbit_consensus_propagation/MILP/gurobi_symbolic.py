@@ -3,23 +3,27 @@ import matplotlib.pyplot as plt
 import numpy as np
 from pytictoc import TicToc
 import os
-from itertools import product
+from itertools import product as product_combs
 from numpy import arange as ran
 import sys
+from sympy import *
+
+init_printing(use_unicode=True)
+
 np.set_printoptions(edgeitems=15)
 
 ticcer = TicToc()
 
 # subset_size = 
 
-spots = [6,9,14,54, 1,2,3,4,5,7,8,10,11,12,13]
+spots = [6,9,14,54,12]#, 1,2,3,4,5,7,8,10,11,12,13]
 # spots = 10:20
 
-T = np.load("data/converted/big_400.npz")["t"]
+T = np.load("data/converted/big_og.npz")["t"]
 
-# T = T[:,spots][:,:,spots]
+T = T[:,spots][:,:,spots]
 
-T = np.array(T, dtype=int)
+T2 = np.array(T, dtype=int)
 # T = np.empty((1000,81,81), dtype=bool)
 
 num_sat = 4
@@ -28,8 +32,8 @@ num_sat = 4
 
 m = Model()
 
-sh = np.shape(T)
-max_time = 400
+sh = np.shape(T2)
+max_time = 1000
 print(sh)
 
 c = 0
@@ -44,13 +48,20 @@ for i in range(1,max_time+1):
         else:
             break
 print(c)
+
+
+T = np.empty((sh[0],sh[1],sh[2]),dtype=object)
+for t in range(sh[0]):
+    for s in range(sh[1]):
+        for r in range(sh[1]):
+            T[t,s,r] = m.addVar(vtype=GRB.BINARY)
+            m.addConstr(T[t,s,r] == T2[t,s,r])
+
 # print(grid)
 # print(specific_perm[:1020])
 
 
-
-
-combs = list(product(ran(sh[1]), ran(4), ran(max_time)))
+combs = list(product_combs(ran(sh[1]), ran(4), ran(max_time)))
 
 x = np.empty((sh[1], 4, max_time), dtype=object)
 for i in combs:
@@ -93,24 +104,40 @@ for i in ran(sh[1]):
 for s in ran(sh[1]):
     m.addConstr(prim[s] == x[s,0,0])
 
+m.update()
+
+# m.update()
+constr_list = []
+var_list = []
 # ########################### Phase 0 ###########################
 print("Start phase 0")
 ticcer.tic()
 for t2 in ran(1,max_time): 
     for r in ran(sh[1]):
+        adder = 0
         for s in ran(sh[1]):
             if s != r:
                 ta = grid[0,t2+1]
-                if T[ta,s,r]:
-                    # adder = prim[s]
-                    m.addConstr(x[r,0,t2] <= 1)
-                else:
-                    # adder = 0
-                    m.addConstr(x[r,0,t2] <= 1 - prim[s])
+                adder = T[ta,s,r]*prim[s]
                 # m.addConstr(x[r,0,t2]*prim[s] <= adder)     # Working
-                # m.addConstr(x[r,0,t2] <= adder + (1-prim[s]))     # Tester
+                # adder2 = symbols("T_"+str(ta)+"_"+str(s)+"_"+str(r)) * symbols("prim")
+                # print(adder2)
+                # constr_list.append(symbols("x") <= adder2 + (1 - symbols("prim")))
+                # var_list.append([r,0,t2,s])
+                # print(constr_list)
+                m.addConstr(x[r,0,t2] <= adder + (1-prim[s]))     # Tester
 ticcer.toc()                
-                
+
+# T_500499_4_3 = symbols("T_500499_4_3")
+# x_3_0_999 = symbols("x_3_0_999")
+# prim_4 = symbols("prim_4")
+# for i in range(len(constr_list)):
+    # constr_list[i] = constr_list[i].subs(T_500499_4_3, T[500499,4,3])
+    # print(str(constr_list[i].replace(x_3_0_999, x[3,0,999])))#, (prim_4, prim[4])])))
+
+
+
+
 # ########################### Phase 1 ###########################
 print("Start phase 1")
 ticcer.tic()
@@ -121,8 +148,7 @@ for t2 in ran(1,max_time):
                 adder = 0
                 for t1 in ran(t2+1):
                     ta = grid[t1,t2+1]
-                    if T[ta,s,r]:
-                        adder += x2[s,0,t1]
+                    adder += T[ta,s,r]*x2[s,0,t1]
                 # m.addConstr(x[r,1,t2]*y[s] <= adder)    # Working
                 m.addConstr(x[r,1,t2] <= adder + (1-y[s]))    # Tester
 ticcer.toc()                
@@ -137,8 +163,7 @@ for t2 in ran(1,max_time):
                 adder = 0
                 for t1 in ran(t2+1):
                     ta = grid[t1,t2+1]
-                    if T[ta,s,r]:
-                        adder += x2[s,1,t1]
+                    adder += T[ta,s,r]*x2[s,1,t1]
                 # m.addConstr(x[r,2,t2]*(y[s]+prim[s]) <= adder)    # Working
                 m.addConstr(x[r,2,t2] <= adder + (1-(y[s]+prim[s])))    # Tester
 ticcer.toc()
@@ -153,8 +178,7 @@ for t2 in ran(1,max_time):
                 adder = 0
                 for t1 in ran(t2+1):
                     ta = grid[t1,t2+1]
-                    if T[ta,s,r]:
-                        adder += x2[s,2,t1]
+                    adder += T[ta,s,r]*x2[s,2,t1]
                 # m.addConstr(x[r,3,t2]*y[s] <= adder)    # Working
                 m.addConstr(x[r,3,t2] <= adder+(1-y[s]))    # Tester
 ticcer.toc()
@@ -184,10 +208,7 @@ for t in ran(max_time):
 m.write("model.lp")
 # m.params.SolutionLimit = 1
 m.setObjective(np.sum(x2[:,3,:]), GRB.MAXIMIZE)
-m.params.Threads = 2
-m.params.Method = 1
-m.params.NodefileStart = 0.5
-m.params.PreSparsify = True
+m.params.Threads = 0
 ticcer.tic()
 m.optimize()
 print("##############")
@@ -250,8 +271,10 @@ print("Summed together")
 summed = (np.sum(np.array(np.sum(x_view, axis=2), dtype=bool), axis=0))
 print(summed)
 print("#############")
-print("None of these should be zero:", np.sum(T[:,np.array(y_view,dtype=bool),np.array(prim_view,dtype=bool)], axis=0))
+print("None of these should be zero:", np.sum(T[:1000,np.array(y_view,dtype=bool),np.array(prim_view,dtype=bool)], axis=0))
 print("#############")
 value = T[:400,np.array(y_view,dtype=bool),np.array(prim_view,dtype=bool)].tolist()
 # for i, val in enumerate(value):
 #     print(i, val)
+
+m.close()
