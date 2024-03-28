@@ -13,7 +13,7 @@ from commons import *
 TIMESTEP = 1
 NUM_ITERATIONS = 60*1440
 
-SAVE_DIR = "data_icsmd_1day_1sec"
+SAVE_DIR = "data_icsmd_1day"
 
 DIS = 500
 

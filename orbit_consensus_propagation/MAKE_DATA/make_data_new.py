@@ -66,17 +66,9 @@ for order1, sat1 in enumerate(all_sats[:10]):
                 sat2.compute(timestep)
                 pos2.append(compute_pos(sat2.sublong, sat2.sublat, sat2.elevation))
             norm = np.sum(np.square(np.array(pos1)-np.array(pos2)), axis=1)
-            # print(np.shape(norm))
-            # csv_output(dis_data+"/"+str(order1)+"_"+str(order2)+".csv", [np.sqrt(norm)])
             temp_d.append(norm)
             exist = norm <= DIS*DIS
-            # print(exist)
             output = iterations[exist]
-            # print(output)
-            # if len(output) == 0:
-            #     output = np.empty(len(iterations))
-            #     output[:] = np.nan
-            # else:
             nan_list = np.empty(len(iterations)-len(output))
             nan_list[:] = np.nan
             output = np.append(output, nan_list)

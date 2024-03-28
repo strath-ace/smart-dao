@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 from prettytable import PrettyTable
 
 
-max_display_time = 1000
+max_display_time = 400
 
 timestep = 30
 

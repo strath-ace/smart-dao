@@ -7,17 +7,42 @@ from itertools import product
 from numpy import arange as ran
 import sys
 np.set_printoptions(edgeitems=15)
+from commons import *
 
 ticcer = TicToc()
 
+
+SAVE_DIR = "data_icsmd_1day"
+how_many = 100
+TIMESTEP = 30
+NUM_ITERATIONS = 400
+
+save_location = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "DATA", SAVE_DIR)
+if not os.path.exists(save_location):
+    raise Exception("Sat Data not setup, run get_active_tle.py first")
+many_data = os.path.join(save_location, "many")
+if not os.path.exists(many_data):
+    os.makedirs(many_data)
+
+dataset = load_json(save_location+"/dataset.json")
+START_TIME = dataset["timestamp"]
+
+start_set = np.array(np.linspace(START_TIME, START_TIME+how_many*NUM_ITERATIONS*TIMESTEP, how_many), dtype=int)
+
+
+
+
 # subset_size = 
 
-spots = [6,9,14,54, 1,2,3,4,5,7,8,10,11,12,13]
+spots = [1,6,9,14]#,54, 1,2,3,4,5,7,8,10,11,12,13]
 # spots = 10:20
 
 T = np.load("data/converted/big_400.npz")["t"]
 
+T_sum = np.sum(T,axis=(0,1))
+
 # T = T[:,spots][:,:,spots]
+T = T[:,:30][:,:,:30]
 
 T = np.array(T, dtype=int)
 # T = np.empty((1000,81,81), dtype=bool)
@@ -255,3 +280,6 @@ print("#############")
 value = T[:400,np.array(y_view,dtype=bool),np.array(prim_view,dtype=bool)].tolist()
 # for i, val in enumerate(value):
 #     print(i, val)
+
+
+m.close()
