@@ -42,13 +42,20 @@ print(np.shape(big))
 
 summer = np.sum(big, axis=(0,2))
 
+
+
 indx = np.argsort(summer)
+
+names = names[indx]
+for i in range(len(names)):
+    names[len(names)-i-1] += " - "+str(i+1)
+
 fig, axs = plt.subplots(figsize=(7,15), dpi=400)
 fig.subplots_adjust(left=0.3)
 plt.barh(np.arange(len(summer)), summer[indx])
 plt.plot([0,pow(10,5)], [82-30.5,82-30.5], c="red", label="Top 30")
 
-plt.yticks(np.arange(len(summer)), names[indx])
+plt.yticks(np.arange(len(summer)), names)
 
 plt.xscale("log")
 plt.xlabel("Number of timesteps")
@@ -57,4 +64,4 @@ plt.legend(loc="lower right")
 plt.title("Number of timesteps where interactions occur")
 # plt.xlim([1, pow(10,5)])
 plt.savefig(save_location+"/set_pick.png")
-plt.savefig(save_location+"/set_pick.eps")
+plt.savefig(save_location+"/set_pick.pdf")
