@@ -11,6 +11,7 @@ import requests
 
 
 ALL_DIRS = [["data_all", ""], 
+            ["data_icsmd_1day", "icsmd_sats.txt"],
             ["data_icsmd_1day_v0", "icsmd_sats.txt"],
             ["data_icsmd_1day_v1", "icsmd_sats.txt"],
             ["data_icsmd_1day_v2", "icsmd_sats.txt"],

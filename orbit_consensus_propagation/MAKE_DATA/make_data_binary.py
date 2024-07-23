@@ -10,8 +10,8 @@ from commons import *
 
 ######### INPUT PARAMS
 
-TIMESTEP = 1
-NUM_ITERATIONS = 60*1440
+TIMESTEP = 30
+NUM_ITERATIONS = 2*1440
 
 SAVE_DIR = "data_icsmd_1day"
 
@@ -74,5 +74,7 @@ for order1, sat1 in enumerate(all_sats):
     print(100*order1/len(all_sats),"% done")
 
 bin_vals = np.array(bin_vals, dtype=bool)
+
+print(np.shape(bin_vals))
 
 np.save(save_location+"/binary", bin_vals)
