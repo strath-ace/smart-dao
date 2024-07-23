@@ -110,6 +110,8 @@ plt.plot([0,np.amax(summer)], [82-30.5,82-30.5], c="red", label="Top 30")
 
 plt.yticks(np.arange(len(summer)), np.flip(names))
 
+print(np.sum(summer[:30]/np.sum(summer)))
+
 plt.xscale("log")
 plt.xlabel("Number of timesteps")
 plt.ylabel("Satellite Name")
