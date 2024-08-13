@@ -1,0 +1,413 @@
+Région de Bruxelles-Capitale/Brussels Hoofdstedelijk Gewest,belgium
+Prov. Antwerpen,belgium
+Prov. Limburg (BE),belgium
+Prov. Oost-Vlaanderen,belgium
+Prov. Vlaams-Brabant,belgium
+Prov. West-Vlaanderen,belgium
+Prov. Brabant wallon,belgium
+Prov. Hainaut,belgium
+Prov. Liège,belgium
+Prov. Luxembourg (BE),belgium
+Prov. Namur,belgium
+Severozapaden,bulgaria
+Severen tsentralen,bulgaria
+Severoiztochen,bulgaria
+Yugoiztochen,bulgaria
+Yugozapaden,bulgaria
+Yuzhen tsentralen,bulgaria
+Praha,czechia
+Střední Čechy,czechia
+Jihozápad,czechia
+Severozápad,czechia
+Severovýchod,czechia
+Jihovýchod,czechia
+Střední Morava,czechia
+Moravskoslezsko,czechia
+Hovedstaden,denmark
+Sjælland,denmark
+Syddanmark,denmark
+Midtjylland,denmark
+Nordjylland,denmark
+Stuttgart,germany
+Karlsruhe,germany
+Freiburg,germany
+Tübingen,germany
+Oberbayern,germany
+Niederbayern,germany
+Oberpfalz,germany
+Oberfranken,germany
+Mittelfranken,germany
+Unterfranken,germany
+Schwaben,germany
+Berlin,germany
+Brandenburg,germany
+Bremen,germany
+Hamburg,germany
+Darmstadt,germany
+Gießen,germany
+Kassel,germany
+Mecklenburg-Vorpommern,germany
+Braunschweig,germany
+Hannover,germany
+Lüneburg,germany
+Weser-Ems,germany
+Düsseldorf,germany
+Köln,germany
+Münster,germany
+Detmold,germany
+Arnsberg,germany
+Koblenz,germany
+Trier,germany
+Rheinhessen-Pfalz,germany
+Saarland,germany
+Dresden,germany
+Chemnitz,germany
+Leipzig,germany
+Sachsen-Anhalt,germany
+Schleswig-Holstein,germany
+Thüringen,germany
+Eesti,estonia
+Northern and Western,ireland
+Southern,ireland
+Eastern and Midland,ireland
+"Border, Midland and Western (NUTS 2013)",ireland
+Southern and Eastern (NUTS 2013),ireland
+"Anatoliki Makedonia, Thraki (NUTS 2010)",greece
+Kentriki Makedonia (NUTS 2010),greece
+Dytiki Makedonia (NUTS 2010),greece
+Thessalia (NUTS 2010),greece
+Ipeiros (NUTS 2010),greece
+Ionia Nisia (NUTS 2010),greece
+Dytiki Ellada (NUTS 2010),greece
+Sterea Ellada (NUTS 2010),greece
+Peloponnisos (NUTS 2010),greece
+Attiki,greece
+Nisia Aigaiou,greece
+Voreio Aigaio,greece
+Notio Aigaio,greece
+Kriti,greece
+"Anatoliki Makedonia, Thraki",greece
+Kentriki Makedonia,greece
+Dytiki Makedonia,greece
+Ipeiros,greece
+Thessalia,greece
+Ionia Nisia,greece
+Dytiki Elláda,greece
+Sterea Elláda,greece
+Peloponnisos,greece
+Galicia,spain
+Principado de Asturias,spain
+Cantabria,spain
+País Vasco,spain
+Comunidad Foral de Navarra,spain
+La Rioja,spain
+Aragón,spain
+Comunidad de Madrid,spain
+Castilla y León,spain
+Castilla-La Mancha,spain
+Extremadura,spain
+Cataluña,spain
+Comunitat Valenciana,spain
+Illes Balears,spain
+Andalucía,spain
+Región de Murcia,spain
+Ciudad de Ceuta,spain
+Ciudad de Melilla,spain
+Canarias,spain
+Ile de France,france
+Centre — Val de Loire,france
+Bourgogne,france
+Franche-Comté,france
+Basse-Normandie,france
+Haute-Normandie,france
+Nord-Pas de Calais,france
+Picardie,france
+Alsace,france
+Champagne-Ardenne,france
+Lorraine,france
+Pays de la Loire,france
+Bretagne,france
+Aquitaine,france
+Limousin,france
+Poitou-Charentes,france
+Languedoc-Roussillon,france
+Midi-Pyrénées,france
+Auvergne,france
+Rhône-Alpes,france
+Provence-Alpes-Côte d’Azur,france
+Corse,france
+Guadeloupe,france
+Martinique,france
+Guyane,france
+La Réunion,france
+Mayotte,france
+Champagne-Ardenne (NUTS 2013),france
+Picardie (NUTS 2013),france
+Haute-Normandie (NUTS 2013),france
+Centre (FR) (NUTS 2013),france
+Basse-Normandie (NUTS 2013),france
+Bourgogne (NUTS 2013),france
+Nord-Pas-de-Calais (NUTS 2013),france
+Lorraine (NUTS 2013),france
+Alsace (NUTS 2013),france
+Franche-Comté (NUTS 2013),france
+Pays de la Loire (NUTS 2013),france
+Bretagne (NUTS 2013),france
+Poitou-Charentes (NUTS 2013),france
+Aquitaine (NUTS 2013),france
+Midi-Pyrénées (NUTS 2013),france
+Limousin (NUTS 2013),france
+Rhône-Alpes (NUTS 2013),france
+Auvergne (NUTS 2013),france
+Languedoc-Roussillon (NUTS 2013),france
+Provence-Alpes-Côte d'Azur (NUTS 2013),france
+Corse (NUTS 2013),france
+Guadeloupe (NUTS 2013),france
+Martinique (NUTS 2013),france
+Guyane (NUTS 2013),france
+La Réunion (NUTS 2013),france
+Mayotte (NUTS 2013),france
+Guadeloupe (NUTS 2010),france
+Martinique (NUTS 2010),france
+Guyane (NUTS 2010),france
+Réunion (NUTS 2010),france
+Panonska Hrvatska,croatia
+Jadranska Hrvatska,croatia
+Kontinentalna Hrvatska (NUTS 2016),croatia
+Grad Zagreb,croatia
+Sjeverna Hrvatska,croatia
+Sjeverozapadna Hrvatska (former statistical region),croatia
+Piemonte,italy
+Valle d’Aosta/Vallée d’Aoste,italy
+Liguria,italy
+Lombardia,italy
+Provincia Autonoma Bolzano/Bozen (NUTS 2006),italy
+Provincia Autonoma Trento (NUTS 2006),italy
+Veneto (NUTS 2006),italy
+Friuli-Venezia Giulia (NUTS 2006),italy
+Emilia-Romagna (NUTS 2006),italy
+Toscana (NUTS 2006),italy
+Umbria (NUTS 2006),italy
+Marche (NUTS 2006),italy
+Lazio (NUTS 2006),italy
+Abruzzo,italy
+Molise,italy
+Campania,italy
+Puglia,italy
+Basilicata,italy
+Calabria,italy
+Sicilia,italy
+Sardegna,italy
+Provincia Autonoma di Bolzano/Bozen,italy
+Provincia Autonoma di Trento,italy
+Veneto,italy
+Friuli-Venezia Giulia,italy
+Emilia-Romagna,italy
+Toscana,italy
+Umbria,italy
+Marche,italy
+Lazio,italy
+Kýpros,cyprus
+Latvija,latvia
+Sostinės regionas,lithuania
+Vidurio ir vakarų Lietuvos regionas,lithuania
+Luxembourg,luxembourg
+Budapest,hungary
+Pest,hungary
+Közép-Magyarország (NUTS 2013),hungary
+Közép-Dunántúl,hungary
+Nyugat-Dunántúl,hungary
+Dél-Dunántúl,hungary
+Észak-Magyarország,hungary
+Észak-Alföld,hungary
+Dél-Alföld,hungary
+Malta,matla
+Groningen,netherlands
+Friesland (NL),netherlands
+Drenthe,netherlands
+Overijssel,netherlands
+Gelderland,netherlands
+Flevoland,netherlands
+Utrecht (NUTS 2021),netherlands
+Noord-Holland,netherlands
+Zuid-Holland (NUTS 2021),netherlands
+Zeeland,netherlands
+Utrecht,netherlands
+Zuid-Holland,netherlands
+Noord-Brabant,netherlands
+Limburg (NL),netherlands
+Burgenland,austria
+Niederösterreich,austria
+Wien,austria
+Kärnten,austria
+Steiermark,austria
+Oberösterreich,austria
+Salzburg,austria
+Tirol,austria
+Vorarlberg,austria
+Lódzkie (NUTS 2013),poland
+Mazowieckie (NUTS 2013),poland
+Małopolskie,poland
+Śląskie,poland
+Lubelskie (NUTS 2013),poland
+Podkarpackie (NUTS 2013),poland
+Swietokrzyskie (NUTS 2013),poland
+Podlaskie (NUTS 2013),poland
+Wielkopolskie,poland
+Zachodniopomorskie,poland
+Lubuskie,poland
+Dolnośląskie,poland
+Opolskie,poland
+Kujawsko-pomorskie,poland
+Warmińsko-mazurskie,poland
+Pomorskie,poland
+Łódzkie,poland
+Świętokrzyskie,poland
+Lubelskie,poland
+Podkarpackie,poland
+Podlaskie,poland
+Warszawski stołeczny,poland
+Mazowiecki regionalny,poland
+Norte,portugal
+Algarve,portugal
+Centro (PT) (NUTS 2021),portugal
+Área Metropolitana de Lisboa (NUTS 2021),portugal
+Alentejo (NUTS 2021),portugal
+Centro (PT),portugal
+Grande Lisboa,portugal
+Península de Setúbal,portugal
+Alentejo,portugal
+Oeste e Vale do Tejo,portugal
+Região Autónoma dos Açores,portugal
+Região Autónoma da Madeira,portugal
+Nord-Vest,romania
+Centru,romania
+Nord-Est,romania
+Sud-Est,romania
+Sud-Muntenia,romania
+Bucureşti-Ilfov,romania
+Sud-Vest Oltenia,romania
+Vest,romania
+Vzhodna Slovenija,solvenia
+Vzhodna Slovenija (NUTS 2010),solvenia
+Zahodna Slovenija,solvenia
+Zahodna Slovenija (NUTS 2010),solvenia
+Bratislavský kraj,slovakia
+Západné Slovensko,slovakia
+Stredné Slovensko,slovakia
+Východné Slovensko,slovakia
+Itä-Suomi (NUTS 2006),finland
+Etelä-Suomi (NUTS 2006),finland
+Länsi-Suomi,finland
+Pohjois-Suomi (NUTS 2006),finland
+Helsinki-Uusimaa,finland
+Etelä-Suomi,finland
+Pohjois- ja Itä-Suomi,finland
+Åland,finland
+Stockholm,sweden
+Östra Mellansverige,sweden
+Småland med öarna,sweden
+Sydsverige,sweden
+Västsverige,sweden
+Norra Mellansverige,sweden
+Mellersta Norrland,sweden
+Övre Norrland,sweden
+Ísland,iceland
+Oslo og Akershus (statistical region 2016),norway
+Innlandet,norway
+Sør-Østlandet (statistical region 2016),norway
+Agder og Rogaland (statistical region 2016),norway
+Vestlandet (statistical region 2016),norway
+Trøndelag,norway
+Nord-Norge,norway
+Oslo og Viken,norway
+Agder og Sør-Østlandet,norway
+Vestlandet,norway
+Svalbard og Jan Mayen,norway
+Région lémanique,switzerland
+Espace Mittelland,switzerland
+Nordwestschweiz,switzerland
+Zürich,switzerland
+Ostschweiz,switzerland
+Zentralschweiz,switzerland
+Ticino,switzerland
+Tees Valley and Durham (NUTS 2021),united kingdom
+Northumberland and Tyne and Wear (NUTS 2021),united kingdom
+Cumbria (NUTS 2021),united kingdom
+Greater Manchester (NUTS 2021),united kingdom
+Lancashire (NUTS 2021),united kingdom
+Cheshire (NUTS 2021),united kingdom
+Merseyside (NUTS 2021),united kingdom
+East Yorkshire and Northern Lincolnshire (NUTS 2021),united kingdom
+North Yorkshire (NUTS 2021),united kingdom
+South Yorkshire (NUTS 2021),united kingdom
+West Yorkshire (NUTS 2021),united kingdom
+Derbyshire and Nottinghamshire (NUTS 2021),united kingdom
+"Leicestershire, Rutland and Northamptonshire (NUTS 2021)",united kingdom
+Lincolnshire (NUTS 2021),united kingdom
+"Herefordshire, Worcestershire and Warwickshire (NUTS 2021)",united kingdom
+Shropshire and Staffordshire (NUTS 2021),united kingdom
+West Midlands (NUTS 2021),united kingdom
+East Anglia (NUTS 2021),united kingdom
+Bedfordshire and Hertfordshire (NUTS 2021),united kingdom
+Essex (NUTS 2021),united kingdom
+Inner London (NUTS 2010),united kingdom
+Outer London (NUTS 2010),united kingdom
+Inner London - West (NUTS 2021),united kingdom
+Inner London - East (NUTS 2021),united kingdom
+Outer London - East and North East (NUTS 2021),united kingdom
+Outer London - South (NUTS 2021),united kingdom
+Outer London - West and North West (NUTS 2021),united kingdom
+"Berkshire, Buckinghamshire and Oxfordshire (NUTS 2021)",united kingdom
+"Surrey, East and West Sussex (NUTS 2021)",united kingdom
+Hampshire and Isle of Wight (NUTS 2021),united kingdom
+Kent (NUTS 2021),united kingdom
+"Gloucestershire, Wiltshire and Bristol/Bath area (NUTS 2021)",united kingdom
+Dorset and Somerset (NUTS 2021),united kingdom
+Cornwall and Isles of Scilly (NUTS 2021),united kingdom
+Devon (NUTS 2021),united kingdom
+West Wales and The Valleys (NUTS 2021),united kingdom
+East Wales (NUTS 2021),united kingdom
+Eastern Scotland (NUTS 2013),united kingdom
+South Western Scotland (NUTS 2013),united kingdom
+North Eastern Scotland (NUTS 2021),united kingdom
+Highlands and Islands (NUTS 2021),united kingdom
+Eastern Scotland (NUTS 2021),united kingdom
+West Central Scotland (NUTS 2021),united kingdom
+Southern Scotland (NUTS 2021),united kingdom
+Northern Ireland (UK) (NUTS 2021),united kingdom
+Crna Gora,montenegro
+Severna Makedonija,north macedonia
+Veri,albania
+Qender,albania
+Jug,albania
+Beogradski region,serbia
+Region Vojvodine,serbia
+Region Sumadije i Zapadne Srbije,serbia
+Region Juzne i Istocne Srbije,serbia
+İstanbul,türkiye
+"Tekirdağ, Edirne, Kırklareli",türkiye
+"Balıkesir, Çanakkale",türkiye
+İzmir,türkiye
+"Aydın, Denizli, Muğla",türkiye
+"Manisa, Afyonkarahisar, Kütahya, Uşak",türkiye
+"Bursa, Eskişehir, Bilecik",türkiye
+"Kocaeli, Sakarya, Düzce, Bolu, Yalova",türkiye
+Ankara,türkiye
+"Konya, Karaman",türkiye
+"Antalya, Isparta, Burdur",türkiye
+"Adana, Mersin",türkiye
+"Hatay, Kahramanmaraş, Osmaniye",türkiye
+"Kırıkkale, Aksaray, Niğde, Nevşehir, Kırşehir",türkiye
+"Kayseri, Sivas, Yozgat",türkiye
+"Zonguldak, Karabük, Bartın",türkiye
+"Kastamonu, Çankırı, Sinop",türkiye
+"Samsun, Tokat, Çorum, Amasya",türkiye
+"Trabzon, Ordu, Giresun, Rize, Artvin, Gümüşhane",türkiye
+"Erzurum, Erzincan, Bayburt",türkiye
+"Ağrı, Kars, Iğdır, Ardahan",türkiye
+"Malatya, Elazığ, Bingöl, Tunceli",türkiye
+"Van, Muş, Bitlis, Hakkari",türkiye
+"Gaziantep, Adıyaman, Kilis",türkiye
+"Şanlıurfa, Diyarbakır",türkiye
+"Mardin, Batman, Şırnak, Siirt",türkiye

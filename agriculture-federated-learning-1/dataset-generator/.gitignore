@@ -1,0 +1,7 @@
+__pycache__
+data
+perm_data
+extra
+dataset*
+*.zip
+process_output_.json

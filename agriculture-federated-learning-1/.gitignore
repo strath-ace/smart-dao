@@ -1,0 +1,16 @@
+__pycache__
+venv
+venv-plot
+
+data
+data-vm
+params.yml
+*.whl
+model/*.json
+*.log
+*.out
+model/model_save
+
+dataset-generator/dataset2
+dataset-generator/dataset3
+dataset-generator/data_backup

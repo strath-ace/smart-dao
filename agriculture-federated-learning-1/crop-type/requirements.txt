@@ -1,0 +1,8 @@
+datasets==2.19.2
+flwr==1.8.0
+flwr_datasets==0.1.0
+matplotlib==3.9.0
+numpy==1.26.4
+PyYAML==6.0.1
+torch==2.3.1
+torchvision==0.18.1

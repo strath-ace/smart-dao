@@ -1,0 +1,2 @@
+Differential Privacy is a mechanism to measure how private the data is
+DP-SGD is an algorithm to get a certain level of differential Privacy

@@ -1,0 +1,6 @@
+venv
+data
+data.zip
+cropped
+cropped_data.npy
+.ipynb_checkpoints

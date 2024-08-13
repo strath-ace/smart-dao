@@ -1,0 +1,323 @@
+!ls drive/MyDrive/ESA/data
+!mkdir data
+!cp drive/MyDrive/ESA/data/cropped.zip data
+!cp drive/MyDrive/ESA/data/cropped_data.npy .
+
+!unzip -q data/cropped.zip
+
+# Imports
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+
+import glob
+import random
+
+from PIL import Image
+import cv2
+
+import torch
+import torchvision
+from torchvision import transforms
+from torch.utils.data import DataLoader
+# %pip install -q shap
+# import shap
+from sklearn.metrics import mean_squared_error
+import os
+
+IMAGE_PATH = "cropped/"
+DATA_PATH = "cropped_data.npy"
+
+heights = np.array(np.load(DATA_PATH)[:,1],dtype=float)
+mean_height = np.mean(heights)
+std_height = np.std(heights)
+get_scaler = mean_height+ (2*std_height)
+print(get_scaler)
+
+#Load example image
+name = "c0_s1.tif"
+# x = int(name.split("_")[0])
+# y = int(name.split("_")[1])
+
+img = Image.open(IMAGE_PATH + name)
+img = np.array(img)
+# cv2.circle(img, (x, y), 8, (0, 255, 0), 3)
+
+plt.imshow(img)
+
+class ImageDataset(torch.utils.data.Dataset):
+    def __init__(self, paths, transform):
+
+        self.transform = transform
+        self.paths = paths[:,0]
+        self.avg_height = paths[:,1]
+
+    def __getitem__(self, idx):
+        """Get image and target (x, y) coordinates"""
+
+        # Read image
+        path = IMAGE_PATH+self.paths[idx]
+        image = cv2.imread(path, cv2.IMREAD_COLOR)
+        image = Image.fromarray(image)
+
+        # Transform image
+        image = self.transform(image)
+        avg_height_val = float(self.avg_height[idx])
+        avg_height_val = 2*(avg_height_val / get_scaler) - 1
+        target = [avg_height_val]
+        # Get target
+        # target = self.get_target(path)
+        target = torch.Tensor(target)
+
+        return image, target
+
+    def __len__(self):
+        return len(self.paths)
+
+TRANSFORMS = transforms.Compose([
+    # transforms.ColorJitter(0.2, 0.2, 0.2, 0.2),
+    transforms.Resize((512, 512)),
+    transforms.ToTensor()#,
+    # transforms.Normalize([0.485, 0.456, 0.406], [0.229, 0.224, 0.225])
+])
+
+# paths = glob.glob('data/room_1/room_1/*')
+dataset_path = np.load(DATA_PATH)
+dataset_path = dataset_path[heights <= get_scaler]
+
+# print(dataset_path)
+print(dataset_path)
+# Shuffle the paths
+random.shuffle(dataset_path)
+
+# Create a datasets for training and validation
+split = int(0.99 * len(dataset_path))
+train_data = ImageDataset(dataset_path[:split], TRANSFORMS)
+valid_data = ImageDataset(dataset_path[split:], TRANSFORMS)
+
+# Prepare data for Pytorch model
+train_loader = DataLoader(train_data, batch_size=8, shuffle=True)
+valid_loader = DataLoader(valid_data, batch_size=valid_data.__len__())
+
+%pip install -q opacus==1.4.1
+# %pip list
+
+output_dim = 1 # x, y
+device = torch.device('cuda') # or 'cuda' if you have a GPU
+
+# RESNET 18
+model = torchvision.models.resnet18(pretrained=True)
+model.fc = torch.nn.Linear(512, output_dim)
+
+from opacus.validators import ModuleValidator
+model = ModuleValidator.fix(model)
+ModuleValidator.validate(model, strict=False)
+
+model = model.to(device)
+
+optimizer = torch.optim.SGD(model.parameters(), lr=0.1)
+
+MAX_GRAD_NORM = 1.2
+EPSILON = 50.0
+DELTA = 1e-5
+EPOCHS = 20
+
+LR = 1e-3
+
+from opacus import PrivacyEngine
+from opacus.utils.batch_memory_manager import BatchMemoryManager
+
+privacy_engine = PrivacyEngine()
+
+model, optimizer, train_loader = privacy_engine.make_private_with_epsilon(
+    module=model.to(device),
+    optimizer=optimizer,
+    data_loader=train_loader,
+    epochs=EPOCHS,
+    target_epsilon=EPSILON,
+    target_delta=DELTA,
+    max_grad_norm=MAX_GRAD_NORM,
+)
+
+name = "model_opacus_e100_v0" # Change this to save a new model
+
+if not os.path.exists("models"):
+    os.makedirs("models")
+
+# Train the model
+min_loss = np.inf
+for epoch in range(100):
+    model.to("cuda")
+    model = model.train()
+    c = 0
+
+    with BatchMemoryManager(
+        data_loader=train_loader,
+        max_physical_batch_size=2,
+        # Try change 32 to 2 as this is the same as example
+        optimizer=optimizer
+    ) as memory_safe_data_loader:
+
+      for images, target in iter(memory_safe_data_loader):
+
+          images = images.to(device)
+          target = target.to(device)
+
+          # Zero gradients of parameters
+          optimizer.zero_grad()
+
+          # Execute model to get outputs
+          output = model(images)
+
+          # Calculate loss
+          loss = torch.nn.functional.mse_loss(output, target)
+
+          # Run backpropogation to accumulate gradients
+          loss.backward()
+
+          # Update model parameters
+          try:
+            optimizer.step()
+          except:
+            for i in model.named_parameters():
+              print(f"{i[0]} -> {i[1].device}")
+            raise Exception("Crash at normal spot")
+
+
+          if c % 20 == 0:
+              # print(c/len(train_loader))
+              epsilon = privacy_engine.get_epsilon(DELTA)
+              print(
+                  f"\tTrain Epoch: {epoch} \t"
+                  f"{c/len(train_loader):.4f} %"
+                  # f"Loss: {np.mean(loss):.6f} "
+                  # f"Acc@1: {np.mean(top1_acc) * 100:.6f} "
+                  f"(ε = {epsilon:.2f}, δ = {DELTA})"
+                )
+          c+= 1
+      # Calculate validation loss
+      model = model.eval()
+
+      images, target = next(iter(valid_loader))
+      images = images.to(device)
+      target = target.to(device)
+
+      output = model(images)
+      valid_loss = torch.nn.functional.mse_loss(output, target)
+
+      print("Epoch: {}, Validation Loss: {}".format(epoch, valid_loss.item()))
+
+      if valid_loss < min_loss:
+          print("Saving model")
+          torch.save(model, 'models/{}.pth'.format(name))
+
+          min_loss = valid_loss
+
+# Save Model
+!cp models/model_opacus_e100_v0.pth drive/MyDrive/ESA/data/models
+
+def model_evaluation(loaders,labels,save_path = None):
+
+    """Evaluate direction models with mse and scatter plots
+        loaders: list of data loaders
+        labels: list of labels for plot title"""
+
+    n = len(loaders)
+    fig, axs = plt.subplots(1, n, figsize=(7*n, 6))
+
+
+    # Evalution metrics
+    for i, loader in enumerate(loaders):
+        if len(loader) > 1:
+          for j, item in enumerate(loader):
+            # Load all data
+            # print(loader)
+            images, target = next(iter(loader))
+            images = images.to(device)
+            target = target.to(device)
+
+            output=model(images)
+
+            # Get x predictions
+            x_pred=output.detach().cpu().numpy()[:,0]
+            x_target=target.cpu().numpy()[:,0]
+
+            # Calculate MSE
+            mse = mean_squared_error(x_target, x_pred)
+
+            # Plot predcitons
+            axs[i].scatter(x_target,x_pred, c="blue")
+        else:
+          # Load all data
+            images, target = next(iter(loader))
+            images = images.to(device)
+            target = target.to(device)
+
+            output=model(images)
+
+            # Get x predictions
+            x_pred=output.detach().cpu().numpy()[:,0]
+            x_target=target.cpu().numpy()[:,0]
+
+            # Calculate MSE
+            mse = mean_squared_error(x_target, x_pred)
+
+            # Plot predcitons
+            axs[i].scatter(x_target,x_pred, c="blue")
+        axs[i].plot([-1, 1],
+                [-1, 1],
+                color='r',
+                linestyle='-',
+                linewidth=2)
+
+        axs[i].set_ylabel('Predicted x', size =15)
+        axs[i].set_xlabel('Actual x', size =15)
+        axs[i].set_title("{0} MSE: {1:.4f}".format(labels[i], mse),size = 18)
+
+    if save_path != None:
+        fig.savefig(save_path)
+
+if not os.path.exists("models"):
+    os.makedirs("models")
+    !cp drive/MyDrive/ESA/data/models/model_opacus_e100_v0.pth models
+
+# Load saved model
+model = torch.load('models/model_opacus_e100_v0.pth')
+model.eval()
+model.to(device)
+
+
+
+# Create new loader for all data
+# train_loader = DataLoader(train_data, batch_size=train_data.__len__())
+
+# Evaluate model on training and validation set
+loaders = [train_loader,valid_loader]
+labels = ["Train","Validation"]
+# loaders = [valid_loader,valid_loader]
+# labels = ["Validation", "Copy"]
+
+# Evaluate on training and validation set
+model_evaluation(loaders,labels,save_path="drive/MyDrive/ESA/data/models/model_opcaus_e100_v0.png")
+
+checker_number = 10
+
+checker_data = ImageDataset(dataset_path[:int(checker_number)], TRANSFORMS)
+checker_loader = DataLoader(checker_data, batch_size=checker_data.__len__())
+
+# Load all data
+images, target = next(iter(checker_loader))
+
+images = images.to(device)
+target = target.to(device)
+
+output=model(images)
+
+x_pred=output.detach().cpu().numpy()[:,0]
+x_target=target.cpu().numpy()[:,0]
+
+for i in range(len(x_pred)):
+  print("Actual:", x_target[i], "     Prediction:",x_pred[i])
+# print(x_pred, x_target)
+
+

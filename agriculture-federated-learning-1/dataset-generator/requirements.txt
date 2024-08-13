@@ -1,0 +1,15 @@
+basemap==1.4.1
+basemap_data==1.3.2
+basemap_data_hires==1.3.2
+geopandas==0.14.4
+matplotlib==3.8.4
+numpy==1.26.4
+Pillow==10.3.0
+PyYAML==6.0.1
+PyYAML==6.0.1
+rasterio==1.3.10
+rioxarray==0.15.5
+sentinelhub==3.10.2
+Shapely==2.0.4
+scikit-image
+xarray==0.21.1
