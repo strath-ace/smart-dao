@@ -44,7 +44,7 @@ n = 5 # (5,6)
 
 
 
-big = np.load(save_location+"/binary.npy")
+big = np.load(save_location+"/binary_1d.npy")
 
 print(np.shape(big))
 
