@@ -1,5 +1,5 @@
-NUM_CPU: 1      # Change to 10 for server
-NUM_GPU: 0.0    # Change to 0.1 for server
+NUM_CPU: 10      # Change to 10 for server
+NUM_GPU: 0.1    # Change to 0.1 for server
 
 # How many full runs of process
 TRAINING_ITERATIONS: 10
@@ -9,14 +9,14 @@ TARGET_NUM_CLIENTS: [2, 3, 4, 5, 10, 20, 30, 40, 50, 75, 100, 150, 200, 250, 300
 PARTITION_SCALER: 10
 
 # Aggregator
-AGR_fraction_fit: 0.1         # Sample 10% of available clients for training
-AGR_fraction_evaluate: 0.05   # Sample 5% of available clients for evaluation
+AGR_fraction_fit: 1.0         # Sample 10% of available clients for training
+AGR_fraction_evaluate: 1.0   # Sample 5% of available clients for evaluation
 AGR_min_available_clients: 2
 AGR_NUM_ROUNDS: 10            # Number of rounds of aggregations
 AGR_batch_size: 50            # Centralised Evaluation data loader batch size
 
 # Per client
-CL_epochs: 1                 # Number of local epochs done by clients
+CL_epochs: 5                 # Number of local epochs done by clients
 CL_batch_size: 10            # Batch size to use by clients during fit()
 CL_test_size: 0.1             # Test train split for each client
 CL_seed: 42                   # Random seed for each client
