@@ -1,0 +1,13 @@
+venv
+__pycache__
+*.png
+*.jpg
+
+
+
+##### Remove these after publish ######
+*.json
+fed_confusion
+fed_learning
+fed_results
+results

@@ -4,7 +4,7 @@
 
 Design and Implementation of Federated Learning for Crop Type and Yield Estimation.
 
-- Final results will be added when paper has been published, however all the code is currently viewable.
+- Final results will be added when paper has been published, however all the code is currently viewable (Remove details from `plot-review-work/.gitignore` and `results/.gitignore`.
 
 ### Current Ideas
 - Implementations with Pytorch
