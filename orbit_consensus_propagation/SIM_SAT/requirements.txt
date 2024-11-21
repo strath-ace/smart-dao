@@ -1,0 +1,7 @@
+matplotlib==3.9.2
+numpy==1.23.5
+python_dateutil==2.9.0.post0
+Requests==2.32.3
+sgp4==2.23
+skyfield==1.49
+tqdm==4.66.5
