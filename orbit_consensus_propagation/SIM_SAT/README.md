@@ -1,4 +1,4 @@
-# astropy
+# Simulating Satellites with Genetic Algorithms for On-orbit Consensus
 
 
 <img src="https://github.com/0x365/astropy/blob/main/perm_data/all.png" width="600" height="600"></img>
