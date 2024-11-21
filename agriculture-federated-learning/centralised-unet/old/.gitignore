@@ -3,3 +3,6 @@ data
 images
 model_save
 *.json
+
+__pycache__
+venv

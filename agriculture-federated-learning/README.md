@@ -2,11 +2,9 @@
 
 ## About
 
-Design and Implementation of Federated Learning for Crop Yield Estimation
+Design and Implementation of Federated Learning for Crop Type and Yield Estimation.
 
-## Notes
-
-- Average mnist initial dataset across random seeds?
+- Final results will be added when paper has been published, however all the code is currently viewable.
 
 ### Current Ideas
 - Implementations with Pytorch
@@ -34,49 +32,13 @@ Design and Implementation of Federated Learning for Crop Yield Estimation
 
 How centralised is data access and data generation. DIfferent scales of centralisation
 
-Does more centralised data owners prooduce better federated learning. How does decentalisation affect federation.
-
-#### Testing bandwidth on decentralised model
-
-How long does model propagation take with gossip protocol. How big is the model being distributed. Bandwidth requirements. Are there other protocols available.
-
-More information can be found in `./docs`.
+Does more centralised data owners prooduce better federated learning. How does decentalisation affect federation?
 
 ## Results
 
 ### Crop-Type
-<img src="https://github.com/0x365/esa-federated-learning/blob/main/results/crop_type_results.png" width="350" height="350"></img>
+<!-- <img src="https://github.com/0x365/esa-federated-learning/blob/main/results/crop_type_results.png" width="350" height="350"></img> -->
 <img src="https://github.com/0x365/esa-federated-learning/blob/main/results/movie.gif" width="350" height="350"></img>
-
-Test with Crop Type dataset
-```yaml
-UM_CPU: 10      # Change to 10 for server
-NUM_GPU: 0.1    # Change to 0.1 for server
-
-# How many full runs of process
-TRAINING_ITERATIONS: 10
-
-# Tests
-TARGET_NUM_CLIENTS: [2, 4, 8, 16, 32, 64, 128, 256]
-PARTITION_SCALER: 10
-
-# Aggregator
-AGR_fraction_fit: 1.0         # Sample 10% of available clients for training
-AGR_fraction_evaluate: 0.05   # Sample 5% of available clients for evaluation
-AGR_min_available_clients: 2
-AGR_NUM_ROUNDS: 20            # Number of rounds of aggregations
-AGR_batch_size: 50            # Centralised Evaluation data loader batch size
-
-# Per client
-CL_epochs: 10                 # Number of local epochs done by clients
-CL_batch_size: 10            # Batch size to use by clients during fit()
-CL_test_size: 0.1             # Test train split for each client
-CL_seed: 42                   # Random seed for each client
-
-# Learning
-LE_lr: 0.01                  # optimizer
-LE_momentum: 0.9             # optimizer
-```
 
 Crop Type UNET Model has 31,035,786 trainable parameters. This equates to approximately 118 MB (119MB in practice) if each is a float32 value at 4 bytes. Comparing this to the dataset2 file that it was trained on gives:
 ```python
@@ -194,31 +156,7 @@ class UNet(nn.Module):
 <img src="https://github.com/0x365/esa-federated-learning/blob/main/results/mnist_results.png" width="350" height="350"></img>
 <img src="https://github.com/0x365/esa-federated-learning/blob/main/results/mnist_non_iid_square_results.png" width="350" height="350"></img>
 Test with MNIST dataset comparing federation scale against accuracy after 10 rounds of aggregation. The size of the dataset remains constant. The parameters are given below:
-```yaml
-# How many full runs of process
-TRAINING_ITERATIONS: 10
 
-# Tests
-TARGET_NUM_CLIENTS: [2, 3, 4, 5, 10, 20, 30, 40, 50, 75, 100, 150, 200, 250, 300]
-PARTITION_SCALER: 10
-
-# Aggregator
-AGR_fraction_fit: 0.1         # Sample 10% of available clients for training
-AGR_fraction_evaluate: 0.05   # Sample 5% of available clients for evaluation
-AGR_min_available_clients: 2
-AGR_NUM_ROUNDS: 10            # Number of rounds of aggregations
-AGR_batch_size: 50            # Centralised Evaluation data loader batch size
-
-# Per client
-CL_epochs: 1                 # Number of local epochs done by clients
-CL_batch_size: 10            # Batch size to use by clients during fit()
-CL_test_size: 0.1             # Test train split for each client
-CL_seed: 42                   # Random seed for each client
-
-# Learning
-LE_lr: 0.01                  # optimizer
-LE_momentum: 0.9             # optimizer
-```
 
 MNIST model
 ```python

@@ -8,8 +8,7 @@ import ephem
 import numpy as np
 import math
 from datetime import datetime
-from py_lib.generic import *
-from py_lib.get_less_sats import reduce_sats
+from commons import *
 
 ######### INPUT PARAMS
 
@@ -20,19 +19,16 @@ config = load_json(os.path.join(os.path.dirname(os.path.abspath(__file__)), "con
 TIMESTEP = config["STEP_SIZE"][0]
 NUM_ITERATIONS = config["NUM_ITERATIONS"][0]
 
-SAVE_DIR = "data_mixed"
+SAVE_DIR = "data_test"
 
 ######### LOAD DATASETS
 
 save_location = os.path.join(os.path.dirname(os.path.abspath(__file__)), SAVE_DIR)
 if not os.path.exists(save_location):
-    os.makedirs(save_location)
-big_data = os.path.join(save_location, "big")
-if not os.path.exists(big_data):
-    os.makedirs(big_data)
-sim_data = os.path.join(save_location, "simulated")
-if not os.path.exists(sim_data):
-    os.makedirs(sim_data)
+    raise Exception(SAVE_DIR+" doesnt exist")
+real_data = os.path.join(save_location, "real_sats")
+if not os.path.exists(real_data):
+    os.makedirs(real_data)
 
 data_all_sats = load_json(save_location+"/sorted_sats.json")
 
@@ -56,7 +52,7 @@ for order, sat in enumerate(all_sats):
                 pos.append(compute_pos(sat.sublong, sat.sublat, sat.elevation))
 
             # SAVE POS in FILE
-            csv_output(big_data+"/"+str(order)+".csv", pos)
+            csv_output(real_data+"/"+str(order)+".csv", pos)
             print(100*order/len(all_sats),"% done - created", sat)
         except:
             pass

@@ -4,7 +4,7 @@
 
 import matplotlib.pyplot as plt
 import csv
-from py_lib.generic import *
+from commons import *
 import os
 import numpy as np
 
@@ -17,8 +17,8 @@ import seaborn as sns              # v 0.11.0
 # rng = np.random.default_rng(seed=123)  # random number generator
 # df = pd.DataFrame(dict(variable = rng.normal(size=1000)))
 
-file_names = ["data_all", "data_icsmd"]
-name_names = ["All", "ICSMD"]
+file_names = ["data_test"]
+name_names = ["ICSMD"]
 special = [0, -1]
 
 dis_li = ["10 km", "50 km","100 km","500 km","1000 km"]

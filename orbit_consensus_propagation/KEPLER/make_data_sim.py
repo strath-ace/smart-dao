@@ -8,8 +8,8 @@ import ephem
 import numpy as np
 import math
 from datetime import datetime
-from py_lib.generic import *
-from py_lib.get_less_sats import reduce_sats
+from commons import *
+
 
 ######### INPUT PARAMS
 
@@ -20,17 +20,14 @@ config = load_json(os.path.join(os.path.dirname(os.path.abspath(__file__)), "con
 TIMESTEP = config["STEP_SIZE"][0]
 NUM_ITERATIONS = config["NUM_ITERATIONS"][0]
 
-SAVE_DIR = "data_mixed"
+SAVE_DIR = "data_test"
 
 ######### LOAD DATASETS
 
 save_location = os.path.join(os.path.dirname(os.path.abspath(__file__)), SAVE_DIR)
 if not os.path.exists(save_location):
-    os.makedirs(save_location)
-big_data = os.path.join(save_location, "big")
-if not os.path.exists(big_data):
-    os.makedirs(big_data)
-sim_data = os.path.join(save_location, "simulated")
+    raise Exception(SAVE_DIR+" doesnt exist")
+sim_data = os.path.join(save_location, "sim_sats")
 if not os.path.exists(sim_data):
     os.makedirs(sim_data)
 

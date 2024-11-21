@@ -8,15 +8,14 @@ import ephem
 import numpy as np
 import math
 from datetime import datetime
-from py_lib.generic import *
-from py_lib.get_less_sats import reduce_sats
+from commons import *
 from pytictoc import TicToc
 
-import blz
-# this stores the array in memory
-blz.barray(myarray) 
-# this stores the array on disk
-blz.barray(myarray, rootdir='arrays') 
+# import blz
+# # this stores the array in memory
+# blz.barray(myarray) 
+# # this stores the array on disk
+# blz.barray(myarray, rootdir='arrays') 
 
 
 ######### INPUT PARAMS
@@ -28,11 +27,11 @@ config = load_json(os.path.join(os.path.dirname(os.path.abspath(__file__)), "con
 TIMESTEP = config["STEP_SIZE"][0]
 NUM_ITERATIONS = config["NUM_ITERATIONS"][0]
 
-SAVE_DIR = "data_tester"
+SAVE_DIR = "data_test"
 
 STACK_SIZE = 400
 
-DIS = 1000*1000
+DIS = 500*500
 
 ######### LOAD DATASETS
 

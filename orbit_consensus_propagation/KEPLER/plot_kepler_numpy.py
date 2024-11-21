@@ -8,8 +8,7 @@ import ephem
 import numpy as np
 import math
 from datetime import datetime
-from py_lib.generic import *
-from py_lib.get_less_sats import reduce_sats
+from commons import *
 import matplotlib
 import matplotlib.pyplot as plt
 import matplotlib.tri as tri

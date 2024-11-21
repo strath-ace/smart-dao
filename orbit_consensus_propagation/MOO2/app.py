@@ -30,13 +30,13 @@ from commons import *
 # Number of satellites to include
 n_var = 82
 # Max number of satellites in subset (Must be less than n_var)
-max_sat = 82
+max_sat = 40
 
 ##### OPTIMISER PARAMS #####
 # Size of the population for each generation
-population_size = 400
+population_size = 100
 # Number of generations of population to optimise across
-num_gens = 400
+num_gens = 100
 # Probability of Crossover (0 - 1)
 cross_prob = 0.1
 # Probability of random mutation (0 - 1)
